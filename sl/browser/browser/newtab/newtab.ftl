@@ -876,6 +876,9 @@ newtab-custom-close-menu-button =
     .title = Zapri
 newtab-custom-close-button = Zapri
 newtab-custom-settings = Več nastavitev
+
+## New Tab Appearance (browser theme picker)
+
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = Videz
 # Button that opens the full browser theme selection view.

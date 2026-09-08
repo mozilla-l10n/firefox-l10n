@@ -30,14 +30,14 @@ cfr-doorhanger-extension-author = 由 { $name } 开发
 cfr-doorhanger-extension-notification = 推荐
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = 推荐
-    .tooltiptext = 推荐扩展
     .a11y-announcement = 有推荐扩展可用
+    .tooltiptext = 推荐扩展
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = 推荐
-    .tooltiptext = 推荐功能
     .a11y-announcement = 有推荐功能可用
+    .tooltiptext = 推荐功能
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -360,8 +360,8 @@ root-certificate-windows-background-notification-update-button = 更新 { -brand
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =
-    .title = 关闭
     .aria-label = 关闭
+    .title = 关闭
 fxa-menu-message-sign-up-button = 注册
 fxa-menu-message-sign-in-button = 登录
 fxa-menu-message-sync-button = 开始同步

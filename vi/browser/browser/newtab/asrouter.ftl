@@ -30,14 +30,14 @@ cfr-doorhanger-extension-author = bởi { $name }
 cfr-doorhanger-extension-notification = Đề xuất
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Đề xuất
-    .tooltiptext = Tiện ích được đề xuất
     .a11y-announcement = Tiện ích được đề xuất có sẵn
+    .tooltiptext = Tiện ích được đề xuất
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Đề xuất
-    .tooltiptext = Tính năng được đề xuất
     .a11y-announcement = Tính năng được đề xuất có sẵn
+    .tooltiptext = Tính năng được đề xuất
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -360,8 +360,8 @@ root-certificate-windows-background-notification-update-button = Cập nhật { 
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =
-    .title = Đóng
     .aria-label = Đóng
+    .title = Đóng
 fxa-menu-message-sign-up-button = Đăng ký
 fxa-menu-message-sign-in-button = Đăng nhập
 fxa-menu-message-sync-button = Bắt đầu đồng bộ hóa

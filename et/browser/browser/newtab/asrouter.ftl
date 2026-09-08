@@ -30,14 +30,14 @@ cfr-doorhanger-extension-author = { $name }
 cfr-doorhanger-extension-notification = Soovitus
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Soovitus
-    .tooltiptext = Laienduse soovitus
     .a11y-announcement = Laienduse soovitus on saadaval
+    .tooltiptext = Laienduse soovitus
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Soovitus
-    .tooltiptext = Funktsionaalsuse soovitus
     .a11y-announcement = Funktsionaalsuse soovitus on saadaval
+    .tooltiptext = Funktsionaalsuse soovitus
 
 ## Add-on statistics
 ## These strings are used to display the total number of

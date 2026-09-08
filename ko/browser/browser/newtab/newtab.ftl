@@ -868,6 +868,9 @@ newtab-custom-close-menu-button =
     .title = 닫기
 newtab-custom-close-button = 닫기
 newtab-custom-settings = 추가 설정
+
+## New Tab Appearance (browser theme picker)
+
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = 모양
 # Button that opens the full browser theme selection view.
@@ -920,10 +923,6 @@ newtab-wallpaper-dark-mountain = 산 풍경
 newtab-wallpaper-dark-city = 보라색 도시 풍경
 newtab-wallpaper-dark-fox-anniversary = 숲 근처 포장도로에 있는 여우
 newtab-wallpaper-light-fox-anniversary = 안개가 자욱한 산 풍경이 있는 풀밭에 있는 여우
-# Goes back from a wallpaper category to the Customize panel. Shown as an
-# arrow with no text, so this is read by screen readers only.
-newtab-wallpaper-category-back =
-    .aria-label = 사용자 지정으로 돌아가기
 
 ## "Your images" is the folder of wallpapers someone has saved. A saved wallpaper
 ## can be a file they uploaded, a Picture of the Day they chose to keep, or a

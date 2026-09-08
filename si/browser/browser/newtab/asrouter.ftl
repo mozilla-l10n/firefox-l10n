@@ -30,14 +30,14 @@ cfr-doorhanger-extension-author = කර්තෘ: { $name }
 cfr-doorhanger-extension-notification = නිර්දේශය
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = නිර්දේශය
-    .tooltiptext = නිර්දේශිත දිගු
     .a11y-announcement = නිර්දේශිත දිගු තිබේ
+    .tooltiptext = නිර්දේශිත දිගු
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = නිර්දේශ
-    .tooltiptext = නිර්දේශිත විශේෂාංග
     .a11y-announcement = නිර්දේශිත විශේෂාංග තිබේ
+    .tooltiptext = නිර්දේශිත විශේෂාංග
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -270,6 +270,6 @@ root-certificate-succession-infobar-primary-button =
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =
-    .title = වසන්න
     .aria-label = වසන්න
+    .title = වසන්න
 fxa-menu-message-mobile-primary-text = ඔබගේ දුරකථනයට පටිති යවන්න

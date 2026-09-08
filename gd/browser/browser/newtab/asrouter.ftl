@@ -30,14 +30,14 @@ cfr-doorhanger-extension-author = le { $name }
 cfr-doorhanger-extension-notification = Moladh
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Moladh
-    .tooltiptext = Leudachan a mholamaid
     .a11y-announcement = Tha moladh leudachain ann
+    .tooltiptext = Leudachan a mholamaid
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Moladh
-    .tooltiptext = Gleus a mholamaid
     .a11y-announcement = Tha moladh gleus ann
+    .tooltiptext = Gleus a mholamaid
 
 ## Add-on statistics
 ## These strings are used to display the total number of

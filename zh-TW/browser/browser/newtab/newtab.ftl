@@ -870,6 +870,9 @@ newtab-custom-close-menu-button =
     .title = 關閉
 newtab-custom-close-button = 關閉
 newtab-custom-settings = 管理更多設定
+
+## New Tab Appearance (browser theme picker)
+
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = 外觀設定
 # Button that opens the full browser theme selection view.
@@ -922,10 +925,6 @@ newtab-wallpaper-dark-mountain = 山景
 newtab-wallpaper-dark-city = 紫色城市風景
 newtab-wallpaper-dark-fox-anniversary = 一隻在森林附近人行道上的狐狸
 newtab-wallpaper-light-fox-anniversary = 一隻在迷霧山景中的草原上的狐狸
-# Goes back from a wallpaper category to the Customize panel. Shown as an
-# arrow with no text, so this is read by screen readers only.
-newtab-wallpaper-category-back =
-    .aria-label = 回到自訂面板
 
 ## "Your images" is the folder of wallpapers someone has saved. A saved wallpaper
 ## can be a file they uploaded, a Picture of the Day they chose to keep, or a

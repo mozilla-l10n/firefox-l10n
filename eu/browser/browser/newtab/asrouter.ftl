@@ -30,14 +30,14 @@ cfr-doorhanger-extension-author = egilea: { $name }
 cfr-doorhanger-extension-notification = Gomendioa
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Gomendioa
-    .tooltiptext = Hedapenaren gomendioa
     .a11y-announcement = Hedapenaren gomendioa erabilgarri dago
+    .tooltiptext = Hedapenaren gomendioa
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Gomendioa
-    .tooltiptext = Eginbidearen gomendioa
     .a11y-announcement = Eginbidearen gomendioa erabilgarri dago
+    .tooltiptext = Eginbidearen gomendioa
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -362,8 +362,8 @@ root-certificate-windows-background-notification-update-button = Eguneratu { -br
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =
-    .title = Itxi
     .aria-label = Itxi
+    .title = Itxi
 fxa-menu-message-sign-up-button = Eman izena
 fxa-menu-message-sign-in-button = Hasi saioa
 fxa-menu-message-sync-button = Hasi sinkronizatzen

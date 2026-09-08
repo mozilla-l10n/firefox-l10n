@@ -30,14 +30,14 @@ cfr-doorhanger-extension-author = Autor: { $name }
 cfr-doorhanger-extension-notification = Polecenie
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Polecenie
-    .tooltiptext = Polecenie rozszerzenia
     .a11y-announcement = Dostępne polecenie rozszerzenia
+    .tooltiptext = Polecenie rozszerzenia
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Polecenie
-    .tooltiptext = Polecenie funkcji
     .a11y-announcement = Dostępne polecenie funkcji
+    .tooltiptext = Polecenie funkcji
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -66,7 +66,7 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = Synchronizuj zakładki na każdym urządzeniu.
-cfr-doorhanger-bookmark-fxa-body = Wspaniałe odkrycie! Fajnie byłoby mieć tę zakładkę także na telefonie, prawda? Zacznij korzystać z { -fxaccount-brand-name(case: "gen", capitalization: "lower") }.
+cfr-doorhanger-bookmark-fxa-body = Wspaniałe odkrycie! Fajnie byłoby mieć tę zakładkę także na telefonie, prawda? Zacznij korzystać z { -fxaccount-brand-name(capitalization: "lower", case: "gen") }.
 cfr-doorhanger-bookmark-fxa-body-2 = Wspaniałe odkrycie! Fajnie byłoby mieć tę zakładkę także na telefonie, prawda? Zacznij korzystać z konta.
 cfr-doorhanger-bookmark-fxa-link-text = Synchronizuj zakładki…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
@@ -188,11 +188,11 @@ firefoxview-cfr-primarybutton = Wypróbuj
 firefoxview-cfr-secondarybutton = Nie teraz
     .accesskey = N
 firefoxview-cfr-header-v2 = Szybko kontynuuj od tego samego miejsca
-firefoxview-cfr-body-v2 = Odzyskaj ostatnio zamknięte karty i płynnie przechodź z urządzenia na urządzenie za pomocą { -firefoxview-brand-name(case: "gen", capitalization: "lower") }
+firefoxview-cfr-body-v2 = Odzyskaj ostatnio zamknięte karty i płynnie przechodź z urządzenia na urządzenie za pomocą { -firefoxview-brand-name(capitalization: "lower", case: "gen") }
 
 ## Firefox View Spotlight
 
-firefoxview-spotlight-promo-title = Poznaj { -firefoxview-brand-name(case: "acc", capitalization: "lower") }
+firefoxview-spotlight-promo-title = Poznaj { -firefoxview-brand-name(capitalization: "lower", case: "acc") }
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = Potrzebujesz karty otwartej na telefonie? Otwórz ją tutaj. Chcesz wrócić do zamkniętej przed chwilą strony? { -firefoxview-brand-name } już ją ma.
 firefoxview-spotlight-promo-primarybutton = Zobacz, jak to działa
@@ -368,8 +368,8 @@ root-certificate-windows-background-notification-update-button = Zaktualizuj { -
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =
-    .title = Zamknij
     .aria-label = Zamknij
+    .title = Zamknij
 fxa-menu-message-sign-up-button = Utwórz konto
 fxa-menu-message-sign-in-button = Zaloguj się
 fxa-menu-message-sync-button = Zacznij synchronizować

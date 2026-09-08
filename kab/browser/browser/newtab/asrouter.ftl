@@ -30,14 +30,14 @@ cfr-doorhanger-extension-author = S { $name }
 cfr-doorhanger-extension-notification = Awelleh
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Iwellihen
-    .tooltiptext = Iseɣzaf ihulen
     .a11y-announcement = Iseɣzaf ihulen i yellan
+    .tooltiptext = Iseɣzaf ihulen
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Iwellihen
-    .tooltiptext = Timahaltin ihulen
     .a11y-announcement = Timahaltin ihulen i yellan
+    .tooltiptext = Timahaltin ihulen
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -297,8 +297,8 @@ root-certificate-windows-background-notification-update-button = Leqqem { -brand
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =
-    .title = Mdel
     .aria-label = Mdel
+    .title = Mdel
 fxa-menu-message-sign-up-button = Jerred
 fxa-menu-message-sign-in-button = Kcem
 fxa-menu-message-sync-button = Bdu amtawi

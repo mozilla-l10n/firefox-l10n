@@ -30,14 +30,14 @@ cfr-doorhanger-extension-author = od vývojára { $name }
 cfr-doorhanger-extension-notification = Odporúčanie
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Odporúčanie
-    .tooltiptext = Odporúčanie rozšírenia
     .a11y-announcement = K dispozícii je odporúčané rozšírenie
+    .tooltiptext = Odporúčanie rozšírenia
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Odporúčanie
-    .tooltiptext = Odporúčaná funkcia
     .a11y-announcement = Je k dispozícii odporúčaná funkcia
+    .tooltiptext = Odporúčaná funkcia
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -366,8 +366,8 @@ root-certificate-windows-background-notification-update-button = Aktualizovať {
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =
-    .title = Zavrieť
     .aria-label = Zavrieť
+    .title = Zavrieť
 fxa-menu-message-sign-up-button = Zaregistrujte sa
 fxa-menu-message-sign-in-button = Prihlásiť sa
 fxa-menu-message-sync-button = Spustiť synchronizáciu

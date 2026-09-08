@@ -30,14 +30,14 @@ cfr-doorhanger-extension-author = baɗɗo { $name }
 cfr-doorhanger-extension-notification = Wasiya
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Wasiya
-    .tooltiptext = Wagginoore timmitere
     .a11y-announcement = Wagginoore timmitere ina heɓoo
+    .tooltiptext = Wagginoore timmitere
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Wagginoore
-    .tooltiptext = Wagginoore fannu
     .a11y-announcement = Wagginoore fannu ina heɓoo
+    .tooltiptext = Wagginoore fannu
 
 ## Add-on statistics
 ## These strings are used to display the total number of

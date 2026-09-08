@@ -862,6 +862,9 @@ newtab-custom-close-menu-button =
     .title = Đóng
 newtab-custom-close-button = Đóng
 newtab-custom-settings = Quản lý các cài đặt khác
+
+## New Tab Appearance (browser theme picker)
+
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = Diện mạo
 # Button that opens the full browser theme selection view.

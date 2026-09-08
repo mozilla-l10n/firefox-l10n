@@ -900,6 +900,9 @@ newtab-custom-close-menu-button =
     .title = Κλείσιμο
 newtab-custom-close-button = Κλείσιμο
 newtab-custom-settings = Διαχείριση περισσότερων ρυθμίσεων
+
+## New Tab Appearance (browser theme picker)
+
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = Εμφάνιση
 # Button that opens the full browser theme selection view.
@@ -952,10 +955,6 @@ newtab-wallpaper-dark-mountain = Ορεινό τοπίο
 newtab-wallpaper-dark-city = Μοβ αστικό τοπίο
 newtab-wallpaper-dark-fox-anniversary = Μια αλεπού στο πεζοδρόμιο κοντά σε ένα δάσος
 newtab-wallpaper-light-fox-anniversary = Μια αλεπού μέσα σε γρασίδι, με ένα ομιχλώδες ορεινό τοπίο
-# Goes back from a wallpaper category to the Customize panel. Shown as an
-# arrow with no text, so this is read by screen readers only.
-newtab-wallpaper-category-back =
-    .aria-label = Πίσω στην Προσαρμογή
 
 ## "Your images" is the folder of wallpapers someone has saved. A saved wallpaper
 ## can be a file they uploaded, a Picture of the Day they chose to keep, or a

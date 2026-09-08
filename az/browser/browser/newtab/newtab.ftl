@@ -317,6 +317,9 @@ newtab-custom-widget-section-toggle =
 newtab-widget-manage-title = Vicetlər
 newtab-widget-manage-widget-button =
     .label = Vicetləri idarə et
+
+## New Tab Appearance (browser theme picker)
+
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = Görünüş
 # Button that opens the full browser theme selection view.

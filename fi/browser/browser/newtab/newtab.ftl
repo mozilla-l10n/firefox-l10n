@@ -904,6 +904,9 @@ newtab-custom-close-menu-button =
     .title = Sulje
 newtab-custom-close-button = Sulje
 newtab-custom-settings = Muokkaa lisää asetuksia
+
+## New Tab Appearance (browser theme picker)
+
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = Ulkoasu
 # Button that opens the full browser theme selection view.
@@ -956,10 +959,6 @@ newtab-wallpaper-dark-mountain = Vuorimaisema
 newtab-wallpaper-dark-city = Purppura kaupunkimaisema
 newtab-wallpaper-dark-fox-anniversary = Kettu jalkakäytävällä lähellä metsää
 newtab-wallpaper-light-fox-anniversary = Kettu ruohopellolla ja sumuinen vuoristomaisema
-# Goes back from a wallpaper category to the Customize panel. Shown as an
-# arrow with no text, so this is read by screen readers only.
-newtab-wallpaper-category-back =
-    .aria-label = Takaisin mukauttamiseen
 
 ## "Your images" is the folder of wallpapers someone has saved. A saved wallpaper
 ## can be a file they uploaded, a Picture of the Day they chose to keep, or a

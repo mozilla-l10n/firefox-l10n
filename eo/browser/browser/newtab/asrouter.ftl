@@ -30,14 +30,14 @@ cfr-doorhanger-extension-author = de { $name }
 cfr-doorhanger-extension-notification = Rekomendo
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Rekomendo
-    .tooltiptext = Rekomendo pri etendaĵo
     .a11y-announcement = Havebla rekomendo pri etendaĵo
+    .tooltiptext = Rekomendo pri etendaĵo
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Rekomendo
-    .tooltiptext = Rekomendo pri trajto
     .a11y-announcement = Havebla rekomendo pri trajto
+    .tooltiptext = Rekomendo pri trajto
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -362,8 +362,8 @@ root-certificate-windows-background-notification-update-button = Ĝisdatigi { -b
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =
-    .title = Fermi
     .aria-label = Fermi
+    .title = Fermi
 fxa-menu-message-sign-up-button = Krei konton
 fxa-menu-message-sign-in-button = Komenci seancon
 fxa-menu-message-sync-button = Komenci speguli

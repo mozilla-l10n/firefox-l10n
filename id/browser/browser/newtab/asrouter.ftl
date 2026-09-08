@@ -30,14 +30,14 @@ cfr-doorhanger-extension-author = oleh { $name }
 cfr-doorhanger-extension-notification = Rekomendasi
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Rekomendasi
-    .tooltiptext = Rekomendasi ekstensi
     .a11y-announcement = Rekomendasi ekstensi tersedia
+    .tooltiptext = Rekomendasi ekstensi
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Rekomendasi
-    .tooltiptext = Rekomendasi fitur
     .a11y-announcement = Rekomendasi fitur tersedia
+    .tooltiptext = Rekomendasi fitur
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -306,8 +306,8 @@ root-certificate-windows-background-notification-update-button = Perbarui { -bra
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =
-    .title = Tutup
     .aria-label = Tutup
+    .title = Tutup
 fxa-menu-message-sign-up-button = Daftar
 fxa-menu-message-sign-in-button = Masuk
 fxa-menu-message-sync-button = Mulai menyinkronkan

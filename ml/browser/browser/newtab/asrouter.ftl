@@ -30,14 +30,14 @@ cfr-doorhanger-extension-author = { $name } നാല്‍
 cfr-doorhanger-extension-notification = ശുപാർശ
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = ശുപാൎശ
-    .tooltiptext = വിപുലീകരണശുപാൎശ
     .a11y-announcement = വിപുലീകരണശുപാൎശ ലഭ്യം
+    .tooltiptext = വിപുലീകരണശുപാൎശ
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = ശുപാൎശ
-    .tooltiptext = സവിശേഷതശുപാൎശ
     .a11y-announcement = സവിശേഷതശുപാൎശ ലഭ്യം
+    .tooltiptext = സവിശേഷതശുപാൎശ
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -261,8 +261,8 @@ root-certificate-windows-background-notification-update-button = { -brand-short-
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =
-    .title = അടയ്ക്കുക
     .aria-label = അടയ്ക്കുക
+    .title = അടയ്ക്കുക
 fxa-menu-message-sign-up-button = അംഗത്വമെടുക്കുക
 fxa-menu-message-sign-in-button = പ്രവേശിക്കുക
 fxa-menu-message-sync-button = സമന്വയിപ്പിക്കാൻ തുടങ്ങുക

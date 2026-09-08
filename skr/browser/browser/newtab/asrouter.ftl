@@ -30,14 +30,14 @@ cfr-doorhanger-extension-author = { $name } دے نال
 cfr-doorhanger-extension-notification = سفارش
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = سفارش
-    .tooltiptext = ایکسٹینشن سفارش
     .a11y-announcement = ایکسٹینشن سفارش
+    .tooltiptext = ایکسٹینشن سفارش
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = سفارش
-    .tooltiptext = شفارش دیاں خصوصیات
     .a11y-announcement = سفارش دیاں خصوصیات دستیاب ہن
+    .tooltiptext = شفارش دیاں خصوصیات
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -301,8 +301,8 @@ root-certificate-succession-infobar-secondary-button =
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =
-    .title = بند کرو
     .aria-label = بند کرو
+    .title = بند کرو
 fxa-menu-message-sign-up-button = سائن اپ
 fxa-menu-message-sync-devices-primary-text = آپݨیاں ساریاں ڈیوائساں ہم وقت کرو
 fxa-menu-message-sync-devices-secondary-text = فوری طور تے آپݨی معلومات حاصل کرو— جیویں جو نشانیاں  تے پاس ورڈز — ہر اوں جاء تے جتھ تساں { -brand-short-name } ورتیندے ہو۔

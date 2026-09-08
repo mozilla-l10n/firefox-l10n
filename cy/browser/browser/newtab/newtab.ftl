@@ -951,6 +951,9 @@ newtab-custom-close-menu-button =
     .title = Cau
 newtab-custom-close-button = Cau
 newtab-custom-settings = Rheoli rhagor o osodiadau
+
+## New Tab Appearance (browser theme picker)
+
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = Gwedd
 # Button that opens the full browser theme selection view.
@@ -1003,10 +1006,6 @@ newtab-wallpaper-dark-mountain = Tirwedd mynydd
 newtab-wallpaper-dark-city = Tirwedd dinas borffor
 newtab-wallpaper-dark-fox-anniversary = Llwynog ar y palmant ger coedwig
 newtab-wallpaper-light-fox-anniversary = Llwynog mewn cae glaswelltog gyda thirlun mynydd niwlog
-# Goes back from a wallpaper category to the Customize panel. Shown as an
-# arrow with no text, so this is read by screen readers only.
-newtab-wallpaper-category-back =
-    .aria-label = Nôl i Gyfaddasu
 
 ## "Your images" is the folder of wallpapers someone has saved. A saved wallpaper
 ## can be a file they uploaded, a Picture of the Day they chose to keep, or a

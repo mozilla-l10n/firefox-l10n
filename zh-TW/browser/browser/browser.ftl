@@ -137,9 +137,6 @@ urlbar-identity-button2 =
             [1] 檢視網站資訊（已封鎖 1 組追蹤器）
            *[other] 檢視網站資訊（已封鎖 { $count } 組追蹤器）
         }
-
-##
-
 urlbar-identity-button =
     .aria-label = 檢視網站資訊
 
@@ -919,11 +916,6 @@ urlbar-result-weather-title-city-only = { $city } 氣溫 <strong>{ $temperature 
 urlbar-result-weather-provider-sponsored = { $provider }∙贊助資訊
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = 詢問
-
-## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
-## results with last-visited dates like history and top sites, these strings
-## explain why the result is shown.
-
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1483,9 +1475,6 @@ picture-in-picture-move-toggle-left =
 
 ##
 
-
-# Navigator Toolbox
-
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
 # this container is a toolbar. This avoids double-speaking.
@@ -1708,13 +1697,6 @@ file-picker-crashed-open = Windows 檔案對話框發生錯誤，無法選擇任
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Windows 檔案對話框發生錯誤，檔案將儲存至 { $path }。
 file-picker-crashed-save-nowhere = Windows 檔案對話框發生錯誤，找不到預設資料夾，無法儲存檔案。
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
 file-picker-crashed-show-in-folder =
     .label = 於資料夾顯示
     .accessKey = F
@@ -1767,9 +1749,6 @@ trustpanel-blocker-see-all = 檢視全部
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = { $host } 的追蹤保護
-
-## The urlbar trust icon & panel
-
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

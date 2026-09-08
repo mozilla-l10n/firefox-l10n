@@ -897,6 +897,9 @@ newtab-custom-close-menu-button =
     .title = ਬੰਦ ਕਰੋ
 newtab-custom-close-button = ਬੰਦ ਕਰੋ
 newtab-custom-settings = ਹੋਰ ਸੈਟਿੰਗਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
+
+## New Tab Appearance (browser theme picker)
+
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = ਦਿੱਖ
 # Button that opens the full browser theme selection view.
@@ -949,10 +952,6 @@ newtab-wallpaper-dark-mountain = ਲੈਂਡਸਕੇਪ ਪਹਾੜ
 newtab-wallpaper-dark-city = ਜਾਮਨੀ ਸ਼ਹਿਰੀ ਦ੍ਰਿਸ਼
 newtab-wallpaper-dark-fox-anniversary = ਜੰਗਲ ਨੇੜਲੇ ਰਾਹ ਉੱਤੇ ਲੂੰਬੜੀ
 newtab-wallpaper-light-fox-anniversary = ਧੁੰਦ ਵਿੱਚ ਲੁਕੇ ਪਹਾੜ ਦੇ ਕੋਲ ਘਾਹ ਦੇ ਖੇਤ ਵਿੱਚ ਲੂੰਬੜੀ
-# Goes back from a wallpaper category to the Customize panel. Shown as an
-# arrow with no text, so this is read by screen readers only.
-newtab-wallpaper-category-back =
-    .aria-label = ਪਸੰਦੀਦਾ ਬਣਾਉਣ ਉੱਤੇ ਵਾਪਸ ਜਾਓ
 
 ## "Your images" is the folder of wallpapers someone has saved. A saved wallpaper
 ## can be a file they uploaded, a Picture of the Day they chose to keep, or a

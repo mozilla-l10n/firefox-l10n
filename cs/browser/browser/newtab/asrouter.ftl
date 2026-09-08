@@ -30,14 +30,14 @@ cfr-doorhanger-extension-author = autor: { $name }
 cfr-doorhanger-extension-notification = Doporučení
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Doporučení
-    .tooltiptext = Doporučené rozšíření
     .a11y-announcement = Je dostupné doporučené rozšíření
+    .tooltiptext = Doporučené rozšíření
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Doporučení
-    .tooltiptext = Doporučená funkce
     .a11y-announcement = Je dostupné doporučení funkce
+    .tooltiptext = Doporučená funkce
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -64,7 +64,7 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = Mějte své záložky všude s sebou.
-cfr-doorhanger-bookmark-fxa-body = Skvělý nález! Chcete mít tuto záložku i ve svém mobilním zařízení? Použijte { -fxaccount-brand-name(case: "acc", capitalization: "lower") }.
+cfr-doorhanger-bookmark-fxa-body = Skvělý nález! Chcete mít tuto záložku i ve svém mobilním zařízení? Použijte { -fxaccount-brand-name(capitalization: "lower", case: "acc") }.
 cfr-doorhanger-bookmark-fxa-body-2 = Skvělý nález! Chcete mít tuto záložku i ve svém mobilním zařízení? Začněte s účtem.
 cfr-doorhanger-bookmark-fxa-link-text = Synchronizujte své záložky…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
@@ -243,7 +243,7 @@ firefoxview-cfr-body-v2 = Získejte zpět nedávno zavřené panely a plynule p�
 
 firefoxview-spotlight-promo-title = Přivítejte { -firefoxview-brand-name(case: "acc") }
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
-firefoxview-spotlight-promo-subtitle = Chcete zrovna ten panel otevřený v telefonu? Vezměte si ho. Potřebujete znovu tu stránku, co jste před chvílí navštívili? Hups, díky { -firefoxview-brand-name(case: "dat", capitalization: "lower") } ji máte zpátky.
+firefoxview-spotlight-promo-subtitle = Chcete zrovna ten panel otevřený v telefonu? Vezměte si ho. Potřebujete znovu tu stránku, co jste před chvílí navštívili? Hups, díky { -firefoxview-brand-name(capitalization: "lower", case: "dat") } ji máte zpátky.
 firefoxview-spotlight-promo-primarybutton = Jak to funguje
 firefoxview-spotlight-promo-secondarybutton = Přeskočit
 
@@ -505,8 +505,8 @@ root-certificate-windows-background-notification-update-button =
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =
-    .title = Zavřít
     .aria-label = Zavřít
+    .title = Zavřít
 fxa-menu-message-sign-up-button = Přihlásit se
 fxa-menu-message-sign-in-button = Přihlásit se
 fxa-menu-message-sync-button = Spustit synchronizaci

@@ -30,14 +30,14 @@ cfr-doorhanger-extension-author = gant { $name }
 cfr-doorhanger-extension-notification = Erbedadennoù
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Erbedadenn
-    .tooltiptext = Erbedadenn askouezh
     .a11y-announcement = Erbedadenn askouezh egerzh
+    .tooltiptext = Erbedadenn askouezh
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Erbedadenn
-    .tooltiptext = Erbedadenn keweriuster
     .a11y-announcement = Un erbedadenn keweriuster nevez a zo da lenn
+    .tooltiptext = Erbedadenn keweriuster
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -285,8 +285,8 @@ root-certificate-windows-background-notification-update-button = Hizivaat { -bra
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =
-    .title = Serriñ
     .aria-label = Serriñ
+    .title = Serriñ
 fxa-menu-message-sign-up-button = Krouiñ ur gont
 
 ## Multi-CTA Fox Doodle Spotlight

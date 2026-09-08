@@ -30,14 +30,14 @@ cfr-doorhanger-extension-author = ni { $name }
 cfr-doorhanger-extension-notification = Rekomendasyon
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Rekomendasyon
-    .tooltiptext = Rekomendasyon
     .a11y-announcement = Rekomendasyon
+    .tooltiptext = Rekomendasyon
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Rekomendasyon
-    .tooltiptext = Rekomendasyon
     .a11y-announcement = Rekomendasyon
+    .tooltiptext = Rekomendasyon
 
 ## Add-on statistics
 ## These strings are used to display the total number of

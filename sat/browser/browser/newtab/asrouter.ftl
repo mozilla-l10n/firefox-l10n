@@ -30,14 +30,14 @@ cfr-doorhanger-extension-author = { $name } ᱞᱮᱠᱷᱟᱛᱮ
 cfr-doorhanger-extension-notification = ᱵᱟᱛᱟᱣᱟᱜ
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = ᱵᱟᱛᱟᱣᱟᱜ
-    .tooltiptext = ᱵᱟᱛᱟᱣᱟᱜ ᱯᱟᱥᱱᱟᱣ
     .a11y-announcement = ᱵᱟᱛᱟᱣᱟᱜ ᱯᱟᱥᱱᱟᱣ ᱢᱮᱱᱟᱜᱼᱟ
+    .tooltiptext = ᱵᱟᱛᱟᱣᱟᱜ ᱯᱟᱥᱱᱟᱣ
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = ᱵᱟᱛᱟᱣᱟᱜ
-    .tooltiptext = ᱵᱟᱛᱟᱣᱟᱜ ᱡᱤᱱᱤᱥ
     .a11y-announcement = ᱵᱟᱛᱟᱣᱟᱜ ᱡᱤᱱᱤᱥ ᱢᱮᱱᱟᱜᱼᱟ
+    .tooltiptext = ᱵᱟᱛᱟᱣᱟᱜ ᱡᱤᱱᱤᱥ
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -304,8 +304,8 @@ root-certificate-succession-infobar-secondary-button =
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =
-    .title = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
     .aria-label = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+    .title = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
 fxa-menu-message-sign-up-button = ᱥᱩᱦᱤ ᱮᱡ ᱦᱚᱪᱚ
 fxa-menu-message-sync-devices-primary-text = ᱟᱢᱟᱜ ᱡᱷᱚᱛᱚ ᱥᱟᱫᱷᱚᱱ ᱨᱮ ᱥᱤᱝᱠ ᱢᱮ
 fxa-menu-message-sync-devices-secondary-text = ᱨᱚᱠᱟ ᱜᱮ ᱟᱢᱟᱜ ᱵᱟᱯᱟᱰᱟᱭ ᱧᱟᱢ ᱢᱮ — ᱡᱮᱞᱠᱟ ᱵᱩᱠᱢᱟᱨᱠ ᱟᱨ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ — ᱡᱟᱦᱟᱸ ᱨᱮ ᱟᱢ { -brand-short-name } ᱮᱢ ᱵᱮᱵᱷᱟᱨᱟ ᱾

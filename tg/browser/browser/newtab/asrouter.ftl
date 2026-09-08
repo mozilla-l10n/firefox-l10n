@@ -30,14 +30,14 @@ cfr-doorhanger-extension-author = аз { $name }
 cfr-doorhanger-extension-notification = Тавсия
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Тавсия
-    .tooltiptext = Тавсияи васеъшавӣ
     .a11y-announcement = Тавсияи васеъшавӣ дастрас аст
+    .tooltiptext = Тавсияи васеъшавӣ
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Тавсия
-    .tooltiptext = Тавсияи хусусият
     .a11y-announcement = Тавсияи хусусият дастрас аст
+    .tooltiptext = Тавсияи хусусият
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -336,8 +336,8 @@ root-certificate-windows-background-notification-update-button = Навсозӣ 
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =
-    .title = Пӯшидан
     .aria-label = Пӯшидан
+    .title = Пӯшидан
 fxa-menu-message-sign-up-button = Бақайдгирӣ
 fxa-menu-message-sign-in-button = Ворид шудан
 fxa-menu-message-sync-button = Оғози ҳамоҳангсозӣ

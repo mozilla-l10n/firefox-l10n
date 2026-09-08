@@ -30,14 +30,14 @@ cfr-doorhanger-extension-author = di { $name }
 cfr-doorhanger-extension-notification = Suggirimentu
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Suggirimentu
-    .tooltiptext = Suggirimentu di stinneriu
     .a11y-announcement = È dispunìbbili un suggirimentu pi nu stinneriu
+    .tooltiptext = Suggirimentu di stinneriu
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Suggirimentu
-    .tooltiptext = Suggirimentu di funziunalità
     .a11y-announcement = È dispunìbbili un suggirimentu di funziunalità
+    .tooltiptext = Suggirimentu di funziunalità
 
 ## Add-on statistics
 ## These strings are used to display the total number of

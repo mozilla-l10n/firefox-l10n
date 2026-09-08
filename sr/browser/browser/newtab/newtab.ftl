@@ -789,6 +789,9 @@ newtab-custom-close-menu-button =
     .title = Затвори
 newtab-custom-close-button = Затвори
 newtab-custom-settings = Додатна подешавања
+
+## New Tab Appearance (browser theme picker)
+
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = Изглед
 # Button that opens the full browser theme selection view.

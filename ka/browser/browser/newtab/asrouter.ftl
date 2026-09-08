@@ -30,14 +30,14 @@ cfr-doorhanger-extension-author = შემქმნელი: { $name }
 cfr-doorhanger-extension-notification = შემოთავაზება
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = შემოთავაზება
-    .tooltiptext = გაფართოების შემოთავაზება
     .a11y-announcement = ხელმისაწვდომია გაფართოების შემოთავაზება
+    .tooltiptext = გაფართოების შემოთავაზება
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = შემოთავაზება
-    .tooltiptext = შესაძლებლობის შემოთავაზება
     .a11y-announcement = ხელმისაწვდომია შესაძლებლობის შემოთავაზება
+    .tooltiptext = შესაძლებლობის შემოთავაზება
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -363,8 +363,8 @@ root-certificate-windows-background-notification-update-button = განახ
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =
-    .title = დახურვა
     .aria-label = დახურვა
+    .title = დახურვა
 fxa-menu-message-sign-up-button = ანგარიშის შექმნა
 fxa-menu-message-sign-in-button = შესვლა
 fxa-menu-message-sync-button = დასინქ. დაწყება

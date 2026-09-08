@@ -599,6 +599,9 @@ newtab-custom-widget-recent-searches-toggle =
     .label = Nesenie meklējumi
 newtab-custom-close-button = Aizvērt
 newtab-custom-settings = Pārvaldīt vairāk iestatījumu
+
+## New Tab Appearance (browser theme picker)
+
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = Izskats
 
@@ -625,10 +628,6 @@ newtab-wallpaper-dark-mountain = Ainavisks kalns
 newtab-wallpaper-dark-city = Violeta pilsētas ainava
 newtab-wallpaper-dark-fox-anniversary = Lapsa uz ceļa pie meža
 newtab-wallpaper-light-fox-anniversary = Lapsa pļavā ar dūmakainu kalnu ainavu
-# Goes back from a wallpaper category to the Customize panel. Shown as an
-# arrow with no text, so this is read by screen readers only.
-newtab-wallpaper-category-back =
-    .aria-label = Atpakaļ uz pielāgošanu
 
 ## "Your images" is the folder of wallpapers someone has saved. A saved wallpaper
 ## can be a file they uploaded, a Picture of the Day they chose to keep, or a

@@ -663,6 +663,9 @@ newtab-custom-close-menu-button =
     .title = Serra
 newtab-custom-close-button = Serra
 newtab-custom-settings = Gesti prus cunfiguratziones
+
+## New Tab Appearance (browser theme picker)
+
 # Title of the full theme selection sub-panel, also used as its back button label.
 newtab-appearance-manage-title = Temas de { -brand-product-name }
 # Header for the list of the user's already-installed themes in the full theme panel.

@@ -30,14 +30,14 @@ cfr-doorhanger-extension-author = { $name } အားဖြင့်
 cfr-doorhanger-extension-notification = အကြံပြုချက်
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = အကြံပြုချက်
-    .tooltiptext = အပိုနောက်တွဲ အကြံပြုချက်
     .a11y-announcement = အပိုနောက်တွဲ အကြံပြုချက် ရပြီ
+    .tooltiptext = အပိုနောက်တွဲ အကြံပြုချက်
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = အကြံပြုချက်
-    .tooltiptext = စွမ်းရည် အကြံပြုချက်
     .a11y-announcement = စွမ်းရည် အကြံပြုချက် ရပြီ
+    .tooltiptext = စွမ်းရည် အကြံပြုချက်
 
 ## Add-on statistics
 ## These strings are used to display the total number of

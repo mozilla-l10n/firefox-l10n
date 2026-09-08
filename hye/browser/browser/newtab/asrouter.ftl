@@ -30,14 +30,14 @@ cfr-doorhanger-extension-author = { $name }-ի կողմից
 cfr-doorhanger-extension-notification = Երաշխաւորութիւն
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Երաշխաւորութիւն
-    .tooltiptext = Ընդլայնման երաշխաւորութիւն
     .a11y-announcement = Հասանելի ընդլայնման երաշխաւորութիւն
+    .tooltiptext = Ընդլայնման երաշխաւորութիւն
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Երաշխաւորութիւն
-    .tooltiptext = Հատկութեան երաշխաւորութիւն
     .a11y-announcement = Հասանելի հատկութեան երաշխաւորութիւն
+    .tooltiptext = Հատկութեան երաշխաւորութիւն
 
 ## Add-on statistics
 ## These strings are used to display the total number of

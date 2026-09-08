@@ -128,9 +128,6 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = دؽوۉداری سامووا نیمدری یل گۊشیڌنی وو آلشت تورا شخس سالس…
     .accesskey = M
-
-##
-
 urlbar-identity-button =
     .aria-label = نیشتن دووسمندیا وبگه
 
@@ -910,11 +907,6 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · هؽزگری وابیڌه
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = پۊرسیڌن
-
-## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
-## results with last-visited dates like history and top sites, these strings
-## explain why the result is shown.
-
 # This explanation is used when the result is bookmarked. The date will be
 # formatted as an absolute date like: "11 May", "11 May 2026"
 # Variables:
@@ -1418,9 +1410,6 @@ picture-in-picture-move-toggle-left =
 
 ##
 
-
-# Navigator Toolbox
-
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
 # this container is a toolbar. This avoids double-speaking.
@@ -1455,9 +1444,6 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = نومگهی کردن پوی بلگه یل
     .tooltiptext = نومگهی کردن پوی بلگه یل
-
-## Drop indicator text for pinned tabs when no tabs are pinned.
-
 
 ## Infobar shown at startup to suggest session-restore
 
@@ -1625,13 +1611,6 @@ popup-trigger-redirect-menuitem =
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
 file-picker-crashed-show-in-folder =
     .label = نشووݩ داڌن من دوبلگه
     .accessKey = F
@@ -1676,9 +1655,6 @@ trustpanel-blocker-see-all = نیشتن پوی
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = زفت وابیڌنا جلاو رڌجۊری سی { $host }
-
-## The urlbar trust icon & panel
-
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

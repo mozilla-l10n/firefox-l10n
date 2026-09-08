@@ -30,14 +30,14 @@ cfr-doorhanger-extension-author = gan { $name }
 cfr-doorhanger-extension-notification = Argymhelliad
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Argymhelliad
-    .tooltiptext = Argymhelliad Estyniad
     .a11y-announcement = Mae argymhelliad estyniad ar gael
+    .tooltiptext = Argymhelliad Estyniad
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Argymhelliad
-    .tooltiptext = Argymhelliad Nodwedd
     .a11y-announcement = Mae argymhelliad nodwedd ar gael
+    .tooltiptext = Argymhelliad Nodwedd
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -375,8 +375,8 @@ root-certificate-windows-background-notification-update-button = Diweddaru { -br
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =
-    .title = Cau
     .aria-label = Cau
+    .title = Cau
 fxa-menu-message-sign-up-button = Cofrestru
 fxa-menu-message-sign-in-button = Mewngofnodi
 fxa-menu-message-sync-button = Cychwyn cydweddu

@@ -905,6 +905,9 @@ newtab-custom-close-menu-button =
     .title = Itxi
 newtab-custom-close-button = Itxi
 newtab-custom-settings = Kudeatu ezarpen gehiago
+
+## New Tab Appearance (browser theme picker)
+
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = Itxura
 # Button that opens the full browser theme selection view.
@@ -957,10 +960,6 @@ newtab-wallpaper-dark-mountain = Paisaia mendia
 newtab-wallpaper-dark-city = Hiriko paisaia morea
 newtab-wallpaper-dark-fox-anniversary = Azeria espaloian baso batetik gertu
 newtab-wallpaper-light-fox-anniversary = Azeria belardi batean mendiko paisaia lanbrotsuarekin
-# Goes back from a wallpaper category to the Customize panel. Shown as an
-# arrow with no text, so this is read by screen readers only.
-newtab-wallpaper-category-back =
-    .aria-label = Itzuli pertsonalizatzera
 
 ## "Your images" is the folder of wallpapers someone has saved. A saved wallpaper
 ## can be a file they uploaded, a Picture of the Day they chose to keep, or a

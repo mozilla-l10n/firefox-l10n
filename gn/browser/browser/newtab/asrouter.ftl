@@ -30,14 +30,14 @@ cfr-doorhanger-extension-author = Hese { $name }
 cfr-doorhanger-extension-notification = Je’ete
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Je’eporã
-    .tooltiptext = Jepysokue je’eporã
     .a11y-announcement = Jepysokue je’eporã eipurukuaáva
+    .tooltiptext = Jepysokue je’eporã
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Je’eporã
-    .tooltiptext = Peteĩchagua je’eporã
     .a11y-announcement = Peteĩchagua je’eporã eipurukuaáva
+    .tooltiptext = Peteĩchagua je’eporã
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -359,8 +359,8 @@ root-certificate-windows-background-notification-update-button = Embohekopyahu {
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =
-    .title = Mboty
     .aria-label = Mboty
+    .title = Mboty
 fxa-menu-message-sign-up-button = Eñemboheraguapy
 fxa-menu-message-sign-in-button = Eñemboheraguapy
 fxa-menu-message-sync-button = Embojuehe ñepyrũ

@@ -535,10 +535,6 @@ newtab-wallpaper-dark-mountain = Planinski krajolik
 newtab-wallpaper-dark-city = Ljubičasti gradski pejzaž
 newtab-wallpaper-dark-fox-anniversary = Lisica na kolniku u blizini šume
 newtab-wallpaper-light-fox-anniversary = Lisica u travnatom polju s maglovitim planinskim krajolikom
-# Goes back from a wallpaper category to the Customize panel. Shown as an
-# arrow with no text, so this is read by screen readers only.
-newtab-wallpaper-category-back =
-    .aria-label = Natrag na prilagodbu
 
 ## "Your images" is the folder of wallpapers someone has saved. A saved wallpaper
 ## can be a file they uploaded, a Picture of the Day they chose to keep, or a

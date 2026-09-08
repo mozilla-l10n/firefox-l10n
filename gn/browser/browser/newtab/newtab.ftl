@@ -856,6 +856,9 @@ newtab-custom-close-menu-button =
     .title = Mboty
 newtab-custom-close-button = Mboty
 newtab-custom-settings = Eñangareko hetave ñembohekóre
+
+## New Tab Appearance (browser theme picker)
+
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = Mba’ejeguarã
 # Button that opens the full browser theme selection view.

@@ -30,14 +30,14 @@ cfr-doorhanger-extension-author = { $name } ਰਾਹੀਂ
 cfr-doorhanger-extension-notification = ਸਿਫ਼ਾਰਸ਼ਾਂ
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = ਸਿਫਾਰਸ਼ਾਂ
-    .tooltiptext = ਇਕਸਟੈਨਸ਼ਨ ਸਿਫਾਰਸ਼ਾਂ
     .a11y-announcement = ਇਕਸਟੈਨਸ਼ਨ ਸਿਫਾਰਸ਼ਾਂ ਮੌਜੂਦ ਹਨ
+    .tooltiptext = ਇਕਸਟੈਨਸ਼ਨ ਸਿਫਾਰਸ਼ਾਂ
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = ਸਿਫਾਰਸ਼ਾਂ
-    .tooltiptext = ਫ਼ੀਚਰ ਦੀ ਸਿਫਾਰਸ਼
     .a11y-announcement = ਫ਼ੀਚਰ ਦੀ ਸਿਫਾਰਸ਼ ਮੌਜੂਦ ਹੈ
+    .tooltiptext = ਫ਼ੀਚਰ ਦੀ ਸਿਫਾਰਸ਼
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -362,8 +362,8 @@ root-certificate-windows-background-notification-update-button = { -brand-short-
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =
-    .title = ਬੰਦ ਕਰੋ
     .aria-label = ਬੰਦ ਕਰੋ
+    .title = ਬੰਦ ਕਰੋ
 fxa-menu-message-sign-up-button = ਸਾਈਨ ਅੱਪ ਕਰੋ
 fxa-menu-message-sign-in-button = ਸਾਈਨ ਇਨ
 fxa-menu-message-sync-button = ਸਿੰਕ ਕਰਨਾ ਸ਼ੁਰੂ

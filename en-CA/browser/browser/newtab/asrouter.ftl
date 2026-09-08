@@ -30,14 +30,14 @@ cfr-doorhanger-extension-author = by { $name }
 cfr-doorhanger-extension-notification = Recommendation
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Recommendation
-    .tooltiptext = Extension recommendation
     .a11y-announcement = Extension recommendation available
+    .tooltiptext = Extension recommendation
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Recommendation
-    .tooltiptext = Feature recommendation
     .a11y-announcement = Feature recommendation available
+    .tooltiptext = Feature recommendation
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -306,7 +306,6 @@ launch-on-login-infobar-final-reject-button = No thanks
 launch-on-login-autostart-infobar-message = { -brand-short-name } now starts up when you sign in to Windows. You can always change this later in settings.
 launch-on-login-autostart-infobar-keep-button = Keep on
     .accesskey = K
-
 launch-on-login-autostart-infobar-turn-off-button = Turn off
     .accesskey = T
 
@@ -318,12 +317,10 @@ launch-on-login-autostart-infobar-turn-off-button = Turn off
 launch-on-login-spotlight-title = Open { -brand-short-name } next time your computer starts up?
 launch-on-login-spotlight-startup-checkbox = Launch { -brand-short-name } at startup
 launch-on-login-spotlight-pin-taskbar-checkbox = Pin to taskbar
-
 # This checkbox label intentionally matches “startup-restore-windows-and-tabs”
 # in the Settings (preferences.ftl). Localizers can reuse the existing
 # translation suggested by translation memory.
 launch-on-login-spotlight-restore-checkbox = Open previous windows and tabs
-
 launch-on-login-spotlight-primary-button = Save and close { -brand-short-name }
 
 ## Tail Fox Set Default Spotlight
@@ -365,8 +362,8 @@ root-certificate-windows-background-notification-update-button = Update { -brand
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =
-    .title = Close
     .aria-label = Close
+    .title = Close
 fxa-menu-message-sign-up-button = Sign up
 fxa-menu-message-sign-in-button = Sign in
 fxa-menu-message-sync-button = Start syncing
@@ -484,7 +481,6 @@ set-default-menu-message-split-layout-title =
         [macos] Keep { -brand-short-name } at your fingertips
        *[other] Open all links with { -brand-short-name }
     }
-
 set-default-menu-message-split-layout-subtitle =
     { PLATFORM() ->
         [macos] Make it your default and keep it in your Dock.
@@ -518,21 +514,14 @@ nova-early-access-infobar-primary-button = Got it
 ## launch-on-login, taskbar pinning, and session restore.
 
 launch-options-spotlight-title-launch-on-login = Start { -brand-short-name } every time you sign in to Windows?
-
 launch-options-spotlight-title-session-restore = Reopen your session when { -brand-short-name } restarts?
-
 launch-options-spotlight-checkbox-launch-on-login = Open { -brand-short-name } at startup
-
 launch-options-spotlight-checkbox-pin-to-taskbar = Pin to your taskbar
-
 # Shown on the browser-close prompt only
 launch-options-spotlight-checkbox-restore-current = Reopen current windows and tabs
-
 # Shown on the browser-launch prompt only
 launch-options-spotlight-checkbox-restore-previous = Reopen previous windows and tabs
-
 # Primary button on the browser-close prompt
 launch-options-spotlight-primary-button-close = Save and close { -brand-short-name }
-
 # Primary button on the browser-launch prompt
 launch-options-spotlight-primary-button-launch = Save and continue

@@ -30,14 +30,14 @@ cfr-doorhanger-extension-author = nga { $name }
 cfr-doorhanger-extension-notification = Rekomandim
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Rekomandim
-    .tooltiptext = Rekomandim zgjerimi
     .a11y-announcement = Ka gati një rekomandim zgjerimi
+    .tooltiptext = Rekomandim zgjerimi
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Rekomandim
-    .tooltiptext = Rekomandim veçorie
     .a11y-announcement = Ka gati një rekomandim veçorie
+    .tooltiptext = Rekomandim veçorie
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -334,8 +334,8 @@ root-certificate-windows-background-notification-update-button = Përditësoni {
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =
-    .title = Mbylle
     .aria-label = Mbylleni
+    .title = Mbylle
 fxa-menu-message-sign-up-button = Regjistrohuni
 fxa-menu-message-sign-in-button = Hyni
 fxa-menu-message-sync-button = Fillo njëkohësim

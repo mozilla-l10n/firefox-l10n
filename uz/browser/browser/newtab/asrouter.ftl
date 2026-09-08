@@ -30,14 +30,14 @@ cfr-doorhanger-extension-author = { $name } boʻyicha
 cfr-doorhanger-extension-notification = Tavsiya
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Tavsiya
-    .tooltiptext = Kengaytma taklifi
     .a11y-announcement = Kengaytma taklifi mavjud
+    .tooltiptext = Kengaytma taklifi
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Tavsiya
-    .tooltiptext = Funksiya tavsiyasi
     .a11y-announcement = Funksiya tavsiyasi mavjud
+    .tooltiptext = Funksiya tavsiyasi
 
 ## Add-on statistics
 ## These strings are used to display the total number of

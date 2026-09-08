@@ -30,14 +30,14 @@ cfr-doorhanger-extension-author = { $name }-ի կողմից
 cfr-doorhanger-extension-notification = Երաշխավորություն
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Երաշխավորություն
-    .tooltiptext = Ընդլայնման երաշխավորություն
     .a11y-announcement = Հասանելի ընդլայնման երաշխավորություն
+    .tooltiptext = Ընդլայնման երաշխավորություն
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Երաշխավորություն
-    .tooltiptext = Հատկության երաշխավորություն
     .a11y-announcement = Հասանլի հատկության երաշխավորություն
+    .tooltiptext = Հատկության երաշխավորություն
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -363,8 +363,8 @@ root-certificate-windows-background-notification-update-button = Արդիացն�
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =
-    .title = Փակել
     .aria-label = Փակել
+    .title = Փակել
 fxa-menu-message-sign-up-button = Գրանցվել
 fxa-menu-message-sign-in-button = Մուտք գործել
 fxa-menu-message-sync-button = Սկսել համաժամեցումը

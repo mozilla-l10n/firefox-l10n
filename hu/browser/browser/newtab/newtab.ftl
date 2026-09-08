@@ -900,6 +900,9 @@ newtab-custom-close-menu-button =
     .title = Bezárás
 newtab-custom-close-button = Bezárás
 newtab-custom-settings = További beállítások kezelése
+
+## New Tab Appearance (browser theme picker)
+
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = Megjelenés
 # Button that opens the full browser theme selection view.

@@ -30,14 +30,14 @@ cfr-doorhanger-extension-author = door { $name }
 cfr-doorhanger-extension-notification = Aanbeveling
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Aanbeveling
-    .tooltiptext = Aanbeveling voor extensie
     .a11y-announcement = Aanbeveling voor extensie beschikbaar
+    .tooltiptext = Aanbeveling voor extensie
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Aanbeveling
-    .tooltiptext = Aanbeveling voor functie
     .a11y-announcement = Aanbeveling voor functie beschikbaar
+    .tooltiptext = Aanbeveling voor functie
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -99,8 +99,8 @@ cfr-whatsnew-release-notes-link-text = Uitgaveopmerkingen lezen
 #   $date (Datetime) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading2 =
     { $blockedCount ->
-        [one] { -brand-short-name } heeft sinds { DATETIME($date, year: "numeric", month: "long") } <b>{ $blockedCount }</b> tracker geblokkeerd!
-       *[other] { -brand-short-name } heeft sinds { DATETIME($date, year: "numeric", month: "long") } meer dan <b>{ $blockedCount }</b> trackers geblokkeerd!
+        [one] { -brand-short-name } heeft sinds { DATETIME($date, month: "long", year: "numeric") } <b>{ $blockedCount }</b> tracker geblokkeerd!
+       *[other] { -brand-short-name } heeft sinds { DATETIME($date, month: "long", year: "numeric") } meer dan <b>{ $blockedCount }</b> trackers geblokkeerd!
     }
 cfr-doorhanger-milestone-ok-button = Alles bekijken
     .accesskey = A
@@ -363,8 +363,8 @@ root-certificate-windows-background-notification-update-button = { -brand-short-
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =
-    .title = Sluiten
     .aria-label = Sluiten
+    .title = Sluiten
 fxa-menu-message-sign-up-button = Registreren
 fxa-menu-message-sign-in-button = Aanmelden
 fxa-menu-message-sync-button = Beginnen met synchroniseren

@@ -30,14 +30,14 @@ cfr-doorhanger-extension-author = { $name } 제작
 cfr-doorhanger-extension-notification = 추천
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = 추천
-    .tooltiptext = 확장 기능 추천
     .a11y-announcement = 확장 기능 추천 사용 가능
+    .tooltiptext = 확장 기능 추천
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = 추천
-    .tooltiptext = 기능 추천
     .a11y-announcement = 기능 추천 사용 가능
+    .tooltiptext = 기능 추천
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -360,8 +360,8 @@ root-certificate-windows-background-notification-update-button = { -brand-short-
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =
-    .title = 닫기
     .aria-label = 닫기
+    .title = 닫기
 fxa-menu-message-sign-up-button = 가입
 fxa-menu-message-sign-in-button = 로그인
 fxa-menu-message-sync-button = 동기화 시작

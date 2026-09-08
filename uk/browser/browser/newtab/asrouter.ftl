@@ -30,14 +30,14 @@ cfr-doorhanger-extension-author = від { $name }
 cfr-doorhanger-extension-notification = Рекомендація
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Рекомендація
-    .tooltiptext = Рекомендація розширень
     .a11y-announcement = Доступна рекомендація розширень
+    .tooltiptext = Рекомендація розширень
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Рекомендація
-    .tooltiptext = Рекомендація функцій
     .a11y-announcement = Доступна рекомендація функцій
+    .tooltiptext = Рекомендація функцій
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -186,13 +186,13 @@ firefoxview-cfr-primarybutton = Спробувати
 firefoxview-cfr-secondarybutton = Не зараз
     .accesskey = Н
 firefoxview-cfr-header-v2 = Швидко продовжуйте з місця, де ви зупинилися
-firefoxview-cfr-body-v2 = Легко повертайтеся до нещодавно закритих на різних пристроях за допомогою { -firefoxview-brand-name(case: "gen", capitalization: "lower") }
+firefoxview-cfr-body-v2 = Легко повертайтеся до нещодавно закритих на різних пристроях за допомогою { -firefoxview-brand-name(capitalization: "lower", case: "gen") }
 
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Вітайте { -firefoxview-brand-name }
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
-firefoxview-spotlight-promo-subtitle = Ця відкрита вкладка потрібна на вашому телефоні? Перенесіть її. Потрібен щойно відвіданий сайт? Пуф, він повернувся за допомогою { -firefoxview-brand-name(case: "gen", capitalization: "lower") }
+firefoxview-spotlight-promo-subtitle = Ця відкрита вкладка потрібна на вашому телефоні? Перенесіть її. Потрібен щойно відвіданий сайт? Пуф, він повернувся за допомогою { -firefoxview-brand-name(capitalization: "lower", case: "gen") }
 firefoxview-spotlight-promo-primarybutton = Дивитись, як це працює
 firefoxview-spotlight-promo-secondarybutton = Пропустити
 
@@ -332,8 +332,8 @@ root-certificate-windows-background-notification-update-button = Оновити 
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =
-    .title = Закрити
     .aria-label = Закрити
+    .title = Закрити
 fxa-menu-message-sign-up-button = Зареєструватись
 fxa-menu-message-sign-in-button = Увійти
 fxa-menu-message-sync-button = Почати синхронізацію

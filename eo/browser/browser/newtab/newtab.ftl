@@ -783,6 +783,9 @@ newtab-custom-close-menu-button =
     .title = Fermi
 newtab-custom-close-button = Fermi
 newtab-custom-settings = Administri aliajn agordojn
+
+## New Tab Appearance (browser theme picker)
+
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = Aspekto
 # Button that opens the full browser theme selection view.

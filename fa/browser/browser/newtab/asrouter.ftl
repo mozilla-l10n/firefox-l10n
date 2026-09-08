@@ -30,14 +30,14 @@ cfr-doorhanger-extension-author = توسط { $name }
 cfr-doorhanger-extension-notification = توصیه
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = توصیه
-    .tooltiptext = افزونه‌های توصیه شده
     .a11y-announcement = افزونه‌های توصیه شده موجود
+    .tooltiptext = افزونه‌های توصیه شده
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = توصیه
-    .tooltiptext = ویژگی‌های توصیه شده
     .a11y-announcement = ویژگی‌های توصیه شده موجود
+    .tooltiptext = ویژگی‌های توصیه شده
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -179,6 +179,6 @@ launch-on-login-learnmore = بیشتر بدانید
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =
-    .title = بستن
     .aria-label = بستن
+    .title = بستن
 fxa-menu-message-sign-up-button = نام نویسی

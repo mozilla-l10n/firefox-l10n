@@ -54,9 +54,6 @@ browser-main-window-default-title = { -brand-full-name }
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = Ichinan okem pa k'amaya'l
-
-##
-
 urlbar-identity-button =
     .aria-label = Titz'et retamab'al ruxaq k'amaya'l
 
@@ -543,9 +540,6 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Tichup ri komon ruwäch chajinïk pa re molojri'ïl re'
 
-## WebSerial "select a port" popup
-
-
 ## DevTools F12 popup
 
 enable-devtools-popup-description2 = Richin nokisäx ri F12 chojokem, nab'ey tajaqa' ri DevTools rik'in ri rucha'osamaj rusamajib'al okik'amaya'l.
@@ -728,11 +722,6 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Temen
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Tik'utüx
-
-## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
-## results with last-visited dates like history and top sites, these strings
-## explain why the result is shown.
-
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1144,9 +1133,6 @@ picture-in-picture-move-toggle-left =
 
 ##
 
-
-# Navigator Toolbox
-
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
 # this container is a toolbar. This avoids double-speaking.
@@ -1182,17 +1168,11 @@ tabs-toolbar-list-all-tabs =
     .label = Kecholajïx ronojel taq ruwi'
     .tooltiptext = Kecholajïx ronojel taq ruwi'
 
-## Drop indicator text for pinned tabs when no tabs are pinned.
-
-
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong> ¿La yejaq taq ruwi' xe'ik'o yan?</strong> Yatikïr natzolij ri amolojri'ïl pa ri rucha'ob'äl choköy{ -brand-short-name } <img data-l10n-name="icon"/>, pa Natab'äl.
 restore-session-startup-suggestion-button = Tik'ut achi'el
-
-## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
-
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -1235,10 +1215,6 @@ unified-extensions-button-quarantined =
         Taq k'amal
         Jujun taq k'amal man ya'on ta q'ij chi ke
 
-## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
-## Note that the new line is intentionally part of the tooltip.
-
-
 ## Private browsing reset button
 
 reset-pbm-panel-always-ask-checkbox =
@@ -1259,9 +1235,6 @@ refresh-blocked-redirect-label = { -brand-short-name } man xuya' ta q'ij chi re 
 refresh-blocked-allow =
     .label = Tiya' q'ij
     .accesskey = y
-
-## Firefox Relay integration
-
 
 ## Add-on Pop-up Notifications
 
@@ -1314,19 +1287,9 @@ popup-trigger-redirect-menuitem =
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
 file-picker-crashed-show-in-folder =
     .label = Tik'ut pa Molyakb'äl
     .accessKey = M
-
-## Onboarding Finish Setup checklist
-
 
 ## The urlbar trust icon & panel
 
@@ -1342,9 +1305,6 @@ trustpanel-clear-cookies-description = Yeruyüj taq kuki chuqa' taq rutzij ruxaq
 trustpanel-clear-cookies-subview-button-clear = Tijosq'ïx
 trustpanel-clear-cookies-subview-button-cancel = Tiq'at
 trustpanel-blocker-see-all = Titzet Ronojel
-
-## The urlbar trust icon & panel
-
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

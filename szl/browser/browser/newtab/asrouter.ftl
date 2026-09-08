@@ -30,14 +30,14 @@ cfr-doorhanger-extension-author = autōr: { $name }
 cfr-doorhanger-extension-notification = Rekōmyndacyjo
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Rekōmyndacyjo
-    .tooltiptext = Rekōmyndacyjo rozszyrzynio
     .a11y-announcement = Rekōmyndacyjo rozszyrzynio je dostympno
+    .tooltiptext = Rekōmyndacyjo rozszyrzynio
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Rekōmyndacyjo
-    .tooltiptext = Rekōmyndacyjo funkcyje
     .a11y-announcement = Rekōmyndacyjo funkcyje je dostympno
+    .tooltiptext = Rekōmyndacyjo funkcyje
 
 ## Add-on statistics
 ## These strings are used to display the total number of

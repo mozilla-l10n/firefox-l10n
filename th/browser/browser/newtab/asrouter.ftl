@@ -30,14 +30,14 @@ cfr-doorhanger-extension-author = โดย { $name }
 cfr-doorhanger-extension-notification = คำแนะนำ
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = แนะนำ
-    .tooltiptext = ส่วนขยายที่แนะนำ
     .a11y-announcement = ส่วนขยายแนะนำที่มีอยู่
+    .tooltiptext = ส่วนขยายที่แนะนำ
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = แนะนำ
-    .tooltiptext = คุณลักษณะที่แนะนำ
     .a11y-announcement = คุณลักษณะแนะนำที่มีอยู่
+    .tooltiptext = คุณลักษณะที่แนะนำ
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -346,8 +346,8 @@ root-certificate-windows-background-notification-update-button = อัปเด
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =
-    .title = ปิด
     .aria-label = ปิด
+    .title = ปิด
 fxa-menu-message-sign-up-button = ลงทะเบียน
 fxa-menu-message-sign-in-button = ลงชื่อเข้า
 fxa-menu-message-sync-button = เริ่มซิงค์

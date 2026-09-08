@@ -30,14 +30,14 @@ cfr-doorhanger-extension-author = ដោយ { $name }
 cfr-doorhanger-extension-notification = ការណែនាំ
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = ការណែនាំ
-    .tooltiptext = ការណែនាំកម្មវីធីបន្ថែម
     .a11y-announcement = មានការណែនាំកម្មវិធី​បន្ថែម
+    .tooltiptext = ការណែនាំកម្មវីធីបន្ថែម
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = ការណែនាំ
-    .tooltiptext = ការណែនាំអំពី​មុខងារ
     .a11y-announcement = មានការណែនាំ​អំពី​មុខងារ
+    .tooltiptext = ការណែនាំអំពី​មុខងារ
 
 ## Add-on statistics
 ## These strings are used to display the total number of

@@ -30,14 +30,14 @@ cfr-doorhanger-extension-author = Аутор: { $name }
 cfr-doorhanger-extension-notification = Препорука
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Препорука
-    .tooltiptext = Препорука додатка
     .a11y-announcement = Доступна је препорука додатка
+    .tooltiptext = Препорука додатка
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Препорука
-    .tooltiptext = Препорука функције
     .a11y-announcement = Доступна је препорука функције
+    .tooltiptext = Препорука функције
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -372,8 +372,8 @@ root-certificate-windows-background-notification-update-button = Ажурира�
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =
-    .title = Затвори
     .aria-label = Затвори
+    .title = Затвори
 fxa-menu-message-sign-up-button = Регистрација
 fxa-menu-message-sign-in-button = Пријавите се
 fxa-menu-message-sync-button = Започни усклађивање

@@ -899,6 +899,9 @@ newtab-custom-close-menu-button =
     .title = დახურვა
 newtab-custom-close-button = დახურვა
 newtab-custom-settings = დამატებითი პარამეტრების მართვა
+
+## New Tab Appearance (browser theme picker)
+
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = იერსახე
 # Button that opens the full browser theme selection view.

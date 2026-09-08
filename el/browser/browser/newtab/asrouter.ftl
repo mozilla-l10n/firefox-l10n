@@ -30,14 +30,14 @@ cfr-doorhanger-extension-author = από { $name }
 cfr-doorhanger-extension-notification = Πρόταση
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Πρόταση
-    .tooltiptext = Πρόταση επέκτασης
     .a11y-announcement = Διαθέσιμη πρόταση επέκτασης
+    .tooltiptext = Πρόταση επέκτασης
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Πρόταση
-    .tooltiptext = Πρόταση λειτουργίας
     .a11y-announcement = Διαθέσιμη πρόταση λειτουργίας
+    .tooltiptext = Πρόταση λειτουργίας
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -62,7 +62,7 @@ cfr-doorhanger-extension-total-users =
 ## Mozilla Account messages
 
 cfr-doorhanger-bookmark-fxa-header = Συγχρονίστε παντού τους σελιδοδείκτες σας.
-cfr-doorhanger-bookmark-fxa-body = Εξαιρετική ανακάλυψη! Μην ξεχάσετε να αποθηκεύσετε αυτόν τον σελιδοδείκτη στις κινητές συσκευές σας. Ξεκινήστε με έναν { -fxaccount-brand-name(case: "acc", capitalization: "lower") }.
+cfr-doorhanger-bookmark-fxa-body = Εξαιρετική ανακάλυψη! Μην ξεχάσετε να αποθηκεύσετε αυτόν τον σελιδοδείκτη στις κινητές συσκευές σας. Ξεκινήστε με έναν { -fxaccount-brand-name(capitalization: "lower", case: "acc") }.
 cfr-doorhanger-bookmark-fxa-body-2 = Εξαιρετική ανακάλυψη! Μην ξεχάσετε να αποθηκεύσετε αυτόν τον σελιδοδείκτη στις κινητές συσκευές σας. Ξεκινήστε με έναν λογαριασμό.
 cfr-doorhanger-bookmark-fxa-link-text = Συγχρονισμός σελιδοδεικτών τώρα…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
@@ -362,8 +362,8 @@ root-certificate-windows-background-notification-update-button = Ενημέρω�
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =
-    .title = Κλείσιμο
     .aria-label = Κλείσιμο
+    .title = Κλείσιμο
 fxa-menu-message-sign-up-button = Εγγραφή
 fxa-menu-message-sign-in-button = Σύνδεση
 fxa-menu-message-sync-button = Έναρξη συγχρονισμού

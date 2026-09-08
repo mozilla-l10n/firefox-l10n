@@ -30,14 +30,14 @@ cfr-doorhanger-extension-author = ruma { $name }
 cfr-doorhanger-extension-notification = Chilab'enïk
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Chilab'enïk
-    .tooltiptext = Ruchilab'exik k'amal
     .a11y-announcement = Ruchilab'exik k'amal k'o
+    .tooltiptext = Ruchilab'exik k'amal
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Chilab'enïk
-    .tooltiptext = Rub'anikil chilab'enïk
     .a11y-announcement = Rub'anikil chilab'enïk k'o
+    .tooltiptext = Rub'anikil chilab'enïk
 
 ## Add-on statistics
 ## These strings are used to display the total number of

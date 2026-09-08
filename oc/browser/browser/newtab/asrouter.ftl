@@ -30,14 +30,14 @@ cfr-doorhanger-extension-author = per { $name }
 cfr-doorhanger-extension-notification = Recomandacions
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Recomandacions
-    .tooltiptext = Extensions recomandadas
     .a11y-announcement = Recomendacions d’extensions disponiblas
+    .tooltiptext = Extensions recomandadas
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Recomandacions
-    .tooltiptext = Foncion de recomandacions
     .a11y-announcement = Foncion de recomandacions disponibla
+    .tooltiptext = Foncion de recomandacions
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -281,8 +281,8 @@ root-certificate-succession-infobar-secondary-button =
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =
-    .title = Tampar
     .aria-label = Tampar
+    .title = Tampar
 fxa-menu-message-backup-sync-primary-text = Gardatz e sincronizatz vòstras donadas
 
 ## Multi-CTA Fox Doodle Spotlight

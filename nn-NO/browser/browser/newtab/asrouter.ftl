@@ -30,14 +30,14 @@ cfr-doorhanger-extension-author = av { $name }
 cfr-doorhanger-extension-notification = Tilråding
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Tilråding
-    .tooltiptext = Utvidingstilråding
     .a11y-announcement = Utvidingstilråding tilgjengeleg
+    .tooltiptext = Utvidingstilråding
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Tilråding
-    .tooltiptext = Funksjonstilråding
     .a11y-announcement = Funksjonstilråding tilgjengeleg
+    .tooltiptext = Funksjonstilråding
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -362,8 +362,8 @@ root-certificate-windows-background-notification-update-button = Oppdater { -bra
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =
-    .title = Lat att
     .aria-label = Lat att
+    .title = Lat att
 fxa-menu-message-sign-up-button = Registrer deg
 fxa-menu-message-sign-in-button = Logg inn
 fxa-menu-message-sync-button = Start synkronisering

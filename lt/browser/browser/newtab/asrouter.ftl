@@ -30,14 +30,14 @@ cfr-doorhanger-extension-author = sukūrė { $name }
 cfr-doorhanger-extension-notification = Rekomendacija
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Rekomendacija
-    .tooltiptext = Priedo rekomendacija
     .a11y-announcement = Siūloma priedo rekomendacija
+    .tooltiptext = Priedo rekomendacija
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Rekomendacija
-    .tooltiptext = Funkcijos rekomendacija
     .a11y-announcement = Siūloma funkcijos rekomendacija
+    .tooltiptext = Funkcijos rekomendacija
 
 ## Add-on statistics
 ## These strings are used to display the total number of

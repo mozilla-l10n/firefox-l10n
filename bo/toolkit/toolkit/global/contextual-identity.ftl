@@ -37,10 +37,3 @@ user-context-shopping-panel-item = Shopping
     .accesskey = S
 user-context-manage-containers-panel-item = འཇུག་སྣོད་དོ་དམ་བྱེད་པ
     .accesskey = O
-
-## Container colors, shown as selectable swatches in the container creation/edit dialog.
-
-
-## Container icons, shown as selectable swatches in the container
-## creation/edit dialog.
-

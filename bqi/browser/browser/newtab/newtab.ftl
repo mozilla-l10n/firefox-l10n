@@ -663,6 +663,9 @@ newtab-custom-close-menu-button =
     .title = بستن
 newtab-custom-close-button = بستن
 newtab-custom-settings = دؽوۉداری سامووا قلوه
+
+## New Tab Appearance (browser theme picker)
+
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = شؽوات
 # Button that enables an already-installed theme.

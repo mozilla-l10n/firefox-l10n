@@ -30,14 +30,14 @@ cfr-doorhanger-extension-author = troch { $name }
 cfr-doorhanger-extension-notification = Oanrekommandaasje
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Oanrekommandaasje
-    .tooltiptext = Oanrekommandaasje foar útwreiding
     .a11y-announcement = Oanrekommandaasje foar útwreiding beskikber
+    .tooltiptext = Oanrekommandaasje foar útwreiding
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Oanrekommandaasje
-    .tooltiptext = Oanrekommandaasje foar funksje
     .a11y-announcement = Oanrekommandaasje foar funksje beskikber
+    .tooltiptext = Oanrekommandaasje foar funksje
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -99,8 +99,8 @@ cfr-whatsnew-release-notes-link-text = Utjefteopmerkingen lêze
 #   $date (Datetime) - The date we began recording the count of blocked trackers
 cfr-doorhanger-milestone-heading2 =
     { $blockedCount ->
-        [one] { -brand-short-name } hat sûnt { DATETIME($date, year: "numeric", month: "long") } <b>{ $blockedCount }</b> tracker blokkearre!
-       *[other] { -brand-short-name } hat sûnt { DATETIME($date, year: "numeric", month: "long") } mear as <b>{ $blockedCount }</b> trackers blokkearre!
+        [one] { -brand-short-name } hat sûnt { DATETIME($date, month: "long", year: "numeric") } <b>{ $blockedCount }</b> tracker blokkearre!
+       *[other] { -brand-short-name } hat sûnt { DATETIME($date, month: "long", year: "numeric") } mear as <b>{ $blockedCount }</b> trackers blokkearre!
     }
 cfr-doorhanger-milestone-ok-button = Alles besjen
     .accesskey = A
@@ -363,8 +363,8 @@ root-certificate-windows-background-notification-update-button = { -brand-short-
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =
-    .title = Slute
     .aria-label = Slute
+    .title = Slute
 fxa-menu-message-sign-up-button = Registrearje
 fxa-menu-message-sign-in-button = Oanmelde
 fxa-menu-message-sync-button = Begjin mei syngronisearjen

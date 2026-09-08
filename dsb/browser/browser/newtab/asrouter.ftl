@@ -30,14 +30,14 @@ cfr-doorhanger-extension-author = wót { $name }
 cfr-doorhanger-extension-notification = Pórucenje
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Dopórucenje
-    .tooltiptext = Dopórucenje rozšyrjenja
     .a11y-announcement = Dopórucenje rozšyrjenja k dispoziciji
+    .tooltiptext = Dopórucenje rozšyrjenja
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Dopórucenje
-    .tooltiptext = Dopórucenje funkcije
     .a11y-announcement = Dopórucenje funkcije k dispoziciji
+    .tooltiptext = Dopórucenje funkcije
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -369,8 +369,8 @@ root-certificate-windows-background-notification-update-button = { -brand-short-
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =
-    .title = Zacyniś
     .aria-label = Zacyniś
+    .title = Zacyniś
 fxa-menu-message-sign-up-button = Registrěrowaś
 fxa-menu-message-sign-in-button = Pśizjawiś
 fxa-menu-message-sync-button = Synchronizaciju zachopiś

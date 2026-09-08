@@ -30,14 +30,14 @@ cfr-doorhanger-extension-author = szerző: { $name }
 cfr-doorhanger-extension-notification = Javaslat
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Javaslat
-    .tooltiptext = Kiegészítőjavaslat
     .a11y-announcement = Kiegészítőjavaslat érhető el
+    .tooltiptext = Kiegészítőjavaslat
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Javaslat
-    .tooltiptext = Funkciójavaslat
     .a11y-announcement = Funkciójavaslat érhető el
+    .tooltiptext = Funkciójavaslat
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -363,8 +363,8 @@ root-certificate-windows-background-notification-update-button = A { -brand-shor
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =
-    .title = Bezárás
     .aria-label = Bezárás
+    .title = Bezárás
 fxa-menu-message-sign-up-button = Regisztráció
 fxa-menu-message-sign-in-button = Bejelentkezés
 fxa-menu-message-sync-button = Szinkronizálás indítása

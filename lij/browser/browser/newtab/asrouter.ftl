@@ -54,8 +54,8 @@ cfr-doorhanger-extension-total-users =
 cfr-doorhanger-bookmark-fxa-header = Sincronizza i teu segnalibbri dapertùtto.
 cfr-doorhanger-bookmark-fxa-link-text = Sincronizza i segnalibbri òua…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
-    .title = Særa
     .aria-label = Pomello pe serâ
+    .title = Særa
 fxa-adoption-primary-button-label = Registrite
 
 ## Protections panel
@@ -173,8 +173,8 @@ root-certificate-windows-background-notification-update-button = Agiorna { -bran
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =
-    .title = Særa
     .aria-label = Særa
+    .title = Særa
 fxa-menu-message-sign-up-button = Registrite
 fxa-menu-message-sign-in-button = Intra
 fxa-menu-message-sync-button = Iniçia a sincronizaçion

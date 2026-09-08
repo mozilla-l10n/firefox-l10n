@@ -30,14 +30,14 @@ cfr-doorhanger-extension-author = { $name } నుండి
 cfr-doorhanger-extension-notification = సిఫార్సు
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = సిఫార్సు
-    .tooltiptext = పొడగింత సిఫార్సు
     .a11y-announcement = పొడగింత సిఫార్సు అందుబాటులో ఉంది
+    .tooltiptext = పొడగింత సిఫార్సు
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = సిఫార్సు
-    .tooltiptext = సౌలభ్యపు సిఫార్సు
     .a11y-announcement = సౌలభ్యపు సిఫార్సు అందుబాటులో ఉంది
+    .tooltiptext = సౌలభ్యపు సిఫార్సు
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -210,8 +210,8 @@ root-certificate-windows-background-notification-learn-more-button = ఇంక�
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =
-    .title = మూసివేయి
     .aria-label = మూసివేయి
+    .title = మూసివేయి
 
 ## Multi-CTA Fox Doodle Spotlight
 

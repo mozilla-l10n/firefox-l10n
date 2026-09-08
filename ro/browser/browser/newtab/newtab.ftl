@@ -907,6 +907,9 @@ newtab-custom-close-menu-button =
     .title = Închide
 newtab-custom-close-button = Închide
 newtab-custom-settings = Gestionează mai multe setări
+
+## New Tab Appearance (browser theme picker)
+
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = Aspect
 # Button that opens the full browser theme selection view.

@@ -30,14 +30,14 @@ cfr-doorhanger-extension-author = tekijältä { $name }
 cfr-doorhanger-extension-notification = Suositus
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Suositus
-    .tooltiptext = Laajennussuositus
     .a11y-announcement = Laajennussuositus saatavilla
+    .tooltiptext = Laajennussuositus
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Suositus
-    .tooltiptext = Ominaisuussuositus
     .a11y-announcement = Ominaisuussuositus saatavilla
+    .tooltiptext = Ominaisuussuositus
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -362,8 +362,8 @@ root-certificate-windows-background-notification-update-button = Päivitä { -br
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =
-    .title = Sulje
     .aria-label = Sulje
+    .title = Sulje
 fxa-menu-message-sign-up-button = Rekisteröidy
 fxa-menu-message-sign-in-button = Kirjaudu sisään
 fxa-menu-message-sync-button = Aloita synkronointi

@@ -893,6 +893,9 @@ newtab-custom-close-menu-button =
     .title = סגירה
 newtab-custom-close-button = סגירה
 newtab-custom-settings = ניהול הגדרות נוספות
+
+## New Tab Appearance (browser theme picker)
+
 # Title of the browser theme ("Appearance") section in the customize panel.
 newtab-custom-appearance-section-title = מראה
 # Button that opens the full browser theme selection view.
@@ -945,10 +948,6 @@ newtab-wallpaper-dark-mountain = נוף הררי
 newtab-wallpaper-dark-city = נוף עירוני סגול
 newtab-wallpaper-dark-fox-anniversary = שועל על המדרכה ליד יער
 newtab-wallpaper-light-fox-anniversary = שועל בשדה עשב עם נוף הררי ערפילי
-# Goes back from a wallpaper category to the Customize panel. Shown as an
-# arrow with no text, so this is read by screen readers only.
-newtab-wallpaper-category-back =
-    .aria-label = חזרה להתאמה אישית
 
 ## "Your images" is the folder of wallpapers someone has saved. A saved wallpaper
 ## can be a file they uploaded, a Picture of the Day they chose to keep, or a
