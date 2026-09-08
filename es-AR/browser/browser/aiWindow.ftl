@@ -368,6 +368,12 @@ aiwindow-starter-browsing-compare = Comparar pestañas
 ## Conversation Starter Scroll Buttons
 ## Scrolls the conversation-starter pill row toward its start/end.
 
+aiwindow-starter-scroll-start =
+    .aria-label = Desplazarse hacia atrás
+    .tooltiptext = Desplazarse hacia atrás
+aiwindow-starter-scroll-end =
+    .aria-label = Desplazarse hacia adelante
+    .tooltiptext = Desplazarse hacia adelante
 # Dismisses a "pick up where you left off" resume-activity suggestion pill.
 # Variables:
 #   $text (String) - The suggestion headline being dismissed
