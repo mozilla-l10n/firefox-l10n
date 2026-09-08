@@ -27,6 +27,14 @@ user-context-none =
 user-context-manage-containers =
     .label = ਕਨਟੇਨਰਾਂ ਦਾ ਬੰਦੋਬਸਤ
     .accesskey = O
+user-context-personal-panel-item = ਨਿੱਜੀ
+    .accesskey = P
+user-context-work-panel-item = ਕੰਮ
+    .accesskey = W
+user-context-banking-panel-item = ਬੈਂਕਿੰਗ
+    .accesskey = B
+user-context-shopping-panel-item = ਖਰੀਦਦਾਰੀ
+    .accesskey = S
 user-context-new-tab =
     .label = ਨਵੀਂ ਟੈਬ
     .accesskey = N
@@ -34,8 +42,7 @@ user-context-add-container =
     .label = ਨਵਾਂ ਕਨਟੇਨਰ ਜੋੜੋ
     .accesskey = A
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = ਨੀਲਾ
