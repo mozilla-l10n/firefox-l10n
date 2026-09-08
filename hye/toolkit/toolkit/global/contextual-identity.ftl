@@ -27,9 +27,16 @@ user-context-none =
 user-context-manage-containers =
     .label = Կառավարել պարունակները
     .accesskey = O
+user-context-personal-panel-item = Անձնական
+    .accesskey = P
+user-context-work-panel-item = Աշխատանքային
+    .accesskey = W
+user-context-banking-panel-item = Բանկային
+    .accesskey = B
+user-context-shopping-panel-item = Առեւտուր
+    .accesskey = S
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = Կապոյտ
