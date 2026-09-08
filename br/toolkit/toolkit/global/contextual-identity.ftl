@@ -27,9 +27,16 @@ user-context-none =
 user-context-manage-containers =
     .label = Merañ an endalc'herioù
     .accesskey = e
+user-context-personal-panel-item = Personel
+    .accesskey = P
+user-context-work-panel-item = Labour
+    .accesskey = L
+user-context-banking-panel-item = Bank
+    .accesskey = B
+user-context-shopping-panel-item = Prenadennoù
+    .accesskey = r
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = Glas
