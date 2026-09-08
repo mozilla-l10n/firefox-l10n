@@ -27,6 +27,14 @@ user-context-none =
 user-context-manage-containers =
     .label = Rheoli Cynwysyddion
     .accesskey = h
+user-context-personal-panel-item = Personol
+    .accesskey = P
+user-context-work-panel-item = Gwaith
+    .accesskey = G
+user-context-banking-panel-item = Bancio
+    .accesskey = B
+user-context-shopping-panel-item = Siopa
+    .accesskey = S
 user-context-new-tab =
     .label = Tab Newydd
     .accesskey = N
@@ -34,8 +42,7 @@ user-context-add-container =
     .label = Ychwanegu cynhwysydd newydd
     .accesskey = Y
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = Glas
