@@ -27,6 +27,14 @@ user-context-none =
 user-context-manage-containers =
     .label = Kapsayıcıları yönet
     .accesskey = K
+user-context-personal-panel-item = Kişisel
+    .accesskey = K
+user-context-work-panel-item = İş
+    .accesskey = İ
+user-context-banking-panel-item = Banka
+    .accesskey = B
+user-context-shopping-panel-item = Alışveriş
+    .accesskey = A
 user-context-new-tab =
     .label = Yeni sekme
     .accesskey = Y
@@ -34,8 +42,7 @@ user-context-add-container =
     .label = Yeni kapsayıcı ekle
     .accesskey = Y
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = Mavi
