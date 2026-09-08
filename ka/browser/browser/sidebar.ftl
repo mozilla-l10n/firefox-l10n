@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = AI-თანამოსაუბრე
 menu-view-contextual-password-manager =
     .label = პაროლები
+menu-view-resource-monitor =
+    .label = დატვირთვის მეთვალყურეობა
 # Label for the Open Tabs entry in the View > Sidebars menu bar menu.
 # "Open Tabs" is a noun phrase referring to the tabs currently open in
 # the browser, not an instruction to open tabs.
@@ -203,6 +205,8 @@ sidebar-menu-customize-label =
     .label = გვერდითი ზოლის მორგება
 sidebar-menu-contextual-password-manager-label =
     .label = პაროლები
+sidebar-menu-resource-monitor-label =
+    .label = დატვირთვის მეთვალყურეობა
 sidebar-menu-more-tools-label =
     .label = სხვა ხელსაწყოები
 
