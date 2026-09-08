@@ -18,6 +18,10 @@ support-addons-type = Tyyppi
 support-addons-enabled = Käytössä
 support-addons-version = Versio
 support-addons-id = ID
+# In the add-on world, locations are where the addon files are stored. Each
+# location has name. For instance: app-system-addons, app-builtin,
+# app-temporary, etc.
+support-addons-location-name = Sijainti
 legacy-user-stylesheets-title = Vanhennetut käyttäjien tyylimäärittelyt
 legacy-user-stylesheets-enabled = Aktiivinen
 legacy-user-stylesheets-stylesheet-types = Tyylimäärittelyt
@@ -133,6 +137,11 @@ a11y-activated = Käytössä
 a11y-force-disabled = Estä saavutettavuustoiminnot
 a11y-handler-used = Saavutettavuuskäsittelijää käytetty
 a11y-instantiator = Saavutettavuuden käynnistänyt ohjelma
+pdfjs-title = PDF-katseluohjelma
+# PDF.js is the name of the project, leave it unchanged.
+pdfjs-version = PDF.js:n versio
+pdfjs-enabled = Käytössä
+pdfjs-open-attachments-inline = Avaa PDF-liitteet sisennettynä
 library-version-title = Kirjastojen versiot
 copy-text-to-clipboard-label = Kopioi teksti leikepöydälle
 copy-raw-data-to-clipboard-label = Kopioi käsittelemätön data leikepöydälle
@@ -180,6 +189,8 @@ media-capabilities-enumerate = Listaa tietokannan sisältö
 
 media-codec-support-sw-decoding = Ohjelmistopohjainen purku
 media-codec-support-hw-decoding = Laitteistopohjainen purku
+media-codec-support-sw-encoding = Ohjelmistopohjainen koodaus
+media-codec-support-hw-encoding = Laitteistopohjainen koodaus
 media-codec-support-codec-name = Koodekin nimi
 media-codec-support-supported = Tuettu
 media-codec-support-unsupported = Ei tuettu
