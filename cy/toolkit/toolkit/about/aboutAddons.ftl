@@ -613,7 +613,7 @@ addon-category-mlmodel = AI Ar-ddyfais
 addon-category-mlmodel-title =
     .title = AI Ar-ddyfais
 mlmodel-heading = Rheoli Modelau AI Ar-Ddyfais
-mlmodel-description = Mae rhai nodweddion ac estyniadau yn { -brand-short-name } yn cael eu pweru gan fodelau AI sy'n gweithio'n lleol ar eich dyfais. Mae'r dull hwn yn amddiffyn eich preifatrwydd ac, mewn llawer o achosion, yn cyflymu perfformiad. <a data-l10n-name="learn-more">Dysgu rhagor</a>
+mlmodel-description = Mae rhai nodweddion ac estyniadau yn { -brand-short-name } yn cael eu pweru gan fodelau AI sy'n gweithio'n lleol ar eich dyfais. Mae'r dull hwn yn diogelu eich preifatrwydd ac, mewn llawer o achosion, yn cyflymu perfformiad. <a data-l10n-name="learn-more">Dysgu rhagor</a>
 # Label for button that when clicked removed local model
 mlmodel-remove-addon-button =
     .aria-label = Tynnu

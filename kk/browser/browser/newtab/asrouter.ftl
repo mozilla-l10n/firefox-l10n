@@ -539,3 +539,5 @@ launch-options-spotlight-primary-button-launch = Сақтау және жалғ�
 # rather than translating literally.
 lapsed-user-toast-title = { -brand-product-name } сізді әлі де қолдайды
 lapsed-user-toast-subtitle = Көбірек таңдау, жекелік және басқару мүмкіндігімен шолудың жаңа жолдарын қарастырыңыз.
+lapsed-user-toast-whats-new-button = Жаңалықтарын біліңіз
+lapsed-user-toast-dismiss-button = Елемеу

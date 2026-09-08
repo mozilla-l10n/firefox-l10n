@@ -142,6 +142,16 @@ a11y-activated = Белсендірілген
 a11y-force-disabled = Кеңейтілген мүмкіндіктерге  тыйым салу
 a11y-handler-used = Қолжетерліліктің қолданылған талдаушысы
 a11y-instantiator = Қолжетерлілік объектін жасаушысы
+pdfjs-title = PDF қарау құралы
+# PDF.js is the name of the project, leave it unchanged.
+pdfjs-version = PDF.js нұсқасы
+pdfjs-enabled = Іске қосулы
+# The annotation editor is the set of PDF editing tools (draw, add image, add
+# text, signature).
+pdfjs-enabled-annotation-editor = Аңдатпалар түзеткіші іске қосылған
+# XFA (XML Form Architecture) refers to Adobe’s technology for forms.
+pdfjs-enabled-xfa = XFA формалары іске қосылған
+pdfjs-open-attachments-inline = PDF салынымдарын ішінде қарау
 library-version-title = Жинақтар нұсқалары
 copy-text-to-clipboard-label = Мәтінді алмасу буферіне көшіріп алу
 copy-raw-data-to-clipboard-label = Өнделмеген мәліметтерді алмасу буферіне көшіріп алу

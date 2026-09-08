@@ -5,14 +5,14 @@
 
 about-logins-page-title = Mewngofnodion a Chyfrineiriau
 about-logins-login-filter =
-    .placeholder = Chwilio Mewngofnodion
     .key = F
+    .placeholder = Chwilio Mewngofnodion
 create-new-login-button =
     .title = Creu mewngofnod newydd
 about-logins-page-title-name = Cyfrineiriau
 about-logins-login-filter2 =
-    .placeholder = Chwilio Cyfrineiriau
     .key = F
+    .placeholder = Chwilio Cyfrineiriau
 create-login-button =
     .title = Ychwanegu cyfrinair
 fxaccounts-sign-in-text = Defnyddiwch eich cyfrineiriau ar eich dyfeisiau eraill
@@ -185,7 +185,7 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## notes are only valid for English. Please test in your respected locale.
 
 # This message can be seen when attempting to edit a login in about:logins on Windows.
-about-logins-edit-login-os-auth-dialog-message-win = I olygu eich mewngofnod, rhowch eich manylion mewngofnodi Windows. Mae hyn yn helpu i amddiffyn diogelwch eich cyfrifon.
+about-logins-edit-login-os-auth-dialog-message-win = I olygu eich mewngofnod, rhowch eich manylion mewngofnodi Windows. Mae hyn yn helpu i diogelu diogelwch eich cyfrifon.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = golygu'r mewngofnod sydd wedi'i gadw
@@ -207,12 +207,12 @@ about-logins-reveal-password-os-auth-dialog-message-win = I weld eich cyfrinair,
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = dadlennu'r cyfrinair sydd wedi'i gadw
 # This message can be seen when attempting to copy a password in about:logins on Windows.
-about-logins-copy-password-os-auth-dialog-message-win = I gopïo'ch cyfrinair, rhowch eich manylion mewngofnodi Windows. Mae hyn yn helpu i amddiffyn diogelwch eich cyfrifon.
+about-logins-copy-password-os-auth-dialog-message-win = I gopïo'ch cyfrinair, rhowch eich manylion mewngofnodi Windows. Mae hyn yn helpu i diogelu diogelwch eich cyfrifon.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = copïo'r cyfrinair sydd wedi'i gadw
 # This message can be seen when attempting to export a password in about:logins on Windows.
-about-logins-export-password-os-auth-dialog-message-win = I allforio'ch mewngofnodion, nodwch eich manylion mewngofnodi Windows. Mae hyn yn helpu i amddiffyn diogelwch eich cyfrifon.
+about-logins-export-password-os-auth-dialog-message-win = I allforio'ch mewngofnodion, nodwch eich manylion mewngofnodi Windows. Mae hyn yn helpu i diogelu diogelwch eich cyfrifon.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-export-password-os-auth-dialog-message-macosx = allforio mewngofnodion a chyfrineiriau wedi'u cadw
