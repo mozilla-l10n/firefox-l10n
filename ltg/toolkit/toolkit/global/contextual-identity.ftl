@@ -27,9 +27,10 @@ user-context-none =
 user-context-manage-containers =
     .label = Porvaļdēt skreines
     .accesskey = O
+user-context-personal-panel-item = Personeigais
+    .accesskey = P
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = Zyls
