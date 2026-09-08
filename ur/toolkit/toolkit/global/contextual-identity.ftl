@@ -35,6 +35,8 @@ user-context-banking-panel-item = بینکاری
     .accesskey = ب
 user-context-shopping-panel-item = خریداری
     .accesskey = خ
+user-context-manage-containers-panel-item = کنٹینرز کو منظم کریں
+    .accesskey = O
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
