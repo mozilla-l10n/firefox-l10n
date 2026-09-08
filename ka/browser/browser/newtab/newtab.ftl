@@ -206,6 +206,12 @@ newtab-privacy-across-sites =
 
 # Shown when no trackers have been blocked yet today.
 newtab-privacy-empty = { -brand-short-name } ზღუდავს მეთვალყურეებს გვერდების თვალიერებისას. მათ ჩამონათვალს იხილავთ აქ.
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty-state = { -brand-short-name } თავისთავად ზღუდავს მეთვალყურეებს, შედეგად თქვენი საქმიანობა უმეტესწილად რჩება პირადი.
+# "A running tally" is an informal way to say a total that keeps updating as it goes.
+# Here we are referring to the number of trackers blocked, which increases as the user browses.
+# An alternative can be "See a running total here"
+newtab-privacy-empty-state-tally = შეჯამებულად ნაჩვენებია აქ.
 
 ## Privacy widget — Enhanced Tracking Protection off state
 
@@ -962,6 +968,48 @@ newtab-wallpaper-dark-city = ქალაქის მოიისფრო ხ�
 newtab-wallpaper-dark-fox-anniversary = მელა ქვაფენილზე ტყის მახლობლად
 newtab-wallpaper-light-fox-anniversary = მელა მდელოზე დაბურული მთის ხედით
 
+## "Your images" is the folder of wallpapers someone has saved. A saved wallpaper
+## can be a file they uploaded, a Picture of the Day they chose to keep, or a
+## Firefox wallpaper kept for them when it was retired.
+
+newtab-wallpaper-your-images = თქვენი სურათები
+# Accessible name for the tile that opens the "Your images" folder in the
+# wallpaper picker. The tile shows one of the saved images and has no text of
+# its own, so this is all a screen reader has to go on.
+newtab-wallpaper-your-images-folder =
+    .aria-label = თქვენი შენახული სურათები, ფონები
+# Read by screen readers for a saved image that has a name of its own: a kept
+# Picture of the Day, or a Firefox wallpaper kept when it was retired. An image
+# someone added themselves is numbered instead, see the string below.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-your-images-item = { $name }
+# Read by screen readers for an image someone added themselves. Firefox counts
+# these as they are saved rather than keeping the name of their file.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-your-images-item-numbered = სურათი { $number }
+# Each saved image has its own remove button. The tooltip stays short because
+# a name can be long and some locales put it before the verb, which would push
+# "remove" out of view. The full name is on the label a screen reader reads.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-remove-image =
+    .aria-label = მოცილდეს { $name }
+    .title = სურათის მოცილება
+# The remove button for an image someone added themselves. .title is the
+# tooltip and .aria-label is what a screen reader reads.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-remove-image-numbered =
+    .aria-label = მოცილდეს სურათი { $number }
+    .title = მოცილდეს სურათი { $number }
+newtab-wallpaper-remove-image-title = მოცილდეს სურათი?
+# "This action" refers to removing a saved wallpaper image.
+newtab-wallpaper-remove-image-body = ეს ქმედება შეუქცევადია.
+newtab-wallpaper-remove-image-confirm = მოცილება
+newtab-wallpaper-remove-image-cancel = გაუქმება
+
 ## Solid Colors
 
 #  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over
@@ -1054,6 +1102,9 @@ newtab-weather-menu-change-location = მდებარეობის შე�
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = მდებარეობის მოძიება
     .placeholder = მდებარეობის მოძიება
+newtab-weather-cancel-input =
+    .aria-label = გაუქმება
+    .title = გაუქმება
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = მიმდინარე მდებარეობის გამოყენება
@@ -1164,6 +1215,8 @@ newtab-section-follow-highlight-subtitle = მიჰყევით თქვე
 
 newtab-topic-navigation-label =
     .aria-label = თემები
+# Opens a menu listing the topics that did not fit in the row.
+newtab-topic-navigation-more-button = სხვა
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
@@ -1303,6 +1356,10 @@ newtab-widget-lists-menu-create = ახალი სიის შექმნ�
 newtab-widget-lists-menu-delete = ამ სიის წაშლა
 newtab-widget-lists-menu-copy = სიის ასლის აღება
 newtab-widget-lists-menu-learn-more = ვრცლად
+# "Change" is a verb here: the button switches which list is shown
+newtab-widget-lists-change-list =
+    .aria-label = სიის შეცვლა
+    .title = სიის შეცვლა
 newtab-widget-lists-button-add-item = ჩანაწერის დამატება
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = ჩანაწერის დამატება
@@ -1362,6 +1419,11 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .aria-label = ყველა ჩანამატი შემცირებული ზომით
     .title = ჩანამატების ჩაკეცვა
+# Shown on the widgets section header button while the section is
+# auto-minimized to its title row, to open the section back up.
+newtab-widget-section-show-widgets =
+    .aria-label = გამოჩნდეს ჩანამატების არე
+    .title = ჩანამატების ჩვენება
 newtab-widget-section-menu-button =
     .aria-label = ჩანამატების მენიუს გახსნა
     .title = ჩანამატების მენიუ

@@ -600,6 +600,7 @@ mlmodel-pdfjs = { -brand-short-name } იყენებს PDF-ში ჩას
 mlmodel-smart-tab-topic-engine = { -brand-short-name } იყენებს თქვენი ჩანართების ჯგუფებისთვის სახელების შემოსათავაზებლად
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } იყენებს ჩანართების ჯგუფებში დასამატებელი ჩანართების შემოსათავაზებლად
 mlmodel-formfill-engine = { -brand-short-name } ამას იყენებს მისამართების ველების შესავსებად
+mlmodel-speech-recognition = { -brand-short-name } იყენებს ხმის ამოცნობისთვის მოწყობილობაზევე
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = მოწყობილობაზე გაშვებული AI
 addon-category-mlmodel-title =
