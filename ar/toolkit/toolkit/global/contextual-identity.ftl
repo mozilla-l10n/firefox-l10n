@@ -27,6 +27,14 @@ user-context-none =
 user-context-manage-containers =
     .label = أدِر الحاويات
     .accesskey = ح
+user-context-personal-panel-item = شخصي
+    .accesskey = ش
+user-context-work-panel-item = عمل
+    .accesskey = ع
+user-context-banking-panel-item = صيرفة
+    .accesskey = ص
+user-context-shopping-panel-item = تسوق
+    .accesskey = ت
 user-context-new-tab =
     .label = لسان جديد
     .accesskey = ل
@@ -34,8 +42,7 @@ user-context-add-container =
     .label = أضف حاوية جديدة
     .accesskey = ض
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = أزرق
