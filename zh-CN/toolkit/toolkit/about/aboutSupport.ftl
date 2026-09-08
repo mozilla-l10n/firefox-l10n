@@ -148,10 +148,12 @@ a11y-instantiator = 无障碍环境实例化器（Accessibility Instantiator）
 pdfjs-title = PDF 查看器
 # PDF.js is the name of the project, leave it unchanged.
 pdfjs-version = PDF.js 版本
-pdfjs-enabled = 已启用
+pdfjs-enabled = 启用
 # The annotation editor is the set of PDF editing tools (draw, add image, add
 # text, signature).
-pdfjs-enabled-annotation-editor = 批注编辑器已启用
+pdfjs-enabled-annotation-editor = 启用批注编辑器
+# XFA (XML Form Architecture) refers to Adobe’s technology for forms.
+pdfjs-enabled-xfa = 启用 XFA 表单
 library-version-title = 库版本
 copy-text-to-clipboard-label = 复制文本到剪贴板
 copy-raw-data-to-clipboard-label = 复制原始数据到剪贴板
