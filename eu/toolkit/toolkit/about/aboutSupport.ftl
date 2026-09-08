@@ -146,6 +146,12 @@ pdfjs-title = PDF ikustailea
 # PDF.js is the name of the project, leave it unchanged.
 pdfjs-version = PDF.js bertsioa
 pdfjs-enabled = Gaituta
+# The annotation editor is the set of PDF editing tools (draw, add image, add
+# text, signature).
+pdfjs-enabled-annotation-editor = Esku-oharren editorea gaituta
+# XFA (XML Form Architecture) refers to Adobe’s technology for forms.
+pdfjs-enabled-xfa = XFA inprimakiak gaituta
+pdfjs-open-attachments-inline = Ikusi PDF eranskinak barnean
 library-version-title = Liburutegien bertsioak
 copy-text-to-clipboard-label = Kopiatu testua arbelean
 copy-raw-data-to-clipboard-label = Kopiatu datu gordinak arbelean

@@ -133,6 +133,16 @@ place-database-last-integrity-corruption-date = תאריך השחתה אחרון
 a11y-title = נגישות
 a11y-activated = מופעל
 a11y-force-disabled = מניעת נגישות
+pdfjs-title = מציג PDF
+# PDF.js is the name of the project, leave it unchanged.
+pdfjs-version = גרסת PDF.js
+pdfjs-enabled = מופעל
+# The annotation editor is the set of PDF editing tools (draw, add image, add
+# text, signature).
+pdfjs-enabled-annotation-editor = עורך ההערות מופעל
+# XFA (XML Form Architecture) refers to Adobe’s technology for forms.
+pdfjs-enabled-xfa = טפסי XFA מופעלים
+pdfjs-open-attachments-inline = פתיחת נספחי של PDF בתוך השורה
 library-version-title = גרסאות ספריה
 copy-text-to-clipboard-label = העתקת טקסט ללוח
 copy-raw-data-to-clipboard-label = העתקת נתונים גולמיים ללוח

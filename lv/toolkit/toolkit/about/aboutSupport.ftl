@@ -78,6 +78,16 @@ a11y-activated = Aktivizēta
 a11y-force-disabled = Neatļaut piekļūstamību
 a11y-handler-used = Izmantots piekļūstamības rīks
 a11y-instantiator = Piekļūstamības uzsācējs
+pdfjs-title = PDF skatītājs
+# PDF.js is the name of the project, leave it unchanged.
+pdfjs-version = PDF.js versija
+pdfjs-enabled = Iespējots
+# The annotation editor is the set of PDF editing tools (draw, add image, add
+# text, signature).
+pdfjs-enabled-annotation-editor = Pierakstu redaktors iespējots
+# XFA (XML Form Architecture) refers to Adobe’s technology for forms.
+pdfjs-enabled-xfa = XFA veidlapas iespējotas
+pdfjs-open-attachments-inline = Atvērt PDF pielikumus iekšēji
 library-version-title = Bibliotēkas versijas
 copy-text-to-clipboard-label = Kopēt tekstu atmiņā
 copy-raw-data-to-clipboard-label = Kopēt datus atmiņā
