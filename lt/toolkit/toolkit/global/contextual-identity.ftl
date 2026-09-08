@@ -35,6 +35,8 @@ user-context-banking-panel-item = Bankininkystė
     .accesskey = B
 user-context-shopping-panel-item = Pirkiniai
     .accesskey = P
+user-context-manage-containers-panel-item = Tvarkyti sudėtines korteles
+    .accesskey = u
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
