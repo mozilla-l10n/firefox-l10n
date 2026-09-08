@@ -27,6 +27,16 @@ user-context-none =
 user-context-manage-containers =
     .label = 컨테이너 관리
     .accesskey = O
+user-context-personal-panel-item = 개인
+    .accesskey = P
+user-context-work-panel-item = 업무
+    .accesskey = W
+user-context-banking-panel-item = 은행
+    .accesskey = B
+user-context-shopping-panel-item = 쇼핑
+    .accesskey = S
+user-context-manage-containers-panel-item = 컨테이너 관리
+    .accesskey = O
 user-context-new-tab =
     .label = 새 탭
     .accesskey = N
@@ -34,8 +44,7 @@ user-context-add-container =
     .label = 새 컨테이너 추가
     .accesskey = A
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = 파란색
