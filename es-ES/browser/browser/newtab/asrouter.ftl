@@ -305,9 +305,9 @@ launch-on-login-infobar-final-reject-button = No, gracias
 # launch-on-login can be toggled, not the Windows system settings.
 launch-on-login-autostart-infobar-message = Ahora { -brand-short-name } se inicia cuando usted inicie sesión en Windows. Puede cambiar esta preferencia más adelante en los ajustes.
 launch-on-login-autostart-infobar-keep-button = Conservar
-    .accesskey = K
+    .accesskey = C
 launch-on-login-autostart-infobar-turn-off-button = Desactivar
-    .accesskey = T
+    .accesskey = D
 
 ## Tail Fox Set Default Spotlight
 

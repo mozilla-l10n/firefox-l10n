@@ -306,9 +306,9 @@ launch-on-login-infobar-final-reject-button = No, gracias
 # launch-on-login can be toggled, not the Windows system settings.
 launch-on-login-autostart-infobar-message = Ahora { -brand-short-name } se inicia cuando inicias tu sesión en Windows. Puedes cambiar esta preferencia mas adelante en los ajustes.
 launch-on-login-autostart-infobar-keep-button = Mantener activado
-    .accesskey = K
+    .accesskey = M
 launch-on-login-autostart-infobar-turn-off-button = Desactivar
-    .accesskey = T
+    .accesskey = D
 
 ## Launch on login spotlight
 ##
