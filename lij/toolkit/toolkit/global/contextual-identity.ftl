@@ -35,6 +35,8 @@ user-context-banking-panel-item = Banca
     .accesskey = B
 user-context-shopping-panel-item = Negòççi
     .accesskey = N
+user-context-manage-containers-panel-item = Gestisci contegnitoî
+    .accesskey = O
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
