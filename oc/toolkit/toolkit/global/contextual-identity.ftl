@@ -27,6 +27,14 @@ user-context-none =
 user-context-manage-containers =
     .label = Gerir los contenedors
     .accesskey = o
+user-context-personal-panel-item = Personal
+    .accesskey = P
+user-context-work-panel-item = Trabalh
+    .accesskey = T
+user-context-banking-panel-item = Banca
+    .accesskey = B
+user-context-shopping-panel-item = Crompas
+    .accesskey = C
 user-context-manage-containers-panel-item = Gerir los contenedors
     .accesskey = o
 
