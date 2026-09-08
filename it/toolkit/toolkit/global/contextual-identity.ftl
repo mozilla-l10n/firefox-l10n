@@ -34,8 +34,7 @@ user-context-add-container =
     .label = Aggiungi nuovo contenitore
     .accesskey = A
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = Blu
