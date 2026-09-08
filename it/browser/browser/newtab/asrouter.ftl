@@ -540,3 +540,4 @@ lapsed-user-toast-title = { -brand-product-name } è ancora dalla tua parte
 lapsed-user-toast-subtitle = Scopri nuovi modi di navigare con più libertà di scelta, privacy e controllo.
 lapsed-user-toast-whats-new-button = Scopri le novità
 lapsed-user-toast-dismiss-button = Chiudi
+
