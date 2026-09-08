@@ -31,6 +31,12 @@ user-context-personal-panel-item = Ichinan
     .accesskey = I
 user-context-work-panel-item = Samaj
     .accesskey = S
+user-context-banking-panel-item = Pwaqb'äl
+    .accesskey = P
+user-context-shopping-panel-item = Loq'oj
+    .accesskey = q
+user-context-manage-containers-panel-item = Kenuk'samajïx K'wayöl
+    .accesskey = w
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
