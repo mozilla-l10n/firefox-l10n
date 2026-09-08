@@ -142,6 +142,10 @@ a11y-activated = Aktibatuta
 a11y-force-disabled = Eragotzi erabilgarritasuna
 a11y-handler-used = Maneiatzaile erabilerraza erabilita
 a11y-instantiator = Erabilerraztasunaren instantziatzailea
+pdfjs-title = PDF ikustailea
+# PDF.js is the name of the project, leave it unchanged.
+pdfjs-version = PDF.js bertsioa
+pdfjs-enabled = Gaituta
 library-version-title = Liburutegien bertsioak
 copy-text-to-clipboard-label = Kopiatu testua arbelean
 copy-raw-data-to-clipboard-label = Kopiatu datu gordinak arbelean
