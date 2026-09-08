@@ -27,6 +27,8 @@ user-context-none =
 user-context-manage-containers =
     .label = Gestionează containerele
     .accesskey = O
+user-context-personal-panel-item = Personale
+    .accesskey = P
 user-context-new-tab =
     .label = Filă nouă
     .accesskey = N
@@ -34,8 +36,7 @@ user-context-add-container =
     .label = Adaugă un container nou
     .accesskey = A
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = Albastru
