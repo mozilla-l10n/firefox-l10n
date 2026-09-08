@@ -596,6 +596,7 @@ mlmodel-pdfjs = { -brand-short-name } käyttää tätä luodakseen vaihtoehtoise
 mlmodel-smart-tab-topic-engine = { -brand-short-name } käyttää tätä ehdottaakseen nimiä välilehtiryhmille
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } käyttää tätä ehdottaakseen välilehtiä välilehtiryhmiin
 mlmodel-formfill-engine = { -brand-short-name } käyttää tätä osoitelomakkeiden täyttämiseen
+mlmodel-speech-recognition = { -brand-short-name } käyttää tätä laitteella tehtävään puheentunnistukseen
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = Laitteessa sijaitseva tekoäly
 addon-category-mlmodel-title =
