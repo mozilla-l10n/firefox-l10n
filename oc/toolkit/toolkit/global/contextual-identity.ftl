@@ -27,9 +27,10 @@ user-context-none =
 user-context-manage-containers =
     .label = Gerir los contenedors
     .accesskey = o
+user-context-manage-containers-panel-item = Gerir los contenedors
+    .accesskey = o
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = Blau
