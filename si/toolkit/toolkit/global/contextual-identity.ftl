@@ -27,9 +27,18 @@ user-context-none =
 user-context-manage-containers =
     .label = අඩංගු කළමනාකරණය
     .accesskey = o
+user-context-personal-panel-item = පෞද්ගලික
+    .accesskey = P
+user-context-work-panel-item = වැඩ
+    .accesskey = W
+user-context-banking-panel-item = බැංකුකරණ
+    .accesskey = B
+user-context-shopping-panel-item = සාප්පු සවාරි
+    .accesskey = S
+user-context-manage-containers-panel-item = අඩංගු කළමනාකරණය
+    .accesskey = o
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = නිල්
