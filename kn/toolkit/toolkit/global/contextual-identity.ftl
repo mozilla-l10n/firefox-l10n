@@ -24,9 +24,16 @@ user-context-shopping =
 user-context-none =
     .label = ಕಂಟೈನರ್ ಲಭ್ಯವಿಲ್ಲ
     .accesskey = N
+user-context-personal-panel-item = ವೈಯಕ್ತಿಕ
+    .accesskey = P
+user-context-work-panel-item = ಕೆಲಸ
+    .accesskey = W
+user-context-banking-panel-item = ಬ್ಯಾಂಕಿಂಗ್
+    .accesskey = B
+user-context-shopping-panel-item = ಶಾಪಿಂಗ್
+    .accesskey = S
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = ನೀಲಿ
