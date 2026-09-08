@@ -206,6 +206,8 @@ newtab-privacy-across-sites =
 
 # Shown when no trackers have been blocked yet today.
 newtab-privacy-empty = { -brand-short-name } bloquea rastreadores mientras se navega. Se verán acá.
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty-state = { -brand-short-name } bloquea automáticamente los rastreadores, manteniendo privada una mayor parte de su actividad.
 # "A running tally" is an informal way to say a total that keeps updating as it goes.
 # Here we are referring to the number of trackers blocked, which increases as the user browses.
 # An alternative can be "See a running total here"
@@ -902,6 +904,13 @@ newtab-custom-close-menu-button =
     .title = Cerrar
 newtab-custom-close-button = Cerrar
 newtab-custom-settings = Administrar más configuraciones
+
+## Customization Menu
+
+# An arrow button that goes back from a sub-panel in the customize panel, such as a wallpaper category, to the main Customize panel.
+newtab-customize-panel-back-button =
+    .aria-label = Volver a Personalizar
+    .title = Volver a Personalizar
 
 ## New Tab Appearance (browser theme picker)
 

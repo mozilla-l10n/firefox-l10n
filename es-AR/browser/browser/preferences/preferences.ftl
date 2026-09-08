@@ -1642,6 +1642,11 @@ windows-passkey-settings-label = Administrar claves de acceso en la configuraci�
 privacy-panel-settings-header =
     .description = Reciba ayuda para proteger su información online en { -brand-short-name }
     .label = Configuración del panel de privacidad
+# By “breach message” we mean the UI messaging shown when Firefox detects that a
+# site the user has interacted with has been involved in a known data breach
+privacy-panel-breach-alerts =
+    .label = Mostrar mensajes de filtraciones
+    .accesskey = s
 
 ## OS Authentication dialog
 
