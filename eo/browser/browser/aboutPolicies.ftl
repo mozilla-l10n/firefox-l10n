@@ -22,3 +22,6 @@ inactive-message = La servo “enterprenaj politikoj” estas malaktiva.
 policy-name = Nomo de politiko
 policy-value = Valoro de politiko
 policy-errors = Eraroj de politiko
+# Shown under the name of a policy in the Active list when at least one of the
+# operations of that policy failed to apply. The Errors tab has the details.
+policy-not-fully-applied = Ne plene aplikita

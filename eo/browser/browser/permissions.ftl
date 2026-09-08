@@ -3,3 +3,4 @@
 # You can obtain one at http://mozilla.org/MPL/2.0/.
 
 perm-persistent-storage-remember = Memori tiun ĉi decidon
+speech-recognition-model-download-header = Ĉu agordi la rekonon de parolo?

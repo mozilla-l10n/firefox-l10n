@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = A.I. dialoganto
 menu-view-contextual-password-manager =
     .label = Pasvortoj
+menu-view-resource-monitor =
+    .label = Rimeda kontrolilo
 # Label for the Open Tabs entry in the View > Sidebars menu bar menu.
 # "Open Tabs" is a noun phrase referring to the tabs currently open in
 # the browser, not an instruction to open tabs.
@@ -173,6 +175,12 @@ sidebar-opentabs-preview-heading = Ĵusaj langetoj
 #   $tabTitle (String) - Title of tab being closed
 sidebar-opentabs-preview-close-tab =
     .title = Fermi { $tabTitle }
+# Tooltip for the button that mutes a tab from the Open Tabs hover preview.
+sidebar-opentabs-preview-mute-tab =
+    .title = Silentigi langeton
+# Tooltip for the button that unmutes a tab from the Open Tabs hover preview.
+sidebar-opentabs-preview-unmute-tab =
+    .title = Malsilentigi langeton
 
 ## Labels for sidebar menu items.
 
@@ -193,6 +201,8 @@ sidebar-menu-customize-label =
     .label = Personecigi la flankan strion
 sidebar-menu-contextual-password-manager-label =
     .label = Pasvortoj
+sidebar-menu-resource-monitor-label =
+    .label = Rimeda kontrolilo
 sidebar-menu-more-tools-label =
     .label = Pli da iloj
 

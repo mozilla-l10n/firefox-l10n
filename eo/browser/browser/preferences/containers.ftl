@@ -3,13 +3,13 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 containers-window-new2 =
-    .title = Aldoni novan ingon
     .style = min-width: 45em
+    .title = Aldoni novan ingon
 # Variables
 #   $name (String) - Name of the container
 containers-window-update-settings2 =
-    .title = Ingaj agordoj de { $name }
     .style = min-width: 45em
+    .title = Ingaj agordoj de { $name }
 containers-window-close =
     .key = w
 containers-name-label2 =
@@ -19,6 +19,9 @@ containers-icon-label2 =
     .label = Emblemo
 containers-color-label2 =
     .label = Koloro
+containers-dialog2 =
+    .buttonlabelaccept = Konservi
+    .buttonaccesskeyaccept = K
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -30,16 +33,16 @@ containers-color-label2 =
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
 containers-name-label = Nomo
-    .accesskey = N
     .style = { -containers-labels-style }
+    .accesskey = N
 containers-name-text =
     .placeholder = Tajpu nomon de ingo
 containers-icon-label = Emblemo
+    .style = { -containers-labels-style }
     .accesskey = E
-    .style = { -containers-labels-style }
 containers-color-label = Koloro
-    .accesskey = K
     .style = { -containers-labels-style }
+    .accesskey = K
 containers-dialog =
     .buttonlabelaccept = Farita
     .buttonaccesskeyaccept = F
@@ -90,13 +93,32 @@ containers-icon-tree =
 containers-icon-chill =
     .label = Malstreĉo
 containers-window-new3 =
-    .title = Aldoni novan ingon
     .style = min-width: 32em
+    .title = Aldoni novan ingon
 # Variables
 #   $name (String) - Name of the container
 containers-window-update-settings3 =
-    .title = Ingaj agordoj de { $name }
     .style = min-width: 32em
+    .title = Ingaj agordoj de { $name }
+
+## Dialog that binds a website to a container.
+
+containers-site-window =
+    .title = Aldoni retejon
+containers-site-label =
+    .label = Retejo
+    .placeholder = example.com
+containers-site-container-label =
+    .label = Ingo
+containers-site-dialog =
+    .buttonlabelaccept = Konservi
+    .buttonaccesskeyaccept = K
+# Shown below the website field when the typed website is not a host, or when
+# it is a URL that does not use the https scheme.
+containers-site-invalid-error = Tajpu validan, sekuran retejon
+# Shown below the website field when the typed website is already bound to a
+# container.
+containers-site-duplicate-error = Tiu ĉi retejo jam estas en via listo
 
 ## Container creation panel, anchored to the URL bar.
 

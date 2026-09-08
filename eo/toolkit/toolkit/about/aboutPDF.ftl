@@ -13,6 +13,8 @@ about-pdf-dropzone-invalid-file = Tiu ĉi dosiero ne estas subtenata. Elektu dos
 about-pdf-dropzone-error-generic = La alŝuto ne finiĝis. Provu denove poste.
 about-pdf-browse-files =
     .label = Esplori dosierojn
+# Title of the system file picker opened by the “Browse files” button.
+about-pdf-file-picker-title = Malfermi PDF
 about-pdf-promo =
     .heading = Igu { -brand-short-name } via normal redaktilo PDF
     .message = Malfermu dosierojn PDF en { -brand-short-name } kaj faru esencajn agojn en unu loko: elstarigi tekston, kunfandi dosierojn, subskribi kaj komenti.
