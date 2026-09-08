@@ -142,6 +142,15 @@ a11y-activated = Gweithredu
 a11y-force-disabled = Atal Hygyrchedd
 a11y-handler-used = Defnyddiwyd Trinydd Mynediadwy
 a11y-instantiator = Enghreifftiad Hygyrchedd
+pdfjs-title = Darllenydd PDF
+# PDF.js is the name of the project, leave it unchanged.
+pdfjs-version = Fersiwn PDF.js
+pdfjs-enabled = Galluogi
+# The annotation editor is the set of PDF editing tools (draw, add image, add
+# text, signature).
+pdfjs-enabled-annotation-editor = Golygydd Anodi wedi'i Galluogi
+# XFA (XML Form Architecture) refers to Adobe’s technology for forms.
+pdfjs-enabled-xfa = Ffurflenni XFA wedi'u Galluogi
 library-version-title = Fersiynau Llyfrgell
 copy-text-to-clipboard-label = Copïo testun i'r clipfwrdd
 copy-raw-data-to-clipboard-label = Copïo data bras i'r clipfwrdd

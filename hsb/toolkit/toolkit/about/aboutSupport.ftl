@@ -142,6 +142,16 @@ a11y-activated = Aktiwizowany
 a11y-force-disabled = Bjezbarjernosći zadźěwać
 a11y-handler-used = Přistupny handler wužity
 a11y-instantiator = Instancowak bjezbarjernosće
+pdfjs-title = PDF-čitak
+# PDF.js is the name of the project, leave it unchanged.
+pdfjs-version = Wersija PDF.js
+pdfjs-enabled = Zmóžnjeny
+# The annotation editor is the set of PDF editing tools (draw, add image, add
+# text, signature).
+pdfjs-enabled-annotation-editor = Editor anotacijow zmóžnjeny
+# XFA (XML Form Architecture) refers to Adobe’s technology for forms.
+pdfjs-enabled-xfa = Formulary XFA zmóžnjene
+pdfjs-open-attachments-inline = Přiwěški PDF w lince wočinić
 library-version-title = Bibliotekowe wersije
 copy-text-to-clipboard-label = Tekst do mjezyskłada kopěrować
 copy-raw-data-to-clipboard-label = Hrube daty do mjezyskłada kopěrować

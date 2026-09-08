@@ -99,8 +99,8 @@ about-processes-with-coop-coep-process-private = { $origin } — პირად
 #                   Can be an empty string if the process is idle.
 about-processes-active-threads =
     { $active ->
-        [one] { $active } მოქმედი ნაკადი, სულ { $number }: { $list }
-       *[other] { $active } მოქმედი ნაკადი, სულ { $number }: { $list }
+        [one] { $active } მოქმედი ნაკადი { $number }-იდან: { $list }
+       *[other] { $active } მოქმედი ნაკადი { $number }-იდან: { $list }
     }
 # Single-line summary of threads (idle process)
 # Variables:
@@ -165,7 +165,7 @@ about-processes-cpu-user-and-kernel-not-ready = (ითვლება)
 # Special case: process or thread is almost idle (using less than 0.1% of a CPU core).
 # This case only occurs on Windows where the precision of the CPU times is low.
 about-processes-cpu-almost-idle = < 0.1%
-    .title = სულ CPU-დრო: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
+    .title = პროცესორის დრო ჯამში: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
 # Special case: process or thread is currently idle.
 about-processes-cpu-fully-idle = უქმი
     .title = სულ CPU-დრო: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
@@ -183,7 +183,7 @@ about-processes-cpu-fully-idle = უქმი
 
 # Common case.
 about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
-    .title = განვითარება: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit }
+    .title = მატება: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit }
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
 
