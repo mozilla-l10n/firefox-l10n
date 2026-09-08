@@ -960,6 +960,13 @@ newtab-custom-close-menu-button =
 newtab-custom-close-button = Zavřít
 newtab-custom-settings = Další nastavení
 
+## Customization Menu
+
+# An arrow button that goes back from a sub-panel in the customize panel, such as a wallpaper category, to the main Customize panel.
+newtab-customize-panel-back-button =
+    .aria-label = Zpět na přizpůsobení
+    .title = Zpět na přizpůsobení
+
 ## New Tab Appearance (browser theme picker)
 
 # Title of the browser theme ("Appearance") section in the customize panel.
