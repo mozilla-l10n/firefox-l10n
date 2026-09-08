@@ -298,7 +298,7 @@ mr2022-onboarding-privacy-segmentation-button-secondary-label = Wyświetlaj szcz
 
 mr2022-onboarding-gratitude-title = Pomagasz nam budować lepszą sieć
 mr2022-onboarding-gratitude-subtitle = Dziękujemy za używanie { -brand-short-name(case: "gen") }, wspieranego przez Mozilla Foundation. Z waszą pomocą pracujemy nad tym, aby Internet był bardziej otwarty, dostępny i lepszy dla wszystkich.
-mr2022-onboarding-gratitude-primary-button-label = Zobacz co nowego
+mr2022-onboarding-gratitude-primary-button-label = Zobacz, co nowego
 mr2022-onboarding-gratitude-secondary-button-label = Zacznij przeglądać Internet
 
 ## Onboarding spotlight for infrequent users

@@ -445,7 +445,7 @@ windows-10-eos-sync-callout-get-started-button = Zacznij teraz
 windows-10-eos-feature-toast-title = Pionowe karty i grupy kart już są dostępne!
 # In English, "dropped" is a colloquial form for released.
 windows-10-eos-feature-toast-subtitle = W odpowiedzi na liczne prośby { -brand-product-name } właśnie wypuścił nowe funkcje, dzięki którym przeglądanie Internetu jest prostsze i bez rozproszeń.
-windows-10-eos-feature-toast-whats-new-button = Zobacz co nowego
+windows-10-eos-feature-toast-whats-new-button = Zobacz, co nowego
 windows-10-eos-feature-toast-dismiss-button = Zamknij
 
 ## Windows 10 EoS Global Infobar
@@ -531,3 +531,21 @@ launch-options-spotlight-checkbox-restore-previous = Przywracaj poprzednie okna 
 launch-options-spotlight-primary-button-close = Zachowaj i zamknij { -brand-short-name(case: "acc") }
 # Primary button on the browser-launch prompt
 launch-options-spotlight-primary-button-launch = Zachowaj i kontynuuj
+
+## Lapsed-user Windows toast notification for the Nova Fall 2026 campaign
+##
+## These strings will be displayed by the Windows operating system in a
+## native toast shown by the background task to users who have Firefox
+## installed but haven't opened it recently. The message itself is hosted
+## off-train on Remote Settings via Nimbus; the strings are landed here so
+## localization can begin.
+##
+## The button labels are fitted into narrow fixed-width buttons by
+## Windows and therefore must be as narrow as possible.
+
+# "has your back" is an idiom meaning support and protection; adapt freely
+# rather than translating literally.
+lapsed-user-toast-title = { -brand-product-name } nadal jest po Twojej stronie
+lapsed-user-toast-subtitle = Wypróbuj nowe możliwości przeglądania, zapewniające większy wybór, prywatność i kontrolę.
+lapsed-user-toast-whats-new-button = Zobacz, co nowego
+lapsed-user-toast-dismiss-button = Zamknij
