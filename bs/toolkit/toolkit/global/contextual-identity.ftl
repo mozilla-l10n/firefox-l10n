@@ -27,9 +27,16 @@ user-context-none =
 user-context-manage-containers =
     .label = Upravljaj kontejnerima
     .accesskey = o
+user-context-personal-panel-item = Lični
+    .accesskey = L
+user-context-work-panel-item = Poslovni
+    .accesskey = P
+user-context-banking-panel-item = Bankarstvo
+    .accesskey = B
+user-context-shopping-panel-item = Kupovina
+    .accesskey = K
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = Plava
