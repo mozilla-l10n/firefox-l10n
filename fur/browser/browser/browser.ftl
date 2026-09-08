@@ -128,6 +128,9 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Gjestìs impostazions di barcons a comparse e di indreçaments di tiercis bandis…
     .accesskey = G
+
+##
+
 urlbar-identity-button =
     .aria-label = Visualize informazions sul sît
 
@@ -891,6 +894,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Sponsorizât
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Domande
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1102,6 +1110,14 @@ urlbar-view-context-menu-open-in-window =
     .accesskey = b
 urlbar-view-context-menu-open-in-private-window =
     .label = Vierç intun gnûf barcon privât
+    .accesskey = p
+urlbar-view-context-menu-open-in-tab2 = Vierç intune gnove schede
+    .accesskey = V
+urlbar-view-context-menu-open-in-container-tab2 = Vierç intune gnove schede contignidôr
+    .accesskey = i
+urlbar-view-context-menu-open-in-window2 = Vierç intun gnûf barcon
+    .accesskey = b
+urlbar-view-context-menu-open-in-private-window2 = Vierç intun gnûf barcon privât
     .accesskey = p
 
 ## Labels shown above groups of urlbar results
@@ -1425,6 +1441,9 @@ picture-in-picture-move-toggle-left =
 
 ##
 
+
+# Navigator Toolbox
+
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
 # this container is a toolbar. This avoids double-speaking.
@@ -1646,6 +1665,13 @@ file-picker-crashed-open = Il dialic di Windows pe selezion dai files al è cola
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Il dialic di Windows pe selezion dai files al è colassât. Il file al vignarà salvât come { $path }.
 file-picker-crashed-save-nowhere = Il dialic di Windows pe selezion dai files al è colassât. No je stade cjatade nissune cartele predefinide e il file nol vignarà salvât.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Mostre te cartele
     .accessKey = F
@@ -1698,6 +1724,9 @@ trustpanel-blocker-see-all = Viôt ducj
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Protezions da lis spiis par { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
