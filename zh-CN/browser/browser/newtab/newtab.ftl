@@ -855,6 +855,13 @@ newtab-custom-close-menu-button =
 newtab-custom-close-button = 关闭
 newtab-custom-settings = 管理更多设置
 
+## Customization Menu
+
+# An arrow button that goes back from a sub-panel in the customize panel, such as a wallpaper category, to the main Customize panel.
+newtab-customize-panel-back-button =
+    .aria-label = 返回“定制”
+    .title = 返回“定制”
+
 ## New Tab Appearance (browser theme picker)
 
 # Title of the browser theme ("Appearance") section in the customize panel.
