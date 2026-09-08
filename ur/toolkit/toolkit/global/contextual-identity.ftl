@@ -27,9 +27,16 @@ user-context-none =
 user-context-manage-containers =
     .label = کنٹینرز کو منظم کریں
     .accesskey = O
+user-context-personal-panel-item = ذاتی
+    .accesskey = ذ
+user-context-work-panel-item = کام
+    .accesskey = ک
+user-context-banking-panel-item = بینکاری
+    .accesskey = ب
+user-context-shopping-panel-item = خریداری
+    .accesskey = خ
 
-## Container colors, shown as selectable swatches in the container
-## creation/edit dialog.
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = نیلا
