@@ -35,6 +35,8 @@ user-context-banking-panel-item = Bankçılıq
     .accesskey = B
 user-context-shopping-panel-item = Alış-beriş
     .accesskey = A
+user-context-manage-containers-panel-item = Konteynerlerni İdare Et
+    .accesskey = o
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
