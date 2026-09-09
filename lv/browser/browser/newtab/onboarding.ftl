@@ -43,7 +43,7 @@ mr1-onboarding-sign-in-button-label = Ierakstīties
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
-mr1-onboarding-import-primary-button-label-attribution = Importēt no { $previous }
+mr1-onboarding-import-primary-button-label-attribution = Ievietot no { $previous }
 mr1-onboarding-theme-header = Padari to par savu
 mr1-onboarding-theme-subtitle = Personalizējiet { -brand-short-name } ar motīvu.
 mr1-onboarding-theme-secondary-button-label = Ne tagad
@@ -147,7 +147,7 @@ mr2022-onboarding-easy-setup-primary-button-label = Saglabāt un turpināt
 # Set Default action checkbox label used on new user onboarding first screen
 mr2022-onboarding-easy-setup-set-default-checkbox-label = Iestatīt { -brand-short-name } kā noklusējuma pārlūku
 # Import action checkbox label used on new user onboarding first screen
-mr2022-onboarding-easy-setup-import-checkbox-label = Importēt no iepriekšējā pārlūka
+mr2022-onboarding-easy-setup-import-checkbox-label = Ievietot no iepriekšējā pārlūka
 
 ## MR2022 New User Pin Firefox screen strings
 
@@ -202,7 +202,7 @@ mr2022-onboarding-get-started-primary-subtitle = Mūsu jaunākā versija ir veid
 mr2022-onboarding-get-started-primary-button-label = Iestatiet dažās sekundēs
 mr2022-onboarding-import-header = Zibens ātra iestatīšana
 mr2022-onboarding-import-subtitle = Iestatiet { -brand-short-name }, kā jums patīk. Pievienojiet savas grāmatzīmes, paroles un citu saturu no vecā pārlūka.
-mr2022-onboarding-import-primary-button-label-no-attribution = Importēt no iepriekšējā pārlūka
+mr2022-onboarding-import-primary-button-label-no-attribution = Ievietot no iepriekšējā pārlūka
 
 ## If your language uses grammatical genders, in the description for the
 ## colorway feel free to switch from "You are a X. You…" (e.g. "You are a

@@ -4,7 +4,7 @@
 
 profiles-title = Acerca dos perfis
 profiles-subtitle = Esta página ajuda-o a gerir os seus perfis. Cada perfil é um mundo separado que contém histórico, marcadores, definições e complementos separados.
-profiles-create = Criar um novo perfil
+profiles-create = Criar um Novo Perfil
 profiles-restart-title = Reiniciar
 profiles-restart-in-safe-mode = Reiniciar com os complementos desativados…
 profiles-restart-normal = Reiniciar normalmente…

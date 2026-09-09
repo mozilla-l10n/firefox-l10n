@@ -2,8 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-migration-wizard-selection-header = Importēt pārlūka datus
-migration-wizard-selection-list = Atlasiet datus, kurus vēlaties importēt.
+migration-wizard-selection-header = Ievietot pārlūka datus
+migration-wizard-selection-list = Jāatlasa dati, kurus ir vēlēšanās ievietot.
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support
 # user profiles, and so we only show the browser name.
@@ -19,11 +19,6 @@ migration-wizard-selection-option-without-profile = { $sourceBrowser }
 #  $sourceBrowser (String): the name of the browser to import from.
 #  $profileName (String): the name of the user profile to import from.
 migration-wizard-selection-option-with-profile = { $sourceBrowser } — { $profileName }
-
-# Each migrator is expected to include a display name string, and that display
-# name string should have a key with "migration-wizard-migrator-display-name-"
-# as a prefix followed by the unique identification key for the migrator.
-
 migration-wizard-migrator-display-name-brave = Brave
 migration-wizard-migrator-display-name-canary = Chrome Canary
 migration-wizard-migrator-display-name-chrome = Chrome
@@ -64,9 +59,9 @@ migration-no-permissions-instructions-step2 = Datņu atlasītājā dodieties uz 
 
 ## These strings will be displayed based on how many resources are selected to import
 
-migration-all-available-data-label = Importēt visus pieejamos datus
+migration-all-available-data-label = Ievietot visus pieejamos datus
 migration-no-selected-data-label = Importēšanai nav atlasīti dati
-migration-selected-data-label = Importēt atlasītos datus
+migration-selected-data-label = Ievietot atlasītos datus
 
 ##
 
@@ -84,13 +79,13 @@ migration-payment-methods-option-label = Maksājumu veidi
 migration-cookies-option-label = Sīkdatnes
 migration-session-option-label = Logi un cilnes
 migration-otherdata-option-label = Citus datus
-migration-passwords-from-file-progress-header = Importēt paroļu datni
-migration-passwords-from-file-success-header = Paroles ir sekmīgi importētas
+migration-passwords-from-file-progress-header = Ievietot paroļu datni
+migration-passwords-from-file-success-header = Paroles sekmīgi ievietotas
 migration-passwords-from-file = Pārbauda, vai datnē ir paroles
 migration-passwords-new = Jaunās paroles
 migration-passwords-updated = Esošās paroles
 migration-passwords-from-file-no-valid-data = Datnē nav derīgu paroļu datu. Izvēlieties citu datni.
-migration-passwords-from-file-picker-title = Importēt paroļu datni
+migration-passwords-from-file-picker-title = Ievietot paroļu datni
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =
@@ -127,7 +122,7 @@ migration-wizard-progress-success-updated-passwords =
         [one] Atjaunināti { $updatedEntries }
        *[other] Atjaunināti { $updatedEntries }
     }
-migration-bookmarks-from-file-picker-title = Importēt grāmatzīmju datni
+migration-bookmarks-from-file-picker-title = Ievietot grāmatzīmju datni
 migration-bookmarks-from-file-progress-header = Importē grāmatzīmes
 migration-bookmarks-from-file = Grāmatzīmes
 migration-bookmarks-from-file-success-header = Grāmatzīmes sekmīgi ievietotas
@@ -153,8 +148,8 @@ migration-wizard-progress-success-new-bookmarks =
         [one] { $newEntries } grāmatzīmes
        *[other] { $newEntries } grāmatzīmju
     }
-migration-import-button-label = Importēt
-migration-choose-to-import-from-file-button-label = Importēt no datnes
+migration-import-button-label = Ievietot
+migration-choose-to-import-from-file-button-label = Ievietot no datnes
 migration-import-from-file-button-label = Atlasiet datni
 migration-cancel-button-label = Atcelt
 migration-done-button-label = Gatavs
@@ -183,7 +178,7 @@ migration-list-payment-methods-label = maksājumu veidi
 migration-wizard-progress-header = Importē datus
 # This header appears in the final page of the migration wizard only if
 # all resources were imported successfully.
-migration-wizard-progress-done-header = Dati sekmīgi importēti
+migration-wizard-progress-done-header = Dati sekmīgi ievietoti
 # This header appears in the final page of the migration wizard if only
 # some of the resources were imported successfully. This is meant to be
 # distinct from migration-wizard-progress-done-header, which is only shown
@@ -193,13 +188,13 @@ migration-wizard-progress-icon-in-progress =
     .aria-label = Importē…
 migration-wizard-progress-icon-completed =
     .aria-label = Pabeigts
-migration-safari-password-import-header = Importēt paroles no Safari
-migration-safari-password-import-steps-header = Lai importētu Safari paroles:
+migration-safari-password-import-header = Ievietot paroles no Safari
+migration-safari-password-import-steps-header = Lai ievietotu Safari paroles:
 migration-safari-password-import-step1 = Programmā Safari atveriet izvēlni Safari un dodieties uz Preferences > Passwords
 migration-safari-password-import-step2 = Spiediet uz pogas <img data-l10n-name="safari-icon-3dots"/> un izvēlieties "Export All Passwords".
 migration-safari-password-import-step3 = Saglabāt paroļu datni
 migration-safari-password-import-step4 = Izmantojiet tālāk esošo “Atlasīt datni”, lai izvēlētos saglabāto paroļu datni
-migration-chrome-windows-password-import-header = Kā importēt paroles no Chrome
+migration-chrome-windows-password-import-header = Kā no Chrome ievietot paroles
 migration-chrome-windows-password-import-steps-header = Pārlūkā Chrome:
 migration-chrome-windows-password-import-step2 = Izvēlnē atlasiet “Iestatījumi”.
 migration-chrome-windows-password-import-step3 = Izvēlieties “Lejupielādēt failu” un saglabājiet to savā ierīcē.
@@ -296,6 +291,6 @@ migration-wizard-progress-success-payment-methods =
         [one] { $quantity } maksājumu veidi
        *[other] { $quantity } maksājumu veidu
     }
-migration-wizard-safari-permissions-sub-header = Lai importētu Safari grāmatzīmes un pārlūkošanas vēsturi:
+migration-wizard-safari-permissions-sub-header = Lai ievietotu grāmatzīmes un pārlūkošanas vēsturi no Safari:
 migration-wizard-safari-instructions-continue = Izvēlieties "Turpināt"
 migration-wizard-safari-instructions-folder = Sarakstā atlasiet Safari mapi un izvēlieties “Atvērt”
