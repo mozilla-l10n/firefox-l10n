@@ -68,3 +68,11 @@ about-sync-log-open-raw =
 ## Clear logs confirmation
 
 about-sync-log-clear-confirm-title = Ĉu viŝi registrojn pri spegulado?
+# Variables:
+#   $count (Number) - Number of logs that will be deleted.
+about-sync-log-clear-confirm-message =
+    { $count ->
+        [one] Tio ĉi definitive forigos { $count } videblan registran dosieron de spegulado.
+       *[other] Tio ĉi definitive forigos { $count } videblajn registrajn dosierojn de spegulado.
+    }
+about-sync-log-clear-confirm-accept = Forigi
