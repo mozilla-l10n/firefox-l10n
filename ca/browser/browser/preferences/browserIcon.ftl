@@ -10,8 +10,8 @@
 # subpage. The browser icon is the icon shown on the desktop, taskbar, and
 # Start Menu.
 appearance-browser-icon-entry-group =
-    .label = Icona del navegador
     .description = Trieu una icona personalitzada per a la barra de tasques, escriptori i menú d'inici.
+    .label = Icona del navegador
 appearance-browser-icon-button =
     .label = Canvieu la icona del navegador
 
@@ -36,6 +36,10 @@ appearance-browser-icon-bonus-group =
 # “Bonus” means “additional” in this context
 appearance-browser-icon-requirement =
     .message = Completeu i desbloquegeu icones de guineu addicionals per a personalitzar { -brand-short-name }.
+# Shown in place of appearance-browser-icon-requirement once the bonus icons are
+# unlocked (the browser is both the default and pinned to the taskbar).
+appearance-browser-icon-unlocked =
+    .message = Heu desbloquejat totes les icones de bonificació!
 appearance-browser-icon-set-default-button =
     .label = Estableix com a predeterminat
 appearance-browser-icon-pin-button =
@@ -61,5 +65,5 @@ appearance-browser-icon-pixelated =
 # @heyheymomodraws is the social-media handle of the icon's author and must be
 # kept verbatim - do not translate or otherwise change it.
 appearance-browser-icon-momo =
-    .label = Momo
     .description = Creat per @heyheymomodraws
+    .label = Momo
