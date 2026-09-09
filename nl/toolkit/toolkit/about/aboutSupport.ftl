@@ -145,6 +145,7 @@ a11y-activated = Geactiveerd
 a11y-force-disabled = Toegankelijkheid voorkomen
 a11y-handler-used = Accessible-handler gebruikt
 a11y-instantiator = Toegankelijkheids-instantiator
+pdfjs-title = PDF-lezer
 library-version-title = Bibliotheekversies
 copy-text-to-clipboard-label = Tekst naar klembord kopiëren
 copy-raw-data-to-clipboard-label = Onbewerkte gegevens naar klembord kopiëren
