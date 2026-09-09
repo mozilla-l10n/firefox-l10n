@@ -164,6 +164,7 @@ aiwindow-firstrun-memories-no-create = Paham. { -smart-window-brand-name } tidak
 aiwindow-firstrun-default-title = Jadikan { -smart-window-brand-name } tujuan Anda
 aiwindow-firstrun-default-subtitle = Jelajahi, cari, dan tanyakan di satu tempat. Anda masih dapat membuka Jendela Pribadi dan Klasik saat diinginkan.
 aiwindow-firstrun-default-checkbox-label = Selalu buka { -brand-product-name } di { -smart-window-brand-name }
+aiwindow-firstrun-default-checkbox-description = Beralih dalam pengaturan kapan saja
 
 ## Ask Toolbar Button
 
@@ -220,6 +221,59 @@ aiwindow-fullpage-more =
     .label = Lebih banyak
     .title = Lebih banyak
 
+## Sign out dialog
+
+fxa-signout-dialog-body-aiwindow = Data yang disinkronkan akan tetap ada di akun Anda. Membuka { -smart-window-brand-name(plural-form: "true") } akan beralih ke Windows Klasik.
+
+## Smart Window Toggle Button (in-page)
+
+smartwindow-switch-to-smart-window = Beralih ke { -smart-window-brand-name }
+
+## Fullpage Footer Actions
+
+smartwindow-footer-chats =
+    .aria-label = Obrolan
+    .label = Obrolan
+    .tooltiptext = Obrolan
+smartwindow-footer-history =
+    .aria-label = Riwayat
+    .label = Riwayat
+    .tooltiptext = Riwayat
+
+## Disclaimer
+## Text displayed to user to warn user about potential mistakes.
+
+smartwindow-disclaimer = AI bisa membuat kesalahan
+
+## FirefoxView Chats
+## Chats in this context refers to chats saved from the Smart Window Assistant
+
+firefoxview-chats-nav = Obrolan
+    .title = Obrolan
+firefoxview-chats-header = Obrolan
+firefoxview-chat-context-delete = Hapus dari Obrolan
+    .accesskey = H
+# Placeholder for the input field to search in open tabs ("search" is a verb).
+firefoxview-search-text-box-chats =
+    .placeholder = Cari obrolan
+
+## Variables:
+##   $date (string) - Date to be formatted based on locale
+
+firefoxview-chat-date-today = Hari ini - { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-yesterday = Kemarin - { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+
+## Message displayed in Firefox View when the user has no chat data
+
+firefoxview-chats-empty-header = Kembali ke obrolan Anda
+firefoxview-chats-empty-description = Sembari Anda memakai { -smart-window-brand-name }, obrolan Anda akan disimpan di sini.
+
+## Count displayed in fxview chat search results
+
+firefoxview-search-chat-results-count = { $count } obrolan
+
 ## Clear browsing data dialog
 
 item-history-downloads-and-chat =
@@ -262,6 +316,8 @@ smart-window-default-promo-additional-button = Jangan sekarang
 aiwindow-feedback-modal-title = Beri umpan balik
 aiwindow-feedback-what-worked-well = Apa yang sudah berjalan baik? Jangan sertakan informasi pribadi.
 aiwindow-feedback-choose-any = Pilih semua yang sesuai
+aiwindow-feedback-add-details = Tambahkan detail jika Anda mau. Mohon tidak ada informasi pribadi.
+aiwindow-feedback-disclaimer = Mengirim akan membagikan umpan balik Anda dan obrolan ini untuk membantu { -brand-shorter-name } meningkatkan { -smart-window-brand-name }. Obrolan lain Anda  tetap pribadi. <a data-l10n-name="learn-more">Pelajari lebih lanjut</a>
 aiwindow-feedback-submit = Kirim
 aiwindow-feedback-cancel = Batal
 aiwindow-feedback-reason-incorrect-or-misleading = Salah atau menyesatkan

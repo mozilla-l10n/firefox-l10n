@@ -271,17 +271,49 @@ newtab-privacy-message-promo-vpn-3 = Konumunuzu daha gizli tutmak için yerleşi
 newtab-privacy-message-promo-vpn-3-cta = VPN’i aç
 newtab-privacy-message-promo-private-window-1 = Ortak kullanılan bilgisayarlarda daha gizli gezinmek için gizli pencereyi deneyin.
 newtab-privacy-message-promo-private-window-1-cta = Gizli pencere aç
+newtab-privacy-message-promo-relay-1 = Gerçek e-postanızı yalnızca güvendiğiniz kişilerle paylaşın, sitelere kaydolurken e-posta maskesi kullanın.
+newtab-privacy-message-promo-relay-1-cta = Maske oluştur
 newtab-privacy-message-promo-relay-2 = Ücretsiz e-posta maskeleriyle gelen kutunuzu spam’den koruyun.
+newtab-privacy-message-promo-relay-2-cta = Maske oluştur
 newtab-privacy-message-promo-relay-3 = Gerçek e-posta adresinizi gizli tutmanızı sağlayacak 50 e-posta maskesi ücretsiz.
+newtab-privacy-message-promo-relay-3-cta = Maske oluştur
 
 ## Privacy widget — celebration messages
 ##
 ## Earned "celebration" moments (milestones, daily cap, streak, first
 ## protection). Count-bearing ones interpolate { $count }.
 
+# Variables:
+#   $count (number) - Trackers blocked this week
+newtab-privacy-message-milestone-week =
+    { $count ->
+        [one] Bu hafta { $count } takip kodu engellendi. { -brand-short-name } sayesinde nelerden korunduğunuzu görün
+       *[other] Bu hafta { $count } takip kodu engellendi. { -brand-short-name } sayesinde nelerden korunduğunuzu görün
+    }
 newtab-privacy-message-milestone-week-cta = Korumaları göster
+# Variables:
+#   $count (number) - Trackers blocked this month
+newtab-privacy-message-milestone-month =
+    { $count ->
+        [one] Bu ay { $count } takip kodu engellendi. Gizlilik için küçük, içinizin rahat etmesi için büyük bir adım.
+       *[other] Bu ay { $count } takip kodu engellendi. Gizlilik için küçük, içinizin rahat etmesi için büyük bir adım.
+    }
 newtab-privacy-message-milestone-month-cta = Korumaları göster
+# Variables:
+#   $count (number) - Trackers blocked this year
+newtab-privacy-message-milestone-year =
+    { $count ->
+        [one] Bu yıl { $count } takip kodu engellendi. Gizliliğinizi koruma konusunda etkileyici bir yıl geçirdiniz.
+       *[other] Bu yıl { $count } takip kodu engellendi. Gizliliğinizi koruma konusunda etkileyici bir yıl geçirdiniz.
+    }
 newtab-privacy-message-milestone-year-cta = Korumaları göster
+# Variables:
+#   $count (number) - Trackers blocked all-time
+newtab-privacy-message-milestone-total =
+    { $count ->
+        [one] { $count } takip kodu engellendi. Gizliliğin kontrolünü elinize alma yolunda büyük bir adım.
+       *[other] { $count } takip kodu engellendi. Gizliliğin kontrolünü elinize alma yolunda büyük bir adım.
+    }
 newtab-privacy-message-milestone-total-cta = Korumaları göster
 # Shown when today's blocked-tracker count reaches the display cap ("100+").
 newtab-privacy-message-daily-cap = (Bugün 100’den fazla takip kodu engellendi.) Takip kodları azaldıkça gizliliğiniz artar.
