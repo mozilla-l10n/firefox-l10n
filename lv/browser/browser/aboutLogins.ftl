@@ -382,8 +382,8 @@ about-logins-export-file-picker-csv-filter-title =
 # Title of the file picker dialog
 about-logins-import-file-picker-title = Ievietot pieteikšanās vienumu datni
 # Title of the file picker dialog
-about-logins-import-file-picker-title2 = Importēt paroles uz { -brand-short-name }
-about-logins-import-file-picker-import-button = Importēt
+about-logins-import-file-picker-title2 = ievietot paroles { -brand-short-name }
+about-logins-import-file-picker-import-button = Ievietot
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 about-logins-import-file-picker-csv-filter-title =
@@ -418,9 +418,9 @@ about-logins-import-dialog-items-modified =
     }
 about-logins-import-dialog-items-no-change =
     { $count ->
-        [zero] <span>Atrasti lietotājvārdu dublikāti:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nav importēti)</span >
-        [one] <span>Atrasti lietotājvārdu dublikāti:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nav importēti)</span >
-       *[other] <span>Atrasti lietotājvārdu dublikāti:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nav importēti)</span >
+        [zero] <span>Atrasti atkārtojošies pieteikšanās vienumi:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nav ievietoti)</span >
+        [one] <span>Atrasti atkārtojošies pieteikšanās vienumi:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nav ievietoti)</span >
+       *[other] <span>Atrasti atkārtojošies pieteikšanās vienumi:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nav ievietoti)</span >
     }
 about-logins-import-dialog-items-added2 =
     { $count ->
