@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = AI-chatbot
 menu-view-contextual-password-manager =
     .label = Wachtwoorden
+menu-view-resource-monitor =
+    .label = Bronnenmonitor
 # Label for the Open Tabs entry in the View > Sidebars menu bar menu.
 # "Open Tabs" is a noun phrase referring to the tabs currently open in
 # the browser, not an instruction to open tabs.
@@ -203,6 +205,8 @@ sidebar-menu-customize-label =
     .label = Zijbalk aanpassen
 sidebar-menu-contextual-password-manager-label =
     .label = Wachtwoorden
+sidebar-menu-resource-monitor-label =
+    .label = Bronnenmonitor
 sidebar-menu-more-tools-label =
     .label = Meer hulpmiddelen
 
