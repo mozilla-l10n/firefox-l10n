@@ -417,7 +417,7 @@ quickactions-bookmarks2 = Pārvaldīt grāmatzīmes
 quickactions-cmd-bookmarks = grāmatzīmes
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Notīrīt neseno vēsturi
-quickactions-cmd-clearrecenthistory2 = sīkfaili, notīrīt sīkfailus, kešatmiņa, notīrīt kešatmiņu, pārlūkošanas dati, notīrīt pārlūkošanas datus, vēsture, notīrīt neseno vēsturi
+quickactions-cmd-clearrecenthistory2 = sīkdatnes, notīrīt sīkdatnes, kešatmiņa, notīrīt kešatmiņu, pārlūkošanas dati, notīrīt pārlūkošanas datus, vēsture, notīrīt neseno vēsturi
 quickactions-cmd-clearrecenthistory = notīrīt neseno vēsturi, vēsturi
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Notīrīt vēsturi

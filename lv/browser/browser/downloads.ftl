@@ -186,7 +186,7 @@ downloads-details =
 ## These strings are displayed in the private browsing view of the downloads panel
 
 downloads-private-browsing-details =
-    .title = Faili paliek jūsu ierīcē
+    .title = Datnes paliek Tavā ierīcē
 downloads-private-browsing-message = Ikviens, kas izmanto šo ierīci, var redzēt lejupielādes, pat ja ir aizvērti visi privātie logi.
 downloads-private-browsing-delete-button =
     .label = Dzēst failus automātiski

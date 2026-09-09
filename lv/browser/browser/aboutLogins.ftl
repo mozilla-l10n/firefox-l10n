@@ -436,15 +436,15 @@ about-logins-import-dialog-items-modified2 =
     }
 about-logins-import-dialog-items-no-change2 =
     { $count ->
-        [zero] <span>Atrasti ierakstu dublikāti:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nav importēti)</span >
-        [one] <span>Atrasti ierakstu dublikāti:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nav importēti)</span >
-       *[other] <span>Atrasti ierakstu dublikāti:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nav importēti)</span >
+        [zero] <span>Atrasti atkārtojošies ieraksti:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nav ievietoti)</span >
+        [one] <span>Atrasti atkārtojošies ieraksti:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nav ievietoti)</span >
+       *[other] <span>Atrasti atkārtojošies ieraksti:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nav ievietoti)</span >
     }
 about-logins-import-dialog-items-error =
     { $count ->
-        [zero] <span>Kļūdas:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nav importētas)</span>
-        [one] <span>Kļūdas:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nav importētas)</span>
-       *[other] <span>Kļūdas:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nav importētas)</span>
+        [zero] <span>Kļūdas:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nav ievietoti)</span>
+        [one] <span>Kļūdas:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nav ievietoti)</span>
+       *[other] <span>Kļūdas:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nav ievietoti)</span>
     }
 about-logins-import-dialog-done = Gatavs
 about-logins-import-dialog-error-title = Importēšanas kļūda
@@ -456,13 +456,13 @@ about-logins-import-dialog-error-file-permission-title = Neizdevās nolasīt dat
 about-logins-import-dialog-error-file-permission-description = { -brand-short-name } nav atļaujas lasīt datni. Mēģiniet mainīt datnes atļaujas.
 about-logins-import-dialog-error-unable-to-read-title = Nevar parsēt datni
 about-logins-import-dialog-error-unable-to-read-description = Pārliecinieties, vai esat atlasījis CSV vai TSV datni.
-about-logins-import-dialog-error-no-logins-imported = Nav importēts neviens lietotājvārds
+about-logins-import-dialog-error-no-logins-imported = Nav ievietots neviens pieteikšanās vienums
 about-logins-import-dialog-error-learn-more = Uzzināt vairāk
-about-logins-import-dialog-error-try-import-again = Mēģiniet importēt vēlreiz…
+about-logins-import-dialog-error-try-import-again = Mēģināt ievietot vēlreiz…
 about-logins-import-dialog-error-cancel = Atcelt
-about-logins-import-report-title = Importēt kopsavilkumu
-about-logins-import-report-description = Lietotāji un paroles importēti uz { -brand-short-name }.
-about-logins-import-report-description2 = Paroles importētas uz { -brand-short-name }.
+about-logins-import-report-title = Ievietot kopsavilkumu
+about-logins-import-report-description = Lietotāji un paroles ievietoti { -brand-short-name }.
+about-logins-import-report-description2 = Paroles ievietotas { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
@@ -500,9 +500,9 @@ about-logins-import-report-modified =
     }
 about-logins-import-report-no-change =
     { $count ->
-        [zero] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Lietotājvārdu dublikāti</div> <div data-l10n-name="not-imported">(nav importēts)</div>
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Lietotājvārdu dublikāti</div> <div data-l10n-name="not-imported">(nav importēts)</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Lietotājvārdu dublikāti</div> <div data-l10n-name="not-imported">(nav importēts)</div>
+        [zero] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">pieteikšanās vienumi, kas atkārtojas</div> <div data-l10n-name="not-imported">(nav ievietoti)</div>
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">pieteikšanās vienumi, kas atkārtojas</div> <div data-l10n-name="not-imported">(nav ievietoti)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details"></div><div data-l10n-name="not-imported">(nav importēts)</div>
     }
 about-logins-import-report-added2 =
     { $count ->

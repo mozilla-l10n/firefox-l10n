@@ -105,3 +105,19 @@ aiwindow-firstrun-model-fast-label = Cepat
 aiwindow-firstrun-model-fast-body = Menjawab dengan cepat
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-fast-label-v2 = Cepat: { $shortName }
+aiwindow-firstrun-model-fast-body-v2 = Terbaik untuk jawaban cepat saat Anda bergerak laju
+# $model (string) - The name of the AI model
+# $ownerName (string) - The name of the model owner/provider
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-chip-subtitle = Model { $model } oleh { $ownerName }
+aiwindow-firstrun-model-allpurpose-label = Fleksibel
+aiwindow-firstrun-model-allpurpose-body = Pas untuk sebagian besar kebutuhan
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-flexible-label = Fleksibel: { $shortName }
+aiwindow-firstrun-model-flexible-body = Siap untuk berbagai tugas
+# Recommended represents the chat brand and model we recommend for users. Only affects European users.
+aiwindow-firstrun-model-recommended = Disarankan
+aiwindow-firstrun-model-personal-label = Pribadi
+aiwindow-firstrun-model-personal-body = Jawaban yang paling disesuaikan
+# $shortName (string) - The short name of the model version
+aiwindow-firstrun-model-personal-label-v2 = Pribadi: { $shortName }
