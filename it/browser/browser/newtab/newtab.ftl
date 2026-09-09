@@ -1073,6 +1073,22 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+newtab-wallpaper-firefox-orange = Una volpe sul margine destro, su uno sfondo arancione
+newtab-wallpaper-firefox-colorful-sky = Onde arancioni attraversano un cielo notturno viola
+newtab-wallpaper-firefox-desert-dark = Una volpe accovacciata in un deserto viola scuro
+newtab-wallpaper-firefox-desert-light = Una volpe corre in un deserto luminoso
+newtab-wallpaper-firefox-hills-dark = Una volpe corre su colline buie
+newtab-wallpaper-firefox-hills-light = Una volpe corre su colline chiare
+newtab-wallpaper-firefox-tail-dark = La coda di una volpe su uno sfondo scuro
+newtab-wallpaper-firefox-tail-light = La coda di una volpe su uno sfondo chiaro
+newtab-wallpaper-firefox-side-kit-dark = Una volpe a sinistra, su uno sfondo scuro
+newtab-wallpaper-firefox-side-kit-light = Una volpe a sinistra, su uno sfondo chiaro
+newtab-wallpaper-firefox-sitting-hill-dark = Una volpe accovacciata su colline viola scuro
+newtab-wallpaper-firefox-sitting-hill-light = Una volpe seduta su colline luminose
+newtab-wallpaper-firefox-peak-dark = Il muso di una volpe sul bordo sinistro, su uno sfondo scuro
+newtab-wallpaper-firefox-peak-light = Il muso di una volpe sul bordo sinistro, su uno sfondo chiaro
+newtab-wallpaper-firefox-sky-dark = Colline viola scure sotto il cielo notturno
+newtab-wallpaper-firefox-sky-light = Colline luminose sotto un cielo tenue
 
 ## Firefox
 
