@@ -366,3 +366,19 @@ aiwindow-starter-planning-plan = Ajută la realizarea unui plan
 aiwindow-starter-browsing-history = Găsește file în istoric
 aiwindow-starter-browsing-summarize = Fă rezumatul filelor
 aiwindow-starter-browsing-compare = Compară filele
+
+## Conversation Starter Scroll Buttons
+## Scrolls the conversation-starter pill row toward its start/end.
+
+aiwindow-starter-scroll-start =
+    .aria-label = Derulează înapoi
+    .tooltiptext = Derulează înapoi
+aiwindow-starter-scroll-end =
+    .aria-label = Derulează înainte
+    .tooltiptext = Derulează înainte
+# Dismisses a "pick up where you left off" resume-activity suggestion pill.
+# Variables:
+#   $text (String) - The suggestion headline being dismissed
+aiwindow-starter-dismiss =
+    .aria-label = Renunță { $text }
+    .title = Renunță { $text }

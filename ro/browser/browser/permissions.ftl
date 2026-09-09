@@ -3,3 +3,18 @@
 # You can obtain one at http://mozilla.org/MPL/2.0/.
 
 perm-persistent-storage-remember = Ține minte decizia
+speech-recognition-model-download-header = Configurezi recunoașterea vocală?
+speech-recognition-model-download-allow =
+    .label = Continuă
+    .accesskey = C
+speech-recognition-model-download-not-now =
+    .label = Nu acum
+    .accesskey = N
+speech-recognition-model-download-progress-message = Se descarcă modelul de recunoaștere vocală
+speech-recognition-model-download-cancel =
+    .label = Anulează
+    .accesskey = C
+speech-recognition-model-download-failed-message = Descărcarea modelului de recunoaștere vocală a eșuat.
+speech-recognition-model-download-ok =
+    .label = OK
+    .accesskey = O

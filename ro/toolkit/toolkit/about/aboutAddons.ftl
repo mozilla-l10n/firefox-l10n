@@ -591,6 +591,7 @@ mlmodel-pdfjs = { -brand-short-name } o folosește ca să creeze text alternativ
 mlmodel-smart-tab-topic-engine = { -brand-short-name } o folosește ca să sugereze denumiri pentru grupele tale de file
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } o folosește ca să sugereze file pentru grupurile tale de file
 mlmodel-formfill-engine = { -brand-short-name } îl folosește pentru a ajuta la completarea formularelor de adresă
+mlmodel-speech-recognition = { -brand-short-name } îl folosește pentru recunoașterea vocală pe dispozitiv
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = AI pe dispozitiv
 addon-category-mlmodel-title =

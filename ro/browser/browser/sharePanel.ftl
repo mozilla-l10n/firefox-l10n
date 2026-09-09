@@ -15,12 +15,23 @@ share-panel-copy-link =
 # Confirmation hint shown near the share button after the user copies the
 # current page URL from the share panel.
 confirmation-hint-link-copied = Link copiat
+# Share with Windows/Mac means to pass a given link to the native OS sharing
+# system so that a given link can be shared with native apps
+share-panel-os-share-2 =
+    .label =
+        { PLATFORM() ->
+            [windows] Partajează cu Windows…
+            [macos] Partajează cu Mac…
+           *[other] Partajează cu…
+        }
 share-panel-os-share =
     .label = Partajează cu…
 share-panel-mail =
     .label = Trimite un mesaj pe e-mail
 share-panel-screenshot =
     .label = Fă o captură de ecran
+share-panel-qr-code-2 =
+    .label = Creează cod QR
 share-panel-qr-code =
     .label = Partajează codul QR
 # This string is shown when the user has more than 1 device signed in to their account.
@@ -33,6 +44,10 @@ share-panel-send-to-mobile =
     .label = Trimite pe mobil
 share-panel-device-subview =
     .title = Toate dispozitivele
+# Shown below the device list in the share panel's device subview. Clicking it
+# opens the flow to connect another device to the user's account.
+share-panel-connect-device-2 =
+    .label = Adaugă un dispozitiv
 # Shown below the device list in the share panel's device subview. Clicking it
 # opens the flow to connect another device to the user's account.
 share-panel-connect-device =

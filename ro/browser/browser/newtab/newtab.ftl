@@ -209,6 +209,8 @@ newtab-privacy-across-sites =
 
 # Shown when no trackers have been blocked yet today.
 newtab-privacy-empty = { -brand-short-name } blochează elementele de urmărire în timp ce navighezi. Le vei vedea aici.
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty-state = { -brand-short-name } blochează automat elementele de urmărire, păstrând o mare parte din activitatea ta privată.
 
 ## Privacy widget — Enhanced Tracking Protection off state
 
@@ -908,6 +910,13 @@ newtab-custom-close-menu-button =
 newtab-custom-close-button = Închide
 newtab-custom-settings = Gestionează mai multe setări
 
+## Customization Menu
+
+# An arrow button that goes back from a sub-panel in the customize panel, such as a wallpaper category, to the main Customize panel.
+newtab-customize-panel-back-button =
+    .aria-label = Înapoi la personalizare
+    .title = Înapoi la personalizare
+
 ## New Tab Appearance (browser theme picker)
 
 # Title of the browser theme ("Appearance") section in the customize panel.
@@ -962,6 +971,48 @@ newtab-wallpaper-dark-mountain = Peisaj montan
 newtab-wallpaper-dark-city = Peisaj urban violet
 newtab-wallpaper-dark-fox-anniversary = O vulpe pe trotuar lângă o pădure
 newtab-wallpaper-light-fox-anniversary = O vulpe într-un câmp ierbos cu un peisaj montan încețoșat
+
+## "Your images" is the folder of wallpapers someone has saved. A saved wallpaper
+## can be a file they uploaded, a Picture of the Day they chose to keep, or a
+## Firefox wallpaper kept for them when it was retired.
+
+newtab-wallpaper-your-images = Imaginile tale
+# Accessible name for the tile that opens the "Your images" folder in the
+# wallpaper picker. The tile shows one of the saved images and has no text of
+# its own, so this is all a screen reader has to go on.
+newtab-wallpaper-your-images-folder =
+    .aria-label = Imaginile, imaginile de fundal pe care le-ai salvat
+# Read by screen readers for a saved image that has a name of its own: a kept
+# Picture of the Day, or a Firefox wallpaper kept when it was retired. An image
+# someone added themselves is numbered instead, see the string below.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-your-images-item = { $name }
+# Read by screen readers for an image someone added themselves. Firefox counts
+# these as they are saved rather than keeping the name of their file.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-your-images-item-numbered = Imaginea { $number }
+# Each saved image has its own remove button. The tooltip stays short because
+# a name can be long and some locales put it before the verb, which would push
+# "remove" out of view. The full name is on the label a screen reader reads.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-remove-image =
+    .aria-label = Elimină { $name }
+    .title = Elimină imaginea
+# The remove button for an image someone added themselves. .title is the
+# tooltip and .aria-label is what a screen reader reads.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-remove-image-numbered =
+    .aria-label = Elimină imaginea { $number }
+    .title = Elimină imaginea { $number }
+newtab-wallpaper-remove-image-title = Elimini imaginea?
+# "This action" refers to removing a saved wallpaper image.
+newtab-wallpaper-remove-image-body = Acțiunea este ireversibilă.
+newtab-wallpaper-remove-image-confirm = Elimină
+newtab-wallpaper-remove-image-cancel = Anulează
 
 ## Solid Colors
 
@@ -1055,6 +1106,9 @@ newtab-weather-menu-change-location = Schimbă locația
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Caută locație
     .placeholder = Caută locație
+newtab-weather-cancel-input =
+    .aria-label = Anulează
+    .title = Anulează
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Folosește locația curentă
@@ -1165,6 +1219,8 @@ newtab-section-follow-highlight-subtitle = Urmărește ce te interesează ca să
 
 newtab-topic-navigation-label =
     .aria-label = Subiecte
+# Opens a menu listing the topics that did not fit in the row.
+newtab-topic-navigation-more-button = Mai multe
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
@@ -1304,6 +1360,10 @@ newtab-widget-lists-menu-create = Creează o listă nouă
 newtab-widget-lists-menu-delete = Șterge lista
 newtab-widget-lists-menu-copy = Copiază lista în clipboard
 newtab-widget-lists-menu-learn-more = Află mai multe
+# "Change" is a verb here: the button switches which list is shown
+newtab-widget-lists-change-list =
+    .aria-label = Schimbă lista
+    .title = Schimbă lista
 newtab-widget-lists-button-add-item = Adaugă un element
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Adaugă un element
@@ -1363,6 +1423,11 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .aria-label = Minimizează toate widgeturile la mărimea compactă
     .title = Minimizează widgeturile
+# Shown on the widgets section header button while the section is
+# auto-minimized to its title row, to open the section back up.
+newtab-widget-section-show-widgets =
+    .aria-label = Afișează secțiunea de widgeturi
+    .title = Afișează widgeturile
 newtab-widget-section-menu-button =
     .aria-label = Deschide meniul de widgeturi
     .title = Meniu de widgeturi
