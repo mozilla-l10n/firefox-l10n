@@ -278,8 +278,8 @@ mr2022-onboarding-gratitude-secondary-button-label = Sākt pārlūkošanu
 ## Onboarding spotlight for infrequent users
 
 onboarding-infrequent-import-title = Jūtieties kā mājās
-onboarding-infrequent-import-subtitle = Neatkarīgi no tā, vai iekārtojaties vai vienkārši iegriežaties, atcerieties, ka varat importēt savas grāmatzīmes, paroles un daudz ko citu.
-onboarding-infrequent-import-primary-button = Importēt uz { -brand-short-name }
+onboarding-infrequent-import-subtitle = Neatkarīgi no tā, vai uz palikšanu vai tikai garāmejot, jāatceras, ka ir iespējams ievietot savas grāmatzīmes, paroles un daudz ko citu.
+onboarding-infrequent-import-primary-button = Ievietot { -brand-short-name }
 
 ## MR2022 Illustration alt tags
 ## Descriptive tags for illustrations used by screen readers and other assistive tech
