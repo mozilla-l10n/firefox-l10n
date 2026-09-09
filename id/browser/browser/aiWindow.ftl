@@ -153,9 +153,166 @@ aiwindow-firstrun-memories-relevance-title = Jawaban yang lebih relevan
 aiwindow-firstrun-memories-relevance-body = Belajar dari penjelajahan memberi { -smart-window-brand-name } gambaran yang lebih besar.
 aiwindow-firstrun-memories-privacy-title = Pribadi berdasarkan desain
 aiwindow-firstrun-memories-privacy-body = Memori disimpan di perangkat ini. Hapus atau matikan kapan saja.
+aiwindow-firstrun-memories-choose-label = Pilih apa yang dipelajari { -smart-window-brand-name }
+aiwindow-firstrun-memories-checkbox-chats = Mengobrol di { -smart-window-brand-name }
+aiwindow-firstrun-memories-checkbox-browsing = Menjelajahi { -brand-product-name }
+aiwindow-firstrun-memories-update-settings = Perbarui di pengaturan kapan saja.
+aiwindow-firstrun-memories-no-create = Paham. { -smart-window-brand-name } tidak akan membuat memori. Perbarui di pengaturan kapan saja.
+
+## Firstrun set as default onboarding
+
+aiwindow-firstrun-default-title = Jadikan { -smart-window-brand-name } tujuan Anda
+aiwindow-firstrun-default-subtitle = Jelajahi, cari, dan tanyakan di satu tempat. Anda masih dapat membuka Jendela Pribadi dan Klasik saat diinginkan.
+aiwindow-firstrun-default-checkbox-label = Selalu buka { -brand-product-name } di { -smart-window-brand-name }
+
+## Ask Toolbar Button
+
+smartwindow-ask-button =
+    .label = Tanya
+
+## Memories toggle button
+
+aiwindow-memories-on =
+    .aria-label = Memori aktif
+    .tooltiptext = Gunakan memori dalam tanggapan saat membantu
+aiwindow-memories-off =
+    .aria-label = Memori nonaktif
+    .tooltiptext = Jangan gunakan memori dalam tanggapan
+
+## New Chat Button
+
+aiwindow-new-chat =
+    .aria-label = Obrolan baru
+    .tooltiptext = Obrolan baru
+
+## Close Sidebar Button
+
+aiwindow-close-sidebar =
+    .aria-label = Tutup
+    .tooltiptext = Tutup
+
+## Chat History Menu
+## The menu opened from the "..." button next to the new chat button. Its main
+## view links to the chat history subview and Smart Window settings; the chat
+## history subview lists recent chats and a shortcut to all chats.
+
+aiwindow-history-menu =
+    .aria-label = Opsi lainnya
+    .tooltiptext = Opsi lainnya
+aiwindow-history-menu-chat-history = Riwayat obrolan
+aiwindow-history-menu-back =
+    .aria-label = Kembali
+    .tooltiptext = Kembali
+aiwindow-history-menu-view-all-chats = Lihat semua obrolan
+aiwindow-history-menu-settings = Pengaturan { -smart-window-brand-name }
+
+## Fullpage top actions
+## Labeled buttons shown at the top of the fullpage Smart Window.
+
+aiwindow-fullpage-new-chat =
+    .label = Obrolan baru
+aiwindow-fullpage-chat-history =
+    .label = Riwayat obrolan
+# "More" is the label for a button that opens a menu of additional Smart Window
+# options (currently Smart Window settings) — i.e. "more actions/options", not
+# more content or more chat history.
+aiwindow-fullpage-more =
+    .label = Lebih banyak
+    .title = Lebih banyak
 
 ## Clear browsing data dialog
 
 item-history-downloads-and-chat =
     .label = Riwayat penjelajahan, unduhan, dan obrolan
     .accesskey = b
+item-history-downloads-and-chat-description = Bersihkan riwayat situs, unduhan, dan obrolan
+
+## Natural Language Interactions
+
+smart-window-confirm-select-all =
+    .aria-label = Pilih semua
+    .label = Pilih semua
+smart-window-confirm-deselect-all =
+    .aria-label = Batalkan semua pilihan
+    .label = Batalkan semua pilihan
+smart-window-close-confirm =
+    .aria-label = Batalkan permintaan dan tutup
+    .tooltiptext = Batalkan permintaan dan tutup
+smart-window-confirm-close-tab = Tutup
+# Variables
+#   $count (number) - Number of tabs to close
+smart-window-confirm-close-tabs = Tutup { $count } tab
+
+## Natural Language action callouts
+
+# Shown after the Smart Window closes the user’s current tab in response to a
+# natural language prompt action, anchored to the toolbar menu button.
+smartwindow-close-tab-callout-title = Tab ditutup
+smartwindow-close-tab-callout-subtitle = Buka kembali tab dari Riwayat kapan saja.
+
+## Smart Window new tab promo
+
+smart-window-default-promo-heading = Jadikan { -smart-window-brand-name } sebagai baku Anda?
+smart-window-default-promo-message = { -brand-short-name } akan selalu dibuka di { -smart-window-brand-name }.
+smart-window-default-promo-primary-button = Jadikan baku
+smart-window-default-promo-additional-button = Jangan sekarang
+
+## Feedback modal
+
+aiwindow-feedback-modal-title = Beri umpan balik
+aiwindow-feedback-what-worked-well = Apa yang sudah berjalan baik? Jangan sertakan informasi pribadi.
+aiwindow-feedback-choose-any = Pilih semua yang sesuai
+aiwindow-feedback-submit = Kirim
+aiwindow-feedback-cancel = Batal
+aiwindow-feedback-reason-incorrect-or-misleading = Salah atau menyesatkan
+aiwindow-feedback-reason-doesnt-address-my-request = Tidak menjawab permintaan saya
+aiwindow-feedback-reason-lacks-personalization = Kurang personalisasi atau konteks
+aiwindow-feedback-reason-performance-or-usability = Masalah kinerja atau kegunaan
+aiwindow-feedback-reason-harmful-or-offensive = Berbahaya atau menyinggung
+aiwindow-feedback-reason-other = Lainnya
+aiwindow-feedback-preview-report = Lihat detail obrolan
+aiwindow-feedback-preview-report-with-page = Lihat detail obrolan dan laman
+aiwindow-feedback-include-page-content = Bagikan laman yang dirujuk dalam obrolan ini
+
+## Smart Window ai-chat-grid
+
+aiwindow-ai-chat-grid-view-controls =
+    .aria-label = Ganti tata letak tampilan
+aiwindow-ai-chat-grid-list-view =
+    .aria-label = Ganti mode: Tampilan Daftar
+    .tooltiptext = Tampilan Daftar
+aiwindow-ai-chat-grid-grid-view =
+    .aria-label = Beralih mode: Tampilan Kisi
+    .tooltiptext = Tampilan Kisi
+
+## Smart Window new-tab conversation starters
+## These are short suggested user queries used to prompt the AI assistant when clicked on.
+## They then become the first message in the conversation.
+## When localizing, please write them as short instructions a user would give to an assistant.
+## They should also be concise and direct, but not at the expense of losing meaning.
+
+aiwindow-starter-writing-first-draft = Tulis draf pertama
+aiwindow-starter-writing-improve = Perbaiki tulisan
+aiwindow-starter-writing-proofread = Periksa ulang pesan
+aiwindow-starter-planning-simplify = Sederhanakan topik
+aiwindow-starter-planning-brainstorm = Curah gagasan
+aiwindow-starter-planning-plan = Bantu membuat rencana
+aiwindow-starter-browsing-history = Cari tab di riwayat
+aiwindow-starter-browsing-summarize = Rangkum tab
+aiwindow-starter-browsing-compare = Bandingkan tab
+
+## Conversation Starter Scroll Buttons
+## Scrolls the conversation-starter pill row toward its start/end.
+
+aiwindow-starter-scroll-start =
+    .aria-label = Gulir balik
+    .tooltiptext = Gulir balik
+aiwindow-starter-scroll-end =
+    .aria-label = Gulir maju
+    .tooltiptext = Gulir maju
+# Dismisses a "pick up where you left off" resume-activity suggestion pill.
+# Variables:
+#   $text (String) - The suggestion headline being dismissed
+aiwindow-starter-dismiss =
+    .aria-label = Tutup { $text }
+    .title = Tutup { $text }
