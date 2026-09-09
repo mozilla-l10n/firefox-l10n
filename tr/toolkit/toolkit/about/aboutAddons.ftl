@@ -591,6 +591,7 @@ mlmodel-pdfjs = { -brand-short-name }, PDF’lere eklediğiniz resimlere alterna
 mlmodel-smart-tab-topic-engine = { -brand-short-name }, sekme gruplarınıza isim önermek için bunu kullanır
 mlmodel-smart-tab-embedding-engine = { -brand-short-name }, sekme gruplarınıza sekme önermek için bunu kullanır
 mlmodel-formfill-engine = Adres formlarını doldurmak için { -brand-short-name } bunu kullanır
+mlmodel-speech-recognition = { -brand-short-name } bunu cihaz üzerinde konuşma tanıma için kullanır
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = Yerel YZ
 addon-category-mlmodel-title =

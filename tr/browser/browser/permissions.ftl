@@ -4,6 +4,8 @@
 
 perm-persistent-storage-remember = Bu kararı hatırla
 speech-recognition-model-download-header = Konuşma tanıma ayarlansın mı?
+# $sizeMB (Number) - the model download size in MB.
+speech-recognition-model-download-message = { -brand-short-name } konuşma tanımayı kendi cihazınızda çalıştırır, yani sesiniz asla cihazınızdan dışarı çıkmaz. Kuruluma devam ettiğinizde { $sizeMB } MB boyutunda bir indirme başlatılacaktır.
 speech-recognition-model-download-allow =
     .label = Devam et
     .accesskey = D

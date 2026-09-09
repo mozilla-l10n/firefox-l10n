@@ -154,6 +154,7 @@ pdfjs-enabled = Etkin
 pdfjs-enabled-annotation-editor = Açıklama editörü etkin
 # XFA (XML Form Architecture) refers to Adobe’s technology for forms.
 pdfjs-enabled-xfa = XFA formları etkin
+pdfjs-open-attachments-inline = PDF eklerini belge içinde aç
 library-version-title = Kitaplık sürümleri
 copy-text-to-clipboard-label = Metni panoya kopyala
 copy-raw-data-to-clipboard-label = Ham metni panoya kopyala
