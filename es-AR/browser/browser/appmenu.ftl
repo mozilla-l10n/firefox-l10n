@@ -298,7 +298,15 @@ appmenu-sync-promo-signin-cta = Iniciar sesión
 appmenu-sync-promo-turnonsync =
     .heading = Sincronizar pestañas e historial
 appmenu-sync-promo-turnonsync-cta = Habilitar sincronización
+# This refers to getting tabs from your mobile device via sync
+appmenu-sync-promo-connectdevice =
+    .heading = A traer las pestañas del dispositivo móvil
 appmenu-sync-promo-connectdevice-cta = Conectar un dispositivo
+appmenu-bookmarks-sync-promo-turnonsync =
+    .heading = A traer los marcadores
+# This refers to having your bookmarks available on your mobile device via sync
+appmenu-bookmarks-sync-promo-connectdevice =
+    .heading = A llevar los marcadores a los otros dispositivos
 
 ## Help panel
 
