@@ -149,6 +149,12 @@ pdfjs-title = Cititor PDF
 # PDF.js is the name of the project, leave it unchanged.
 pdfjs-version = Versiune PDF.js
 pdfjs-enabled = Activat
+# The annotation editor is the set of PDF editing tools (draw, add image, add
+# text, signature).
+pdfjs-enabled-annotation-editor = Editorul de adnotări este activat
+# XFA (XML Form Architecture) refers to Adobe’s technology for forms.
+pdfjs-enabled-xfa = Formularele XFA sunt activate
+pdfjs-open-attachments-inline = Deschide atașamentele PDF direct
 library-version-title = Versiuni de bibliotecă
 copy-text-to-clipboard-label = Copiază textul în clipboard
 copy-raw-data-to-clipboard-label = Copiază datele brute în clipboard
