@@ -98,3 +98,14 @@ fp-neterror-access-connector-error-contact-admin = Riprova più tardi o contatta
 # Labels the message an administrator wrote for the data protection rule that
 # was matched, shown in the warn and block dialogs above that message.
 contentanalysis-admin-message-label = Messaggio dall’amministratore
+# Shown in the about:preferences data collection section.
+# Variant of data-collection (preferences.ftl) without the description.
+data-collection-enterprise =
+    .label = Raccolta e utilizzo dati di { -brand-short-name }
+    .searchkeywords = telemetria
+# Shown in the about:preferences data collection section.
+# Variant of data-collection-backlogged-crash-reports (preferences.ftl).
+data-collection-backlogged-crash-reports-enterprise =
+    .description = Le segnalazioni di arresto anomalo aiutano la tua organizzazione a diagnosticare e risolvere problemi con il browser. Le segnalazioni possono includere dati personali o sensibili.
+    .label = Invia automaticamente segnalazioni di arresto anomalo
+    .accesskey = I
