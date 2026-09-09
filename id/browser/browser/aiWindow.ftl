@@ -152,3 +152,10 @@ aiwindow-firstrun-memories-conversation-body = Belajar dari obrolan berarti Anda
 aiwindow-firstrun-memories-relevance-title = Jawaban yang lebih relevan
 aiwindow-firstrun-memories-relevance-body = Belajar dari penjelajahan memberi { -smart-window-brand-name } gambaran yang lebih besar.
 aiwindow-firstrun-memories-privacy-title = Pribadi berdasarkan desain
+aiwindow-firstrun-memories-privacy-body = Memori disimpan di perangkat ini. Hapus atau matikan kapan saja.
+
+## Clear browsing data dialog
+
+item-history-downloads-and-chat =
+    .label = Riwayat penjelajahan, unduhan, dan obrolan
+    .accesskey = b
