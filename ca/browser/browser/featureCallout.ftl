@@ -139,6 +139,17 @@ taskbar-tabs-value-prop-callout-subtitle = Inicieu-lo a la seva pròpia finestra
 ## opens in its own dedicated window with a simplified interface, without the
 ## usual browser tabs and toolbars.
 
+# Treatment B changes only the title for chat; the subtitle is unchanged from
+# treatment A, so this variant reuses taskbar-tabs-chat-callout-subtitle.
+taskbar-tabs-chat-callout-title-v3 = Mantingueu la connexió des de la barra de tasques
+taskbar-tabs-email-callout-title-v3 = Tingueu la safata d'entrada a la barra de tasques
+taskbar-tabs-email-callout-subtitle-v3 = Inicieu els vostres llocs web de correu electrònic com si fossin una aplicació en una finestra optimitzada protegida per { -brand-short-name }.
+taskbar-tabs-media-callout-title-v3 = Tingueu l'estríming a la barra de tasques
+taskbar-tabs-media-callout-subtitle-v3 = Inicieu els vostres llocs web de contingut multimèdia com si fossin una aplicació en una finestra optimitzada protegida per { -brand-short-name }.
+taskbar-tabs-value-prop-callout-title-v3 = Fixeu els vostres llocs web preferits a la barra de tasques
+taskbar-tabs-value-prop-callout-subtitle-v3 = Inicieu qualsevol lloc web com si fos una aplicació en una finestra optimitzada protegida per { -brand-short-name }.
+taskbar-tabs-gaming-callout-title-v3 = Torneu als jocs des de la barra de tasques
+taskbar-tabs-gaming-callout-subtitle-v3 = Inicieu els vostres llocs web de jocs com una aplicació en una finestra optimitzada protegida per { -brand-short-name }.
 # Button that pins the current site to the taskbar as a taskbar tab
 taskbar-tabs-callout-primary-button-v3 = Fixa a la barra de tasques
 
