@@ -31,16 +31,10 @@ xpinstall-prompt-never-allow-and-report =
 xpinstall-prompt-install =
     .label = Turpināt uzstādīšanu
     .accesskey = T
-
-# These messages are shown when a website invokes navigator.requestMIDIAccess.
-
 site-permission-install-first-prompt-midi-header = Šī vietne pieprasa piekļuvi MIDI (mūzikas instrumentu ciparsaskarne) ierīcēm. Ierīces piekļuvi var ieslēgt, uzinstalējot papildinājumu.
 site-permission-install-first-prompt-midi-message = Nevar galvot par šīs piekļuves drošumu. Turpiniet tikai tad, ja uzticaties šai vietnei.
 site-permission-install-first-prompt-serial-header = Šī vietne prasa piekļuvi seriālā porta ierīcēm. Piekļuvi ierīcēm var iespējot, instalējot paplašinājumu.
 site-permission-install-first-prompt-serial-message = Šīs piekļuves drošība netiek garantēta. Turpiniet tikai tad, ja uzticaties šai vietnei.
-
-##
-
 xpinstall-disabled-locked = Sistēmas administrators ir izslēdzis programmatūras instalēšanu.
 xpinstall-disabled-by-policy = Jūsu organizācija ir izslēgusi programmatūras instalēšanu.
 xpinstall-disabled = Programmatūras instalēšana ir izslēgta. Spiediet Ieslēgt un mēģiniet vēlreiz.
@@ -71,7 +65,7 @@ webext-perms-update-menu-item = { $addonName } ir nepieciešamas jaunas atļauja
 # This message is shown when one or more extensions have been imported from a
 # different browser into Firefox, and the user needs to complete the import to
 # start these extensions. This message is shown in the appmenu.
-webext-imported-addons = Pabeigt paplašinājumu instalēšanu, kas importēti { -brand-short-name }
+webext-imported-addons = Pabeigt paplašinājumu uzstādīšanu, kas ievietoti { -brand-short-name }
 
 ## Add-on removal warning
 

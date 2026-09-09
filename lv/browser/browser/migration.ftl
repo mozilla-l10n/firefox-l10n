@@ -9,7 +9,7 @@ import-from =
         [windows] Ievietot iestatījumus, grāmatzīmes, vēsturi, paroles un citus datus no:
        *[other] Ievietot iestatījumus, grāmatzīmes, vēsturi, paroles un citus datus no:
     }
-import-from-bookmarks = Importēt grāmatzīmes no:
+import-from-bookmarks = Ievietot grāmatzīmes no:
 import-from-ie =
     .label = Microsoft Internet Explorer
     .accesskey = M
@@ -23,7 +23,7 @@ import-from-edge-beta =
     .label = Microsoft Edge beta
     .accesskey = d
 import-from-nothing =
-    .label = Neimportēt neko
+    .label = Neko neievietot
     .accesskey = N
 import-from-safari =
     .label = Safari

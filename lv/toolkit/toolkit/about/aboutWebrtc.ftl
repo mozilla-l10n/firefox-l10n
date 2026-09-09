@@ -21,7 +21,7 @@ about-webrtc-aec-logging-on-state-msg = AEC žurnalēšana ir ieslēgta (runā a
 about-webrtc-aec-logging-toggled-on-state-msg = AEC žurnalēšana ir ieslēgta (runā ar zvanītāju dažas minūtes un tad apturi ierakstīšanu)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
-about-webrtc-aec-logging-toggled-off-state-msg = Apkopotie žurnalēšanas faili pieejami: { $path }
+about-webrtc-aec-logging-toggled-off-state-msg = Pierakstītās žurnalēšanas datnes var atrast: { $path }
 
 ##
 
@@ -135,7 +135,7 @@ about-webrtc-encoder-label = Kodētājs
 about-webrtc-save-page-msg = lapa saglabāta: { $path }
 about-webrtc-debug-mode-off-state-msg = atkļūdošanas žurnāls pieejams: { $path }
 about-webrtc-debug-mode-on-state-msg = atkļūdošanas režīms aktīvs, žurnāls pieejams: { $path }
-about-webrtc-aec-logging-off-state-msg = apkopotie žurnalēšanas faili pieejami: { $path }
+about-webrtc-aec-logging-off-state-msg = pierakstītās žurnalēšanas datnes var atrast: { $path }
 # This path is used for saving the about:webrtc page so it can be attached to
 # bug reports.
 # Variables:

@@ -95,12 +95,12 @@ pkcs12-dup-data = Sertifikāts un privātā atslēga jau ir šajā drošības ie
 ## PKCS#12 file dialogs
 
 choose-p12-backup-file-dialog = Dublējamā faila nosaukums
-file-browse-pkcs12-spec = PKCS12 faili
+file-browse-pkcs12-spec = PKCS12 datnes
 choose-p12-restore-file-dialog = Importējamā faila nosaukums
 
 ## Import certificate(s) file dialog
 
-file-browse-certificate-spec = Sertifikāta faili
+file-browse-certificate-spec = Sertifikāta datnes
 import-ca-certs-prompt = Izvēlieties failu, kas satur importējamo CA sertifikātu
 import-email-cert-prompt = Izvēlieties failu, kas satur importējamo epasta sertifikātu
 

@@ -500,9 +500,9 @@ about-logins-import-report-modified =
     }
 about-logins-import-report-no-change =
     { $count ->
-        [zero] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">pieteikšanās vienumi, kas atkārtojas</div> <div data-l10n-name="not-imported">(nav ievietoti)</div>
+        [zero] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">pieteikšanās vienumu, kas atkārtojas</div> <div data-l10n-name="not-imported">(nav ievietoti)</div>
         [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">pieteikšanās vienumi, kas atkārtojas</div> <div data-l10n-name="not-imported">(nav ievietoti)</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details"></div><div data-l10n-name="not-imported">(nav importēts)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">pieteikšanās vienumi, kas atkārtojas</div> <div data-l10n-name="not-imported">(nav ievietoti)</div>
     }
 about-logins-import-report-added2 =
     { $count ->
@@ -518,17 +518,17 @@ about-logins-import-report-modified2 =
     }
 about-logins-import-report-no-change2 =
     { $count ->
-        [zero] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Ieraksta dublikāts</div> <div data-l10n-name="not-imported">(nav importēts)</div>
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Ierakstu dublikāti</div> <div data-l10n-name="not-imported">(nav importēts)</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Ierakstu dublikāti</div> <div data-l10n-name="not-imported">(nav importēts)</div>
+        [zero] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ierakstu, kas atkārtojas</div> <div data-l10n-name="not-imported">(nav ievietoti)</div>
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ieraksts, kas atkārtojas</div> <div data-l10n-name="not-imported">(nav ievietots)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ieraksti, kas atkārtojas</div> <div data-l10n-name="not-imported">(nav ievietoti)</div>
     }
 about-logins-import-report-error =
     { $count ->
-        [zero] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Kļūda</div> <div data-l10n-name="not-imported">(nav importēts)</div>
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Kļūdas</div> <div data-l10n-name="not-imported">(nav importēts)</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">Kļūdu</div> <div data-l10n-name="not-imported">(nav importēts)</div>
+        [zero] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">kļūdu</div> <div data-l10n-name="not-imported">(nav ievietoti)</div>
+        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">kļūda</div> <div data-l10n-name="not-imported">(nav ievietoti)</div>
+       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">kļūdas</div> <div data-l10n-name="not-imported">(nav ievietoti)</div>
     }
 
 ## Logins import report page
 
-about-logins-import-report-page-title = Importēt kopsavilkuma atskaiti
+about-logins-import-report-page-title = Ievietot kopsavilkuma atskaiti

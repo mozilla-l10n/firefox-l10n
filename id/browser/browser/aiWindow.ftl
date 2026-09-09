@@ -121,3 +121,34 @@ aiwindow-firstrun-model-personal-label = Pribadi
 aiwindow-firstrun-model-personal-body = Jawaban yang paling disesuaikan
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-personal-label-v2 = Pribadi: { $shortName }
+aiwindow-firstrun-model-personal-body-v2 = Dibangun untuk bantuan yang dipersonalisasi dalam berbagai bahasa
+aiwindow-firstrun-button = Ayo
+aiwindow-firstrun-back-button = Kembali
+aiwindow-firstrun-next-button = Selanjutnya
+
+## These are labels describing model types in the smartbar model select.
+
+aiwindow-input-model-select-button-label-fast = Cepat
+aiwindow-input-model-select-button-label-allpurpose = Luwes
+aiwindow-input-model-select-button-label-personal = Pribadi
+aiwindow-input-model-select-button-label-custom = Ubahan
+aiwindow-input-model-select-button-description-custom = Gunakan LLM Anda sendiri
+# Variables:
+# $ownerName (string) - The name of the model owner/provider
+# $model (string) - The model name
+aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
+aiwindow-input-model-select-menu-item-description-custom = Gunakan LLM Anda sendiri
+aiwindow-input-model-select-default-badge =
+    .label = Baku
+    .title = Model baku yang dipilih
+aiwindow-input-model-select-settings-link = Pengaturan model
+
+## Firstrun memories onboarding
+
+aiwindow-firstrun-memories-title = Jawaban lebih berguna, sesuai keinginan Anda
+aiwindow-firstrun-memories-subtitle = { -smart-window-brand-name } dapat belajar dari obrolan, penjelajahan, atau keduanya untuk menciptakan memori. Mereka membuat jawaban lebih membantu dengan berjalannya waktu.
+aiwindow-firstrun-memories-conversation-title = Jaga percakapan terus berlanjut
+aiwindow-firstrun-memories-conversation-body = Belajar dari obrolan berarti Anda bisa lebih jarang mengulang.
+aiwindow-firstrun-memories-relevance-title = Jawaban yang lebih relevan
+aiwindow-firstrun-memories-relevance-body = Belajar dari penjelajahan memberi { -smart-window-brand-name } gambaran yang lebih besar.
+aiwindow-firstrun-memories-privacy-title = Pribadi berdasarkan desain

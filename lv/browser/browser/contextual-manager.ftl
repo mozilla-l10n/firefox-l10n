@@ -14,8 +14,8 @@ contextual-manager-more-options-popup =
 ## Passwords
 
 contextual-manager-passwords-command-create = Pievienot paroli
-contextual-manager-passwords-command-import-from-browser = Importēt datus no cita pārlūka…
-contextual-manager-passwords-command-import = Importēt no datnes…
+contextual-manager-passwords-command-import-from-browser = Ievietot datus no cita pārlūka…
+contextual-manager-passwords-command-import = Ievietot no datnes…
 contextual-manager-passwords-command-export = Izgūt paroles
 contextual-manager-passwords-command-remove-all = Noņemt visas paroles
 contextual-manager-passwords-command-options = Iespējas
@@ -44,8 +44,8 @@ contextual-manager-passwords-copy-password-os-auth-dialog-message-win = Lai kop�
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = kopēt saglabāto paroli
-contextual-manager-passwords-import-file-picker-title = Importēt paroles
-contextual-manager-passwords-import-file-picker-import-button = Importēt
+contextual-manager-passwords-import-file-picker-title = Ievietot paroles
+contextual-manager-passwords-import-file-picker-import-button = Ievietot
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 contextual-manager-passwords-import-file-picker-csv-filter-title =
@@ -61,7 +61,7 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
        *[other] TSV datne
     }
 contextual-manager-passwords-import-success-heading =
-    .heading = Paroles ir importētas
+    .heading = Paroles ievietotas
 # Variables
 #   $added (number) - Number of added passwords
 #   $modified (number) - Number of modified passwords
@@ -75,7 +75,7 @@ contextual-manager-passwords-import-success-message-2 = Jaunas: { $added }, atja
 contextual-manager-passwords-import-detailed-report = Apskatīt izvērstu pārskatu
 contextual-manager-passwords-import-success-button = Gatavs
 contextual-manager-passwords-import-error-heading-and-message =
-    .heading = Nevarēja importēt paroles
+    .heading = Nevarēja ievietot paroles
     .message = Jāpārliecinās, ka datnē ir kolonna tīmekļvietnēm, lietotājvārdiem un parolēm.
 contextual-manager-passwords-import-error-button-try-again = Mēģināt vēlreiz
 contextual-manager-passwords-import-error-button-cancel = Atcelt
