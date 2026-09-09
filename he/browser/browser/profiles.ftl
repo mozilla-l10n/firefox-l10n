@@ -11,16 +11,16 @@ profile-window-checkbox-label-2 =
 profile-window-checkbox-subcopy = ‏{ -brand-short-name } ייפתח בפרופיל האחרון שבו השתמשת.
 profile-window-create-profile = יצירת פרופיל
 profile-card-edit-button =
-    .title = עריכת פרופיל
     .aria-label = עריכת פרופיל
+    .title = עריכת פרופיל
 profile-card-delete-button =
-    .title = מחיקת פרופיל
     .aria-label = מחיקת פרופיל
+    .title = מחיקת פרופיל
 # Variables
 #   $profileName (string) - The name of the profile
 profile-card =
-    .title = פתיחת { $profileName }
     .aria-label = פתיחת { $profileName }
+    .title = פתיחת { $profileName }
 # Variables
 #   $number (number) - The number of the profile
 default-profile-name = פרופיל { $number }
@@ -57,7 +57,7 @@ avatar-selector-add-image = הוספת תמונה
 avatar-selector-crop = חיתוך
 avatar-selector-dialog =
     .aria-label = עריכת תמונה מייצגת
-edit-profile-page-no-name = ניתן לתת שם לפרופיל זה כדי לסייע לך למצוא אותו מאוחר יותר. אפשר לשנות את השם שלו בכל עת.
+edit-profile-page-no-name = יש לתת שם לפרופיל זה כדי לסייע לך למצוא אותו מאוחר יותר. אפשר לשנות את השם שלו בכל עת.
 edit-profile-page-duplicate-name = שם הפרופיל כבר בשימוש. נא לנסות שם חדש.
 edit-profile-page-profile-saved = נשמר
 new-profile-page-title = פרופיל חדש
@@ -290,9 +290,6 @@ profiles-appmenu-callout-tour-subtitle = בתפריט ☰, יש ללחוץ על 
 profiles-appmenu-callout-tour-primary-button = הראו לי כיצד
 barbell-avatar = משקולת
 bike-avatar = אופניים
-
-## Tooltips for default avatar icons
-
 barbell-avatar-tooltip =
     .tooltiptext = החלת תמונה מייצגת של משקולת
 bike-avatar-tooltip =
