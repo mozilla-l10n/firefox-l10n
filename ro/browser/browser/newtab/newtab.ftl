@@ -211,6 +211,10 @@ newtab-privacy-across-sites =
 newtab-privacy-empty = { -brand-short-name } blochează elementele de urmărire în timp ce navighezi. Le vei vedea aici.
 # Shown when no trackers have been blocked yet today.
 newtab-privacy-empty-state = { -brand-short-name } blochează automat elementele de urmărire, păstrând o mare parte din activitatea ta privată.
+# "A running tally" is an informal way to say a total that keeps updating as it goes.
+# Here we are referring to the number of trackers blocked, which increases as the user browses.
+# An alternative can be "See a running total here"
+newtab-privacy-empty-state-tally = Vezi aici totalul în timp real.
 
 ## Privacy widget — Enhanced Tracking Protection off state
 

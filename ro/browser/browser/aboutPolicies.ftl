@@ -22,3 +22,6 @@ inactive-message = Serviciul de politici dedicate întreprinderilor este inactiv
 policy-name = Numele politicii
 policy-value = Valoarea politicii
 policy-errors = Erori privind politicile
+# Shown under the name of a policy in the Active list when at least one of the
+# operations of that policy failed to apply. The Errors tab has the details.
+policy-not-fully-applied = Nu este aplicată integral

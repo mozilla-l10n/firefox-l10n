@@ -44,7 +44,7 @@ policy-DefaultBrowserSettingEnabled = Controlează dacă utilizatorul poate seta
 policy-DefaultDownloadDirectory = Setează directorul implicit de descărcare.
 policy-DefaultSerialGuardSetting = Controlează utilizarea API-ului serial.
 policy-DisableAppUpdate = Împiedică actualizarea browserului.
-policy-DisableBuiltinPDFViewer = Dezactivează PDF.js, lectorul de fișiere PDF încorporat în { -brand-short-name }.
+policy-DisableBuiltinPDFViewer = Dezactivează PDF.js, cititorul de fișiere PDF încorporat în { -brand-short-name }.
 policy-DisableDefaultBrowserAgent = Împiedică agentul implicit de browser să ia orice măsură. Aplicabil numai pentru Windows; alte platforme nu au agentul.
 policy-DisableDeveloperTools = Blochează accesul la instrumentele pentru dezvoltatori.
 policy-DisableEncryptedClientHello = Dezactivează utilizarea funcției TLS Encrypted Client Hello (ECH).
@@ -128,7 +128,7 @@ policy-PasswordManagerExceptions = Împiedică { -brand-short-name } să salveze
 # computers. See https://en.wikipedia.org/wiki/Post-quantum_cryptography
 policy-PostQuantumKeyAgreementEnabled = Activează acordul cheii post-cuantice pentru TLS.
 # PDF.js and PDF should not be translated
-policy-PDFjs = Dezactivează sau configurează PDF.js, lectorul PDF încorporat în { -brand-short-name }.
+policy-PDFjs = Dezactivează sau configurează PDF.js, cititorul PDF încorporat în { -brand-short-name }.
 policy-Permissions2 = Configurează permisiunile pentru cameră, microfon, locație, notificări și redare automată.
 policy-PictureInPicture = Activează sau dezactivează modul Picture-in-Picture.
 policy-PopupBlocking2 = Permite anumitor site-uri să afișeze ferestre pop-up și să redirecționeze prin cadre de la terți.

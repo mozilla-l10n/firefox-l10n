@@ -145,6 +145,10 @@ a11y-activated = Activat
 a11y-force-disabled = Împiedică accesibilitatea
 a11y-handler-used = Handler accesibil folosit
 a11y-instantiator = Instanțiator de accesibilitate
+pdfjs-title = Cititor PDF
+# PDF.js is the name of the project, leave it unchanged.
+pdfjs-version = Versiune PDF.js
+pdfjs-enabled = Activat
 library-version-title = Versiuni de bibliotecă
 copy-text-to-clipboard-label = Copiază textul în clipboard
 copy-raw-data-to-clipboard-label = Copiază datele brute în clipboard
