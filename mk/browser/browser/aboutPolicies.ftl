@@ -22,3 +22,6 @@ inactive-message = Услугата „Политики на претприја�
 policy-name = Име на политиката
 policy-value = Вредност на политиката
 policy-errors = Грешки во политиката
+# Shown under the name of a policy in the Active list when at least one of the
+# operations of that policy failed to apply. The Errors tab has the details.
+policy-not-fully-applied = Не е целосно применето
