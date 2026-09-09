@@ -42,6 +42,8 @@ managed-notice-info-icon =
     .alt = Information
 managed-notice-nav =
     .label = Din browser bliver forvaltet af din organisation.
+tls-key-logging-notice-nav =
+    .label = En app eller tjeneste kan muligvis se din krypterede trafik.
 category-list =
     .aria-label = Kategorier
 pane-general-title = Generelt
@@ -2139,6 +2141,9 @@ collection-description = Vi stræber efter at give dig mulighed for selv at væl
 collection-privacy-notice = Privatlivserklæring
 collection-health-report-telemetry-disabled = Du tillader ikke længere, at { -vendor-short-name } indsamler teknisk data og data om brug. Alle tidligere data vil blive slettet indenfor 30 dage.
 collection-health-report-telemetry-disabled-link = Læs mere
+nimbus-rollouts =
+    .description = Ændringerne vil blive implementeret eksternt.
+    .label = Tillad, at { -brand-short-name } forbedrer funktioner, ydeevne og stabilitet mellem opdateringer
 addon-recommendations3 =
     .description = Få anbefalinger om udvidelser, der kan forbedre din oplevelse på nettet.
     .label = Tillad tilpassede anbefalinger af udvidelser
@@ -2509,6 +2514,8 @@ issue-card-dismiss-button =
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-level-radio-group =
+    .aria-label = Udvidet beskyttelse mod sporing
 preferences-etp-status-advanced-button =
     .label = Avancerede indstillinger
 preferences-etp-tracker-count-enabled =
@@ -2535,6 +2542,8 @@ preferences-etp-custom-cookie-behavior =
     .aria-label = Cookies
 preferences-etp-custom-cookie-behavior-accept-all =
     .label = Tillad alle cookies
+preferences-etp-custom-cookie-behavior-block-cross-site-tracking-cookies =
+    .label = Bloker sporings-cookies på tværs af websteder
 preferences-etp-custom-cookie-behavior-block-cross-site-cookies =
     .label = Bloker cookies på tværs af websteder
 preferences-etp-custom-cookie-behavior-isolate-cross-site-cookies =

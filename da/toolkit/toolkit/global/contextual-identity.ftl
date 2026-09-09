@@ -35,8 +35,18 @@ user-context-banking-panel-item = Bank
     .accesskey = B
 user-context-shopping-panel-item = Shopping
     .accesskey = S
+user-context-new-tab-panel-item = Nyt faneblad
+    .accesskey = N
+user-context-add-container-panel-item = Tilføj ny kontekst
+    .accesskey = T
 user-context-manage-containers-panel-item = Håndter kontekster
     .accesskey = o
+user-context-new-tab =
+    .label = Nyt faneblad
+    .accesskey = N
+user-context-add-container =
+    .label = Tilføj ny kontekst
+    .accesskey = T
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 

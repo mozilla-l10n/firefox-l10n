@@ -164,6 +164,12 @@ home-prefs-mission-message-learn-more-link-srd = Find ud af hvordan
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Læs mere
 
+## Privacy widget — Enhanced Tracking Protection off state
+
+# Shown when the user has turned off the Enhanced Tracking Protection setting.
+newtab-privacy-etp-off-faster-browsing = Hurtigere browsing. Færre sporings-mekanismer.
+newtab-privacy-etp-off-turn-on-tracking = Slå sporingsbeskyttelse til i indstillingerne for at starte blokering.
+
 ## Privacy widget — informational messages
 ##
 ## Rotating "info" secondary messages. Each message has a body plus a matched
@@ -742,6 +748,13 @@ newtab-custom-close-menu-button =
 newtab-custom-close-button = Luk
 newtab-custom-settings = Håndter flere indstillinger
 
+## Customization Menu
+
+# An arrow button that goes back from a sub-panel in the customize panel, such as a wallpaper category, to the main Customize panel.
+newtab-customize-panel-back-button =
+    .aria-label = Tilbage til Tilpas
+    .title = Tilbage til Tilpas
+
 ## New Tab Appearance (browser theme picker)
 
 # Title of the browser theme ("Appearance") section in the customize panel.
@@ -796,6 +809,48 @@ newtab-wallpaper-dark-mountain = Bjerglandskab
 newtab-wallpaper-dark-city = Lilla bylandskab
 newtab-wallpaper-dark-fox-anniversary = En ræv på fortovet i nærheden af en skov
 newtab-wallpaper-light-fox-anniversary = En ræv på en græsmark i et tåget bjerglandskab
+
+## "Your images" is the folder of wallpapers someone has saved. A saved wallpaper
+## can be a file they uploaded, a Picture of the Day they chose to keep, or a
+## Firefox wallpaper kept for them when it was retired.
+
+newtab-wallpaper-your-images = Dine billeder
+# Accessible name for the tile that opens the "Your images" folder in the
+# wallpaper picker. The tile shows one of the saved images and has no text of
+# its own, so this is all a screen reader has to go on.
+newtab-wallpaper-your-images-folder =
+    .aria-label = Dine billeder, baggrunde, som du har gemt
+# Read by screen readers for a saved image that has a name of its own: a kept
+# Picture of the Day, or a Firefox wallpaper kept when it was retired. An image
+# someone added themselves is numbered instead, see the string below.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-your-images-item = { $name }
+# Read by screen readers for an image someone added themselves. Firefox counts
+# these as they are saved rather than keeping the name of their file.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-your-images-item-numbered = Billede { $number }
+# Each saved image has its own remove button. The tooltip stays short because
+# a name can be long and some locales put it before the verb, which would push
+# "remove" out of view. The full name is on the label a screen reader reads.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-remove-image =
+    .aria-label = Fjern { $name }
+    .title = Fjern billede
+# The remove button for an image someone added themselves. .title is the
+# tooltip and .aria-label is what a screen reader reads.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-remove-image-numbered =
+    .aria-label = Fjern billede { $number }
+    .title = Fjern billede { $number }
+newtab-wallpaper-remove-image-title = Fjern billede?
+# "This action" refers to removing a saved wallpaper image.
+newtab-wallpaper-remove-image-body = Denne handling kan ikke fortrydes.
+newtab-wallpaper-remove-image-confirm = Fjern
+newtab-wallpaper-remove-image-cancel = Annuller
 
 ## Solid Colors
 
@@ -889,6 +944,9 @@ newtab-weather-menu-change-location = Skift sted
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Søg efter sted
     .placeholder = Søg efter sted
+newtab-weather-cancel-input =
+    .aria-label = Annuller
+    .title = Annuller
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Brug nuværende placering
@@ -1137,6 +1195,10 @@ newtab-widget-lists-menu-create = Opret en ny liste
 newtab-widget-lists-menu-delete = Slet denne liste
 newtab-widget-lists-menu-copy = Kopier liste til udklipsholderen
 newtab-widget-lists-menu-learn-more = Læs mere
+# "Change" is a verb here: the button switches which list is shown
+newtab-widget-lists-change-list =
+    .aria-label = Skift liste
+    .title = Skift liste
 newtab-widget-lists-button-add-item = Tilføj et element
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Tilføj et element
