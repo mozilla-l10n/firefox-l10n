@@ -540,7 +540,7 @@ launch-options-spotlight-primary-button-launch = Spara och fortsätt
 
 # "has your back" is an idiom meaning support and protection; adapt freely
 # rather than translating literally.
-lapsed-user-toast-title = { -brand-product-name } har fortfarande din rygg
-lapsed-user-toast-subtitle = Kolla in nya sätt du kan surfa med större valfrihet, integritet och kontroll.
+lapsed-user-toast-title = { -brand-product-name } finns fortfarande där för dig
+lapsed-user-toast-subtitle = Upptäck nya sätt att surfa med större valfrihet, integritet och kontroll.
 lapsed-user-toast-whats-new-button = Se vad som är nytt
 lapsed-user-toast-dismiss-button = Ignorera
