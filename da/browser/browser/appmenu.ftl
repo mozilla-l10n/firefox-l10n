@@ -372,6 +372,7 @@ appmenuitem-report-broken-site =
 ## Panel for privacy and security products
 
 appmenuitem-sign-in-account = Log in på din konto
+appmenuitem-monitor-description2 = Få advarsler om datalæk
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Få advarsler om datalæk
 appmenuitem-relay-title = { -relay-brand-short-name }
