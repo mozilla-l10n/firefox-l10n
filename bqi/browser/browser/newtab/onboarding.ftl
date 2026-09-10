@@ -260,6 +260,10 @@ onboarding-personalization-use-case-work-option = کاری
 onboarding-personalization-motivation-privacy-option = هریم سیخومی وو ٱمنیت
 onboarding-personalization-motivation-other-option = دیر
 
+## First Run Onboarding refresh strings
+
+onboarding-refresh-primary-button = رئڌن وا پؽش
+
 ## Smart Window ToU modal
 
 # Existing users

@@ -71,6 +71,14 @@ site-exclusion-toggle-enabled-1 =
 site-exclusion-toggle-disabled-1 =
     .aria-label = VPN سی ای وبگه کۊر هڌ
     .label = و کار گرؽڌن VPN سی ای وبگه
+# Manages rules for VPN to turn on or off automatically for certain websites
+site-rules-manage-rules-link-text = دؽوۉداری قانووا VPN
+# Heading for user defined rules on VPN usage for particular websites
+site-rules-status-heading = قانووݩ ایسا
+# Used in the panel when a user navigates to a site where the VPN is off due to a site exclusion
+site-rules-description-exclusion = VPN سی ای وبگه کۊر هڌ
+# Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
+site-rules-description-inclusion = VPN سی ای وبگه رۊشن هڌ
 ipprotection-settings-link =
     .label = سامووا
 
@@ -136,6 +144,8 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } وبگه
         }
     .label = دؽوۉداری سامووا وبگه
+ip-protection-site-rules-header =
+    .heading = دؽوۉداری قانووا وبگه
 ip-protection-autostart =
     .label = رۊشن کردن خوتکار VPN
 ip-protection-autostart-checkbox =
