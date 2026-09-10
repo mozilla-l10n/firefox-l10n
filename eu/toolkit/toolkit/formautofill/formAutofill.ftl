@@ -7,14 +7,14 @@
 
 # The macos string is preceded by the operating system (macOS) with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
-autofill-use-payment-method-os-prompt-macos = erabili gordetako ordainketa metodoaren informazioa
-autofill-use-payment-method-os-prompt-windows = Gordetako ordainketa metodoen informazioa erabiltzen saiatzen ari da { -brand-short-name }. Berretsi azpian Windows kontu honetarako sarbidea.
-autofill-use-payment-method-os-prompt-other = Gordetako ordainketa metodoen informazioa erabiltzen saiatzen ari da { -brand-short-name }.
+autofill-use-payment-method-os-prompt-macos = erabili gordetako ordainketa-metodoaren informazioa
+autofill-use-payment-method-os-prompt-windows = Gordetako ordainketa-metodoen informazioa erabiltzen saiatzen ari da { -brand-short-name }. Berretsi azpian Windows kontu honetarako sarbidea.
+autofill-use-payment-method-os-prompt-other = Gordetako ordainketa-metodoen informazioa erabiltzen saiatzen ari da { -brand-short-name }.
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
-autofill-edit-payment-method-os-prompt-macos = erakutsi gordetako ordainketa metodoaren informazioa
-autofill-edit-payment-method-os-prompt-windows = Gordetako ordainketa metodoen informazioa erakusten saiatzen ari da { -brand-short-name }. Berretsi azpian Windows kontu honetarako sarbidea.
-autofill-edit-payment-method-os-prompt-other = Gordetako ordainketa metodoen informazioa erakusten saiatzen ari da { -brand-short-name }.
+autofill-edit-payment-method-os-prompt-macos = erakutsi gordetako ordainketa-metodoaren informazioa
+autofill-edit-payment-method-os-prompt-windows = Gordetako ordainketa-metodoen informazioa erakusten saiatzen ari da { -brand-short-name }. Berretsi azpian Windows kontu honetarako sarbidea.
+autofill-edit-payment-method-os-prompt-other = Gordetako ordainketa-metodoen informazioa erakusten saiatzen ari da { -brand-short-name }.
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-delete-payment-method-os-prompt-macos = ezabatu gordetako ordainketa-metodoaren informazioa
@@ -54,7 +54,7 @@ autofill-clear-form-label = Garbitu automatikoki betetako inprimakia
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
 autofill-manage-addresses-label = Kudeatu helbideak
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
-autofill-manage-payment-methods-label = Kudeatu ordainketa metodoak
+autofill-manage-payment-methods-label = Kudeatu ordainketa-metodoak
 # Used as the primary label of an autofill drop down suggestion when the focused
 # field is the card security code. The card's masked number is shown underneath
 # it as the secondary label. "CVC" is a common abbreviation for the code printed

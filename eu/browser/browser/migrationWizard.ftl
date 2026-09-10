@@ -19,11 +19,6 @@ migration-wizard-selection-option-without-profile = { $sourceBrowser }
 #  $sourceBrowser (String): the name of the browser to import from.
 #  $profileName (String): the name of the user profile to import from.
 migration-wizard-selection-option-with-profile = { $sourceBrowser } — { $profileName }
-
-# Each migrator is expected to include a display name string, and that display
-# name string should have a key with "migration-wizard-migrator-display-name-"
-# as a prefix followed by the unique identification key for the migrator.
-
 migration-wizard-migrator-display-name-brave = Brave
 migration-wizard-migrator-display-name-canary = Chrome Canary
 migration-wizard-migrator-display-name-chrome = Chrome
@@ -80,7 +75,7 @@ migration-passwords-option-label = Gordetako pasahitzak
 migration-history-option-label = Nabigatze-historia
 migration-extensions-option-label = Hedapenak
 migration-form-autofill-option-label = Inprimakien betetze automatikorako datuak
-migration-payment-methods-option-label = Ordainketa metodoak
+migration-payment-methods-option-label = Ordainketa-metodoak
 migration-cookies-option-label = Cookieak
 migration-session-option-label = Leihoak eta fitxak
 migration-otherdata-option-label = Bestelako datuak
@@ -173,7 +168,7 @@ migration-list-password-label = pasahitzak
 migration-list-history-label = historia
 migration-list-extensions-label = hedapenak
 migration-list-autofill-label = betetze automatikorako datuak
-migration-list-payment-methods-label = ordainketa metodoak
+migration-list-payment-methods-label = ordainketa-metodoak
 
 ##
 
@@ -291,8 +286,8 @@ migration-wizard-progress-success-formdata = Inprimakien historia
 #  $quantity (Number): the number of successfully imported payment methods
 migration-wizard-progress-success-payment-methods =
     { $quantity ->
-        [one] ordainketa metodo { $quantity }
-       *[other] { $quantity } ordainketa metodo
+        [one] ordainketa-metodo { $quantity }
+       *[other] { $quantity } ordainketa-metodo
     }
 migration-wizard-safari-permissions-sub-header = Safariko laster-markak eta nabigatze-historia inportatzeko:
 migration-wizard-safari-instructions-continue = Hautatu "Jarraitu"

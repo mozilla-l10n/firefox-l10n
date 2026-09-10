@@ -100,6 +100,8 @@ ipprotection-location-selection-callout-secondary-button = Одбаци
 
 ## VPN for Android promo callout
 
+ipprotection-android-promo-callout-title = Понесите уграђени ВПН са собом на Андроиду
+ipprotection-android-promo-callout-description = Скенирајте КР код да преузмете { -brand-product-name } за Android и укључите уграђени ВПН за већу приватност у покрету. Ускоро доступно и за iOS.
 ipprotection-android-promo-callout-primary-button = Разумем
 
 ## Panel
@@ -112,11 +114,11 @@ unauthenticated-choose-location-message-1 = Изаберите једну од �
 unauthenticated-get-started = Крените
 unauthenticated-terms-of-service-privacy-notice = Настављањем прихватате <a data-l10n-name="vpn-terms-of-service">Услове пружања услуга</a> и <a data-l10n-name="vpn-privacy-notice">Обавештење о приватности</a>.
 site-exclusion-toggle-enabled-1 =
-    .label = Користи ВПН за ову страницу
     .aria-label = ВПН је укључен за ову страницу
-site-exclusion-toggle-disabled-1 =
     .label = Користи ВПН за ову страницу
+site-exclusion-toggle-disabled-1 =
     .aria-label = ВПН је искључен за ову страницу
+    .label = Користи ВПН за ову страницу
 site-exclusion-toggle-description = Страница не ради? Покушајте да искључите ВПН.
 ipprotection-settings-link =
     .label = Подешавања
@@ -233,11 +235,11 @@ ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Скоро ст�
 ## IP Protection Settings
 
 ip-protection-description =
-    .label = ВПН
     .description = Уграђени ВПН за побољшање ваше приватности док прегледате на { -brand-short-name }.
+    .label = ВПН
 ip-protection-description-1 =
-    .label = Уграђени ВПН
     .description = Остварите додатну приватност скривањем ваше локације током прегледања.
+    .label = Уграђени ВПН
 ip-protection-learn-more = Сазнајте више
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -248,13 +250,13 @@ ip-protection-not-opted-in-button = Крените
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
 ip-protection-site-exceptions-all-sites-button =
-    .label = Управљај поставкама веб странице
     .description =
         { $count ->
             [one] { $count } веб страница
             [few] { $count } веб странице
            *[other] { $count } веб страница
         }
+    .label = Управљај поставкама веб странице
 ip-protection-autostart =
     .label = Самостално укључи ВПН
 ip-protection-autostart-checkbox =
@@ -262,11 +264,11 @@ ip-protection-autostart-checkbox =
 ip-protection-autostart-private-checkbox =
     .label = У приватним прозорима
 ip-protection-vpn-upgrade-link =
-    .label = Остварите још већу заштиту изван { -brand-short-name }-а уз { -mozilla-vpn-brand-name }
     .description = Изаберите прилагођене ВПН локације и додајте заштиту свим својим апликацијама на до пет уређаја, било да сте код куће или на јавној бежичној мрежи.
+    .label = Остварите још већу заштиту изван { -brand-short-name }-а уз { -mozilla-vpn-brand-name }
 ip-protection-vpn-upgrade-link-1 =
-    .label = Појачајте заштиту уз { -mozilla-vpn-brand-name }
     .description = Изаберите из преко 300 локација и заштитите све своје програме на до 5 уређаја.
+    .label = Појачајте заштиту уз { -mozilla-vpn-brand-name }
 
 ## IP Protection dialogs
 

@@ -1076,10 +1076,21 @@ feature-highlight-wallpaper =
 ## Firefox wallpaper descriptions used for screen readers
 
 newtab-wallpaper-firefox-orange = Azeria eskuineko ertzean atzeko plano laranja batean
+newtab-wallpaper-firefox-colorful-sky = Laranja-olatuak gaueko zeru morean zehar
 newtab-wallpaper-firefox-desert-dark = Azeria desertu ilun batean eserita
 newtab-wallpaper-firefox-desert-light = Azeria desertu argi batean zehar korrika
 newtab-wallpaper-firefox-hills-dark = Azeria muino ilun batzuen gainetik korrika
 newtab-wallpaper-firefox-hills-light = Azeria muino argi batzuen gainetik korrika
+newtab-wallpaper-firefox-tail-dark = Azeriaren isatsa atzeko plano ilunean
+newtab-wallpaper-firefox-tail-light = Azeriaren isatsa atzeko plano argian
+newtab-wallpaper-firefox-side-kit-dark = Azeria ezkerreko aldean, atzeko plano ilunean
+newtab-wallpaper-firefox-side-kit-light = Azeria ezkerreko aldean, atzeko plano argian
+newtab-wallpaper-firefox-sitting-hill-dark = Azeria muino more ilunetan eserita
+newtab-wallpaper-firefox-sitting-hill-light = Azeria muino argietan eserita
+newtab-wallpaper-firefox-peak-dark = Azeriaren aurpegia ezkerreko ertzean, atzeko plano ilunean
+newtab-wallpaper-firefox-peak-light = Azeriaren aurpegia ezkerreko ertzean, atzeko plano argian
+newtab-wallpaper-firefox-sky-dark = Muino more ilunak gaueko zerupean
+newtab-wallpaper-firefox-sky-light = Muino more argiak zeru leunpean
 
 ## Firefox
 

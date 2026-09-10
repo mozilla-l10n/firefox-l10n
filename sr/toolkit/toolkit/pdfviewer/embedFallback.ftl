@@ -8,4 +8,5 @@
 ### be displayed inline, but the user can still open or download it according to
 ### their PDF handling settings.
 
+pdfjs-embed-fallback-message = Овај ПДФ не може да се прикаже овде.
 pdfjs-embed-fallback-open-button = Отвори ПДФ
