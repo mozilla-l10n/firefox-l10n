@@ -1325,6 +1325,9 @@ preferences-ai-controls-block-confirmation-confirm =
 
 preferences-etp-level-radio-group =
     .aria-label = Uzlabotā pretizsekošanas aizsardzība
+preferences-etp-advanced-settings-group =
+    .description = Vietnes izmanto izsekotājus, lai sekotu Tev tiešsaistē un rādītu šaušalīgas reklāmas. { -brand-short-name } aizsargā Tevi, kamēr Tu pārlūko, automātiski aizturot vairumu izsekotāju, lai Tu varētu būt noteicējs pār sevis atstātajām ciparu pēdām.
+    .label = Paplašinātie iestatījumi
 preferences-etp-customize-button =
     .label = Pielāgot aizsardzību pret izsekošanu
 preferences-etp-customize-header =

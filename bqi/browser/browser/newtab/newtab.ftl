@@ -663,7 +663,12 @@ feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
 newtab-wallpaper-firefox-hills-dark = رۊوایی ک ری موله ها تاریک ادونه
 newtab-wallpaper-firefox-hills-light = رۊوایی ک ری موله ها کم نیر ادونه
-newtab-wallpaper-firefox-tail-dark = تم رۊوا من پس زمینه تاریک
+newtab-wallpaper-firefox-tail-dark = دین رۊوا من پس زمینه تاریک
+newtab-wallpaper-firefox-tail-light = دین رۊوا من پس زمینه رۊشنا
+newtab-wallpaper-firefox-side-kit-dark = ی رۊوا من سمت چپ، من ی پس زمینه تاریک
+newtab-wallpaper-firefox-side-kit-light = ی رۊوا من سمت چپ، من ی پس زمینه رۊشنا
+newtab-wallpaper-firefox-sitting-hill-dark = رۊوایی نشسته ری موله یل بناوش تاریک
+newtab-wallpaper-firefox-sitting-hill-light = رۊوایی ک ری موله یل رۊشنا نشسته
 
 ## Firefox
 
