@@ -15,7 +15,7 @@ list-empty-recent-updates =
 list-empty-find-updates =
     .label = Meklēt atjauninājumus
 list-empty-button =
-    .label = Uzziniet vairāk par papildinājumiem
+    .label = Uzzināt vairāk par papildinājumiem
 help-button = Papildinājumu atbalsts
 sidebar-help-button-title =
     .title = Papildinājumu atbalsts
@@ -80,7 +80,7 @@ addon-restart-now =
 disabled-unsigned-heading =
     .value = Daži papildinājumi ir deaktivēti
 disabled-unsigned-description = Šos papildinājumus nevar pārbaudīt izmantošanai ar { -brand-short-name }. Jūs varat <label data-l10n-name="find-addons">atrast aizvietotājus</label> vai palūgt to izstrādātājam apstiprināt tos.
-disabled-unsigned-learn-more = Uzziniet vairāk par to ko darām, lai jūs būtu drošībā.
+disabled-unsigned-learn-more = Uzzināt vairāk par to, ko darām, lai Tu tiešsaistē būtu drošībā.
 disabled-unsigned-devinfo = Izstrādātāji, kas vēlas apstiprināt savus papildinājumus var turpināt izlasot mūsu <label data-l10n-name="learn-more">pamācību</label>.
 plugin-deprecation-description = Kaut kas pietrūkst? Dažus spraudņus { -brand-short-name } vairs neatbalsta. <label data-l10n-name="learn-more">Uzzināt vairāk.</label>
 legacy-warning-show-legacy = Rādīt vēsturiskos papildinājumus

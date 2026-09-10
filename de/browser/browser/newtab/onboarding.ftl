@@ -560,6 +560,12 @@ onboarding-refresh-tab-layout-header = Probieren Sie ein anderes Tab-Layout aus
 onboarding-refresh-tab-layout-top = Oben
 onboarding-refresh-tab-layout-side = An der Seite
 onboarding-refresh-tab-layout-minimal = Minimalistisch
+# Tooltip displayed on hover for minimal tabs image
+onboarding-minimal-tabs-tooltip =
+    .title = Ein Browser-Fenster, in dem Tabs als kleine Symbole am Rand des Bildschirms in einer minimierten Sidebar angezeigt werden.
+# Description for minimal tabs image
+onboarding-minimal-tabs-description =
+    .aria-description = Ein Browser-Fenster, in dem Tabs als kleine Symbole am Rand des Bildschirms in einer minimierten Sidebar angezeigt werden.
 
 ## Smart window switcher callout
 
