@@ -18,3 +18,14 @@ colorpicker-tooltip-color-name-title = Vistuvāk: { $colorName }
 colorpicker-tooltip-hue-slider-title = Nokrāsa
 # A title text for the alpha slider in the color picker tooltip.
 colorpicker-tooltip-alpha-slider-title = Necaurspīdība
+# A title text for the button in the Inspector toolbar that opens the menu
+# controlling how the Inspector panels are split.
+inspector-split-orientation-button-title = Paneļa izkārtojums
+# A label for the split orientation menu item that switches the layout
+# automatically based on the panel width.
+inspector-split-orientation-auto = Automātisks
+# A label for the split orientation menu item that locks the panels side by side.
+inspector-split-orientation-side-by-side = Blakus
+# A label for the split orientation menu item that locks the panels on top of
+# each other.
+inspector-split-orientation-stacked = Cits virs cita

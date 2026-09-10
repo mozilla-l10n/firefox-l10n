@@ -961,6 +961,22 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+newtab-wallpaper-firefox-orange = Uma raposa junto à margem direita sobre um fundo laranja
+newtab-wallpaper-firefox-colorful-sky = Ondas laranja num céu noturno púrpura
+newtab-wallpaper-firefox-desert-dark = Uma raposa sentada num deserto púrpura escuro
+newtab-wallpaper-firefox-desert-light = Uma raposa a correr por um deserto claro
+newtab-wallpaper-firefox-hills-dark = Uma raposa a correr sobre colinas escuras
+newtab-wallpaper-firefox-hills-light = Uma raposa a correr sobre colinas claras
+newtab-wallpaper-firefox-tail-dark = A cauda de uma raposa num fundo escuro
+newtab-wallpaper-firefox-tail-light = A cauda de uma raposa num fundo claro
+newtab-wallpaper-firefox-side-kit-dark = Uma raposa no lado esquerdo, num fundo escuro
+newtab-wallpaper-firefox-side-kit-light = Uma raposa no lado esquerdo, num fundo claro
+newtab-wallpaper-firefox-sitting-hill-dark = Uma raposa sentada em colinas púrpura escuras
+newtab-wallpaper-firefox-sitting-hill-light = Uma raposa sentada em colinas claras
+newtab-wallpaper-firefox-peak-dark = Uma face de uma raposa na margem esquerda, num fundo escuro
+newtab-wallpaper-firefox-peak-light = Uma face de uma raposa na margem esquerda, num fundo claro
+newtab-wallpaper-firefox-sky-dark = Colinas púrpura escuras sob um céu noturno
+newtab-wallpaper-firefox-sky-light = Colinas claras sob um céu suave
 
 ## Firefox
 

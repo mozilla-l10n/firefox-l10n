@@ -5,6 +5,11 @@
 
 ## OS Prompt Dialog
 
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-delete-payment-method-os-prompt-macos = Izdzēst saglabāto maksājuma veidu informāciju
+autofill-delete-payment-method-os-prompt-windows = { -brand-short-name } mēģina izdzēst saglabāto maksājumu veidu informāciju. Zemāk jāapstiprina piekļuve šim Windows kontam.
+autofill-delete-payment-method-os-prompt-other = { -brand-short-name } mēģina izdzēst saglabāto maksājumu veidu informāciju.
 # The link leads users to Form Autofill browser preferences.
 autofill-options-link = Veidlapu automātiskās aizpildes iestatījumi
 

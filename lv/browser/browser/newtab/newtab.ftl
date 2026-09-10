@@ -628,6 +628,14 @@ newtab-wallpaper-firefox-hills-dark = Lapsa, kas skrien pāri tumšiem pakalniem
 newtab-wallpaper-firefox-hills-light = Lapsa, kas skrien pāri gaišiem pakalniem
 newtab-wallpaper-firefox-tail-dark = Lapsas aste uz tumša fona
 newtab-wallpaper-firefox-tail-light = Lapsas aste uz gaiša fona
+newtab-wallpaper-firefox-side-kit-dark = Lapsa kreisajā pusē uz tumša fona
+newtab-wallpaper-firefox-side-kit-light = Lapsa kreisajā pusē uz gaiša fona
+newtab-wallpaper-firefox-sitting-hill-dark = Lapsa, kas sēž uz tumši violetiem pakalniem
+newtab-wallpaper-firefox-sitting-hill-light = Lapsa, kas sēž uz gaišiem pakalniem
+newtab-wallpaper-firefox-peak-dark = Lapsas purns kreisajā malā uz tumša fona
+newtab-wallpaper-firefox-peak-light = Lapsas purns kreisajā malā uz gaiša fona
+newtab-wallpaper-firefox-sky-dark = Tumši violeti pakalni zem nakts debesīm
+newtab-wallpaper-firefox-sky-light = Gaiši pakalni zem maigām debesīm
 
 ## New Tab Weather
 

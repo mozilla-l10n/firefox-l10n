@@ -25,4 +25,9 @@ fxa-menu-send-tab-to-device-description = Uzreiz nosūtīt cilni uz jebkuru ier�
 fxa-menu-sign-out =
     .label = Izrakstīties...
 fxa-menu-sync-description = Piekļūstiet savam tīmeklim no jebkuras vietas
+# Shown by the same card, and by the app menu's sign-in row, once the user has
+# signed out - the account they signed out of can no longer be identified, so
+# this copy stands in for the email.
+fxa-menu-signed-out-title = Jāpiesakās, lai vienādotu
+fxa-menu-signed-out-description = Tu izrakstījies
 sync-setup-verify-heading = Vai tiešām pieteikties, lai vienādotu?
