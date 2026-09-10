@@ -263,6 +263,8 @@ onboarding-personalization-motivation-other-option = دیر
 ## First Run Onboarding refresh strings
 
 onboarding-refresh-primary-button = رئڌن وا پؽش
+onboarding-refresh-fro-import-header = داده یل خوتووݩ ن و من بیارین
+onboarding-refresh-fro-skip-button = گوم زیڌن
 
 ## Smart Window ToU modal
 
