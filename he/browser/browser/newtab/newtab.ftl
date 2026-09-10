@@ -1070,6 +1070,15 @@ newtab-wallpaper-firefox-desert-light = שועל רץ על פני מדבר בה�
 newtab-wallpaper-firefox-hills-dark = שועל רץ על גבעות חשוכות
 newtab-wallpaper-firefox-hills-light = שועל רץ על גבעות בהירות
 newtab-wallpaper-firefox-tail-dark = זנב של שועל על רקע כהה
+newtab-wallpaper-firefox-tail-light = זנב של שועל על רקע בהיר
+newtab-wallpaper-firefox-side-kit-dark = שועל בצד שמאל, על רקע כהה
+newtab-wallpaper-firefox-side-kit-light = שועל בצד ימין, על רקע כהה
+newtab-wallpaper-firefox-sitting-hill-dark = שועל יושב על גבעות סגולות כהות
+newtab-wallpaper-firefox-sitting-hill-light = שועל יושב על גבעות בהירות
+newtab-wallpaper-firefox-peak-dark = פני שועל בקצה השמאלי, על רקע כהה
+newtab-wallpaper-firefox-peak-light = פני שועל בקצה השמאלי, על רקע בהיר
+newtab-wallpaper-firefox-sky-dark = גבעות סגולות כהות תחת שמי הלילה
+newtab-wallpaper-firefox-sky-light = גבעות בהירות תחת שמיים רכים
 
 ## Firefox
 
