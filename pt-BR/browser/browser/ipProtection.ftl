@@ -123,6 +123,8 @@ site-exclusion-toggle-disabled-1 =
 site-exclusion-toggle-description = O site não está funcionando? Experimente desativar a VPN.
 # Manages rules for VPN to turn on or off automatically for certain websites
 site-rules-manage-rules-link-text = Gerenciar regras de VPN
+# Heading for user defined rules on VPN usage for particular websites
+site-rules-status-heading = Regra personalizada
 # Used in the panel when a user navigates to a site where the VPN is off due to a site exclusion
 site-rules-description-exclusion = A VPN está desativada neste site
 # Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion

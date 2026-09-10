@@ -538,6 +538,12 @@ onboarding-refresh-gratitude-subtitle = Obrigado por usar o { -brand-short-name 
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } protege você
 
+## First Run Onboarding refresh strings
+
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-splash-screen-title = O { -brand-product-name } atende e protege você, a partir de agora
+onboarding-refresh-hero-text = Projetado para te proteger, não te rastrear.
+
 ## Smart window switcher callout
 
 smartwindow-switcher-callout = Alterne entre janelas inteligentes e clássicas quando quiser.
