@@ -32,3 +32,19 @@ autocomplete-edit-address = Bu adresi düzenle
 autocomplete-delete-address = Bu adresi sil
 autocomplete-edit-payment-method = Bu ödeme yöntemini düzenle
 autocomplete-delete-payment-method = Bu ödeme yöntemini sil
+
+## Confirmation shown before a record is removed from the autocomplete dropdown.
+## Gated by the browser.autocomplete.removeRecords.enabled pref.
+
+autocomplete-remove-password-title = Parola silinsin mi?
+autocomplete-remove-address-title = Adres silinsin mi?
+autocomplete-remove-payment-method-title = Ödeme yöntemi silinsin mi?
+autocomplete-remove-record-message = Bu işlemi geri alamazsınız.
+autocomplete-remove-record-button = Sil
+
+## Device sign-in prompt shown before a password is removed from the autocomplete
+## dropdown. The -win and -macosx variants are selected at runtime; other platforms
+## do not support device sign-in and fall back to the Primary Password dialog.
+
+autocomplete-remove-password-os-auth-dialog-message-win = Parolanızı silmek için Windows hesap bilgilerinizi girin. Bu sayede hesaplarınızı daha güvenli bir şekilde koruyabiliriz.
+autocomplete-remove-password-os-auth-dialog-caption = { -brand-full-name }

@@ -207,7 +207,7 @@ newtab-privacy-across-sites =
 # Shown when no trackers have been blocked yet today.
 newtab-privacy-empty = Siz internette gezinirken { -brand-short-name } takip kodlarını engeller. Engellenenleri burada göreceksiniz.
 # Shown when no trackers have been blocked yet today.
-newtab-privacy-empty-state = { -brand-short-name } takip kodlarını kendiliğinden engelleyerek internette yaptıklarınızın daha gizli kalmasını sağlar.
+newtab-privacy-empty-state = { -brand-short-name }, takip kodlarını kendiliğinden engelleyerek internette yaptıklarınızın daha gizli kalmasını sağlar.
 # "A running tally" is an informal way to say a total that keeps updating as it goes.
 # Here we are referring to the number of trackers blocked, which increases as the user browses.
 # An alternative can be "See a running total here"
