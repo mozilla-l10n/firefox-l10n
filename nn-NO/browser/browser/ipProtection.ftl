@@ -265,6 +265,11 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } nettstadar
         }
     .label = Handsam nettstadsinnstillingar
+ip-protection-site-rules-header =
+    .heading = Handsam nettstadreglar
+ip-protection-site-rules-button =
+    .description = Angi reglar for nettstadar som treng ekstra personvern eller VPN slått av.
+    .label = Handsam nettstadreglar
 ip-protection-autostart =
     .label = Slå på VPN automatisk
 ip-protection-autostart-checkbox =
