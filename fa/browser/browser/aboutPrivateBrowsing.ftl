@@ -75,3 +75,8 @@ about-private-browsing-felt-privacy-v1-info-link = چه کسی ممکن است �
 
 about-private-browsing-nova-info-body = با بستن همه پنجره‌های خصوصی، کوکی‌ها، تاریخچه و داده‌های سایت‌های شما حذف می‌شوند.
 about-private-browsing-nova-info-link = چه کسانی ممکن است همچنان فعالیت‌های من را ببینند؟
+# "You're off the record" is an English idiom meant to communicate that you
+# are not being recorded. If there is not a comparable phrase in the locale,
+# fall back to "Your browsing will be deleted"
+about-private-browsing-nova-info-header = ردپای مرور شما پاک می‌شود
+about-private-browsing-nova-info-subheader2 = با بستن همهٔ پنجره‌های خصوصی، تمام جستجوها و ورودهای شما پاک می‌شوند. محافظت‌های داخلی { -brand-short-name }، مانند مسدود کردن ردیاب‌ها، اینجا نیز فعال‌اند.

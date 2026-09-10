@@ -971,6 +971,11 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+newtab-wallpaper-firefox-tail-dark = Лісіны хвост на цёмным фоне
+newtab-wallpaper-firefox-tail-light = Лісіны хвост на светлым фоне
+newtab-wallpaper-firefox-side-kit-dark = Ліса злева, на цёмным фоне
+newtab-wallpaper-firefox-side-kit-light = Ліса злева, на светлым фоне
+newtab-wallpaper-firefox-sitting-hill-dark = Ліса сядзіць на цёмна-фіялетавых пагорках
 
 ## Firefox
 
