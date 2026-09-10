@@ -466,5 +466,11 @@ launch-options-spotlight-title-launch-on-login = ¿Quieres iniciar { -brand-shor
 launch-options-spotlight-title-session-restore = ¿Reabrir tu sesión cuando { -brand-short-name } se reinicie?
 launch-options-spotlight-checkbox-launch-on-login = Abrir { -brand-short-name } al iniciar el sistema
 launch-options-spotlight-checkbox-pin-to-taskbar = Fijar en la barra de tareas
+# Shown on the browser-close prompt only
+launch-options-spotlight-checkbox-restore-current = Reabrir ventanas y pestañas de la sesión actual
+# Shown on the browser-launch prompt only
+launch-options-spotlight-checkbox-restore-previous = Reabrir ventanas y pestañas de la sesión anterior
+# Primary button on the browser-close prompt
+launch-options-spotlight-primary-button-close = Guardar y cerrar { -brand-short-name }
 # Primary button on the browser-launch prompt
 launch-options-spotlight-primary-button-launch = Guardar y continuar
