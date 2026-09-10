@@ -15,6 +15,11 @@ autofill-use-payment-method-os-prompt-other = { -brand-short-name } tenta usar i
 autofill-edit-payment-method-os-prompt-macos = monstrar informationes de methodo de pagamento immagazinate
 autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } tenta monstrar informationes de methodo de pagamento immagazinate. Confirma accesso a iste conto Windows infra.
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name } tenta monstrar informationes de methodo de pagamento immagazinate.
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-delete-payment-method-os-prompt-macos = deler informationes de methodo de pagamento immagazinate
+autofill-delete-payment-method-os-prompt-windows = { -brand-short-name } tenta deler informationes de methodo de pagamento immagazinate.
+autofill-delete-payment-method-os-prompt-other = { -brand-short-name } tenta deler informationes de methodo de pagamento immagazinate.
 # The link leads users to Form Autofill browser preferences.
 autofill-options-link = Optiones del completion automatic
 autofill-options-link-osx = Preferentias del completion automatic
