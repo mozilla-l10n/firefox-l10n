@@ -1409,12 +1409,19 @@ newtab-sports-widget-team-tbd = Por definir
 newtab-sports-widget-message-wallpapers-title = Inicia el Mundial con nuevos fondos de pantalla
 newtab-sports-widget-message-wallpapers-body = Lleva toda la energía del partido a tu navegador durante el torneo.
 newtab-sports-widget-message-wallpapers-cta = Elegir fondo de pantalla
+newtab-sports-widget-message-wallpapers-semifinals-title = Obtén un nuevo fondo de pantalla para las semifinales
 newtab-sports-widget-message-add-widgets-cta =
     .label = Agregar widgets
 newtab-sports-widget-message-day-in-play-title = Mantén el ritmo de tu día con los widgets de { -brand-product-name }
 newtab-sports-widget-message-day-in-play-body = Sigue el Mundial, mantén la concentración, consulta la hora en todo el mundo y más.
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Explorar widgets
+
+## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
+
+newtab-sports-widget-message-survey-title = Ayúdanos a mejorar los widgets
+newtab-sports-widget-message-survey-body = ¡Fin del Mundial! Comparte tu opinión sobre la experiencia.
+newtab-sports-widget-message-survey-widget-title = ¿Qué te pareció el widget del Mundial?
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
