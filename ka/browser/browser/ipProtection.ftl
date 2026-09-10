@@ -111,6 +111,7 @@ unauthenticated-vpn-title = მოსინჯეთ ჩაშენებულ
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">დამალეთ თქვენი მდებარეობა</a>, როცა { -brand-product-name } გვერდებს მოინახულებს.
 unauthenticated-private-location-message = გეხმარებათ <a data-l10n-name="learn-more-vpn">დატოვოთ თქვენი ადგილსამყოფელი პირადი</a>, როცა { -brand-product-name } გვერდებს მოინახულებს.
 unauthenticated-choose-location-message-1 = აირჩიეთ არაერთი მდებარეობიდან რომლიმე ან { -brand-product-name } თავად შეგირჩევთ უსწრაფესს.
+unauthenticated-site-rules-message = განსაზღვრეთ, რომელ საიტებზე ამოქმედდება VPN და რომლებზე არა.
 unauthenticated-get-started = დაიწყეთ
 unauthenticated-terms-of-service-privacy-notice = თუ განაგრძობთ, ამით დაეთანხმებით <a data-l10n-name="vpn-terms-of-service">მომსახურების პირობებსა</a> და <a data-l10n-name="vpn-privacy-notice">პირადი მონაცემების დაცვის განაცხადს</a>.
 site-exclusion-toggle-enabled-1 =
@@ -120,6 +121,10 @@ site-exclusion-toggle-disabled-1 =
     .aria-label = VPN გამორთულია ამ საიტზე
     .label = გამოიყენებოდეს VPN ამ საიტზე
 site-exclusion-toggle-description = საიტი არ მუშაობს? დროებით გამორთეთ VPN.
+# Manages rules for VPN to turn on or off automatically for certain websites
+site-rules-manage-rules-link-text = VPN-წესების მართვა
+# Heading for user defined rules on VPN usage for particular websites
+site-rules-status-heading = თქვენი წესი
 # Used in the panel when a user navigates to a site where the VPN is off due to a site exclusion
 site-rules-description-exclusion = VPN გამორთულია ამ საიტზე
 # Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
@@ -260,6 +265,8 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } ვებსაიტი
         }
     .label = ვებსაიტის პარამეტრების მართვა
+ip-protection-site-rules-header =
+    .heading = საიტის წესების მართვა
 ip-protection-autostart =
     .label = თავისთავად ჩაირთოს VPN
 ip-protection-autostart-checkbox =

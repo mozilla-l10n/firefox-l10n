@@ -555,12 +555,20 @@ onboarding-refresh-tou-pin-unchecked = დატოვეთ ერთადე�
 onboarding-refresh-terms-of-use-with-links = თუ განაგრძობთ, ამით ეთანხმებით <a data-l10n-name="terms_of_use">მომსახურების პირობებსა</a> და <a data-l10n-name="privacy_notice">პირადულობის დებულებას</a>, რომელთაც გთავაზობთ { -brand-product-name }. ბრაუზერის გასაუმჯობესებლად { -brand-product-name } გზავნის შემოწმებისა და გამოყენების მონაცემებს, რომელთაც ეცნობა { -vendor-short-name }.
 onboarding-refresh-data-collection-link = მონაცემთა აღრიცხვის პარამეტრების მართვა
 onboarding-refresh-primary-button = განაგრძეთ
+onboarding-refresh-fro-import-header = გადმოიტანეთ თქვენი მონაცემები
 onboarding-refresh-fro-import-body = თქვენი კერძო მონაცემები რჩება პირადი. { -brand-product-name } არასდროს გაყიდის.
 onboarding-refresh-fro-skip-button = გამოტოვება
+onboarding-refresh-fro-theme-header = მოსინჯეთ სხვადასხვა იერსახე
 onboarding-refresh-tab-layout-header = მოსინჯეთ ჩანართების სხვა განლაგება
 onboarding-refresh-tab-layout-top = ზემოთ
 onboarding-refresh-tab-layout-side = გვერდით
 onboarding-refresh-tab-layout-minimal = სადა
+# Tooltip displayed on hover for minimal tabs image
+onboarding-minimal-tabs-tooltip =
+    .title = ბრაუზერის ფანჯარა გამოსახული ჩანართებით პატარა ხატულებად ეკრანის კიდის გასწვრივ, შემცირებულ გვერდით ზოლზე.
+# Description for minimal tabs image
+onboarding-minimal-tabs-description =
+    .aria-description = ბრაუზერის ფანჯარა გამოსახული ჩანართებით პატარა ხატულებად ეკრანის კიდის გასწვრივ, შემცირებულ გვერდით ზოლზე.
 
 ## Smart window switcher callout
 
