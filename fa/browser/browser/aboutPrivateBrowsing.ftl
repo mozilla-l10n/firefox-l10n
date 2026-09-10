@@ -52,6 +52,12 @@ about-private-browsing-pin-promo-link-text =
     }
 about-private-browsing-pin-promo-title = طوری در اینترنت گشت و گذار کنید که گویی هیچکس نمی‌بیند، بدون ذخیره کوکی یا تاریخچه طوری که شایسته میزکار شماست.
 
+## Strings used in a promotion message for Firefox Relay
+
+about-private-browsing-relay-promo-header = با پنهان‌کننده‌های ایمیل، جلوی دریافت اسپم را بگیرید
+about-private-browsing-relay-promo-title = هنگام ثبت نام، خرید یا به اشتراک گذاری آنلاین، آدرس واقعی خود را با یک ماسک ایمیل پنهان کنید.
+about-private-browsing-relay-promo-link-text = ماسک‌های ایمیل را امتحان کنید
+
 ## Strings used in a promotion message for cookie banner reduction
 
 # Simplified version of the headline if the original text doesn't work
@@ -64,3 +70,8 @@ about-private-browsing-cookie-banners-promo-body = ما اکنون به‌صور
 about-private-browsing-felt-privacy-v1-info-header = هیچ ردپایی بر روی این دستگاه نگذار
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } کوکی‌ها، تاریخچه و داده‌های وبگاه شما را زمانی که تمام پنجره‌های خصوصی را می‌بندید، حذف می‌کند.
 about-private-browsing-felt-privacy-v1-info-link = چه کسی ممکن است بتواند فعالیت‌های من را ببیند؟
+
+## Strings for the Nova redesign of about:privatebrowsing
+
+about-private-browsing-nova-info-body = با بستن همه پنجره‌های خصوصی، کوکی‌ها، تاریخچه و داده‌های سایت‌های شما حذف می‌شوند.
+about-private-browsing-nova-info-link = چه کسانی ممکن است همچنان فعالیت‌های من را ببینند؟
