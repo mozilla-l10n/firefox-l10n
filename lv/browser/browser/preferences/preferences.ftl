@@ -121,7 +121,7 @@ extension-controlling-homepage = { $name } pārvalda dažus no sākumlapas iesta
 
 search-results-header = Meklēšanas iznākums
 # `<span data-l10n-name="query"></span>` will be replaced by the search term.
-search-results-empty-message2 = Atvainojiet! Iestatījumos vaicājumam “<span data-l10n-name="query"></span>” nav rezultātu.
+search-results-empty-message2 = Atvainojamies! Iestatījumos meklējumam “<span data-l10n-name="query"></span>” nav iznākuma.
 search-results-help-link = Vajadzīga palīdzība? Apmeklē <a data-l10n-name="url">{ -brand-short-name } atbalsta vietni</a>!
 
 ## General Section

@@ -539,6 +539,12 @@ onboarding-refresh-gratitude-subtitle = Wulki dźak, zo { -brand-short-name } wu
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } za wami steji
 
+## First Run Onboarding refresh strings
+
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-splash-screen-title = { -brand-product-name } za wami steji, wotnětka
+onboarding-refresh-tou-default = Wšě wotkazy z { -brand-short-name } wočinić
+
 ## Smart window switcher callout
 
 smartwindow-switcher-callout = Přepinajće kóždy čas mjez inteligentnym a klasiskim woknom.

@@ -120,6 +120,14 @@ site-exclusion-toggle-disabled-1 =
     .aria-label = VPN je za tute sydło znjemóžnjeny
     .label = VPN za tute sydło wužiwać
 site-exclusion-toggle-description = Sydło njefunguje? Spytajće VPN znjemóžnić.
+# Manages rules for VPN to turn on or off automatically for certain websites
+site-rules-manage-rules-link-text = Prawidła VPN rjadować
+# Heading for user defined rules on VPN usage for particular websites
+site-rules-status-heading = Waše prawidło
+# Used in the panel when a user navigates to a site where the VPN is off due to a site exclusion
+site-rules-description-exclusion = VPN je za tute sydło znjemóžnjeny
+# Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
+site-rules-description-inclusion = VPN je za tute sydło zmóžnjeny
 ipprotection-settings-link =
     .label = Nastajenja
 
@@ -258,6 +266,11 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } websydłow
         }
     .label = Nastajenja websydłow rjadować
+ip-protection-site-rules-header =
+    .heading = Prawidła websydła rjadować
+ip-protection-site-rules-button =
+    .description = Nastajće prawidła za websydła, kotrež přidatnu priwatnosć abo znjemóžnjeny VPN trjebaja.
+    .label = Prawidła websydła rjadować
 ip-protection-autostart =
     .label = VPN awtomatisce zmóžnić
 ip-protection-autostart-checkbox =
