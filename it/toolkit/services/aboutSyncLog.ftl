@@ -85,3 +85,4 @@ about-sync-log-clear-confirm-message =
        *[other] Questa operazione eliminerà definitivamente { $count } file di registro visualizzati.
     }
 about-sync-log-clear-confirm-accept = Elimina
+
