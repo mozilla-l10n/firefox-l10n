@@ -528,9 +528,28 @@ onboarding-refresh-gratitude-title = { -brand-short-name } 是您的堅強後盾
 
 ## First Run Onboarding refresh strings
 
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-splash-screen-title = 現在起，{ -brand-product-name } 在背後全力挺您
 onboarding-refresh-hero-text = 打造來保護您，而非追蹤您。
 onboarding-refresh-tou-default = 用 { -brand-short-name } 開啟所有鏈結
+onboarding-refresh-tou-pin =
+    { PLATFORM() ->
+        [macos] 將 { -brand-short-name } 保留於 Dock
+       *[other] 將 { -brand-short-name } 新增到您的工具列
+    }
+onboarding-refresh-tou-default-unchecked = 每次上網都保留內建防護
 onboarding-refresh-tou-pin-unchecked = 讓唯一的主流獨立瀏覽器隨手可得
+onboarding-refresh-terms-of-use-with-links = 繼續使用，代表您同意 <a data-l10n-name="terms_of_use">{ -brand-product-name } 的使用條款</a>與我們的<a data-l10n-name="privacy_notice">隱私權公告</a>。為了協助改善瀏覽器，{ -brand-product-name } 會將除錯用資料與互動資料傳送回 { -vendor-short-name }。
+onboarding-refresh-data-collection-link = 管理資料收集選項
+onboarding-refresh-primary-button = 繼續
+onboarding-refresh-fro-import-header = 匯入您的資料
+onboarding-refresh-fro-import-body = 您的個人資料只屬於您，{ -brand-product-name } 絕不將其出售。
+onboarding-refresh-fro-skip-button = 略過
+onboarding-refresh-fro-theme-header = 玩出您的風格
+onboarding-refresh-tab-layout-header = 試用不同的分頁版面
+onboarding-refresh-tab-layout-top = 置於頂端
+onboarding-refresh-tab-layout-side = 置於側邊
+onboarding-refresh-tab-layout-minimal = 極簡
 
 ## Smart window switcher callout
 

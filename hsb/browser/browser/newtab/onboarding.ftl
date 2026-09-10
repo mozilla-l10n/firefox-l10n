@@ -563,6 +563,12 @@ onboarding-refresh-tab-layout-header = Wupruwujće druhe wuhotwanje rajtarkow
 onboarding-refresh-tab-layout-top = Horjeka
 onboarding-refresh-tab-layout-side = Naboku
 onboarding-refresh-tab-layout-minimal = Minimalny
+# Tooltip displayed on hover for minimal tabs image
+onboarding-minimal-tabs-tooltip =
+    .title = Wokno wobhladowaka, kotrež rajtarki jako małe symbole podłu wobrazowki pokazuje, w miniměrowanej bóčnicy.
+# Description for minimal tabs image
+onboarding-minimal-tabs-description =
+    .aria-description = Wokno wobhladowaka, kotrež rajtarki jako małe symbole podłu wobrazowki pokazuje, w miniměrowanej bóčnicy.
 
 ## Smart window switcher callout
 

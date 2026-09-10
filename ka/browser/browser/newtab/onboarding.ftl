@@ -539,6 +539,27 @@ onboarding-refresh-gratitude-subtitle = გმადლობთ, რომ ა�
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } თქვენს გვერდშია
 
+## First Run Onboarding refresh strings
+
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-splash-screen-title = { -brand-product-name } თქვენს გვერდშია დღეიდან
+onboarding-refresh-hero-text = შექმნილია თქვენ დასაცავად, არა სათვალთვალოდ.
+onboarding-refresh-tou-default = ბმულების გასახსნელად გამოიყენებოდეს { -brand-short-name }
+onboarding-refresh-tou-pin =
+    { PLATFORM() ->
+        [macos] { -brand-short-name } დატოვეთ Dock-ში
+       *[other] დაამატეთ { -brand-short-name } თქვენს ამოცანათა ზოლზე
+    }
+onboarding-refresh-tou-default-unchecked = შეინარჩუნეთ თანმხლები უსაფრთხოება გვერდების ყოველი მონახულებისას
+onboarding-refresh-tou-pin-unchecked = დატოვეთ ერთადერთი დამოუკიდებელი ბრაუზერი თითის ერთ გაწვდენაზე
+onboarding-refresh-terms-of-use-with-links = თუ განაგრძობთ, ამით ეთანხმებით <a data-l10n-name="terms_of_use">მომსახურების პირობებსა</a> და <a data-l10n-name="privacy_notice">პირადულობის დებულებას</a>, რომელთაც გთავაზობთ { -brand-product-name }. ბრაუზერის გასაუმჯობესებლად { -brand-product-name } გზავნის შემოწმებისა და გამოყენების მონაცემებს, რომელთაც ეცნობა { -vendor-short-name }.
+onboarding-refresh-data-collection-link = მონაცემთა აღრიცხვის პარამეტრების მართვა
+onboarding-refresh-primary-button = განაგრძეთ
+onboarding-refresh-fro-import-body = თქვენი კერძო მონაცემები რჩება პირადი. { -brand-product-name } არასდროს გაყიდის.
+onboarding-refresh-fro-skip-button = გამოტოვება
+onboarding-refresh-tab-layout-header = მოსინჯეთ ჩანართების სხვა განლაგება
+onboarding-refresh-tab-layout-top = ზემოთ
+
 ## Smart window switcher callout
 
 smartwindow-switcher-callout = ნებისმიერ დროს გადაერთეთ გონიერსა და ჩვეულ ფანჯრებს შორის.

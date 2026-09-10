@@ -120,6 +120,10 @@ site-exclusion-toggle-disabled-1 =
     .aria-label = VPN გამორთულია ამ საიტზე
     .label = გამოიყენებოდეს VPN ამ საიტზე
 site-exclusion-toggle-description = საიტი არ მუშაობს? დროებით გამორთეთ VPN.
+# Used in the panel when a user navigates to a site where the VPN is off due to a site exclusion
+site-rules-description-exclusion = VPN გამორთულია ამ საიტზე
+# Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
+site-rules-description-inclusion = VPN ჩართულია ამ საიტზე
 ipprotection-settings-link =
     .label = პარამეტრები
 
