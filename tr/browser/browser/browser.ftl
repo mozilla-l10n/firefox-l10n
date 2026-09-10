@@ -471,7 +471,7 @@ identity-verifier-label = Doğrulayan:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
 identity-etsi = 2024/1183 Sayılı AB Regülasyonu’na uygundur.
 identity-description-custom-root2 = Mozilla bu sertifika yayıncısını tanımıyor. İşletim sisteminiz üzerinden veya sistem yöneticiniz tarafından eklenmiş olabilir.
-identity-cert-exception-overridden = Bu siteye güvenlik ayrıcalığı tanıdınız.
+identity-cert-exception-overridden = Bu site için güvenlik istisnası eklediniz.
 identity-remove-cert-exception =
     .label = İstisnayı sil
     .accesskey = s
