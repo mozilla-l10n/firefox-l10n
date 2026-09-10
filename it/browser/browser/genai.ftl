@@ -47,11 +47,6 @@ genai-prompt-prefix-selection = Sono nella pagina “{ $tabTitle }” con il seg
 
 ## Chatbot menu shortcuts
 
-genai-menu-ask-generic =
-    .label = Chiedi al chatbot IA
-# $provider (string) - name of the provider
-genai-menu-ask-provider =
-    .label = Chiedi a { $provider }
 genai-menu-open-generic =
     .label = Apri chatbot IA
 # $provider (string) - name of the provider
@@ -112,8 +107,6 @@ genai-header-provider-menu =
     .title = Scegli un chatbot
 genai-header-settings-button =
     .title = Impostazioni chat IA
-genai-header-options-button =
-    .title = Apri menu
 genai-header-close-button =
     .title = Chiudi
 genai-provider-view-details =
@@ -141,37 +134,25 @@ genai-page-button-summarize = Riassumi pagina
 
 ## Chatbot onboarding
 
-genai-onboarding-header = Riassumi, genera idee e altro ancora mentre navighi
 genai-onboarding-choose-header = Scegli un chatbot IA da utilizzare nella barra laterale di { -brand-short-name }
-# "Switch anytime" refers to allowing the user to switch to a different chatbot.
-genai-onboarding-description = Scegli il chatbot IA da utilizzare nella barra laterale di { -brand-short-name }. Ti mostreremo i dettagli relativi a ciascun chatbot quando lo selezioni, e potrai cambiarlo in qualsiasi momento. <a data-l10n-name="learn-more">Ulteriori informazioni</a>
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-choose-description = Cambia in qualsiasi momento. Per assistenza nella scelta, <a data-l10n-name="learn-more">scopri di più su ogni chatbot</a>.
 genai-onboarding-primary = Continua
 genai-onboarding-secondary = Chiudi
 genai-onboarding-claude-tooltip =
     .title = Anthropic Claude
-genai-onboarding-claude-learn = Ulteriori informazioni su Claude
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
-genai-onboarding-chatgpt-learn = Ulteriori informazioni su ChatGPT
 genai-onboarding-copilot-tooltip =
     .title = Copilot
-genai-onboarding-copilot-learn = Ulteriori informazioni su Copilot
 genai-onboarding-gemini-tooltip =
     .title = Google Gemini
-genai-onboarding-gemini-learn = Ulteriori informazioni su Gemini
 genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
 genai-onboarding-lechat-tooltip-2 =
     .title = Mistral Vibe
-genai-onboarding-huggingchat-learn = Ulteriori informazioni su HuggingChat
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
-genai-onboarding-lechat-learn = Ulteriori informazioni su Le Chat
-genai-onboarding-select-header = Seleziona del testo per visualizzare i suggerimenti
-genai-onboarding-select-description = Quando selezioni del testo ti suggeriremo delle richieste (“prompt”) che puoi inviare al chatbot. Puoi anche scrivere una tua versione delle richieste.
-genai-onboarding-select-primary = Avvia la chat
 genai-chatbot-contextual-title = Utilizza un chatbot IA senza cambiare scheda
 genai-chatbot-contextual-subtitle = Scrivi nella chat e naviga fianco a fianco quando aggiungi un chatbot IA nella barra laterale di { -brand-short-name }.
 genai-chatbot-contextual-button = Scegli un chatbot
@@ -184,27 +165,6 @@ genai-chatbot-summarize-sidebar-generic-subtitle = Fai clic con il tasto destro 
 # “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
 genai-chatbot-summarize-footer-provider-subtitle = Apri il chatbot IA nella barra laterale e scegli “Riassumi pagina” in basso.
 genai-chatbot-summarize-footer-generic-subtitle = Aggiungi un chatbot IA alla barra laterale di { -brand-short-name } per riassumere rapidamente le pagine.
-
-## Chatbot onboarding choices
-## These describe features/capabilities of chatbot providers. These are not buttons/actions.
-
-genai-onboarding-claude-generate = Generazione di testo e codice
-genai-onboarding-claude-analyze = Analisi di documenti e immagini
-genai-onboarding-claude-price = Opzioni gratuite e a pagamento, account obbligatorio
-genai-onboarding-chatgpt-generate = Generazione di testo, immagini e codice
-genai-onboarding-chatgpt-analyze = Analisi di documenti e immagini
-genai-onboarding-chatgpt-price = Opzioni gratuite e a pagamento, account obbligatorio in alcuni Paesi e per alcune attività
-genai-onboarding-copilot-generate = Generazione di testo, immagini e codice
-genai-onboarding-copilot-analyze = Analisi di immagini
-genai-onboarding-copilot-price = Opzioni gratuite e a pagamento, account obbligatorio per alcune attività
-genai-onboarding-gemini-generate = Generazione di testo, immagini e codice
-genai-onboarding-gemini-analyze = Analisi di immagini (gratuita) e documenti (a pagamento)
-genai-onboarding-gemini-price = Opzioni gratuite e a pagamento, account obbligatorio
-genai-onboarding-huggingchat-generate = Generazione di testo e codice
-genai-onboarding-huggingchat-switch = Scegli tra un’ampia gamma di modelli aperti
-genai-onboarding-huggingchat-price-2 = Gratuito, account obbligatorio dopo un certo numero di richieste
-genai-onboarding-lechat-generate = Generazione di testo e codice
-genai-onboarding-lechat-price = Gratuito, account obbligatorio
 
 ## Model Optin Component
 

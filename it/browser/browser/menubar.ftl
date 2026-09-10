@@ -253,8 +253,6 @@ menu-bookmarks-mobile =
 
 ## Profiles Menu
 
-menu-profiles =
-    .label = Profili
 menu-profiles-manage-profiles =
     .label = Gestisci profili
 menu-profiles-new-profile =
@@ -276,9 +274,6 @@ menu-tools-downloads =
     .label = Download
     .accesskey = D
 menu-tools-extensions-and-themes =
-    .label = Estensioni e temi
-    .accesskey = E
-menu-tools-addons-and-themes =
     .label = Estensioni e temi
     .accesskey = E
 menu-tools-fxa-sign-in2 =
@@ -337,8 +332,6 @@ menu-get-help =
 menu-help-more-troubleshooting-info =
     .label = Altre informazioni per la risoluzione di problemi
     .accesskey = r
-menu-help-report-site-issue =
-    .label = Segnala problema con questo sito…
 menu-help-share-ideas =
     .label = Condividi idee e feedback…
     .accesskey = k

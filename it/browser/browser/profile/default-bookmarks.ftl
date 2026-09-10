@@ -4,10 +4,6 @@
 
 default-bookmarks-title = Segnalibri
 default-bookmarks-heading = Segnalibri
-default-bookmarks-toolbarfolder = Cartella della barra dei segnalibri
-default-bookmarks-toolbarfolder-description = Aggiungere un segnalibro a questa cartella per mostrarlo nella barra dei segnalibri
-# link title for https://www.mozilla.org/firefox/central/
-default-bookmarks-getting-started = Come iniziare
 # Firefox links folder name
 default-bookmarks-firefox-heading = Mozilla Firefox
 # link title for https://www.mozilla.org/firefox/help/

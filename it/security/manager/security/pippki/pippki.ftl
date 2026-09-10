@@ -52,8 +52,6 @@ download-cert-view-text = Esamina certificato CA
 
 client-auth-window =
     .title = Richiesta identificazione utente
-client-auth-site-description = Questo sito richiede di identificarti tramite un certificato:
-client-auth-choose-cert = Scegliere un certificato da presentare come identificativo:
 client-auth-send-no-certificate =
     .label = Non inviare un certificato
 # Variables:
@@ -108,9 +106,3 @@ protected-auth-window =
 # Variables:
 # $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
 protected-auth-prompt = Effettuare l’autenticazione utilizzando il dispositivo di sicurezza “{ $tokenName }”. La modalità precisa dipende dal dispositivo, ad esempio potrebbe essere necessario utilizzare un lettore di impronte digitali o inserire un codice con un tastierino numerico.
-
-## Protected authentication alert
-
-# Variables:
-# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
-protected-auth-alert = Effettuare l’autenticazione utilizzando il token “{ $tokenName }”. La modalità precisa dipende dal token, ad esempio potrebbe essere necessario utilizzare un lettore di impronte digitali o inserire un codice con un tastierino numerico.

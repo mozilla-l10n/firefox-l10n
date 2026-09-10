@@ -3,12 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # NOTE: New strings should use the about-logins- prefix.
 
-about-logins-page-title = Credenziali e password
-about-logins-login-filter =
-    .key = F
-    .placeholder = Cerca nelle credenziali
-create-new-login-button =
-    .title = Inserisci nuove credenziali
 about-logins-page-title-name = Password
 about-logins-login-filter2 =
     .key = F
@@ -27,8 +21,6 @@ menu =
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Importa da un altro browser…
 about-logins-menu-menuitem-import-from-a-file = Importa da file…
-about-logins-menu-menuitem-export-logins = Esporta credenziali…
-about-logins-menu-menuitem-remove-all-logins = Rimuovi tutte le credenziali…
 about-logins-menu-menuitem-export-logins2 = Esporta password…
 about-logins-menu-menuitem-remove-all-logins2 = Elimina tutte le password…
 menu-menuitem-preferences =
@@ -44,13 +36,6 @@ login-list =
     .aria-label = Credenziali corrispondenti ai criteri di ricerca
 # Variables
 #   $count (number) - Number of logins
-login-list-count = { $count } credenziali
-# Variables
-#   $count (number) - Number of filtered logins
-#   $total (number) - Total number of logins
-login-list-filtered-count = { $count } di { $total } credenziali
-# Variables
-#   $count (number) - Number of logins
 login-list-count2 = { $count } password
 # Variables
 #   $count (number) - Number of filtered logins
@@ -64,14 +49,10 @@ login-list-username-reverse-option = Nome utente (Z-A)
 about-logins-login-list-alerts-option = Avvisi
 login-list-last-changed-option = Ultima modifica
 login-list-last-used-option = Ultimo utilizzo
-login-list-intro-title = Credenziali non trovate
 login-list-intro-title2 = Nessuna password salvata
 login-list-intro-description = Le password salvate in { -brand-product-name } verranno visualizzate qui.
-about-logins-login-list-empty-search-title = Credenziali non trovate
 about-logins-login-list-empty-search-title2 = Nessuna password trovata
 about-logins-login-list-empty-search-description = Non ci sono risultati corrispondenti ai criteri di ricerca inseriti.
-login-list-item-title-new-login = Nuove credenziali
-login-list-item-subtitle-new-login = Inserisci le credenziali di accesso
 login-list-item-title-new-login2 = Aggiungi password
 login-list-item-subtitle-missing-username = (nessun nome utente)
 about-logins-list-item-breach-icon =
@@ -87,28 +68,20 @@ about-logins-list-section-week = Ultimi 7 giorni
 
 ## Introduction screen
 
-about-logins-login-intro-heading-logged-out2 = Stai cercando le credenziali che hai salvato? Attiva la sincronizzazione o importale.
-about-logins-login-intro-heading-logged-in = Credenziali sincronizzate non trovate.
-login-intro-description = Se le credenziali sono salvate in { -brand-product-name } su un altro dispositivo, ecco come renderle disponibili qui:
-login-intro-instructions-fxa = Accedi o crea un { -fxaccount-brand-name } sul dispositivo dove sono salvate le credenziali.
 about-logins-login-intro-heading-message = Salva le tue password in un posto sicuro
 login-intro-description2 = Tutte le password che salvi in { -brand-product-name } sono crittate. In più, teniamo d’occhio le violazioni di dati e ti avvisiamo se sei stato coinvolto. <a data-l10n-name="breach-alert-link">Scopri di più</a>
 login-intro-instructions-fxa2 = Accedi al tuo account o creane uno nuovo sul dispositivo dove sono salvate le credenziali.
 login-intro-instructions-fxa-settings = Apri Impostazioni > Sincronizzazione > Attiva sincronizzazione… e seleziona la casella Credenziali e password.
 login-intro-instructions-fxa-passwords-help = Visita la pagina di <a data-l10n-name="passwords-help-link">supporto per le password</a> per ottenere aiuto.
-about-logins-intro-browser-only-import = Se le credenziali sono salvate in un altro browser, è possibile <a data-l10n-name="import-link">importarle in { -brand-product-name }</a>
-about-logins-intro-import2 = Se le credenziali sono salvate al di fuori di { -brand-product-name }, è possibile <a data-l10n-name="import-browser-link">importarle da un altro browser</a> o <a data-l10n-name="import-file-link">da un file</a>
 about-logins-intro-import3 = Seleziona il pulsante con il simbolo “+” per aggiungere una password. Puoi anche <a data-l10n-name="import-browser-link">importare le password da un altro browser</a> o <a data-l10n-name="import-file-link">da un file</a>.
 
 ## Login
 
-login-item-new-login-title = Inserisci nuove credenziali
 # Header for adding a password
 about-logins-login-item-new-login-title = Aggiungi password
 login-item-edit-button = Modifica
 about-logins-login-item-remove-button = Rimuovi
 login-item-origin-label = Indirizzo web
-login-item-tooltip-message = Assicurarsi che corrisponda esattamente all’indirizzo del sito web a cui si accede.
 about-logins-origin-tooltip2 = Inserisci l’indirizzo completo e assicurati che corrisponda esattamente a quello in cui hai effettuato l’accesso.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
@@ -128,7 +101,6 @@ login-item-password-conceal-checkbox =
     .aria-label = Nascondi password
 login-item-copy-password-button-text = Copia
 login-item-copied-password-button-text = Copiata.
-login-item-save-changes-button = Salva modifiche
 about-logins-login-item-save-changes-button = Salva
 login-item-save-new-button = Salva
 login-item-cancel-button = Annulla
@@ -152,11 +124,6 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
-# This message can be seen when attempting to edit a login in about:logins on Windows.
-about-logins-edit-login-os-auth-dialog-message-win = Per modificare queste credenziali, inserire le credenziali di accesso a Windows. Questo aiuta a garantire la sicurezza dei tuoi account.
-# This message can be seen when attempting to edit a login in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-edit-login-os-auth-dialog-message-macosx = modificare le credenziali salvate
 # The macOS strings are preceded by the operating system with "Firefox is trying to ".
 # This message can be seen when attempting to disable osauth in about:preferences.
 about-logins-os-auth-dialog-message =
@@ -180,11 +147,6 @@ about-logins-copy-password-os-auth-dialog-message-win = Per copiare la password,
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = copiare la password salvata
 # This message can be seen when attempting to export a password in about:logins on Windows.
-about-logins-export-password-os-auth-dialog-message-win = Per esportare le credenziali salvate, inserire le credenziali di accesso a Windows. Questo aiuta a garantire la sicurezza dei tuoi account.
-# This message can be seen when attempting to export a password in about:logins
-# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-export-password-os-auth-dialog-message-macosx = esportare credenziali e password salvate
-# This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message2-win = Per esportare le password, inserire le credenziali di accesso a Windows. Questo aiuta a garantire la sicurezza dei tuoi account.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
@@ -202,8 +164,6 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Annulla
 confirmation-dialog-dismiss-button =
     .title = Annulla
-about-logins-confirm-remove-dialog-title = Rimuovere queste credenziali?
-confirm-delete-dialog-message = Questa operazione non può essere annullata.
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = Eliminare la password?
 # Message for modal to confirm the removal of one saved password
@@ -218,19 +178,6 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [1] Rimuovi
        *[other] Rimuovi tutte
     }
-about-logins-confirm-remove-all-dialog-checkbox-label = Sì, rimuovi queste credenziali
-about-logins-confirm-remove-all-dialog-title =
-    { $count ->
-        [one] Rimuovere queste credenziali?
-       *[other] Rimuovere { $count } credenziali?
-    }
-about-logins-confirm-remove-all-dialog-message = Questa operazione rimuoverà le credenziali salvate in { -brand-short-name } e i relativi avvisi sulle violazioni. Non sarà possibile annullare questa operazione.
-about-logins-confirm-remove-all-sync-dialog-title =
-    { $count ->
-        [one] Rimuovere queste credenziali da tutti i dispositivi?
-       *[other] Rimuovere { $count } credenziali da tutti i dispositivi?
-    }
-about-logins-confirm-remove-all-sync-dialog-message = Questa operazione rimuoverà le credenziali salvate in { -brand-short-name } su tutti i dispositivi sincronizzati con l’{ -fxaccount-brand-name }. Anche i relativi avvisi sulle violazioni verranno rimossi. Non sarà possibile annullare questa operazione.
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
     { $count ->
@@ -264,15 +211,11 @@ about-logins-confirm-remove-all-sync-dialog-message3 =
 
 ##
 
-about-logins-confirm-export-dialog-title = Esportazione credenziali e password
-about-logins-confirm-export-dialog-message = Le password verranno salvate come testo leggibile (ad esempio “Password123”). Chiunque abbia accesso al file esportato potrà vederle.
-about-logins-confirm-export-dialog-confirm-button = Esporta…
 about-logins-confirm-export-dialog-title2 = Avviso relativo all’esportazione di password
 about-logins-confirm-export-dialog-message2 =
     Il processo di esportazione salva le password in un file con testo leggibile.
     Ti consigliamo di eliminare il file dopo averlo utilizzato, così da impedire ad altri utenti che utilizzano questo dispositivo di vedere le tue password.
 about-logins-confirm-export-dialog-confirm-button2 = Prosegui l’esportazione
-about-logins-alert-import-title = Importazione completata
 about-logins-alert-import-message = Visualizza riepilogo dettagliato dell’importazione
 confirm-discard-changes-dialog-title = Ignorare le modifiche non salvate?
 confirm-discard-changes-dialog-message = Tutte le modifiche non salvate andranno perse.
@@ -309,11 +252,6 @@ about-logins-error-message-default = Si è verificato un errore durante il salva
 ## Login Export Dialog
 
 # Title of the file picker dialog
-about-logins-export-file-picker-title = Esportazione credenziali
-# The default file name shown in the file picker when exporting saved logins.
-# This must end in .csv
-about-logins-export-file-picker-default-filename = credenziali.csv
-# Title of the file picker dialog
 about-logins-export-file-picker-title2 = Esporta password da { -brand-short-name }
 # The default file name shown in the file picker when exporting saved logins.
 # This must end in .csv
@@ -329,8 +267,6 @@ about-logins-export-file-picker-csv-filter-title =
 
 ## Login Import Dialog
 
-# Title of the file picker dialog
-about-logins-import-file-picker-title = Importazione credenziali da file
 # Title of the file picker dialog
 about-logins-import-file-picker-title2 = Importazione password in { -brand-short-name }
 about-logins-import-file-picker-import-button = Importa
@@ -354,9 +290,6 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = Importazione completata
-about-logins-import-dialog-items-added = <span>Nuove credenziali aggiunte:</span> <span data-l10n-name="count">{ $count }</span>
-about-logins-import-dialog-items-modified = <span>Credenziali esistenti aggiornate:</span> <span data-l10n-name="count">{ $count }</span>
-about-logins-import-dialog-items-no-change = <span>Credenziali duplicate:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(non importate)</span>
 about-logins-import-dialog-items-added2 = <span>Nuove password aggiunte:</span> <span data-l10n-name="count">{ $count }</span>
 about-logins-import-dialog-items-modified2 = <span>Elementi aggiornati:</span> <span data-l10n-name="count">{ $count }</span>
 about-logins-import-dialog-items-no-change2 = <span>Elementi duplicati:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(non importati)</span>
@@ -376,15 +309,11 @@ about-logins-import-dialog-error-learn-more = Ulteriori informazioni
 about-logins-import-dialog-error-try-import-again = Riprova importazione…
 about-logins-import-dialog-error-cancel = Annulla
 about-logins-import-report-title = Riepilogo importazione
-about-logins-import-report-description = Credenziali e password importate in { -brand-short-name }.
 about-logins-import-report-description2 = Password importate in { -brand-short-name }.
 #
 # Variables:
 #  $number (number) - The number of the row
 about-logins-import-report-row-index = Riga { $number }
-about-logins-import-report-row-description-no-change = Duplicata (corrisponde esattamente a una credenziale esistente)
-about-logins-import-report-row-description-modified = Credenziale esistente aggiornata
-about-logins-import-report-row-description-added = Nuova credenziale aggiunta
 about-logins-import-report-row-description-no-change2 = Duplicata (corrisponde esattamente a un elemento esistente)
 about-logins-import-report-row-description-modified2 = Elemento esistente aggiornato
 about-logins-import-report-row-description-added2 = Nuova password aggiunta
@@ -401,21 +330,6 @@ about-logins-import-report-row-description-error-missing-field = Errore: campo �
 ## Variables:
 ##  $count (number) - The number of affected elements
 
-about-logins-import-report-added =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">nuova credenziale aggiunta</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">nuove credenziali aggiunte</div>
-    }
-about-logins-import-report-modified =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">credenziale esistente aggiornata</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">credenziali esistenti aggiornate</div>
-    }
-about-logins-import-report-no-change =
-    { $count ->
-        [one] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">credenziale duplicata</div> <div data-l10n-name="not-imported">(non importata)</div>
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">credenziali duplicate</div> <div data-l10n-name="not-imported">(non importate)</div>
-    }
 about-logins-import-report-added2 = <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">nuove password aggiunte</div>
 about-logins-import-report-modified2 =
     { $count ->

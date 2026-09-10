@@ -49,7 +49,6 @@ policy-DisableDefaultBrowserAgent = Impedisci al “default browser agent” di 
 policy-DisableDeveloperTools = Blocca accesso agli strumenti di sviluppo.
 policy-DisableEncryptedClientHello = Disattiva la funzione TLS Encrypted Client Hello (ECH).
 policy-DisableFeedbackCommands = Disattiva i comandi per inviare feedback dal menu Aiuto (“Invia feedback…” e “Segnala un sito ingannevole…”).
-policy-DisableFirefoxAccounts = Disattiva i servizi basati sugli { -fxaccount-brand-name }, incluso Sync.
 # This string is in the process of being deprecated in favor of policy-DisableAccounts.
 policy-DisableFirefoxAccounts1 = Disattiva i servizi basati su account, incluso Sync.
 # Firefox Screenshots is the name of the feature, and should not be translated.
@@ -60,7 +59,6 @@ policy-DisableFormHistory = Non conservare la cronologia delle ricerche e dei mo
 policy-DisableLaunchOnLogin = Impedisce l’avvio automatico di { -brand-short-name } quando l’utente effettua l’accesso.
 policy-DisablePrimaryPasswordCreation = Se impostato a “true” non è possibile impostare una password principale.
 policy-DisablePasswordReveal = Non permettere di mostrare le password nelle credenziali salvate.
-policy-DisablePocket2 = Disattiva la possibilità di salvare pagine web in { -pocket-brand-name }.
 policy-DisablePrivateBrowsing = Disattiva la modalità Navigazione anonima.
 policy-DisableProfileImport = Disattiva il menu per importare dati da un altro browser.
 policy-DisableProfileRefresh = Disattiva il pulsante “Ripristina { -brand-short-name }” nella pagina about:support.
@@ -132,7 +130,6 @@ policy-PDFjs = Disattiva o configura PDF.js, il lettore integrato di PDF di { -b
 policy-Permissions2 = Configura i permessi per fotocamera, microfono, posizione, notifiche e riproduzione automatica.
 policy-PictureInPicture = Attiva o disattiva Picture-in-Picture.
 policy-PopupBlocking2 = Consenti a determinati siti web di visualizzare pop-up e di essere reindirizzati da frame di terze parti.
-policy-PopupBlocking = Consenti a determinati siti web di visualizzare finestre pop-up per impostazione predefinita.
 policy-Preferences = Imposta un gruppo di preferenze e bloccane il valore.
 policy-PrivateBrowsingModeAvailability = Imposta la disponibilità della modalità Navigazione anonima.
 policy-PromptForDownloadLocation = Chiedi dove salvare i file scaricati.

@@ -40,9 +40,6 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Non adesso
     .secondarybuttonaccesskey = N
 appmenu-update-other-instance-message = È disponibile una nuova versione di { -brand-shorter-name } ma non può essere installata in quanto è presente un’altra copia di { -brand-shorter-name } attualmente in esecuzione. Chiuderla per procedere con l’aggiornamento, oppure scegliere di aggiornare comunque (l’altra copia potrebbe non funzionare correttamente fino al riavvio).
-appmenu-addon-private-browsing-installed2 =
-    .buttonlabel = OK
-    .buttonaccesskey = O
 appmenu-addon-post-install-message3 = Gestisci estensioni e temi nel menu applicazione.
 # This string is used in the confirmation popup displayed after an extension
 # has been installed, when the data collection feature is enabled.
@@ -50,9 +47,6 @@ appmenu-addon-post-install-message-with-data-collection = Aggiorna i permessi e 
 appmenu-addon-post-install-pin-toolbarbutton-checkbox =
     .label = Fissa estensione alla barra degli strumenti
     .accesskey = F
-appmenu-addon-post-install-incognito-checkbox =
-    .label = Consenti il funzionamento di questa estensione in finestre anonime
-    .accesskey = C
 appmenu-new-tab-controlled-changes =
     .buttonlabel = Mantieni modifiche
     .buttonaccesskey = M

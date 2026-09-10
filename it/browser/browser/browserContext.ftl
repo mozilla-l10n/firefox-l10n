@@ -72,12 +72,6 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
-
-toolbar-button-fxaccount =
-    .label = { -fxaccount-brand-name(capitalization: "uppercase") }
-    .tooltiptext = { -fxaccount-brand-name(capitalization: "uppercase") }
-
 ## Account toolbar Button
 
 toolbar-button-account =
@@ -148,9 +142,6 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Salva destinazione con nome…
     .accesskey = d
-main-context-menu-save-link-to-pocket =
-    .label = Salva link in { -pocket-brand-name }
-    .accesskey = o
 
 ##
 
@@ -311,18 +302,9 @@ main-context-menu-send-to-mobile-enable-sync-from-page = Attiva la sincronizzazi
 main-context-menu-send-to-mobile-connect-phone3 = Connetti un dispositivo per inviare schede
 main-context-menu-send-to-mobile-connect-phone-from-link = Connetti un dispositivo per inviare un link
 main-context-menu-send-to-mobile-connect-phone-from-page = Connetti un dispositivo per inviare una pagina
-main-context-menu-save-to-pocket =
-    .label = Salva pagina in { -pocket-brand-name }
-    .accesskey = k
-main-context-menu-send-to-device =
-    .label = Invia pagina a dispositivo
-    .accesskey = I
 
 ##
 
-main-context-menu-use-saved-login =
-    .label = Utilizza credenziali salvate
-    .accesskey = U
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
     .label = Utilizza password salvata
@@ -333,15 +315,9 @@ main-context-menu-use-relay-mask =
 main-context-menu-suggest-strong-password =
     .label = Suggerisci password complessa…
     .accesskey = S
-main-context-menu-manage-logins2 =
-    .label = Gestisci credenziali
-    .accesskey = G
 main-context-menu-manage-passwords =
     .label = Gestisci password
     .accesskey = G
-main-context-menu-keyword =
-    .label = Aggiungi una parola chiave per questa ricerca…
-    .accesskey = p
 main-context-menu-add-engine =
     .label = Aggiungi motore di ricerca
     .accesskey = m
@@ -388,9 +364,6 @@ main-context-menu-view-selection-source =
     .label = Visualizza sorgente selezione
     .accesskey = u
 main-context-menu-take-screenshot =
-    .label = Cattura schermata
-    .accesskey = e
-main-context-menu-take-frame-screenshot =
     .label = Cattura schermata
     .accesskey = e
 main-context-menu-view-page-source =

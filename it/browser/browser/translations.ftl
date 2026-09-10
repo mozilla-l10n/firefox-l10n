@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# The button for "Firefox Translations" in the url bar.
-urlbar-translations-button =
-    .tooltiptext = Traduci questa pagina
 # The button for "Firefox Translations" in the url bar. Note that here "Beta" should
 # not be translated, as it is a reflection of the un-localized BETA icon that is in the
 # panel.
@@ -27,17 +24,11 @@ urlbar-translations-button-loading =
     .tooltiptext = Traduzione in corso
 translations-panel-settings-button =
     .aria-label = Gestisci impostazioni per la traduzione
-# Text displayed on a language dropdown when the language is in beta
-# Variables:
-#   $language (string) - The localized display name of the detected language
-translations-panel-displayname-beta =
-    .label = { $language } BETA
 
 ## Options in the Firefox Translations settings.
 
 translations-panel-settings-manage-languages =
     .label = Gestisci lingue
-translations-panel-settings-about = Informazioni sulle traduzioni in { -brand-shorter-name }
 translations-panel-settings-about2 =
     .label = Informazioni sulle traduzioni in { -brand-shorter-name }
 # Text displayed for the option to always translate a given language
@@ -91,14 +82,6 @@ translations-panel-error-change-button =
 #   $language (string) - The language of the document.
 translations-panel-error-unsupported-hint-known-2 = Siamo spiacenti, la traduzione da { $language } non è ancora supportata.
 translations-panel-error-unsupported-hint-unknown-2 = Siamo spiacenti, la traduzione da questa lingua non è ancora supportata.
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-translations-panel-error-unsupported-hint-known = Siamo spiacenti, ma { $language } non è ancora supportato.
-translations-panel-error-unsupported-hint-unknown = Siamo spiacenti, questa lingua non è ancora supportata.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
@@ -130,10 +113,6 @@ translations-manage-header = Traduzioni
 translations-manage-settings-button =
     .label = Impostazioni
     .accesskey = m
-translations-manage-description = Scarica le lingue per la traduzione non in linea.
-translations-manage-all-language = Tutte le lingue
-translations-manage-download-button = Scarica
-translations-manage-delete-button = Elimina
 translations-manage-intro-2 = Imposta le tue preferenze relative alla lingua e alla traduzione dei siti, gestisci le lingue scaricate per la traduzione non in linea.
 translations-manage-download-description = Scarica lingue per la traduzione non in linea
 translations-manage-language-download-button =
@@ -147,7 +126,6 @@ translations-manage-language-remove-all-button =
     .label = Rimuovi tutte
     .accesskey = e
 translations-manage-error-download = Si è verificato un errore durante il download dei file di lingua. Riprova.
-translations-manage-error-delete = Si è verificato un errore durante l’eliminazione dei file di lingua. Riprova.
 translations-manage-error-remove = Si è verificato un errore durante la rimozione dei file di lingua. Riprova.
 translations-manage-error-list = Impossibile ottenere l’elenco delle lingue disponibili per la traduzione. Aggiorna la pagina per riprovare.
 translations-settings-title =
@@ -246,16 +224,6 @@ select-translations-panel-unsupported-language-message-known-2 =
     .message = Siamo spiacenti, la traduzione da { $language } non è ancora supportata.
 select-translations-panel-unsupported-language-message-unknown-2 =
     .message = Siamo spiacenti, la traduzione da questa lingua non è ancora supportata.
-# If your language requires declining the language name, a possible solution
-# is to adapt the structure of the phrase, or use a support noun, e.g.
-# `Sorry, we don't support the language yet: { $language }
-#
-# Variables:
-#   $language (string) - The language of the document.
-select-translations-panel-unsupported-language-message-known =
-    .message = Siamo spiacenti, ma { $language } non è ancora supportato.
-select-translations-panel-unsupported-language-message-unknown =
-    .message = Siamo spiacenti, questa lingua non è ancora supportata.
 # Text displayed on the menuitem that opens the Translation Settings page.
 select-translations-panel-open-translations-settings-menuitem =
     .label = Impostazioni traduzione

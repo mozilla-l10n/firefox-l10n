@@ -17,7 +17,6 @@ default-browser-prompt-message-pin = Tieni { -brand-short-name } sempre a portat
 default-browser-prompt-message-pin-msix = Tieni { -brand-short-name } sempre a portata di mano: impostalo come browser predefinito, aggiungilo alla barra delle applicazioni e al menu Start.
 default-browser-prompt-message-pin-mac = Tieni { -brand-short-name } sempre a portata di mano: impostalo come browser predefinito e mantienilo nel Dock.
 default-browser-prompt-button-primary-set = Imposta come browser principale
-default-browser-prompt-button-primary-pin = Imposta come browser principale
 default-browser-prompt-title-alt = Impostare { -brand-short-name } come browser predefinito?
 default-browser-prompt-message-alt = Velocità, sicurezza e privacy sempre garantiti quando navighi online.
 default-browser-prompt-button-primary-alt = Imposta come browser predefinito

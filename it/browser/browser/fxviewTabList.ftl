@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-fxviewtabrow-open-menu-button =
-    .title = Apri menu
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 fxviewtabrow-date = { DATETIME($date, dateStyle: "short") }
@@ -53,8 +51,6 @@ fxviewtabrow-send-to-device = Invia a dispositivo
     .accesskey = v
 fxviewtabrow-send-to-mobile = Invia a dispositivo mobile
     .accesskey = m
-fxviewtabrow-send-tab = Invia scheda a dispositivo
-    .accesskey = v
 fxviewtabrow-pin-tab = Appunta scheda
     .accesskey = h
 fxviewtabrow-unpin-tab = Rilascia scheda

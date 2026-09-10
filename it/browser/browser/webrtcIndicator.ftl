@@ -7,8 +7,6 @@
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
 webrtc-indicator-title = { -brand-short-name } – Indicatore condivisione
-webrtc-indicator-window =
-    .title = { -brand-short-name } – Indicatore condivisione
 
 ## Used as list items in sharing menu
 
@@ -57,23 +55,6 @@ webrtc-microphone-system-menu =
     .label = Stai condividendo il microfono. Fai clic per gestire la condivisione.
 webrtc-screen-system-menu =
     .label = Stai condividendo una finestra o lo schermo. Fai clic per gestire la condivisione.
-
-## Tooltips used by the legacy global sharing indicator
-
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = La fotocamera e il microfono sono condivisi. Fare clic per gestire la condivisione.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = La fotocamera è condivisa. Fare clic per gestire la condivisione.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Il microfono è condiviso. Fare clic per gestire la condivisione.
-webrtc-indicator-sharing-application =
-    .tooltiptext = Un’applicazione è condivisa. Fare clic per gestire la condivisione.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Lo schermo è condiviso. Fare clic per gestire la condivisione.
-webrtc-indicator-sharing-window =
-    .tooltiptext = Una finestra è condivisa. Fare clic per gestire la condivisione.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = Una scheda è condivisa. Fare clic per gestire la condivisione.
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
@@ -185,7 +166,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Consentire a { $
 
 webrtc-share-screen-warning = Condividere lo schermo solo con siti attendibili. La condivisione può consentire a siti ingannevoli di navigare impersonando l’utente e sottrarne i dati personali.
 webrtc-share-browser-warning = Condividere { -brand-short-name } solo con siti attendibili. La condivisione può consentire a siti ingannevoli di navigare impersonando l’utente e sottrarne i dati personali.
-webrtc-share-screen-learn-more = Ulteriori informazioni
 webrtc-pick-window-or-screen = Scegli finestra o schermo
 webrtc-share-entire-screen = Schermo intero
 webrtc-share-pipe-wire-portal = Usa le impostazioni del sistema operativo

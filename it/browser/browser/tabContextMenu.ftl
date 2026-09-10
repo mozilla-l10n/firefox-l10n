@@ -6,9 +6,6 @@
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-context-new-tab =
-    .label = Nuova scheda
-    .accesskey = N
 reload-tab =
     .label = Ricarica scheda
     .accesskey = R
@@ -196,13 +193,6 @@ tab-context-send-to-mobile =
 tab-context-share-selected-tabs =
     .label = Crea link condivisibile
     .accesskey = k
-tab-context-send-tabs-to-device =
-    .label =
-        { $tabCount ->
-            [1] Invia scheda a dispositivo
-           *[other] Invia { $tabCount } schede a dispositivo
-        }
-    .accesskey = n
 tab-context-unload-n-tabs =
     .label =
         { $tabCount ->

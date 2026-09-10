@@ -22,7 +22,6 @@ autofill-delete-payment-method-os-prompt-windows = { -brand-short-name } sta ten
 autofill-delete-payment-method-os-prompt-other = { -brand-short-name } sta tentando di eliminare informazioni salvate relative ai metodi di pagamento.
 # The link leads users to Form Autofill browser preferences.
 autofill-options-link = Opzioni compilazione automatica moduli
-autofill-options-link-osx = Preferenze compilazione automatica moduli
 
 ## The credit card capture doorhanger
 
@@ -72,16 +71,6 @@ autofill-card-network-mastercard = MasterCard
 autofill-card-network-mir = MIR
 autofill-card-network-unionpay = Union Pay
 autofill-card-network-visa = Visa
-# The warning text that is displayed for informing users what categories are
-# about to be filled.  The text would be, for example,
-#   Also autofills organization, phone, email.
-# Variables:
-#   $categories - one or more of the categories, see autofill-category-X below
-autofill-phishing-warningmessage-extracategory = Compila anche { $categories }
-# Variation when all are in the same category.
-# Variables:
-#   $categories - one or more of the categories
-autofill-phishing-warningmessage = Compila { $categories }
 # Used in autofill drop down suggestion to indicate what other categories Form Autofill will attempt to fill.
 autofill-category-address = indirizzo
 autofill-category-name = nome
@@ -91,4 +80,3 @@ autofill-category-email = email
 # This string is used in drop down suggestion when users try to autofill credit
 # card on an insecure website (without https).
 autofill-insecure-field-warning-description = { -brand-short-name } ha rilevato un sito non sicuro. La compilazione automatica dei moduli è temporaneamente disattivata.
-

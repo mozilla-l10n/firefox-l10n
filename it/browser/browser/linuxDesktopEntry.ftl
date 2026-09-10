@@ -6,13 +6,9 @@
 desktop-entry-name = { -brand-shortcut-name }
 # The comment usually appears as a tooltip when hovering over application menu entry.
 desktop-entry-comment-1 = Browser veloce e riservato
-# The comment usually appears as a tooltip when hovering over application menu entry.
-desktop-entry-comment = Naviga sul Web
 desktop-entry-generic-name = Browser web
 # Combine Name and GenericName. This string is specific to GNOME.
 desktop-entry-x-gnome-full-name-1 = { -brand-full-name }
-# Combine Name and GenericName. This string is specific to GNOME.
-desktop-entry-x-gnome-full-name = Browser web { -brand-shortcut-name }
 # Keywords are search terms used to find this application.
 # The string is a list of keywords separated by semicolons:
 # - Do NOT replace semicolons with other punctuation signs.

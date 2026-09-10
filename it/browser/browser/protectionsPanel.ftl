@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-protections-panel-sendreportview-error = Si è verificato un errore durante l’invio della segnalazione. Riprova più tardi.
-# A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
-protections-panel-sitefixedsendreport-label = Problema risolto? Invia una segnalazione
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -23,11 +20,6 @@ protections-panel-etp-more-info =
     .aria-label = Ulteriori informazioni sulla protezione antitracciamento avanzata
 protections-panel-etp-on-header = La protezione antitracciamento avanzata è ATTIVA per questo sito
 protections-panel-etp-off-header = La protezione antitracciamento avanzata è DISATTIVATA per questo sito
-# The link to be clicked to open the sub-panel view
-protections-panel-site-not-working = Il sito non funziona?
-# The heading/title of the sub-panel view
-protections-panel-site-not-working-view =
-    .title = Sito non funzionante
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
@@ -47,8 +39,6 @@ protections-panel-etp-toggle-off =
 ## a tooltip explaining why these items were not blocked in the page.
 
 protections-panel-not-blocking-why-label = Perché?
-protections-panel-not-blocking-why-etp-on-tooltip = Il blocco di questi elementi potrebbe causare il parziale malfunzionamento di alcuni siti web. Senza elementi traccianti, alcuni pulsanti, moduli e campi di accesso non funzionano correttamente.
-protections-panel-not-blocking-why-etp-off-tooltip = Tutti gli elementi traccianti in questo sito sono stati caricati in quanto le protezioni sono disattivate.
 protections-panel-not-blocking-why-etp-on-tooltip-label =
     .label = Il blocco di questi elementi potrebbe causare il parziale malfunzionamento di alcuni siti web. Senza elementi traccianti, alcuni pulsanti, moduli e campi di accesso non funzionano correttamente.
 protections-panel-not-blocking-why-etp-off-tooltip-label =
@@ -94,23 +84,6 @@ smartblock-placeholder-content-header = Contenuto da incorporamento bloccato
 
 protections-panel-settings-label = Impostazioni protezione
 protections-panel-protectionsdashboard-label = Pannello protezioni
-
-## In the Site Not Working? view, we suggest turning off protections if
-## the user is experiencing issues with any of a variety of functionality.
-
-# The header of the list
-protections-panel-site-not-working-view-header = Disattivare le protezioni se si riscontrano problemi con:
-# The list items, shown in a <ul>
-protections-panel-site-not-working-view-issue-list-login-fields = Campi di accesso
-protections-panel-site-not-working-view-issue-list-forms = Moduli
-protections-panel-site-not-working-view-issue-list-payments = Pagamenti
-protections-panel-site-not-working-view-issue-list-comments = Commenti
-protections-panel-site-not-working-view-issue-list-videos = Video
-protections-panel-site-not-working-view-issue-list-fonts = Caratteri
-protections-panel-site-not-working-view-send-report = Invia una segnalazione
-
-##
-
 protections-panel-cross-site-tracking-cookies = Questi cookie ti seguono da un sito all’altro per raccogliere informazioni su ciò che fai online. Sono impostati da terze parti come agenzie pubblicitarie e di analisi dati.
 protections-panel-cryptominers = I cryptominer utilizzano le risorse del sistema per effettuare il “mining” di valute digitali. Questi script consumano la batteria, rallentano il computer e possono aumentare il costo della bolletta elettrica.
 protections-panel-fingerprinters = I fingerprinter raccolgono informazioni sulle impostazioni del browser e del computer al fine di creare un tuo profilo. Utilizzando questa “impronta digitale” sono in grado di seguirti attraverso siti diversi.
@@ -123,30 +96,10 @@ protections-panel-shim-allowed-indicator =
 protections-panel-content-blocking-manage-settings =
     .label = Gestisci impostazioni protezione
     .accesskey = G
-protections-panel-content-blocking-breakage-report-view =
-    .title = Segnala problemi con il sito
-protections-panel-content-blocking-breakage-report-view-description = Il blocco di determinati elementi traccianti può creare problemi in alcuni siti web. Segnalando questi problemi contribuisci a migliorare { -brand-short-name } per tutti gli utenti. Questa segnalazione verrà inviata a Mozilla e include l’indirizzo del sito e informazioni sulle impostazioni del browser. <label data-l10n-name="learn-more">Ulteriori informazioni</label>
-protections-panel-content-blocking-breakage-report-view-collection-url = Indirizzo
-protections-panel-content-blocking-breakage-report-view-collection-url-label =
-    .aria-label = Indirizzo
-protections-panel-content-blocking-breakage-report-view-collection-comments = Facoltativo: descrivi il problema
-protections-panel-content-blocking-breakage-report-view-collection-comments-label =
-    .aria-label = Facoltativo: descrivi il problema
-protections-panel-content-blocking-breakage-report-view-cancel =
-    .label = Annulla
-protections-panel-content-blocking-breakage-report-view-send-report =
-    .label = Invia segnalazione
-protections-panel-cookie-banner-handling-header = Riduzione banner per i cookie
 protections-panel-cookie-banner-blocker-header = Blocco banner per i cookie
 protections-panel-cookie-banner-handling-enabled = Attivo per questo sito
 protections-panel-cookie-banner-handling-disabled = Disattivato per questo sito
 protections-panel-cookie-banner-handling-undetected = Sito attualmente non supportato
-protections-panel-cookie-banner-view-title =
-    .title = Riduzione banner per i cookie
-# Variables
-#  $host (String): the hostname of the site that is being displayed.
-protections-panel-cookie-banner-view-turn-off-for-site = Disattivare Riduzione banner per i cookie per { $host }?
-protections-panel-cookie-banner-view-turn-on-for-site = Attivare Riduzione banner per i cookie per questo sito?
 protections-panel-cookie-banner-blocker-view-title =
     .title = Blocco banner per i cookie
 # Variables
@@ -154,10 +107,6 @@ protections-panel-cookie-banner-blocker-view-title =
 protections-panel-cookie-banner-blocker-view-turn-off-for-site = Disattivare Blocco banner per i cookie per { $host }?
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = Attivare Blocco banner per i cookie per questo sito?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } eliminerà i cookie per questo sito e aggiornerà la pagina. L’eliminazione dei cookie potrebbe disconnetterti dal sito o svuotare eventuali carrelli in sospeso.
-protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } cerca di rifiutare automaticamente tutte le richieste per i cookie nei siti supportati.
-protections-panel-cookie-banner-view-cancel = Annulla
-protections-panel-cookie-banner-view-turn-off = Disattiva
-protections-panel-cookie-banner-view-turn-on = Attiva
 protections-panel-cookie-banner-blocker-view-turn-on-description = Attivalo e { -brand-short-name } cercherà di rifiutare automaticamente i banner per i cookie su questo sito.
 protections-panel-cookie-banner-view-cancel-label =
     .label = Annulla

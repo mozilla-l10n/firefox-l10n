@@ -33,9 +33,6 @@ safeb-blocked-unwanted-page-learn-more = Scopri ulteriori informazioni relative 
 safeb-blocked-harmful-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> è stato <a data-l10n-name='error_desc_link'>identificato come sito contenente un’applicazione potenzialmente dannosa</a>. È possibile <a data-l10n-name='ignore_warning_link'>ignorare il rischio</a> e visitare il sito non sicuro.
 safeb-blocked-harmful-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> è stato <a data-l10n-name='error_desc_link'>identificato come sito contenente un’applicazione potenzialmente dannosa</a>.
 safeb-blocked-harmful-page-learn-more = Per ulteriori informazioni sulla protezione da phishing e malware di { -brand-short-name } visita <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
-safeb-palm-notdeceptive =
-    .label = Non è un sito ingannevole…
-    .accesskey = e
 
 ## Variables:
 ##  $addonName (string) - the name of the harmful add-on

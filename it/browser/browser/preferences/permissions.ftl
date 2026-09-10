@@ -103,7 +103,6 @@ permissions-exceptions-shutdown-clearing-desc = È possibile specificare quali s
 permissions-exceptions-https-only-window2 =
     .style = { permissions-window2.style }
     .title = Eccezioni - Modalità solo HTTPS
-permissions-exceptions-https-only-desc = È possibile disattivare la modalità solo HTTPS per determinati siti. { -brand-short-name } non cercherà di aggiornare la connessione alla versione sicura HTTPS per questi siti. Le eccezioni non sono valide per le finestre anonime.
 permissions-exceptions-https-only-desc2 = È possibile disattivare la modalità solo HTTPS per determinati siti. { -brand-short-name } non cercherà di aggiornare la connessione alla versione sicura HTTPS per questi siti.
 
 ## Exceptions - Pop-ups And Third-Party Redirects
@@ -112,20 +111,6 @@ permissions-exceptions-popup-window3 =
     .style = { permissions-window2.style }
     .title = Siti web con permesso - Pop-up e reindirizzamenti di terze parti
 permissions-exceptions-popup-desc2 = È possibile specificare quali siti web possono aprire finestre pop-up ed essere reindirizzati da frame di terze parti.
-
-## Exceptions - Pop-ups
-
-permissions-exceptions-popup-window2 =
-    .style = { permissions-window2.style }
-    .title = Siti web con permesso - Finestre pop-up
-permissions-exceptions-popup-desc = È possibile specificare quali siti web potranno aprire finestre pop-up. Inserire l’indirizzo esatto del sito web a cui dare il permesso e fare clic su Consenti.
-
-## Exceptions - Saved Logins
-
-permissions-exceptions-saved-logins-window2 =
-    .style = { permissions-window2.style }
-    .title = Eccezioni - Credenziali salvate
-permissions-exceptions-saved-logins-desc = Non verranno salvate le credenziali di accesso per i seguenti siti web
 
 ## Exceptions - Saved Passwords
 
