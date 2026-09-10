@@ -111,6 +111,7 @@ unauthenticated-vpn-title = Testa { -brand-product-name }:s inbyggda VPN
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Dölj din plats</a> när du surfar med { -brand-product-name }.
 unauthenticated-private-location-message = Hjälper till att <a data-l10n-name="learn-more-vpn">hålla din plats privat</a> i { -brand-product-name }.
 unauthenticated-choose-location-message-1 = Välj bland flera platser eller låt { -brand-product-name } välja den snabbaste.
+unauthenticated-site-rules-message = Styr vilka webbplatser som använder VPN och vilka webbplatser som inte gör det.
 unauthenticated-get-started = Kom igång
 unauthenticated-terms-of-service-privacy-notice = Genom att fortsätta godkänner du <a data-l10n-name="vpn-terms-of-service">användarvillkoren</a> och <a data-l10n-name="vpn-privacy-notice">sekretessmeddelandet</a>.
 site-exclusion-toggle-enabled-1 =
@@ -120,6 +121,14 @@ site-exclusion-toggle-disabled-1 =
     .aria-label = VPN är avstängt för den här webbplatsen
     .label = Använd VPN för den här webbplatsen
 site-exclusion-toggle-description = Fungerar inte webbplatsen? Testa att stänga av VPN.
+# Manages rules for VPN to turn on or off automatically for certain websites
+site-rules-manage-rules-link-text = Hantera VPN-regler
+# Heading for user defined rules on VPN usage for particular websites
+site-rules-status-heading = Din regel
+# Used in the panel when a user navigates to a site where the VPN is off due to a site exclusion
+site-rules-description-exclusion = VPN är avstängt för den här webbplatsen
+# Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
+site-rules-description-inclusion = VPN är på för den här webbplatsen
 ipprotection-settings-link =
     .label = Inställningar
 
@@ -256,6 +265,11 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } webbplatser
         }
     .label = Hantera webbplatsinställningar
+ip-protection-site-rules-header =
+    .heading = Hantera webbplatsens regler
+ip-protection-site-rules-button =
+    .description = Ange regler för webbplatser som behöver extra sekretess eller VPN avstängt.
+    .label = Hantera webbplatsens regler
 ip-protection-autostart =
     .label = Slå på VPN automatiskt
 ip-protection-autostart-checkbox =

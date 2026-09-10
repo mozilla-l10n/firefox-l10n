@@ -539,6 +539,37 @@ onboarding-refresh-gratitude-subtitle = Merci d’utiliser { -brand-short-name }
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } est toujours de votre côté
 
+## First Run Onboarding refresh strings
+
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-splash-screen-title = { -brand-product-name } est derrière vous dès maintenant
+onboarding-refresh-hero-text = Conçu pour vous protéger, pas pour vous pister.
+onboarding-refresh-tou-default = Ouvrir tous les liens avec { -brand-short-name }
+onboarding-refresh-tou-pin =
+    { PLATFORM() ->
+        [macos] Conserver { -brand-short-name } dans le Dock
+       *[other] Ajouter { -brand-short-name } à la barre des tâches
+    }
+onboarding-refresh-tou-default-unchecked = Conservez la protection intégrée à chaque navigation
+onboarding-refresh-tou-pin-unchecked = Gardez le seul grand navigateur indépendant à portée de clic
+onboarding-refresh-terms-of-use-with-links = En continuant, vous acceptez les <a data-l10n-name="terms_of_use">Conditions d’utilisation de { -brand-product-name }</a> et notre <a data-l10n-name="privacy_notice">Politique de confidentialité</a>. Pour aider à améliorer le navigateur, { -brand-product-name } envoie des données de diagnostic et d’interaction à { -vendor-short-name }.
+onboarding-refresh-data-collection-link = Gérer les paramètres de collecte de données
+onboarding-refresh-primary-button = Continuer
+onboarding-refresh-fro-import-header = Importer vos données
+onboarding-refresh-fro-import-body = Vos données personnelles restent personnelles. { -brand-product-name } ne le vendra jamais.
+onboarding-refresh-fro-skip-button = Ignorer
+onboarding-refresh-fro-theme-header = Jouez avec votre apparence
+onboarding-refresh-tab-layout-header = Essayer une autre présentation d’onglet
+onboarding-refresh-tab-layout-top = En haut
+onboarding-refresh-tab-layout-side = À côté
+onboarding-refresh-tab-layout-minimal = Minimale
+# Tooltip displayed on hover for minimal tabs image
+onboarding-minimal-tabs-tooltip =
+    .title = Une fenêtre de navigateur affichant les onglets sous forme de petites icônes le long de l’écran, dans une barre latérale réduite.
+# Description for minimal tabs image
+onboarding-minimal-tabs-description =
+    .aria-description = Une fenêtre de navigateur affichant les onglets sous forme de petites icônes le long de l’écran, dans une barre latérale réduite.
+
 ## Smart window switcher callout
 
 smartwindow-switcher-callout = Basculez à tout moment entre les { -smart-window-brand-name(form: "lower-plural") } et classiques.

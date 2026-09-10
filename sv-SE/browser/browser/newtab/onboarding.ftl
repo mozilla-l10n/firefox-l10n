@@ -536,6 +536,37 @@ onboarding-refresh-gratitude-subtitle = Tack för att du använder { -brand-shor
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } tar hand om dig
 
+## First Run Onboarding refresh strings
+
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-splash-screen-title = { -brand-product-name } tar hand om dig, med start nu
+onboarding-refresh-hero-text = Byggd för att skydda dig, inte spåra dig.
+onboarding-refresh-tou-default = Öppna alla länkar med { -brand-short-name }
+onboarding-refresh-tou-pin =
+    { PLATFORM() ->
+        [macos] Behåll { -brand-short-name } i Dock
+       *[other] Lägg till { -brand-short-name } i ditt aktivitetsfält
+    }
+onboarding-refresh-tou-default-unchecked = Behåll det inbyggda skyddet varje gång du surfar
+onboarding-refresh-tou-pin-unchecked = Ha den enda stora oberoende webbläsaren ett klick bort
+onboarding-refresh-terms-of-use-with-links = Genom att fortsätta godkänner du <a data-l10n-name="terms_of_use">{ -brand-product-name } användarvillkor</a> och våra <a data-l10n-name="privacy_notice">sekretesspolicy</a>. För att hjälpa till att förbättra webbläsaren skickar { -brand-product-name } diagnostik- och interaktionsdata till { -vendor-short-name }.
+onboarding-refresh-data-collection-link = Hantera inställningar för datainsamling
+onboarding-refresh-primary-button = Fortsätt
+onboarding-refresh-fro-import-header = Ta med din data
+onboarding-refresh-fro-import-body = Dina personuppgifter förblir personliga. { -brand-product-name } kommer aldrig att sälja den.
+onboarding-refresh-fro-skip-button = Hoppa över
+onboarding-refresh-fro-theme-header = Lek med ditt utseende
+onboarding-refresh-tab-layout-header = Prova en annan fliklayout
+onboarding-refresh-tab-layout-top = På toppen
+onboarding-refresh-tab-layout-side = På sidan
+onboarding-refresh-tab-layout-minimal = Minimal
+# Tooltip displayed on hover for minimal tabs image
+onboarding-minimal-tabs-tooltip =
+    .title = Ett webbläsarfönster som visar flikar som små ikoner längs sidan av skärmen i ett minimerat sidofält.
+# Description for minimal tabs image
+onboarding-minimal-tabs-description =
+    .aria-description = Ett webbläsarfönster som visar flikar som små ikoner längs sidan av skärmen i ett minimerat sidofält.
+
 ## Smart window switcher callout
 
 smartwindow-switcher-callout = Växla mellan smarta och klassiska fönster när som helst.
