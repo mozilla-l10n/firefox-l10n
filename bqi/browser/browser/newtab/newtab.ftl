@@ -669,6 +669,10 @@ newtab-wallpaper-firefox-side-kit-dark = ی رۊوا من سمت چپ، من ی 
 newtab-wallpaper-firefox-side-kit-light = ی رۊوا من سمت چپ، من ی پس زمینه رۊشنا
 newtab-wallpaper-firefox-sitting-hill-dark = رۊوایی نشسته ری موله یل بناوش تاریک
 newtab-wallpaper-firefox-sitting-hill-light = رۊوایی ک ری موله یل رۊشنا نشسته
+newtab-wallpaper-firefox-peak-dark = ری ی رۊوا من لبه سمت چپ، ری زمینه‌ای تاریک
+newtab-wallpaper-firefox-peak-light = ری ی رۊوا من لبه سمت چپ، ری زمینه‌ای رۊشنا
+newtab-wallpaper-firefox-sky-dark = موله یل بناوش تاریک زؽر آسمووݩ شاو
+newtab-wallpaper-firefox-sky-light = موله یل رۊشنا زؽر ی آسمووݩ مولایم
 
 ## Firefox
 

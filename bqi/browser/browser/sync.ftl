@@ -17,6 +17,11 @@ fxa-menu-connect-another-device =
     .label = منپیز و دسگا دیر...
 fxa-menu-sign-out =
     .label = و در زیڌن…
+# Shown by the same card, and by the app menu's sign-in row, once the user has
+# signed out - the account they signed out of can no longer be identified, so
+# this copy stands in for the email.
+fxa-menu-signed-out-title = سی هوم گوم کردن و من بیاین
+fxa-menu-signed-out-description = ایسا ز سیستوم و در زیڌین
 fxa-avatar-sign-in = و من ٱووڌن
 fxa-avatar-sign-up = سبت نوم
 fxa-avatar-tooltip =
