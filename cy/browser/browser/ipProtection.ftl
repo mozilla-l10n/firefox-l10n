@@ -125,6 +125,10 @@ site-exclusion-toggle-description = Dyw'r wefan ddim yn gweithio? Ceisiwch ddiff
 site-rules-manage-rules-link-text = Rheoli rheolau VPN
 # Heading for user defined rules on VPN usage for particular websites
 site-rules-status-heading = Eich rheol
+# Used in the panel when a user navigates to a site where the VPN is off due to a site exclusion
+site-rules-description-exclusion = Mae VPN i ffwrdd ar gyfer y wefan hon
+# Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
+site-rules-description-inclusion = Mae VPN ymlaen ar gyfer y wefan hon
 ipprotection-settings-link =
     .label = Gosodiadau
 
@@ -265,6 +269,11 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } gwefan
         }
     .label = Rheoli gosodiadau gwefan
+ip-protection-site-rules-header =
+    .heading = Rheoli rheolau gwefan
+ip-protection-site-rules-button =
+    .description = Gosodwch reolau ar gyfer gwefannau sydd angen preifatrwydd ychwanegol neu'r VPN i ffwrdd.
+    .label = Rheoli rheolau gwefan
 ip-protection-autostart =
     .label = Troi'r VPN ymlaen yn awtomatig
 ip-protection-autostart-checkbox =

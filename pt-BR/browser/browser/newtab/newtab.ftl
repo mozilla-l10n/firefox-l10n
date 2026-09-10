@@ -961,6 +961,8 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+newtab-wallpaper-firefox-orange = Uma raposa no canto direito com fundo laranja
+newtab-wallpaper-firefox-colorful-sky = Ondas alaranjadas em um céu noturno roxo
 
 ## Firefox
 

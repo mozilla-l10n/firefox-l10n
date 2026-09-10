@@ -539,6 +539,37 @@ onboarding-refresh-gratitude-subtitle = Diolch am ddefnyddio { -brand-short-name
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = Mae { -brand-short-name } yn eich cefnogi
 
+## First Run Onboarding refresh strings
+
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-splash-screen-title = Mae { -brand-product-name } yn eich cefnogi, gan ddechrau nawr
+onboarding-refresh-hero-text = Wedi'i adeiladu i'ch amddiffyn, nid eich tracio.
+onboarding-refresh-tou-default = Agor pob dolen gyda { -brand-short-name }
+onboarding-refresh-tou-pin =
+    { PLATFORM() ->
+        [macos] Cadw { -brand-short-name } yn y Doc
+       *[other] Ychwanegu { -brand-short-name } at eich bar tasgau
+    }
+onboarding-refresh-tou-default-unchecked = Cadw diogelwch cynhenid bob tro byddwch chi'n pori
+onboarding-refresh-tou-pin-unchecked = Cadw'r unig brif borwr annibynnol un clic i ffwrdd
+onboarding-refresh-terms-of-use-with-links = Drwy barhau, rydych yn cytuno i Amodau Defnydd { -brand-product-name } a'n Hysbysiad Preifatrwydd. Er mwyn helpu i wella'r porwr, mae { -brand-product-name } yn anfon data diagnostig a rhyngweithio at { -vendor-short-name }.
+onboarding-refresh-data-collection-link = Rheoli gosodiadau casglu data
+onboarding-refresh-primary-button = Parhau
+onboarding-refresh-fro-import-header = Dewch â'ch data i mewn
+onboarding-refresh-fro-import-body = Mae eich data personol yn aros yn bersonol. Bydd { -brand-product-name } byth yn ei werthu.
+onboarding-refresh-fro-skip-button = Hepgor
+onboarding-refresh-fro-theme-header = Chwarae gyda'ch golwg
+onboarding-refresh-tab-layout-header = Rhowch gynnig ar gynllun tabiau gwahanol
+onboarding-refresh-tab-layout-top = Ar ben
+onboarding-refresh-tab-layout-side = Ar yr ochr
+onboarding-refresh-tab-layout-minimal = Lleiaf
+# Tooltip displayed on hover for minimal tabs image
+onboarding-minimal-tabs-tooltip =
+    .title = Ffenestr porwr sy'n dangos tabiau fel eiconau bach ar hyd ochr y sgrin, mewn bar ochr wedi'i leihau.
+# Description for minimal tabs image
+onboarding-minimal-tabs-description =
+    .aria-description = Ffenestr porwr sy'n dangos tabiau fel eiconau bach ar hyd ochr y sgrin, mewn bar ochr wedi'i leihau.
+
 ## Smart window switcher callout
 
 smartwindow-switcher-callout = Newid rhwng Clyfar a Ffenestri Clasurol ar unrhyw bryd.

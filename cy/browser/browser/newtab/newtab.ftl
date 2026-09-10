@@ -1001,6 +1001,22 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+newtab-wallpaper-firefox-orange = Llwynog ar yr ymyl dde ar gefndir oren
+newtab-wallpaper-firefox-colorful-sky = Tonnau o oren ar draws awyr noson borffor
+newtab-wallpaper-firefox-desert-dark = Llwynog yn eistedd mewn anialwch porffor tywyll
+newtab-wallpaper-firefox-desert-light = Llwynog yn rhedeg ar draws anialwch golau
+newtab-wallpaper-firefox-hills-dark = Llwynog yn rhedeg dros fryniau tywyll
+newtab-wallpaper-firefox-hills-light = Llwynog yn rhedeg dros fryniau golau
+newtab-wallpaper-firefox-tail-dark = Cynffon llwynog ar gefndir tywyll
+newtab-wallpaper-firefox-tail-light = Cynffon llwynog ar gefndir golau
+newtab-wallpaper-firefox-side-kit-dark = Llwynog ar yr ochr chwith, ar gefndir tywyll
+newtab-wallpaper-firefox-side-kit-light = Llwynog ar yr ochr chwith, ar gefndir golau
+newtab-wallpaper-firefox-sitting-hill-dark = Llwynog yn eistedd ar fryniau porffor tywyll
+newtab-wallpaper-firefox-sitting-hill-light = Llwynog yn eistedd ar fryniau golau
+newtab-wallpaper-firefox-peak-dark = Wyneb llwynog ar yr ymyl chwith, ar gefndir tywyll
+newtab-wallpaper-firefox-peak-light = Wyneb llwynog ar yr ymyl chwith, ar gefndir golau
+newtab-wallpaper-firefox-sky-dark = Bryniau porffor tywyll dan awyr y nos
+newtab-wallpaper-firefox-sky-light = Bryniau golau o dan awyr feddal
 
 ## Firefox
 
