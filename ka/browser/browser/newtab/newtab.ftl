@@ -961,6 +961,22 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+newtab-wallpaper-firefox-orange = მელა მარჯვენა კიდეზე ნარინჯისფერი ფონით
+newtab-wallpaper-firefox-colorful-sky = ნარინჯისფერი ტალღები ღამის იისფერ ცაზე
+newtab-wallpaper-firefox-desert-dark = მჯდარი მელა ჩაბნელებულ მეწამულ უდაბნოში
+newtab-wallpaper-firefox-desert-light = მორბენალი მელა ნათელ უდაბნოში
+newtab-wallpaper-firefox-hills-dark = მორბენალი მელა ბნელ ბორცვებზე
+newtab-wallpaper-firefox-hills-light = მორბენალი მელა ნათელ ბორცვებზე
+newtab-wallpaper-firefox-tail-dark = მელას კუდი მუქ ფონზე
+newtab-wallpaper-firefox-tail-light = მელას კუდი ნათელ ფონზე
+newtab-wallpaper-firefox-side-kit-dark = მელა მარცხენა მხარეს მუქ ფონზე
+newtab-wallpaper-firefox-side-kit-light = მელა მარცხენა მხარეს ნათელ ფონზე
+newtab-wallpaper-firefox-sitting-hill-dark = მჯდარი მელა ნათელ მეწამულ უდაბნოში
+newtab-wallpaper-firefox-sitting-hill-light = მჯდარი მელა ნათელ ბორცვებზე
+newtab-wallpaper-firefox-peak-dark = მელას სახე მარცხენა კიდეზე, მუქი ფონით
+newtab-wallpaper-firefox-peak-light = მელას სახე მარცხენა კიდეზე, ნათელი ფონით
+newtab-wallpaper-firefox-sky-dark = მუქი მეწამული ბორცვები ღამის ცის ქვეშ
+newtab-wallpaper-firefox-sky-light = ნათელი ბორცვები ღია ცის ქვეშ
 
 ## Firefox
 
