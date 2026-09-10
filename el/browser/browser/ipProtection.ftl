@@ -120,6 +120,14 @@ site-exclusion-toggle-disabled-1 =
     .aria-label = Το VPN είναι ανενεργό για αυτόν τον ιστότοπο
     .label = Χρήση VPN για αυτόν τον ιστότοπο
 site-exclusion-toggle-description = Δεν λειτουργεί ο ιστότοπος; Δοκιμάστε να απενεργοποιήσετε το VPN.
+# Manages rules for VPN to turn on or off automatically for certain websites
+site-rules-manage-rules-link-text = Διαχείριση κανόνων VPN
+# Heading for user defined rules on VPN usage for particular websites
+site-rules-status-heading = Ο κανόνας σας
+# Used in the panel when a user navigates to a site where the VPN is off due to a site exclusion
+site-rules-description-exclusion = Το VPN είναι ανενεργό για αυτόν τον ιστότοπο
+# Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
+site-rules-description-inclusion = Το VPN είναι ενεργό για αυτόν τον ιστότοπο
 ipprotection-settings-link =
     .label = Ρυθμίσεις
 
@@ -256,6 +264,8 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } ιστότοποι
         }
     .label = Διαχείριση ρυθμίσεων ιστοτόπων
+ip-protection-site-rules-header =
+    .heading = Διαχείριση κανόνων ιστοτόπων
 ip-protection-autostart =
     .label = Αυτόματη ενεργοποίηση του VPN
 ip-protection-autostart-checkbox =

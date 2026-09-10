@@ -538,6 +538,24 @@ onboarding-refresh-gratitude-subtitle = Σας ευχαριστούμε που �
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = Το { -brand-short-name } στο πλευρό σας
 
+## First Run Onboarding refresh strings
+
+onboarding-refresh-tou-default = Άνοιγμα όλων των συνδέσμων με το { -brand-short-name }
+onboarding-refresh-tou-pin =
+    { PLATFORM() ->
+        [macos] Διατήρηση του { -brand-short-name } στο Dock
+       *[other] Προσθήκη του { -brand-short-name } στη γραμμή εργασιών
+    }
+onboarding-refresh-data-collection-link = Διαχείριση ρυθμίσεων συλλογής δεδομένων
+onboarding-refresh-primary-button = Συνέχεια
+onboarding-refresh-fro-import-header = Εισαγάγετε τα δεδομένα σας
+onboarding-refresh-fro-skip-button = Παράλειψη
+onboarding-refresh-fro-theme-header = Πειραματιστείτε με την εμφάνισή σας
+onboarding-refresh-tab-layout-header = Δοκιμάστε μια διαφορετική διάταξη καρτελών
+onboarding-refresh-tab-layout-top = Στο πάνω μέρος
+onboarding-refresh-tab-layout-side = Στο πλάι
+onboarding-refresh-tab-layout-minimal = Μινιμαλιστική
+
 ## Smart window switcher callout
 
 smartwindow-switcher-callout = Κάντε εναλλαγή μεταξύ έξυπνων και κλασικών παραθύρων ανά πάσα στιγμή.

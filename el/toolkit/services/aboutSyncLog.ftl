@@ -49,6 +49,15 @@ about-sync-log-count =
         [one] { $count } αρχείο καταγραφής
        *[other] { $count } αρχεία καταγραφής
     }
+# Heading of a log in the list, stating its outcome and when it was written.
+# Variables:
+#   $date (number) - Timestamp of when the log was written.
+about-sync-log-row-success =
+    .heading = Επιτυχία — { DATETIME($date, dateStyle: "medium", timeStyle: "medium") }
+# Variables:
+#   $date (number) - Timestamp of when the log was written.
+about-sync-log-row-error =
+    .heading = Σφάλμα — { DATETIME($date, dateStyle: "medium", timeStyle: "medium") }
 about-sync-log-badge-success = Επιτυχία
 about-sync-log-badge-error = Σφάλμα
 # Variables:

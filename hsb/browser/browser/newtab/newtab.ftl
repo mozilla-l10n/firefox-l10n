@@ -987,6 +987,15 @@ newtab-wallpaper-firefox-desert-dark = Liška, kotraž w ćmowej wioletnej pusć
 newtab-wallpaper-firefox-desert-light = Liška, kotraž po swětłej pusćinje běži
 newtab-wallpaper-firefox-hills-dark = Liška, kotraž přez ćmowe hórki běži
 newtab-wallpaper-firefox-hills-light = Liška, kotraž přez swětłe hórki běži
+newtab-wallpaper-firefox-tail-dark = Wopuš liški na ćmowym pozadku
+newtab-wallpaper-firefox-tail-light = Wopuš liški na swětłym pozadku
+newtab-wallpaper-firefox-side-kit-dark = Liška nalěwo, na ćmowym pozadku
+newtab-wallpaper-firefox-side-kit-light = Liška nalěwo, na swětłym pozadku
+newtab-wallpaper-firefox-sitting-hill-dark = Liška, kotraž w ćmowych wioletnych hórkach sedźi
+newtab-wallpaper-firefox-sitting-hill-light = Liška, kotraž na swětłych hórkach sedźi
+newtab-wallpaper-firefox-peak-dark = Wobličo liški na lěwej kromje, na ćmowym pozadku
+newtab-wallpaper-firefox-peak-light = Wobličo liški na lěwej kromje, na swětłym pozadku
+newtab-wallpaper-firefox-sky-dark = Ćmowe wioletne hórki pod nócnym njebjom
 
 ## Firefox
 
