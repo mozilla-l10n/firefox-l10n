@@ -70,6 +70,11 @@ fxa-menu-signed-out-sign-in-button =
 fxa-menu-signed-out-message-login-failed = Ai ieșit din cont
 # Reason shown when the remembered account still needs to verify their email.
 fxa-menu-signed-out-message-unverified = Finalizează configurarea
+# Shown by the same card, and by the app menu's sign-in row, once the user has
+# signed out - the account they signed out of can no longer be identified, so
+# this copy stands in for the email.
+fxa-menu-signed-out-title = Intră în cont pentru sincronizare
+fxa-menu-signed-out-description = Ai ieșit din cont
 fxa-avatar-sign-in = Intră în cont
 fxa-avatar-sign-up = Fă-ți un cont
 fxa-avatar-tooltip =

@@ -539,6 +539,32 @@ onboarding-refresh-gratitude-subtitle = Îți mulțumim că folosești { -brand-
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } te susține
 
+## First Run Onboarding refresh strings
+
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-splash-screen-title = De acum înainte, { -brand-product-name } te susține
+onboarding-refresh-hero-text = Creat pentru a te proteja, nu pentru a te urmări.
+onboarding-refresh-tou-default = Deschide toate linkurile cu { -brand-short-name }
+onboarding-refresh-tou-pin =
+    { PLATFORM() ->
+        [macos] Păstrează { -brand-short-name } în bara de aplicații
+       *[other] Adaugă { -brand-short-name } în bara de sarcini
+    }
+onboarding-refresh-tou-default-unchecked = Păstrezi protecția integrată ori de câte ori navighezi
+onboarding-refresh-tou-pin-unchecked = Ții singurul browser independent de top la doar un clic distanță
+onboarding-refresh-fro-skip-button = Omite
+onboarding-refresh-fro-theme-header = Joacă-te cu aspectul tău
+onboarding-refresh-tab-layout-header = Încearcă o altă dispunere a filelor
+onboarding-refresh-tab-layout-top = În partea de sus
+onboarding-refresh-tab-layout-side = În lateral
+onboarding-refresh-tab-layout-minimal = Minimal
+# Tooltip displayed on hover for minimal tabs image
+onboarding-minimal-tabs-tooltip =
+    .title = O fereastră de browser cu file afișate ca pictograme mici pe marginea ecranului, într-o bară laterală restrânsă.
+# Description for minimal tabs image
+onboarding-minimal-tabs-description =
+    .aria-description = O fereastră de browser cu file afișate ca pictograme mici pe marginea ecranului, într-o bară laterală restrânsă.
+
 ## Smart window switcher callout
 
 smartwindow-switcher-callout = Treci oricând de la fereastra inteligentă la cea clasică și invers.

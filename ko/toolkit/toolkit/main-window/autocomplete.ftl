@@ -32,3 +32,15 @@ autocomplete-edit-address = 주소 편집
 autocomplete-delete-address = 주소 삭제
 autocomplete-edit-payment-method = 결제 수단 편집
 autocomplete-delete-payment-method = 결제 수단 삭제
+
+## Confirmation shown before a record is removed from the autocomplete dropdown.
+## Gated by the browser.autocomplete.removeRecords.enabled pref.
+
+autocomplete-remove-password-title = 비밀번호를 제거하시겠습니까?
+autocomplete-remove-address-title = 주소를 제거하시겠습니까?
+
+## Device sign-in prompt shown before a password is removed from the autocomplete
+## dropdown. The -win and -macosx variants are selected at runtime; other platforms
+## do not support device sign-in and fall back to the Primary Password dialog.
+
+autocomplete-remove-password-os-auth-dialog-caption = { -brand-full-name }

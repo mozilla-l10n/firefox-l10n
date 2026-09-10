@@ -971,6 +971,22 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+newtab-wallpaper-firefox-orange = O vulpe în partea dreaptă, pe un fundal portocaliu
+newtab-wallpaper-firefox-colorful-sky = Valuri portocalii pe un cer nocturn violet
+newtab-wallpaper-firefox-desert-dark = O vulpe așezată într-un deșert violet întunecat
+newtab-wallpaper-firefox-desert-light = O vulpe care aleargă printr-un deșert scăldat în lumină
+newtab-wallpaper-firefox-hills-dark = O vulpe care aleargă pe dealuri întunecate
+newtab-wallpaper-firefox-hills-light = O vulpe care aleargă pe dealuri luminoase
+newtab-wallpaper-firefox-tail-dark = O coadă de vulpe pe fundal întunecat
+newtab-wallpaper-firefox-tail-light = O coadă de vulpe pe fundal luminos
+newtab-wallpaper-firefox-side-kit-dark = O vulpe în partea stângă, pe un fundal întunecat
+newtab-wallpaper-firefox-side-kit-light = O vulpe în partea stângă, pe un fundal luminos
+newtab-wallpaper-firefox-sitting-hill-dark = O vulpe stând pe dealuri violet închis
+newtab-wallpaper-firefox-sitting-hill-light = O vulpe stând pe dealuri luminoase
+newtab-wallpaper-firefox-peak-dark = Chipul unei vulpi în marginea stângă, pe un fundal întunecat
+newtab-wallpaper-firefox-peak-light = Chipul unei vulpi în marginea stângă, pe un fundal luminos
+newtab-wallpaper-firefox-sky-dark = Dealuri violet închis sub un cer nocturn
+newtab-wallpaper-firefox-sky-light = Dealuri luminoase sub un cer senin
 
 ## Firefox
 

@@ -274,8 +274,8 @@ preferences-colors-manage-button =
 preferences-fonts-header2 =
     .label = Fonti
 preferences-default-zoom-label =
-    .label = Noklusējuma mērogs
-    .accesskey = m
+    .label = Noklusējuma tālummaiņa
+    .accesskey = t
 # Variables:
 #   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =

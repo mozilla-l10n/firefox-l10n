@@ -265,7 +265,10 @@ ip-protection-site-exceptions-all-sites-button =
         }
     .label = ניהול הגדרות אתרים
 ip-protection-site-rules-header =
-    .heading = ניהול חוקים של אתרים
+    .heading = ניהול כללים לאתרים
+ip-protection-site-rules-button =
+    .description = הגדרת כללים לאתרים שצריכים שהפרטיות נוספת או ה־VPN יהיו כבויים.
+    .label = ניהול כללים לאתרים
 ip-protection-autostart =
     .label = הפעלת VPN באופן אוטומטי
 ip-protection-autostart-checkbox =

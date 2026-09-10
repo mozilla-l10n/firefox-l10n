@@ -111,6 +111,7 @@ unauthenticated-vpn-title = { -brand-product-name }에 내장된 VPN을 사용�
 unauthenticated-hide-location-message-3 = { -brand-product-name }에서 탐색하는 동안 <a data-l10n-name="learn-more-vpn">위치를 숨기세요</a>.
 unauthenticated-private-location-message = { -brand-product-name }에서 <a data-l10n-name="learn-more-vpn">사용자의 위치를 비공개로 유지</a>하는 데 도움이 됩니다.
 unauthenticated-choose-location-message-1 = 여러 위치 중에서 직접 선택하거나, { -brand-product-name }가 가장 빠른 위치를 찾습니다.
+unauthenticated-site-rules-message = VPN을 사용하는 사이트와 사용하지 않는 사이트를 제어하세요.
 unauthenticated-get-started = 시작하기
 unauthenticated-terms-of-service-privacy-notice = 계속 진행하면, <a data-l10n-name="vpn-terms-of-service">이용 약관</a> 및 <a data-l10n-name="vpn-privacy-notice">개인정보처리방침</a>에 동의하게 됩니다.
 site-exclusion-toggle-enabled-1 =
@@ -120,6 +121,14 @@ site-exclusion-toggle-disabled-1 =
     .aria-label = 이 사이트에서 VPN이 꺼짐
     .label = 이 사이트에 VPN 사용
 site-exclusion-toggle-description = 사이트가 작동하지 않습니까? VPN을 꺼보세요.
+# Manages rules for VPN to turn on or off automatically for certain websites
+site-rules-manage-rules-link-text = VPN 규칙 관리
+# Heading for user defined rules on VPN usage for particular websites
+site-rules-status-heading = 내 규칙
+# Used in the panel when a user navigates to a site where the VPN is off due to a site exclusion
+site-rules-description-exclusion = 이 사이트에서 VPN 꺼짐
+# Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
+site-rules-description-inclusion = 이 사이트에서 VPN 켜짐
 ipprotection-settings-link =
     .label = 설정
 
@@ -252,6 +261,11 @@ ip-protection-not-opted-in-button = 시작하기
 ip-protection-site-exceptions-all-sites-button =
     .description = 웹 사이트 { $count }개
     .label = 웹 사이트 설정 관리
+ip-protection-site-rules-header =
+    .heading = 웹 사이트 규칙 관리
+ip-protection-site-rules-button =
+    .description = 추가적인 개인 정보 보호가 필요하거나 VPN이 꺼져야 하는 사이트에 규칙을 설정하세요.
+    .label = 웹 사이트 규칙 관리
 ip-protection-autostart =
     .label = 자동으로 VPN 켜기
 ip-protection-autostart-checkbox =

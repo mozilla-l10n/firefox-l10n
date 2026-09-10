@@ -20,6 +20,12 @@ colorpicker-tooltip-hue-slider-title = 색상
 colorpicker-tooltip-alpha-slider-title = 불투명도
 # A text for the toggle for the element-specific pseudo-classes panel.
 inspector-element-specific-pseudo-classes-heading = 요소별 가상 클래스
+# A title text for the button in the Inspector toolbar that opens the menu
+# controlling how the Inspector panels are split.
+inspector-split-orientation-button-title = 패널 레이아웃
+# A label for the split orientation menu item that switches the layout
+# automatically based on the panel width.
+inspector-split-orientation-auto = 자동
 # A title text for the light color scheme emulation options
 inspector-color-scheme-emulation-light =
     .title = 페이지에 밝은 색 구성표 에뮬레이션 전환

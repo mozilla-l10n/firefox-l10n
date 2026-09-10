@@ -5,7 +5,7 @@
 window-minimize-command =
     .label = Minimizēt
 window-zoom-command =
-    .label = Mērogs
+    .label = Tālummaiņa
 window-new-shortcut =
     .key = N
 window-minimize-shortcut =

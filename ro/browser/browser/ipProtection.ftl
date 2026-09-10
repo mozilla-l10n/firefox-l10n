@@ -111,6 +111,7 @@ unauthenticated-vpn-title = Încearcă VPN-ul încorporat { -brand-product-name 
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Ascunde-ți locația</a> când navighezi cu{ -brand-product-name }.
 unauthenticated-private-location-message = Ajută <a data-l10n-name="learn-more-vpn">să îți mențină locația privată</a> în { -brand-product-name }.
 unauthenticated-choose-location-message-1 = Alege din mai multe locații sau lasă { -brand-product-name } să o aleagă pe cea mai rapidă.
+unauthenticated-site-rules-message = Alege ce site-uri folosesc VPN-ul și care nu.
 unauthenticated-get-started = Începe
 unauthenticated-terms-of-service-privacy-notice = Prin continuare, ești de acord cu <a data-l10n-name="vpn-terms-of-service">Condițiile de utilizare a serviciilor</a> și <a data-l10n-name="vpn-privacy-notice">Notificarea privind confidențialitatea</a>.
 site-exclusion-toggle-enabled-1 =
@@ -120,6 +121,14 @@ site-exclusion-toggle-disabled-1 =
     .aria-label = VPN-ul este dezactivat pentru acest site
     .label = Activează VPN-ul pentru acest site
 site-exclusion-toggle-description = Nu funcționează site-ul? Încearcă să dezactivezi VPN-ul.
+# Manages rules for VPN to turn on or off automatically for certain websites
+site-rules-manage-rules-link-text = Gestionează regulile VPN
+# Heading for user defined rules on VPN usage for particular websites
+site-rules-status-heading = Regula ta
+# Used in the panel when a user navigates to a site where the VPN is off due to a site exclusion
+site-rules-description-exclusion = VPN-ul este dezactivat pentru acest site
+# Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
+site-rules-description-inclusion = VPN-ul este activat pentru acest site
 ipprotection-settings-link =
     .label = Setări
 
@@ -257,6 +266,11 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } de site-uri
         }
     .label = Gestionează setările pentru site-uri
+ip-protection-site-rules-header =
+    .heading = Gestionează regulile pentru site-uri web
+ip-protection-site-rules-button =
+    .description = Setează reguli pentru site-uri care necesită un plus de confidențialitate sau dezactivarea VPN-ului.
+    .label = Gestionează regulile pentru site-uri web
 ip-protection-autostart =
     .label = Activează automat VPN-ul
 ip-protection-autostart-checkbox =

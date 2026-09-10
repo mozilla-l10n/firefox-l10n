@@ -339,6 +339,18 @@ onboarding-refresh-data-collection-link = Pārvaldīt datu vākšanas iestatīju
 onboarding-refresh-primary-button = Turpināt
 onboarding-refresh-fro-import-header = Ņem līdzi savus datus
 onboarding-refresh-fro-import-body = Tavi personīgie dati paliek personīgi. { -brand-product-name } tos nekad nepārdos.
+onboarding-refresh-fro-skip-button = Izlaist
+onboarding-refresh-fro-theme-header = Spēlējies ar izskatu
+onboarding-refresh-tab-layout-header = Izmēģini citu ciļņu izkārtojumu
+onboarding-refresh-tab-layout-top = Augšpusē
+onboarding-refresh-tab-layout-side = Sānā
+onboarding-refresh-tab-layout-minimal = Ļoti mazs
+# Tooltip displayed on hover for minimal tabs image
+onboarding-minimal-tabs-tooltip =
+    .title = Pārlūka logs, kurā cilnes attēlotas kā mazas ikonas ekrāna sānā samazinātā sānjoslā.
+# Description for minimal tabs image
+onboarding-minimal-tabs-description =
+    .aria-description = Pārlūka logs, kurā cilnes attēlotas kā mazas ikonas ekrāna sānā samazinātā sānjoslā.
 
 ## Smart Window ToU modal
 

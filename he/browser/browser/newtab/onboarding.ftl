@@ -524,6 +524,19 @@ onboarding-refresh-gratitude-subtitle = תודה לך על השימוש ב־{ -b
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } מאחוריך
 
+## First Run Onboarding refresh strings
+
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-splash-screen-title = ‏{ -brand-product-name } מגן עליך, החל מעכשיו
+onboarding-refresh-hero-text = נבנה כדי להגן עליך, לא לעקוב אחריך.
+onboarding-refresh-tou-default = פתיחת כל הקישורים באמצעות { -brand-short-name }
+onboarding-refresh-tou-pin =
+    { PLATFORM() ->
+        [macos] שמירת { -brand-short-name } ב־Dock
+       *[other] הוספת { -brand-short-name } לשורת המשימות שלך
+    }
+onboarding-refresh-tou-default-unchecked = הגנה מובנית בכל גלישה
+
 ## Smart window switcher callout
 
 smartwindow-switcher-callout = ניתן להחליף בין חלונות חכמים וקלאסיים בכל עת.
