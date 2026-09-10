@@ -524,8 +524,8 @@ preferences-accessibility-header =
 
 ## Home Section
 
-home-new-windows-tabs-header = Jaunus logus un cilnes
-home-new-windows-tabs-description2 = Izvēlieties, ko rādīt atverot jaunu lapu, logu vai cilni.
+home-new-windows-tabs-header = Jauni logi un cilnes
+home-new-windows-tabs-description2 = Izvēlies, ko rādīt pēc sākumlapas, jaunu logu un ciļņu atvēršanas!
 home-section =
     .heading = Sākums un palaišana
 
@@ -1242,7 +1242,7 @@ httpsonly-radio-enabled-pbm =
 ## DoH Section
 
 preferences-doh-header = DNS caur HTTPS
-preferences-doh-description2 = Domēnu vārdu sistēma (DNS), izmantojot HTTPS, nosūta jūsu domēna vārda pieprasījumu, izmantojot šifrētu savienojumu, nodrošinot drošu DNS un neļauj citiem viegli redzēt, kurai vietnei jūs grasāties piekļūt.
+preferences-doh-description2 = Domēnu vārdu sistēma (DNS) ar HTTPS nosūta domēna vārda pieprasījumu šifrētā savienojumā, nodrošinot drošu DNS un neļaujot citiem redzēt, kurai tīmekļvietnei grasies piekļūt.
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = Stāvoklis: { $status }

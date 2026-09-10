@@ -49,6 +49,15 @@ about-sync-log-count =
         [one] { $count } ჩანაწერი
        *[other] { $count } ჩანაწერი
     }
+# Heading of a log in the list, stating its outcome and when it was written.
+# Variables:
+#   $date (number) - Timestamp of when the log was written.
+about-sync-log-row-success =
+    .heading = წარმატებული — { DATETIME($date, dateStyle: "medium", timeStyle: "medium") }
+# Variables:
+#   $date (number) - Timestamp of when the log was written.
+about-sync-log-row-error =
+    .heading = შეცდომა — { DATETIME($date, dateStyle: "medium", timeStyle: "medium") }
 about-sync-log-badge-success = შესრულებული
 about-sync-log-badge-error = შეცდომა
 # Variables:

@@ -111,6 +111,7 @@ unauthenticated-vpn-title = Prøv den innebygde VPN-en i { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Skjul plasseringa di</a> medan du surfar med { -brand-product-name }.
 unauthenticated-private-location-message = Bidreg til å <a data-l10n-name="learn-more-vpn">halde plasseringa di privat</a> i { -brand-product-name }.
 unauthenticated-choose-location-message-1 = Vel mellom fleire plasseringar å surfe frå, eller la { -brand-product-name } velje den raskaste for deg.
+unauthenticated-site-rules-message = Kontroller kva nettstadar som brukar VPN og kva nettstadar som ikkje gjer det.
 unauthenticated-get-started = Kom i gang
 unauthenticated-terms-of-service-privacy-notice = Ved å halde fram godtek du <a data-l10n-name="vpn-terms-of-service">tenestevilkåra</a> og <a data-l10n-name="vpn-privacy-notice">personvernfråsegna</a>.
 site-exclusion-toggle-enabled-1 =

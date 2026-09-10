@@ -15,6 +15,11 @@ autofill-use-payment-method-os-prompt-other = { -brand-short-name } ცდილ
 autofill-edit-payment-method-os-prompt-macos = შენახული გადახდის საშუალების მონაცემების ჩვენებას
 autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } ცდილობს გამოაჩინოს შენახული გადახდის საშუალების მონაცემები. დაადასტურეთ წვდომა Windows-ანგარიშთან ქვემოთ.
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name } ცდილობს შენახული გადახდის საშუალების მონაცემების ჩვენებას.
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-delete-payment-method-os-prompt-macos = შენახული გადახდის საშუალების მონაცემების წაშლა
+autofill-delete-payment-method-os-prompt-windows = { -brand-short-name } ცდილობს წაშალოს შენახული გადახდის საშუალების მონაცემები. დაადასტურეთ წვდომა Windows-ანგარიშთან ქვემოთ.
+autofill-delete-payment-method-os-prompt-other = { -brand-short-name } ცდილობს შენახული გადახდის საშუალების მონაცემების წაშლას.
 # The link leads users to Form Autofill browser preferences.
 autofill-options-link = ველების თვითშევსების პარამეტრები
 
