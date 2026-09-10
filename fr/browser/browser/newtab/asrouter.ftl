@@ -498,7 +498,7 @@ launch-options-spotlight-primary-button-launch = Enregistrer et continuer
 
 # "has your back" is an idiom meaning support and protection; adapt freely
 # rather than translating literally.
-lapsed-user-toast-title = { -brand-product-name } vous soutient toujours
+lapsed-user-toast-title = { -brand-product-name } est toujours de votre côté
 lapsed-user-toast-subtitle = Découvrez de nouvelles façons de naviguer, avec plus de choix, de confidentialité et de contrôle.
-lapsed-user-toast-whats-new-button = Découvrez les nouveautés
+lapsed-user-toast-whats-new-button = Découvrir les nouveautés
 lapsed-user-toast-dismiss-button = Ignorer

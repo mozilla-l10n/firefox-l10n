@@ -5,7 +5,7 @@
 perm-persistent-storage-remember = Se souvenir de cette décision
 speech-recognition-model-download-header = Configurer la reconnaissance vocale ?
 # $sizeMB (Number) - the model download size in MB.
-speech-recognition-model-download-message = { -brand-short-name } exécute la reconnaissance vocale localement, pour que le son ne quitte jamais votre appareil. Afin de configurer ceci, un téléchargement d’environ { $sizeMB } Mo commencera lorsque vous continuerez.
+speech-recognition-model-download-message = { -brand-short-name } effectue la reconnaissance vocale en local, afin que l’audio ne quitte jamais votre appareil. Pour l’activer, un téléchargement d’environ { $sizeMB } Mo démarrera lorsque vous continuerez.
 speech-recognition-model-download-allow =
     .label = Continuer
     .accesskey = C
