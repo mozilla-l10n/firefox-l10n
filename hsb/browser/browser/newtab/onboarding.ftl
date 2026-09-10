@@ -544,9 +544,20 @@ onboarding-refresh-gratitude-title = { -brand-short-name } za wami steji
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-splash-screen-title = { -brand-product-name } za wami steji, wotnětka
 onboarding-refresh-tou-default = Wšě wotkazy z { -brand-short-name } wočinić
+onboarding-refresh-tou-pin =
+    { PLATFORM() ->
+        [macos] { -brand-short-name } w doku wobchować
+       *[other] { -brand-short-name } wašej nadawkowej lajsće přidać
+    }
+onboarding-refresh-tou-default-unchecked = Wobchowajće zatwarjeny škit kóždy raz, hdyž přehladujeće
 onboarding-refresh-terms-of-use-with-links = Hdyž pokročujeće, zwoliće do <a data-l10n-name="terms_of_use">wužiwanskich wuměnjenjow { -brand-product-name }</a> a našeje <a data-l10n-name="privacy_notice">zdźělenki priwatnosće</a>. Zo by pomhał, wobhladowak polěpšić, { -brand-product-name } diagnostiske daty a daty interakcije na { -vendor-short-name } sćele.
+onboarding-refresh-data-collection-link = Nastajenja zběrki datow rjadować
 onboarding-refresh-primary-button = Dale
+onboarding-refresh-fro-import-header = Zapodajće swoje daty
+onboarding-refresh-fro-import-body = Waše wosobinske daty wosobinske wostawaja. { -brand-product-name } je ženje njepředa.
 onboarding-refresh-fro-skip-button = Přeskočić
+onboarding-refresh-fro-theme-header = Hrajće ze swojim napohladom
+onboarding-refresh-tab-layout-header = Wupruwujće druhe wuhotwanje rajtarkow
 onboarding-refresh-tab-layout-top = Horjeka
 onboarding-refresh-tab-layout-side = Naboku
 onboarding-refresh-tab-layout-minimal = Minimalny
