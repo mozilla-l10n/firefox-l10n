@@ -22,3 +22,6 @@ inactive-message = Η υπηρεσία εταιρικών πολιτικών ε�
 policy-name = Όνομα πολιτικής
 policy-value = Τιμή πολιτικής
 policy-errors = Σφάλματα πολιτικής
+# Shown under the name of a policy in the Active list when at least one of the
+# operations of that policy failed to apply. The Errors tab has the details.
+policy-not-fully-applied = Μερική εφαρμογή

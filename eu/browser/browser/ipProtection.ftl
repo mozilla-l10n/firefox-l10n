@@ -114,11 +114,11 @@ unauthenticated-choose-location-message-1 = Aukeratu hainbat kokapenen artetik e
 unauthenticated-get-started = Hasi erabiltzen
 unauthenticated-terms-of-service-privacy-notice = Jarraitzearekin bat, <a data-l10n-name="vpn-terms-of-service">erabiltzeko baldintzak</a> eta <a data-l10n-name="vpn-privacy-notice">pribatutasun-oharra</a> onartzen dituzu.
 site-exclusion-toggle-enabled-1 =
-    .label = Erabili VPNa gune honetarako
     .aria-label = VPNa aktibo dago gune honetarako
-site-exclusion-toggle-disabled-1 =
     .label = Erabili VPNa gune honetarako
+site-exclusion-toggle-disabled-1 =
     .aria-label = VPNa inaktibo dago gune honetarako
+    .label = Erabili VPNa gune honetarako
 site-exclusion-toggle-description = Oraindik ez dabil? Probatu VPNa desaktibatzen.
 ipprotection-settings-link =
     .label = Ezarpenak
@@ -235,11 +235,11 @@ ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>VPNaren datuak i
 ## IP Protection Settings
 
 ip-protection-description =
-    .label = VPN
     .description = Integratutako VPNa zure pribatutasuna areagotzeko { -brand-short-name }(e)kin nabigatu ahala.
+    .label = VPN
 ip-protection-description-1 =
-    .label = Integratutako VPNa
     .description = Jaso pribatutasun estra nabigatu ahala zure kokapena ezkutatuz.
+    .label = Integratutako VPNa
 ip-protection-learn-more = Argibide gehiago
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -250,12 +250,12 @@ ip-protection-not-opted-in-button = Hasi erabiltzen
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
 ip-protection-site-exceptions-all-sites-button =
-    .label = Kudeatu webgunearen ezarpenak
     .description =
         { $count ->
             [one] webgune { $count }
            *[other] { $count } webgune
         }
+    .label = Kudeatu webgunearen ezarpenak
 ip-protection-autostart =
     .label = Aktibatu VPNa automatikoki
 ip-protection-autostart-checkbox =
@@ -263,11 +263,11 @@ ip-protection-autostart-checkbox =
 ip-protection-autostart-private-checkbox =
     .label = Leiho pribatuetan
 ip-protection-vpn-upgrade-link =
-    .label = Eskuratu { -brand-short-name }(e)tik kanpora babes gehiago { -mozilla-vpn-brand-name } erabiliz
     .description = Aukeratu VPNaren kokapen pertsonalizatuak eta gehitu bost gailura arteko babesa zure aplikazio guztiei, berdin etxean edo Wi-Fi publiko batean zaudela.
+    .label = Eskuratu { -brand-short-name }(e)tik kanpora babes gehiago { -mozilla-vpn-brand-name } erabiliz
 ip-protection-vpn-upgrade-link-1 =
-    .label = Areagotu babesak { -mozilla-vpn-brand-name }(r)ekin
     .description = Aukeratu 300 kokapen baino gehiagoren artetik eta babestu zure aplikazio guztiak 5 gailura arte.
+    .label = Areagotu babesak { -mozilla-vpn-brand-name }(r)ekin
 
 ## IP Protection dialogs
 

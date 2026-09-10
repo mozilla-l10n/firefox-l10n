@@ -114,11 +114,11 @@ unauthenticated-choose-location-message-1 = Бірнеше орналасуды�
 unauthenticated-get-started = Бастау
 unauthenticated-terms-of-service-privacy-notice = Жалғастыру арқылы сіз <a data-l10n-name="vpn-terms-of-service">Қызмет көрсету шарттары</a> және <a data-l10n-name="vpn-privacy-notice">Жекелік ескертуі</a> шарттарымен келісесіз.
 site-exclusion-toggle-enabled-1 =
-    .label = Бұл сайт үшін VPN пайдалану
     .aria-label = Бұл сайт үшін VPN іске қосулы тұр
-site-exclusion-toggle-disabled-1 =
     .label = Бұл сайт үшін VPN пайдалану
+site-exclusion-toggle-disabled-1 =
     .aria-label = Бұл сайт үшін VPN сөндірулі тұр
+    .label = Бұл сайт үшін VPN пайдалану
 site-exclusion-toggle-description = Сайт жұмыс істемей тұр ма? VPN сөндіріп көріңіз.
 ipprotection-settings-link =
     .label = Баптаулар
@@ -235,11 +235,11 @@ ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>VPN дерект
 ## IP Protection Settings
 
 ip-protection-description =
-    .label = VPN
     .description = { -brand-short-name } браузерінде жұмыс істеу кезінде жекелігіңізді арттыруға арналған кірістірілген VPN.
+    .label = VPN
 ip-protection-description-1 =
-    .label = Кіріктірілген VPN
     .description = Шолу кезінде орналасуыңызды жасыру арқылы қосымша жекелікті алыңыз.
+    .label = Кіріктірілген VPN
 ip-protection-learn-more = Көбірек білу
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -250,12 +250,12 @@ ip-protection-not-opted-in-button = Бастау
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
 ip-protection-site-exceptions-all-sites-button =
-    .label = Веб-сайт баптауларын басқару
     .description =
         { $count ->
             [one] { $count } веб-сайт
            *[other] { $count } веб-сайт
         }
+    .label = Веб-сайт баптауларын басқару
 ip-protection-autostart =
     .label = VPN автоматты түрде іске қосу
 ip-protection-autostart-checkbox =
@@ -263,11 +263,11 @@ ip-protection-autostart-checkbox =
 ip-protection-autostart-private-checkbox =
     .label = Жекелік шолу терезелерінде
 ip-protection-vpn-upgrade-link =
-    .label = { -mozilla-vpn-brand-name } арқылы { -brand-short-name } браузерінен тыс жерде де жоғары деңгейлі қорғанысқа ие болыңыз.
     .description = VPN орналасқан жерін еркін таңдаңыз және үйде немесе қоғамдық Wi-Fi желісінде болсаңыз да, 5 құрылғыға дейін барлық қолданбаларыңызды қорғаңыз.
+    .label = { -mozilla-vpn-brand-name } арқылы { -brand-short-name } браузерінен тыс жерде де жоғары деңгейлі қорғанысқа ие болыңыз.
 ip-protection-vpn-upgrade-link-1 =
-    .label = { -mozilla-vpn-brand-name } арқылы қорғанысты одан әрі арттырыңыз
     .description = 300-ден астам орналасуды таңдаңыз және барлық қолданбаларыңызды қорғаңыз - 5 құрылғыға дейін.
+    .label = { -mozilla-vpn-brand-name } арқылы қорғанысты одан әрі арттырыңыз
 
 ## IP Protection dialogs
 

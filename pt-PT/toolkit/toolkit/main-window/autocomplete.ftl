@@ -45,3 +45,18 @@ autocomplete-more-actions2 = Mais ações para { $entry }
 ## Gated by the browser.autocomplete.removeRecords.enabled pref.
 
 autocomplete-remove-password-title = Remover palavra-passe?
+autocomplete-remove-address-title = Remover morada?
+autocomplete-remove-payment-method-title = Remover método de pagamento?
+autocomplete-remove-record-message = Não pode desfazer esta ação.
+autocomplete-remove-record-button = Remover
+
+## Device sign-in prompt shown before a password is removed from the autocomplete
+## dropdown. The -win and -macosx variants are selected at runtime; other platforms
+## do not support device sign-in and fall back to the Primary Password dialog.
+
+autocomplete-remove-password-os-auth-dialog-message-win = Para apagar a sua palavra-passe, introduza as suas credenciais de autenticação do Windows. Isto ajuda a proteger a segurança das suas contas.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# strings together will be presented by the operating system.
+autocomplete-remove-password-os-auth-dialog-message-macosx = apagar a palavra-passe guardada
+autocomplete-remove-password-os-auth-dialog-caption = { -brand-full-name }

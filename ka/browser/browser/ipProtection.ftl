@@ -114,11 +114,11 @@ unauthenticated-choose-location-message-1 = აირჩიეთ არაე�
 unauthenticated-get-started = დაიწყეთ
 unauthenticated-terms-of-service-privacy-notice = თუ განაგრძობთ, ამით დაეთანხმებით <a data-l10n-name="vpn-terms-of-service">მომსახურების პირობებსა</a> და <a data-l10n-name="vpn-privacy-notice">პირადი მონაცემების დაცვის განაცხადს</a>.
 site-exclusion-toggle-enabled-1 =
-    .label = გამოიყენებოდეს VPN ამ საიტზე
     .aria-label = VPN ჩართულია ამ საიტზე
-site-exclusion-toggle-disabled-1 =
     .label = გამოიყენებოდეს VPN ამ საიტზე
+site-exclusion-toggle-disabled-1 =
     .aria-label = VPN გამორთულია ამ საიტზე
+    .label = გამოიყენებოდეს VPN ამ საიტზე
 site-exclusion-toggle-description = საიტი არ მუშაობს? დროებით გამორთეთ VPN.
 ipprotection-settings-link =
     .label = პარამეტრები
@@ -235,11 +235,11 @@ ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>VPN-მოცუ
 ## IP Protection Settings
 
 ip-protection-description =
-    .label = VPN
     .description = ჩაშენებული VPN, რომლითაც { -brand-short-name } კიდევ უფრო მეტად იცავს თქვენს პირადულობას გვერდების მონახულებისას.
+    .label = VPN
 ip-protection-description-1 =
-    .label = ჩაშენებული VPN
     .description = დამატებითი პირადულობა ადგილსამყოფლის დამალვით გვერდების მონახულებისას.
+    .label = ჩაშენებული VPN
 ip-protection-learn-more = ვრცლად
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -250,12 +250,12 @@ ip-protection-not-opted-in-button = დაიწყეთ
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
 ip-protection-site-exceptions-all-sites-button =
-    .label = ვებსაიტის პარამეტრების მართვა
     .description =
         { $count ->
             [one] { $count } ვებსაიტი
            *[other] { $count } ვებსაიტი
         }
+    .label = ვებსაიტის პარამეტრების მართვა
 ip-protection-autostart =
     .label = თავისთავად ჩაირთოს VPN
 ip-protection-autostart-checkbox =
@@ -263,11 +263,11 @@ ip-protection-autostart-checkbox =
 ip-protection-autostart-private-checkbox =
     .label = პირად ფანჯრებში
 ip-protection-vpn-upgrade-link =
-    .label = კიდევ უფრო მეტი დაცვისთვის, რომლითაც არამხოლოდ { -brand-short-name } შეძლებს სარგებლობას, გამოცადეთ { -mozilla-vpn-brand-name }
     .description = თავადვე შეარჩიეთ სასურველი VPN-მდებარეობა და ყველა პროგრამა აღჭურვეთ დამატებითი დაცვით ხუთ მოწყობილობამდე, როგორც სახლის, ასევე საჯარო WiFi-ქსელით სარგებლობისას.
+    .label = კიდევ უფრო მეტი დაცვისთვის, რომლითაც არამხოლოდ { -brand-short-name } შეძლებს სარგებლობას, გამოცადეთ { -mozilla-vpn-brand-name }
 ip-protection-vpn-upgrade-link-1 =
-    .label = უსაფრთხოების მეტად ასამაღლებლად დაიხმარეთ { -mozilla-vpn-brand-name }
     .description = აირჩიეთ 300+ ადგილმდებარეობიდან რომელიმე და დაიცავით ყველა პროგრამა 5 მოწყობილობის ჩათვლით.
+    .label = უსაფრთხოების მეტად ასამაღლებლად დაიხმარეთ { -mozilla-vpn-brand-name }
 
 ## IP Protection dialogs
 

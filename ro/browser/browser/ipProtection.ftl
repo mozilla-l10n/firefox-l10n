@@ -114,11 +114,11 @@ unauthenticated-choose-location-message-1 = Alege din mai multe locații sau las
 unauthenticated-get-started = Începe
 unauthenticated-terms-of-service-privacy-notice = Prin continuare, ești de acord cu <a data-l10n-name="vpn-terms-of-service">Condițiile de utilizare a serviciilor</a> și <a data-l10n-name="vpn-privacy-notice">Notificarea privind confidențialitatea</a>.
 site-exclusion-toggle-enabled-1 =
-    .label = Activează VPN-ul pentru acest site
     .aria-label = VPN-ul este activat pentru acest site
-site-exclusion-toggle-disabled-1 =
     .label = Activează VPN-ul pentru acest site
+site-exclusion-toggle-disabled-1 =
     .aria-label = VPN-ul este dezactivat pentru acest site
+    .label = Activează VPN-ul pentru acest site
 site-exclusion-toggle-description = Nu funcționează site-ul? Încearcă să dezactivezi VPN-ul.
 ipprotection-settings-link =
     .label = Setări
@@ -235,11 +235,11 @@ ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Aproape că nu m
 ## IP Protection Settings
 
 ip-protection-description =
-    .label = VPN
     .description = VPN încorporat, care îți sporește intimitatea în timp ce navighezi pe { -brand-short-name }
+    .label = VPN
 ip-protection-description-1 =
-    .label = VPN încorporat
     .description = Obține confidențialitate suplimentară ascunzându-ți locația când navighezi.
+    .label = VPN încorporat
 ip-protection-learn-more = Află mai multe
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -250,13 +250,13 @@ ip-protection-not-opted-in-button = Începe
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
 ip-protection-site-exceptions-all-sites-button =
-    .label = Gestionează setările pentru site-uri
     .description =
         { $count ->
             [one] { $count } site
             [few] { $count } site-uri
            *[other] { $count } de site-uri
         }
+    .label = Gestionează setările pentru site-uri
 ip-protection-autostart =
     .label = Activează automat VPN-ul
 ip-protection-autostart-checkbox =
@@ -264,11 +264,11 @@ ip-protection-autostart-checkbox =
 ip-protection-autostart-private-checkbox =
     .label = În ferestre private
 ip-protection-vpn-upgrade-link =
-    .label = Obține și mai multă protecție în afara { -brand-short-name } cu { -mozilla-vpn-brand-name }
     .description = Alege locații personalizate VPN și protejează-ți aplicațiile pe până la cinci dispozitive, fie că ești acasă sau pe un Wi-FI public.
+    .label = Obține și mai multă protecție în afara { -brand-short-name } cu { -mozilla-vpn-brand-name }
 ip-protection-vpn-upgrade-link-1 =
-    .label = Du protecția mai departe cu { -mozilla-vpn-brand-name }
     .description = Alege dintre 300+ de locații și protejează-ți toate aplicațiile pe până la 5 dispozitive.
+    .label = Du protecția mai departe cu { -mozilla-vpn-brand-name }
 
 ## IP Protection dialogs
 

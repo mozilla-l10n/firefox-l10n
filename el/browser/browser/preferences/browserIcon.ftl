@@ -10,8 +10,8 @@
 # subpage. The browser icon is the icon shown on the desktop, taskbar, and
 # Start Menu.
 appearance-browser-icon-entry-group =
-    .label = Εικονίδιο προγράμματος περιήγησης
     .description = Επιλέξτε ένα προσαρμοσμένο εικονίδιο για τη γραμμή εργασιών, την επιφάνεια εργασίας και το μενού «Έναρξη».
+    .label = Εικονίδιο προγράμματος περιήγησης
 appearance-browser-icon-button =
     .label = Αλλαγή εικονιδίου προγράμματος περιήγησης
 
@@ -41,7 +41,7 @@ appearance-browser-icon-requirement =
 appearance-browser-icon-unlocked =
     .message = Ξεκλειδώσατε όλα τα επιπλέον εικονίδια!
 appearance-browser-icon-set-default-button =
-    .label = Ορίστηκε ως προεπιλογή
+    .label = Ορισμός ως προεπιλογή
 appearance-browser-icon-pin-button =
     .label = Καρφίτσωμα στη γραμμή εργασιών
 
@@ -65,5 +65,5 @@ appearance-browser-icon-pixelated =
 # @heyheymomodraws is the social-media handle of the icon's author and must be
 # kept verbatim - do not translate or otherwise change it.
 appearance-browser-icon-momo =
-    .label = Momo
     .description = Δημιουργός: @heyheymomodraws
+    .label = Momo

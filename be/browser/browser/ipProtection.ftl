@@ -114,11 +114,11 @@ unauthenticated-choose-location-message-1 = Выберыце адно з нек
 unauthenticated-get-started = Пачаць
 unauthenticated-terms-of-service-privacy-notice = Працягваючы, вы згаджаецеся з <a data-l10n-name="vpn-terms-of-service">Умовамі абслугоўвання</a> і <a data-l10n-name="vpn-privacy-notice">Паведамленнем аб прыватнасці</a>.
 site-exclusion-toggle-enabled-1 =
-    .label = Выкарыстоўваць VPN для гэтага сайта
     .aria-label = VPN уключаны для гэтага сайта
-site-exclusion-toggle-disabled-1 =
     .label = Выкарыстоўваць VPN для гэтага сайта
+site-exclusion-toggle-disabled-1 =
     .aria-label = VPN для гэтага сайта выключаны
+    .label = Выкарыстоўваць VPN для гэтага сайта
 site-exclusion-toggle-description = Сайт не працуе? Паспрабуйце адключыць VPN.
 ipprotection-settings-link =
     .label = Налады
@@ -235,11 +235,11 @@ ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>У вас ам�
 ## IP Protection Settings
 
 ip-protection-description =
-    .label = VPN
     .description = Убудаваны VPN для паляпшэння вашай прыватнасці ў часе аглядання сеціва ў { -brand-short-name }.
+    .label = VPN
 ip-protection-description-1 =
-    .label = Убудаваны VPN
     .description = Атрымайце дадатковую прыватнасць, хаваючы сваё месцазнаходжанне ў часе аглядання
+    .label = Убудаваны VPN
 ip-protection-learn-more = Падрабязней
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -250,13 +250,13 @@ ip-protection-not-opted-in-button = Пачаць
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
 ip-protection-site-exceptions-all-sites-button =
-    .label = Кіраваць наладамі сайтаў
     .description =
         { $count ->
             [one] { $count } сайт
             [few] { $count } сайты
            *[many] { $count } сайтаў
         }
+    .label = Кіраваць наладамі сайтаў
 ip-protection-autostart =
     .label = Аўтаматычна ўключаць VPN
 ip-protection-autostart-checkbox =
@@ -264,11 +264,11 @@ ip-protection-autostart-checkbox =
 ip-protection-autostart-private-checkbox =
     .label = У прыватных вокнах
 ip-protection-vpn-upgrade-link =
-    .label = Атрымайце яшчэ большую абарону па-за { -brand-short-name } з дапамогай { -mozilla-vpn-brand-name }.
     .description = Выберыце ўласныя месцы VPN і дадайце абарону ўсім вашым праграмам на пяці прыладах, незалежна ад таго, знаходзіцеся вы дома ці ў грамадскім Wi-Fi.
+    .label = Атрымайце яшчэ большую абарону па-за { -brand-short-name } з дапамогай { -mozilla-vpn-brand-name }.
 ip-protection-vpn-upgrade-link-1 =
-    .label = Палепшыце абарону з дапамогай { -mozilla-vpn-brand-name }
     .description = Выбірайце з больш чым 300 месцаў і абараняйце ўсе свае праграмы на максімум 5 прыладах.
+    .label = Палепшыце абарону з дапамогай { -mozilla-vpn-brand-name }
 
 ## IP Protection dialogs
 

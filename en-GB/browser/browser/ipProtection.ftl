@@ -114,11 +114,11 @@ unauthenticated-choose-location-message-1 = Choose from several locations or let
 unauthenticated-get-started = Get started
 unauthenticated-terms-of-service-privacy-notice = By proceeding, you agree to the <a data-l10n-name="vpn-terms-of-service">Terms of Service</a> and <a data-l10n-name="vpn-privacy-notice">Privacy Notice</a>.
 site-exclusion-toggle-enabled-1 =
-    .label = Use VPN for this site
     .aria-label = VPN is on for this site
-site-exclusion-toggle-disabled-1 =
     .label = Use VPN for this site
+site-exclusion-toggle-disabled-1 =
     .aria-label = VPN is off for this site
+    .label = Use VPN for this site
 site-exclusion-toggle-description = Site not working? Try turning VPN off.
 ipprotection-settings-link =
     .label = Settings
@@ -235,11 +235,11 @@ ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>You’re almost 
 ## IP Protection Settings
 
 ip-protection-description =
-    .label = VPN
     .description = Built-in VPN to enhance your privacy while browsing on { -brand-short-name }.
+    .label = VPN
 ip-protection-description-1 =
-    .label = Built-in VPN
     .description = Get extra privacy by hiding your location while browsing.
+    .label = Built-in VPN
 ip-protection-learn-more = Learn more
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -250,12 +250,12 @@ ip-protection-not-opted-in-button = Get started
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
 ip-protection-site-exceptions-all-sites-button =
-    .label = Manage web site settings
     .description =
         { $count ->
             [one] { $count } web site
            *[other] { $count } web sites
         }
+    .label = Manage web site settings
 ip-protection-autostart =
     .label = Turn on VPN automatically
 ip-protection-autostart-checkbox =
@@ -263,11 +263,11 @@ ip-protection-autostart-checkbox =
 ip-protection-autostart-private-checkbox =
     .label = In private windows
 ip-protection-vpn-upgrade-link =
-    .label = Get even more protection outside { -brand-short-name } with { -mozilla-vpn-brand-name }
     .description = Choose custom VPN locations and add protection to all your apps on up to five devices, whether you’re at home or on public Wi-Fi.
+    .label = Get even more protection outside { -brand-short-name } with { -mozilla-vpn-brand-name }
 ip-protection-vpn-upgrade-link-1 =
-    .label = Take protection further with { -mozilla-vpn-brand-name }
     .description = Choose from 300+ locations and protect all your apps on up to 5 devices.
+    .label = Take protection further with { -mozilla-vpn-brand-name }
 
 ## IP Protection dialogs
 

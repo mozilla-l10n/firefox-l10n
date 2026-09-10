@@ -66,11 +66,11 @@ ipprotection-android-promo-callout-primary-button = فئمیم
 unauthenticated-vpn-title = VPN منی { -brand-product-name } ن امتهووݩ کۊنین
 unauthenticated-get-started = ناهاڌن پا کار
 site-exclusion-toggle-enabled-1 =
-    .label = و کار گرؽڌن VPN سی ای وبگه
     .aria-label = VPN سی ای وبگه رۊشن هڌ
-site-exclusion-toggle-disabled-1 =
     .label = و کار گرؽڌن VPN سی ای وبگه
+site-exclusion-toggle-disabled-1 =
     .aria-label = VPN سی ای وبگه کۊر هڌ
+    .label = و کار گرؽڌن VPN سی ای وبگه
 ipprotection-settings-link =
     .label = سامووا
 
@@ -130,12 +130,12 @@ ip-protection-not-opted-in-button = ناهاڌن پا کار
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
 ip-protection-site-exceptions-all-sites-button =
-    .label = دؽوۉداری سامووا وبگه
     .description =
         { $count ->
             [one] { $count } وبگه
            *[other] { $count } وبگه
         }
+    .label = دؽوۉداری سامووا وبگه
 ip-protection-autostart =
     .label = رۊشن کردن خوتکار VPN
 ip-protection-autostart-checkbox =

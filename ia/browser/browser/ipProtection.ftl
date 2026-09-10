@@ -114,11 +114,11 @@ unauthenticated-choose-location-message-1 = Elige de plure positiones o lassa qu
 unauthenticated-get-started = Comenciar
 unauthenticated-terms-of-service-privacy-notice = Si tu procede, tu accepta le <a data-l10n-name="vpn-terms-of-service">Conditiones de uso del servicio</a> e le <a data-l10n-name="vpn-privacy-notice">Aviso de confidentialitate</a>.
 site-exclusion-toggle-enabled-1 =
-    .label = Usar VPN pro iste sito
     .aria-label = VPN es active pro iste sito
-site-exclusion-toggle-disabled-1 =
     .label = Usar VPN pro iste sito
+site-exclusion-toggle-disabled-1 =
     .aria-label = VPN es disactivate pro iste sito
+    .label = Usar VPN pro iste sito
 site-exclusion-toggle-description = Sito non functionante? Tenta disactivar le VPN.
 ipprotection-settings-link =
     .label = Parametros
@@ -235,11 +235,11 @@ ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Tu ha quasi exha
 ## IP Protection Settings
 
 ip-protection-description =
-    .label = VPN
     .description = VPN integrate pro meliorar tu confidentialitate durante que tu naviga sur { -brand-short-name }.
+    .label = VPN
 ip-protection-description-1 =
-    .label = VPN integrate
     .description = Obtene ulterior confidentialitate celante tu position durante que tu naviga.
+    .label = VPN integrate
 ip-protection-learn-more = Pro saper plus
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -250,12 +250,12 @@ ip-protection-not-opted-in-button = Comenciar
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
 ip-protection-site-exceptions-all-sites-button =
-    .label = Gerer parametros de sitos web
     .description =
         { $count ->
             [one] { $count } sito web
            *[other] { $count } sitos web
         }
+    .label = Gerer parametros de sitos web
 ip-protection-autostart =
     .label = Activar VPN automaticamente
 ip-protection-autostart-checkbox =
@@ -263,11 +263,11 @@ ip-protection-autostart-checkbox =
 ip-protection-autostart-private-checkbox =
     .label = In fenestras private
 ip-protection-vpn-upgrade-link =
-    .label = Obtene ancora plus protection foras de { -brand-short-name } con { -mozilla-vpn-brand-name }
     .description = Elige positiones del VPN personal e adde protection a tote tu applicationes sur maximo cinque apparatos, si tu es a casa o sur wi-fi public.
+    .label = Obtene ancora plus protection foras de { -brand-short-name } con { -mozilla-vpn-brand-name }
 ip-protection-vpn-upgrade-link-1 =
-    .label = Sume ulterior protection con { -mozilla-vpn-brand-name }
     .description = Elige de plus que 300 positiones e protege tote tu applicationes sur maximo 5 apparatos.
+    .label = Sume ulterior protection con { -mozilla-vpn-brand-name }
 
 ## IP Protection dialogs
 

@@ -114,11 +114,11 @@ unauthenticated-choose-location-message-1 = Vyberte si z niekoľkých lokalít a
 unauthenticated-get-started = Začíname
 unauthenticated-terms-of-service-privacy-notice = Pokračovaním súhlasíte so <a data-l10n-name="vpn-terms-of-service">Podmienkami používania</a> a <a data-l10n-name="vpn-privacy-notice">Vyhlásením o ochrane osobných údajov</a>.
 site-exclusion-toggle-enabled-1 =
-    .label = Použiť VPN pre túto stránku
     .aria-label = VPN je pre túto stránku zapnutá
-site-exclusion-toggle-disabled-1 =
     .label = Použiť VPN pre túto stránku
+site-exclusion-toggle-disabled-1 =
     .aria-label = VPN je pre túto stránku vypnutá
+    .label = Použiť VPN pre túto stránku
 site-exclusion-toggle-description = Stránka nefunguje? Skúste vypnúť VPN.
 ipprotection-settings-link =
     .label = Nastavenia
@@ -235,11 +235,11 @@ ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Blížite sa k v
 ## IP Protection Settings
 
 ip-protection-description =
-    .label = VPN
     .description = Vstavaná VPN na zvýšenie vášho súkromia počas prehliadania webu vo { -brand-short-name(case: "loc") }.
+    .label = VPN
 ip-protection-description-1 =
-    .label = Vstavaná VPN
     .description = Získajte viac súkromia skrytím svojej polohy počas prehliadania.
+    .label = Vstavaná VPN
 ip-protection-learn-more = Ďalšie informácie
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -250,7 +250,6 @@ ip-protection-not-opted-in-button = Začíname
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
 ip-protection-site-exceptions-all-sites-button =
-    .label = Spravovať nastavenia webových stránok
     .description =
         { $count ->
             [one] { $count } webová stránka
@@ -258,6 +257,7 @@ ip-protection-site-exceptions-all-sites-button =
             [many] { $count } webových stránok
            *[other] { $count } webových stránok
         }
+    .label = Spravovať nastavenia webových stránok
 ip-protection-autostart =
     .label = Automaticky zapínať VPN
 ip-protection-autostart-checkbox =
@@ -265,11 +265,11 @@ ip-protection-autostart-checkbox =
 ip-protection-autostart-private-checkbox =
     .label = V súkromných oknách
 ip-protection-vpn-upgrade-link =
-    .label = Získajte ešte väčšiu ochranu mimo { -brand-short-name(case: "gen") } s { -mozilla-vpn-brand-name }
     .description = Vyberte si vlastné umiestnenia VPN a pridajte ochranu všetkým svojim aplikáciám až na piatich zariadeniach, či už ste doma alebo na verejnej Wi‑Fi sieti.
+    .label = Získajte ešte väčšiu ochranu mimo { -brand-short-name(case: "gen") } s { -mozilla-vpn-brand-name }
 ip-protection-vpn-upgrade-link-1 =
-    .label = Posuňte ochranu na vyššiu úroveň pomocou { -mozilla-vpn-brand-name }
     .description = Vyberte si z viac ako 300 lokalít a chráňte všetky svoje aplikácie až na 5 zariadeniach.
+    .label = Posuňte ochranu na vyššiu úroveň pomocou { -mozilla-vpn-brand-name }
 
 ## IP Protection dialogs
 

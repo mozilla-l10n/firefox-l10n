@@ -52,11 +52,11 @@ ipprotection-android-promo-callout-primary-button = E mora vesh
 unauthenticated-vpn-title = Provoni VPN-në e brendshme të { -brand-product-name }-it
 unauthenticated-get-started = Fillojani
 site-exclusion-toggle-enabled-1 =
-    .label = Përdore VPN-në për këtë sajt
     .aria-label = VPN-ja është e hapur për këtë sajt
-site-exclusion-toggle-disabled-1 =
     .label = Përdore VPN-në për këtë sajt
+site-exclusion-toggle-disabled-1 =
     .aria-label = VPN-ja është e mbyllur për këtë sajt
+    .label = Përdore VPN-në për këtë sajt
 ipprotection-settings-link =
     .label = Rregullime
 
@@ -135,19 +135,19 @@ ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Jeni thuajse pa 
 ## IP Protection Settings
 
 ip-protection-description =
-    .label = VPN
     .description = VPN e brendshme për të zgjeruar privatësinë tuaj teksa shfletoni në { -brand-short-name }.
+    .label = VPN
 ip-protection-learn-more = Mësoni më tepër
 ip-protection-not-opted-in-button = Fillojani
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
 ip-protection-site-exceptions-all-sites-button =
-    .label = Administroni rregullime sajti
     .description =
         { $count ->
             [one] { $count } sajt
            *[other] { $count } sajte
         }
+    .label = Administroni rregullime sajti
 ip-protection-autostart =
     .label = Hape automatikisht VPN-në
 ip-protection-autostart-checkbox =
@@ -155,8 +155,8 @@ ip-protection-autostart-checkbox =
 ip-protection-autostart-private-checkbox =
     .label = Në dritare private
 ip-protection-vpn-upgrade-link =
-    .label = Merrni edhe më tepër mbrojtje jashtë { -brand-short-name }-it, me { -mozilla-vpn-brand-name }
     .description = Zgjidhni vendndodhje vetjake VPN dhe shtoni mbrojtje te krejt aplikacionet tuaja për deri në pesë pajisje, qoftë kur jeni në shtëpi, apo në Wi-Fi publik.
+    .label = Merrni edhe më tepër mbrojtje jashtë { -brand-short-name }-it, me { -mozilla-vpn-brand-name }
 
 ## IP Protection dialogs
 

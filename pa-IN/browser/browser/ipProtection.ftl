@@ -114,11 +114,11 @@ unauthenticated-choose-location-message-1 = ਕਈ ਟਿਕਾਣਿਆਂ ਵ�
 unauthenticated-get-started = ਸ਼ੁਰੂ ਕਰੀਏ
 unauthenticated-terms-of-service-privacy-notice = ਜਾਰੀ ਰੱਖਣ ਨਾਲ ਤੁਸੀਂ <a data-l10n-name="vpn-terms-of-service">ਸੇਵਾ ਦੀਆਂ ਸ਼ਰਤਾਂ</a> ਅਤੇ <a data-l10n-name="vpn-privacy-notice">ਪਰਦੇਦਾਰੀ ਨੀਤੀ</a> ਨਾਲ ਸਹਿਮਤ ਹੁੰਦੇ ਹੋ।
 site-exclusion-toggle-enabled-1 =
-    .label = ਇਸ ਸਾਈਟ ਲਈ VPN ਨੂੰ ਵਰਤੋਂ
     .aria-label = ਇਸ ਸਾਈਟ ਲਈ VPN ਚਾਲੂ ਹੈ
-site-exclusion-toggle-disabled-1 =
     .label = ਇਸ ਸਾਈਟ ਲਈ VPN ਨੂੰ ਵਰਤੋਂ
+site-exclusion-toggle-disabled-1 =
     .aria-label = ਇਸ ਸਾਈਟ ਲਈ VPN ਬੰਦ ਹੈ
+    .label = ਇਸ ਸਾਈਟ ਲਈ VPN ਨੂੰ ਵਰਤੋਂ
 site-exclusion-toggle-description = ਸਾਈਟ ਕੰਮ ਨਹੀਂ ਕਰ ਰਹੀ ਹੈ? VPN ਨੂੰ ਬੰਦ ਕਰਕੇ ਵੇਖਿਓ।
 ipprotection-settings-link =
     .label = ਸੈਟਿੰਗਾਂ
@@ -235,11 +235,11 @@ ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>ਤੁਹਾਡ�
 ## IP Protection Settings
 
 ip-protection-description =
-    .label = VPN
     .description = ਜਦੋਂ ਵੀ ਤੁਸੀਂ { -brand-short-name } ਨਾਲ ਬਰਾਊਜ਼ ਕਰੋ ਤਾਂ ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਵਧਾਉਣ ਲਈ ਨਾਲ ਮੌਜੂਦ VPN ਹੈ।
+    .label = VPN
 ip-protection-description-1 =
-    .label = ਵਿਚੇ ਮੌਜੂਦ VPN
     .description = ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਦੌਰਾਨ ਆਪਣੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾ ਕੇ ਵਧੇਰੇ ਪਰਦੇਦਾਰੀ ਬਣਾਓ।
+    .label = ਵਿਚੇ ਮੌਜੂਦ VPN
 ip-protection-learn-more = ਹੋਰ ਜਾਣੋ
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -250,12 +250,12 @@ ip-protection-not-opted-in-button = ਸ਼ੁਰੂ ਕਰੀਏ
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
 ip-protection-site-exceptions-all-sites-button =
-    .label = ਵੈੱਬਸਾਈਟ ਸੈਟਿੰਗਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
     .description =
         { $count ->
             [one] { $count } ਵੈੱਬਸਾਈਟ
            *[other] { $count } ਵੈੱਬਸਾਈਟਾਂ
         }
+    .label = ਵੈੱਬਸਾਈਟ ਸੈਟਿੰਗਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
 ip-protection-autostart =
     .label = VPN ਨੂੰ ਆਪਣੇ-ਆਪ ਚਾਲੂ ਕਰੋ
 ip-protection-autostart-checkbox =
@@ -263,11 +263,11 @@ ip-protection-autostart-checkbox =
 ip-protection-autostart-private-checkbox =
     .label = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ਵਿੱਚ
 ip-protection-vpn-upgrade-link =
-    .label = { -mozilla-vpn-brand-name } ਨਾਲ { -brand-short-name } ਤੋਂ ਬਿਨਾਂ ਵੀ ਹੋਰ ਸੁਰੱਖਿਆ ਲਵੋ
     .description = ਪਸੰਦੀਦਾ VPN ਟਿਕਾਣੇ ਚੁਣੋ ਅਤੇ ਪੰਜ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਆਪਣੀਆਂ ਸਾਰੀਆਂ ਐਪਾਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰੋ, ਭਾਵੇਂ ਘਰੇ ਹੋਵੇ ਜਾਂ ਪਬਲਿਕ Wi-Fi ਉੱਤੇ।
+    .label = { -mozilla-vpn-brand-name } ਨਾਲ { -brand-short-name } ਤੋਂ ਬਿਨਾਂ ਵੀ ਹੋਰ ਸੁਰੱਖਿਆ ਲਵੋ
 ip-protection-vpn-upgrade-link-1 =
-    .label = { -mozilla-vpn-brand-name } ਨਾਲ ਹੋਰ ਵਧੇਰੇ ਸੁਰੱਖਿਆ ਲਵੋ
     .description = 300+ ਟਿਕਾਣਿਆਂ ਵਿੱਚੋਂ ਚੁਣੋ ਅਤੇ 5 ਡਿਵਾਈਸਾਂ ਤੱਕ ਆਪਣੀਆਂ ਸਾਰੀਆਂ ਐਪਾਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰੋ।
+    .label = { -mozilla-vpn-brand-name } ਨਾਲ ਹੋਰ ਵਧੇਰੇ ਸੁਰੱਖਿਆ ਲਵੋ
 
 ## IP Protection dialogs
 

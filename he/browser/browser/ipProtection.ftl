@@ -113,11 +113,11 @@ unauthenticated-choose-location-message-1 = ניתן לבחור מבין מספ�
 unauthenticated-get-started = תחילת עבודה
 unauthenticated-terms-of-service-privacy-notice = בחירה בהמשך התהליך מהווה הסכמה ל<a data-l10n-name="vpn-terms-of-service">תנאי השירות</a> ול<a data-l10n-name="vpn-privacy-notice">הצהרת הפרטיות</a>.
 site-exclusion-toggle-enabled-1 =
-    .label = שימוש ב־VPN עבור אתר זה
     .aria-label = ה־VPN פעיל עבור אתר זה
-site-exclusion-toggle-disabled-1 =
     .label = שימוש ב־VPN עבור אתר זה
+site-exclusion-toggle-disabled-1 =
     .aria-label = ה־VPN כבוי עבור אתר זה
+    .label = שימוש ב־VPN עבור אתר זה
 site-exclusion-toggle-description = האתר לא עובד? ניתן לנסות לכבות את ה־VPN.
 ipprotection-settings-link =
     .label = הגדרות
@@ -234,11 +234,11 @@ ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>כמעט נגמ�
 ## IP Protection Settings
 
 ip-protection-description =
-    .label = VPN
     .description = ‏VPN מובנה כדי לשפר את הפרטיות שלך בזמן הגלישה ב־{ -brand-short-name }.
+    .label = VPN
 ip-protection-description-1 =
-    .label = ‏VPN מובנה
     .description = קבלת פרטיות מוגברת על־ידי הסתרת המיקום שלך תוך כדי גלישה.
+    .label = ‏VPN מובנה
 ip-protection-learn-more = מידע נוסף
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -249,12 +249,12 @@ ip-protection-not-opted-in-button = תחילת עבודה
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
 ip-protection-site-exceptions-all-sites-button =
-    .label = ניהול הגדרות אתרים
     .description =
         { $count ->
             [one] אתר אחד
            *[other] { $count } אתרים
         }
+    .label = ניהול הגדרות אתרים
 ip-protection-autostart =
     .label = הפעלת VPN באופן אוטומטי
 ip-protection-autostart-checkbox =
@@ -262,11 +262,11 @@ ip-protection-autostart-checkbox =
 ip-protection-autostart-private-checkbox =
     .label = בחלונות פרטיים
 ip-protection-vpn-upgrade-link =
-    .label = ניתן לקבל אפילו עוד יותר הגנה מחוץ ל־{ -brand-short-name } באמצעות { -mozilla-vpn-brand-name }
     .description = ניתן לבחור במיקומי VPN מותאמים אישית ולהוסיף הגנה לכל היישומים שלך על עד 5 מכשירים, בין אם הינך בבית או ברשת Wi-Fi ציבורית.
+    .label = ניתן לקבל אפילו עוד יותר הגנה מחוץ ל־{ -brand-short-name } באמצעות { -mozilla-vpn-brand-name }
 ip-protection-vpn-upgrade-link-1 =
-    .label = לקחת את ההגנה צעד קדימה עם { -mozilla-vpn-brand-name }
     .description = בחירה מבין למעלה מ־300 מיקומים והגנה על כל היישומים שלך על עד 5 מכשירים.
+    .label = לקחת את ההגנה צעד קדימה עם { -mozilla-vpn-brand-name }
 
 ## IP Protection dialogs
 

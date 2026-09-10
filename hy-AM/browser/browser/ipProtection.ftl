@@ -83,11 +83,11 @@ unauthenticated-private-location-message = Օգնում է <a data-l10n-name="le
 unauthenticated-choose-location-message-1 = Ընտրեք տեղադրությունների մեկը կամ թույլ տվեք { -brand-product-name }-ին ընտրել ամենաարագը։
 unauthenticated-get-started = Սկսել
 site-exclusion-toggle-enabled-1 =
-    .label = Օգտագործեք VPN այս կայքի համար
     .aria-label = VPN-ը միացված է այս կայքի համար
-site-exclusion-toggle-disabled-1 =
     .label = Օգտագործեք VPN այս կայքի համար
+site-exclusion-toggle-disabled-1 =
     .aria-label = VPN-ը անջատված է այս կայքի համար
+    .label = Օգտագործեք VPN այս կայքի համար
 site-exclusion-toggle-description = Կայքը չի՞ աշխատում։ Փորձեք անջատել VPN-ը։
 ipprotection-settings-link =
     .label = Կարգավորումներ
@@ -167,22 +167,22 @@ ipprotection-bandwidth-upgrade-title = Հավանո՞ւմ եք ներկառու�
 ## IP Protection Settings
 
 ip-protection-description =
-    .label = VPN
     .description = Ներկառուցված VPN-ը կատարելագործում է ձեր գաղտնիությունը, երբ դիտարկում եք { -brand-short-name }-ով:
+    .label = VPN
 ip-protection-description-1 =
-    .label = Ներկառուցված VPN
     .description = Ստացեք լրացուցիչ գաղտնիություն՝ դիտարկելիս թաքցնելով ձեր տեղադրությունը:
+    .label = Ներկառուցված VPN
 ip-protection-learn-more = Իմանալ ավելին
 ip-protection-not-opted-in-button = Սկսել
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
 ip-protection-site-exceptions-all-sites-button =
-    .label = Կառավարել կայքի կարգավորումները
     .description =
         { $count ->
             [one] { $count } կայք
            *[other] { $count } կայքեր
         }
+    .label = Կառավարել կայքի կարգավորումները
 ip-protection-autostart =
     .label = Ինքնաբար միացնել VPN-ը
 ip-protection-autostart-checkbox =
@@ -190,8 +190,8 @@ ip-protection-autostart-checkbox =
 ip-protection-autostart-private-checkbox =
     .label = Գաղտնի պատուհաններում
 ip-protection-vpn-upgrade-link =
-    .label = Ստացեք ավելի շատ պաշտպանություն { -brand-short-name }-ից դուրս՝ { -mozilla-vpn-brand-name }-ի միջոցով։
     .description = Ընտրեք VPN-ի հարմարեցված վայրեր և ապահովեք պաշտպանություն ձեր բոլոր հավելվածներին մինչև հինգ սարքերի վրա, անկախ նրանից՝ տանն եք, թե հանրային Wi-Fi-ով։
+    .label = Ստացեք ավելի շատ պաշտպանություն { -brand-short-name }-ից դուրս՝ { -mozilla-vpn-brand-name }-ի միջոցով։
 
 ## IP Protection dialogs
 

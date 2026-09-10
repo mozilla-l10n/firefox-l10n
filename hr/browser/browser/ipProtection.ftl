@@ -55,11 +55,11 @@ unauthenticated-vpn-title = Isprobaj ugrađeni VPN { -brand-product-name(case: "
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Sakrij svoju lokaciju</a> tijekom pregledavanja u { -brand-product-name(case: "dat") }.
 unauthenticated-get-started = Započni
 site-exclusion-toggle-enabled-1 =
-    .label = Koristi VPN za ovu web-stranicu
     .aria-label = VPN je uključen za ovu web-stranicu
-site-exclusion-toggle-disabled-1 =
     .label = Koristi VPN za ovu web-stranicu
+site-exclusion-toggle-disabled-1 =
     .aria-label = VPN je isključen za ovu web-stranicu
+    .label = Koristi VPN za ovu web-stranicu
 ipprotection-settings-link =
     .label = Postavke
 
@@ -116,20 +116,20 @@ ipprotection-connection-status-generic-error-title-1 = Neuspjelo povezivanje VPN
 ## IP Protection Settings
 
 ip-protection-description =
-    .label = VPN
     .description = Ugrađeni VPN za poboljšanu privatnost tijekom pregledavanja u { -brand-short-name(case: "loc") }
+    .label = VPN
 ip-protection-learn-more = Saznaj više
 ip-protection-not-opted-in-button = Započni
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
 ip-protection-site-exceptions-all-sites-button =
-    .label = Upravljaj postavkama web-stranice
     .description =
         { $count ->
             [one] { $count } web-stranica
             [few] { $count } web-stranice
            *[other] { $count } web-stranica
         }
+    .label = Upravljaj postavkama web-stranice
 ip-protection-autostart =
     .label = Uključi VPN automatski
 ip-protection-autostart-checkbox =
@@ -137,8 +137,8 @@ ip-protection-autostart-checkbox =
 ip-protection-autostart-private-checkbox =
     .label = U privatnim prozorima
 ip-protection-vpn-upgrade-link =
-    .label = Dobij još veću zaštitu izvan { -brand-short-name(case: "gen") } s { -mozilla-vpn-brand-name }
     .description = Odaberi prilagođene VPN lokacije i dodaj zaštitu svim svojim aplikacijama na do pet uređaja, bilo da koristiš kućnu mrežu ili javnu Wi-Fi mrežu.
+    .label = Dobij još veću zaštitu izvan { -brand-short-name(case: "gen") } s { -mozilla-vpn-brand-name }
 
 ## IP Protection dialogs
 

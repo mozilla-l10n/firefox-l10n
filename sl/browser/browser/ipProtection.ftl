@@ -89,11 +89,11 @@ unauthenticated-choose-location-message-1 = Izberite lokacijo ali prepustite { -
 unauthenticated-get-started = Začni
 unauthenticated-terms-of-service-privacy-notice = Z nadaljevanjem se strinjate s <a data-l10n-name="vpn-terms-of-service">pogoji uporabe</a> in z <a data-l10n-name="vpn-privacy-notice">obvestilom o zasebnosti</a>.
 site-exclusion-toggle-enabled-1 =
-    .label = Uporabi VPN na tem spletnem mestu
     .aria-label = VPN je na tem spletnem mestu vklopljen
-site-exclusion-toggle-disabled-1 =
     .label = Uporabi VPN na tem spletnem mestu
+site-exclusion-toggle-disabled-1 =
     .aria-label = VPN je na tem spletnem mestu izklopljen
+    .label = Uporabi VPN na tem spletnem mestu
 site-exclusion-toggle-description = Stran ne deluje? Poskusite izklopiti VPN.
 ipprotection-settings-link =
     .label = Nastavitve
@@ -176,17 +176,16 @@ ipprotection-bandwidth-upgrade-title = Vam je vgrajeni VPN všeč? Zagotovite si
 ## IP Protection Settings
 
 ip-protection-description =
-    .label = VPN
     .description = Vgrajen VPN za večjo zasebnost pri brskanju s { -brand-short-name(sklon: "orodnik") }
+    .label = VPN
 ip-protection-description-1 =
-    .label = Vgrajeni VPN
     .description = Okrepite svojo zasebnost in med brskanjem zakrijte svojo lokacijo.
+    .label = Vgrajeni VPN
 ip-protection-learn-more = Več o tem
 ip-protection-not-opted-in-button = Začni
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
 ip-protection-site-exceptions-all-sites-button =
-    .label = Nastavitve spletnih mest
     .description =
         { $count ->
             [one] { $count } spletno mesto
@@ -194,6 +193,7 @@ ip-protection-site-exceptions-all-sites-button =
             [few] { $count } spletna mesta
            *[other] { $count } spletnih mest
         }
+    .label = Nastavitve spletnih mest
 ip-protection-autostart =
     .label = Samodejno vključi VPN
 ip-protection-autostart-checkbox =

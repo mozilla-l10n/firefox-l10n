@@ -114,11 +114,11 @@ unauthenticated-choose-location-message-1 = Vel mellom fleire plasseringar å su
 unauthenticated-get-started = Kom i gang
 unauthenticated-terms-of-service-privacy-notice = Ved å halde fram godtek du <a data-l10n-name="vpn-terms-of-service">tenestevilkåra</a> og <a data-l10n-name="vpn-privacy-notice">personvernfråsegna</a>.
 site-exclusion-toggle-enabled-1 =
-    .label = Bruk VPN for denne nettstaden
     .aria-label = VPN er på for denne nettstaden
-site-exclusion-toggle-disabled-1 =
     .label = Bruk VPN for denne nettstaden
+site-exclusion-toggle-disabled-1 =
     .aria-label = VPN er av for denne nettstaden
+    .label = Bruk VPN for denne nettstaden
 site-exclusion-toggle-description = Fungerer ikkje nettstaden? Prøv å slå av VPN.
 ipprotection-settings-link =
     .label = Innstillingar
@@ -235,11 +235,11 @@ ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Du har nesten br
 ## IP Protection Settings
 
 ip-protection-description =
-    .label = VPN
     .description = Innebygd VPN for å forbetre personvernet ditt medan du surfar med { -brand-short-name }.
+    .label = VPN
 ip-protection-description-1 =
-    .label = Innebygd VPN
     .description = Få ekstra personvern ved å skjule plasseringa di medan du surfar.
+    .label = Innebygd VPN
 ip-protection-learn-more = Les meir
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -250,12 +250,12 @@ ip-protection-not-opted-in-button = Kom i gang
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
 ip-protection-site-exceptions-all-sites-button =
-    .label = Handsam nettstadsinnstillingar
     .description =
         { $count ->
             [one] { $count } nettstad
            *[other] { $count } nettstadar
         }
+    .label = Handsam nettstadsinnstillingar
 ip-protection-autostart =
     .label = Slå på VPN automatisk
 ip-protection-autostart-checkbox =
@@ -263,11 +263,11 @@ ip-protection-autostart-checkbox =
 ip-protection-autostart-private-checkbox =
     .label = I private vindauge
 ip-protection-vpn-upgrade-link =
-    .label = Få endå meir vern utanfor { -brand-short-name } med { -mozilla-vpn-brand-name }
     .description = Vel eigendefinerte VPN-plasseringar og legg til vern for alle appane dine på opptil fem einingar, anten du er heime eller på offentleg Wi-Fi.
+    .label = Få endå meir vern utanfor { -brand-short-name } med { -mozilla-vpn-brand-name }
 ip-protection-vpn-upgrade-link-1 =
-    .label = Ta vernet vidare med { -mozilla-vpn-brand-name }
     .description = Vel mellom over 300 stadar og vern alle appane dine på opptil 5 einingar.
+    .label = Ta vernet vidare med { -mozilla-vpn-brand-name }
 
 ## IP Protection dialogs
 

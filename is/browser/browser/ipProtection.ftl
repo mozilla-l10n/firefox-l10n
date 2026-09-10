@@ -98,12 +98,12 @@ ip-protection-not-opted-in-button = Hefjast handa
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
 ip-protection-site-exceptions-all-sites-button =
-    .label = Sýsla með stillingar vefsvæðis
     .description =
         { $count ->
             [one] { $count } vefsvæði
            *[other] { $count } vefsvæði
         }
+    .label = Sýsla með stillingar vefsvæðis
 ip-protection-autostart =
     .label = Kveikja sjálfkrafa á VPN
 ip-protection-autostart-checkbox =

@@ -114,11 +114,11 @@ unauthenticated-choose-location-message-1 = Válasszon több hely közül, vagy 
 unauthenticated-get-started = Kezdő lépések
 unauthenticated-terms-of-service-privacy-notice = A folytatással elfogadja a <a data-l10n-name="vpn-terms-of-service">Szolgáltatási feltételeket</a> és az <a data-l10n-name="vpn-privacy-notice">Adatvédelmi nyilatkozatot</a>.
 site-exclusion-toggle-enabled-1 =
-    .label = VPN használata ezen a webhelyen
     .aria-label = A VPN be van kapcsolva ezen a webhelyen
-site-exclusion-toggle-disabled-1 =
     .label = VPN használata ezen a webhelyen
+site-exclusion-toggle-disabled-1 =
     .aria-label = A VPN ki van kapcsolva ezen a webhelyen
+    .label = VPN használata ezen a webhelyen
 site-exclusion-toggle-description = Nem működik a webhely? Próbálja meg kikapcsolni a VPN-t.
 ipprotection-settings-link =
     .label = Beállítások
@@ -235,11 +235,11 @@ ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Majdnem elfogyot
 ## IP Protection Settings
 
 ip-protection-description =
-    .label = VPN
     .description = Beépített VPN a nagyobb adatvédelem érdekében, amikor a { -brand-short-name } használatával böngészik.
+    .label = VPN
 ip-protection-description-1 =
-    .label = Beépített VPN
     .description = Kapjon további adatvédelmet a helye elrejtésével böngészés közben.
+    .label = Beépített VPN
 ip-protection-learn-more = További tudnivalók
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -250,12 +250,12 @@ ip-protection-not-opted-in-button = Kezdő lépések
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
 ip-protection-site-exceptions-all-sites-button =
-    .label = Webhely beállításainak kezelése
     .description =
         { $count ->
             [one] { $count } webhely
            *[other] { $count } webhely
         }
+    .label = Webhely beállításainak kezelése
 ip-protection-autostart =
     .label = VPN automatikus bekapcsolása
 ip-protection-autostart-checkbox =
@@ -263,11 +263,11 @@ ip-protection-autostart-checkbox =
 ip-protection-autostart-private-checkbox =
     .label = A privát ablakokban
 ip-protection-vpn-upgrade-link =
-    .label = Szerezzen még nagyobb védelmet a { -brand-short-name } böngészőn kívül a { -mozilla-vpn-brand-name } segítségével
     .description = Válasszon egyéni VPN helyet, és adjon további védelmet az összes alkalmazása számára, akár öt eszközön, függetlenül attól, hogy otthon van vagy nyilvános Wi-Fi-t használ.
+    .label = Szerezzen még nagyobb védelmet a { -brand-short-name } böngészőn kívül a { -mozilla-vpn-brand-name } segítségével
 ip-protection-vpn-upgrade-link-1 =
-    .label = Növelje a védelmét a { -mozilla-vpn-brand-name }-nel
     .description = Válasszon több mint 300 hely közül, és védje meg az alkalmazásait akár 5 eszközön.
+    .label = Növelje a védelmét a { -mozilla-vpn-brand-name }-nel
 
 ## IP Protection dialogs
 

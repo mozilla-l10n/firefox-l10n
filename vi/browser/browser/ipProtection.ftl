@@ -114,11 +114,11 @@ unauthenticated-choose-location-message-1 = Chọn từ nhiều địa điểm k
 unauthenticated-get-started = Bắt đầu
 unauthenticated-terms-of-service-privacy-notice = Bằng cách tiếp tục, bạn đồng ý với <a data-l10n-name="vpn-terms-of-service">điều khoản dịch vụ</a> và <a data-l10n-name="vpn-privacy-notice">thông báo bảo mật</a>.
 site-exclusion-toggle-enabled-1 =
-    .label = Sử dụng VPN cho trang web này
     .aria-label = Đã bật VPN cho trang web này
-site-exclusion-toggle-disabled-1 =
     .label = Sử dụng VPN cho trang web này
+site-exclusion-toggle-disabled-1 =
     .aria-label = Đã tắt VPN cho trang web này
+    .label = Sử dụng VPN cho trang web này
 site-exclusion-toggle-description = Trang web không hoạt động? Hãy thử tắt VPN.
 ipprotection-settings-link =
     .label = Cài đặt
@@ -235,11 +235,11 @@ ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Bạn sắp hế
 ## IP Protection Settings
 
 ip-protection-description =
-    .label = VPN
     .description = VPN được tích hợp sẵn giúp tăng cường quyền riêng tư khi duyệt web trên { -brand-short-name }.
+    .label = VPN
 ip-protection-description-1 =
-    .label = VPN tích hợp sẵn
     .description = Tăng cường sự riêng tư bằng cách ẩn vị trí hiện tại của bạn khi duyệt web.
+    .label = VPN tích hợp sẵn
 ip-protection-learn-more = Tìm hiểu thêm
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -250,8 +250,8 @@ ip-protection-not-opted-in-button = Bắt đầu
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
 ip-protection-site-exceptions-all-sites-button =
-    .label = Quản lý cài đặt trang web
     .description = { $count } trang web
+    .label = Quản lý cài đặt trang web
 ip-protection-autostart =
     .label = Tự động bật VPN
 ip-protection-autostart-checkbox =
@@ -259,11 +259,11 @@ ip-protection-autostart-checkbox =
 ip-protection-autostart-private-checkbox =
     .label = Trong cửa sổ riêng tư
 ip-protection-vpn-upgrade-link =
-    .label = Tăng cường khả năng bảo vệ khi ở ngoài { -brand-short-name } với { -mozilla-vpn-brand-name }
     .description = Chọn địa điểm VPN tùy chỉnh và thêm tính năng bảo vệ cho tất cả ứng dụng của bạn trên tối đa năm thiết bị, cho dù bạn đang ở nhà hay sử dụng Wi-Fi công cộng.
+    .label = Tăng cường khả năng bảo vệ khi ở ngoài { -brand-short-name } với { -mozilla-vpn-brand-name }
 ip-protection-vpn-upgrade-link-1 =
-    .label = Tăng cường bảo mật với { -mozilla-vpn-brand-name }
     .description = Chọn từ hơn 300 địa điểm và bảo vệ tất cả ứng dụng của bạn trên tối đa 5 thiết bị.
+    .label = Tăng cường bảo mật với { -mozilla-vpn-brand-name }
 
 ## IP Protection dialogs
 

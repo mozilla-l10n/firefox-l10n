@@ -112,11 +112,11 @@ unauthenticated-choose-location-message-1 = เลือกจากหลาย
 unauthenticated-get-started = เริ่มต้นใช้งาน
 unauthenticated-terms-of-service-privacy-notice = การดำเนินต่อจะถือว่าคุณยอมรับ<a data-l10n-name="vpn-terms-of-service">ข้อตกลงในการใช้บริการ</a>และ<a data-l10n-name="vpn-privacy-notice">ประกาศความเป็นส่วนตัว</a>
 site-exclusion-toggle-enabled-1 =
-    .label = ใช้ VPN สำหรับไซต์นี้
     .aria-label = VPN เปิดอยู่สำหรับไซต์นี้
-site-exclusion-toggle-disabled-1 =
     .label = ใช้ VPN สำหรับไซต์นี้
+site-exclusion-toggle-disabled-1 =
     .aria-label = VPN ปิดอยู่สำหรับไซต์นี้
+    .label = ใช้ VPN สำหรับไซต์นี้
 site-exclusion-toggle-description = เว็บไซต์ไม่ทำงานใช่ไหม? ลองปิด VPN ดู
 ipprotection-settings-link =
     .label = การตั้งค่า
@@ -233,11 +233,11 @@ ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>ข้อมู�
 ## IP Protection Settings
 
 ip-protection-description =
-    .label = VPN
     .description = VPN ในตัวเพื่อยกระดับความเป็นส่วนตัวของคุณขณะท่องเว็บด้วย { -brand-short-name }
+    .label = VPN
 ip-protection-description-1 =
-    .label = VPN ในตัว
     .description = รับความเป็นส่วนตัวที่มากขึ้นด้วยการซ่อนตำแหน่งที่ตั้งของคุณขณะท่องเว็บ
+    .label = VPN ในตัว
 ip-protection-learn-more = เรียนรู้เพิ่มเติม
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -248,8 +248,8 @@ ip-protection-not-opted-in-button = เริ่มต้นใช้งาน
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
 ip-protection-site-exceptions-all-sites-button =
-    .label = จัดการการตั้งค่าเว็บไซต์
     .description = { $count } เว็บไซต์
+    .label = จัดการการตั้งค่าเว็บไซต์
 ip-protection-autostart =
     .label = เปิดใช้งาน VPN โดยอัตโนมัติ
 ip-protection-autostart-checkbox =
@@ -257,11 +257,11 @@ ip-protection-autostart-checkbox =
 ip-protection-autostart-private-checkbox =
     .label = ในหน้าต่างส่วนตัว
 ip-protection-vpn-upgrade-link =
-    .label = รับการปกป้องที่เหนือกว่าแม้ใช้งานภายนอก { -brand-short-name } ด้วย { -mozilla-vpn-brand-name }
     .description = เลือกตำแหน่งที่ตั้ง VPN ได้ตามต้องการ และเพิ่มการปกป้องให้กับแอปทั้งหมดของคุณบนอุปกรณ์สูงสุดห้าเครื่อง ไม่ว่าคุณจะอยู่ที่บ้านหรือใช้ Wi-Fi สาธารณะ
+    .label = รับการปกป้องที่เหนือกว่าแม้ใช้งานภายนอก { -brand-short-name } ด้วย { -mozilla-vpn-brand-name }
 ip-protection-vpn-upgrade-link-1 =
-    .label = ยกระดับการปกป้องมากขึ้นด้วย { -mozilla-vpn-brand-name }
     .description = เลือกจาก 300+ ตำแหน่งที่ตั้งและปกป้องแอปของคุณทั้งหมดได้สูงสุดถึง 5 อุปกรณ์
+    .label = ยกระดับการปกป้องมากขึ้นด้วย { -mozilla-vpn-brand-name }
 
 ## IP Protection dialogs
 

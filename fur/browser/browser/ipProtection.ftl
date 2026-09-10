@@ -88,11 +88,11 @@ unauthenticated-choose-location-message-1 = Sielç tra diviersis posizions o las
 unauthenticated-get-started = Scomence
 unauthenticated-terms-of-service-privacy-notice = Continuant, tu acetis lis <a data-l10n-name="vpn-terms-of-service">cundizions di utilizazion dal servizi</a> e la <a data-l10n-name="vpn-privacy-notice">informative su la riservatece</a>.
 site-exclusion-toggle-enabled-1 =
-    .label = Dopre la VPN cun chest sît
     .aria-label = La VPN e je ative par chest sît
-site-exclusion-toggle-disabled-1 =
     .label = Dopre la VPN cun chest sît
+site-exclusion-toggle-disabled-1 =
     .aria-label = La VPN e je disativade par chest sît
+    .label = Dopre la VPN cun chest sît
 site-exclusion-toggle-description = Il sît nol funzione? Prove a disativâ la VPN.
 ipprotection-settings-link =
     .label = Impostazions
@@ -202,11 +202,11 @@ ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Tu stâs par fin
 ## IP Protection Settings
 
 ip-protection-description =
-    .label = VPN
     .description = VPN integrade par miorâ la tô riservatece intant che tu navighis su { -brand-short-name }
+    .label = VPN
 ip-protection-description-1 =
-    .label = VPN integrade
     .description = Oten plui riservatece, platant la tô posizion intant che tu navighis.
+    .label = VPN integrade
 ip-protection-learn-more = Plui informazions
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -217,12 +217,12 @@ ip-protection-not-opted-in-button = Scomence
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
 ip-protection-site-exceptions-all-sites-button =
-    .label = Gjestìs lis impostazions dai sîts web
     .description =
         { $count ->
             [one] { $count } sît web
            *[other] { $count } sîts web
         }
+    .label = Gjestìs lis impostazions dai sîts web
 ip-protection-autostart =
     .label = Ative la VPN in automatic
 ip-protection-autostart-checkbox =
@@ -230,11 +230,11 @@ ip-protection-autostart-checkbox =
 ip-protection-autostart-private-checkbox =
     .label = In barcons privâts
 ip-protection-vpn-upgrade-link =
-    .label = Oten ancjemò plui protezion fûr di { -brand-short-name } cun { -mozilla-vpn-brand-name }
     .description = Sielç posizions personalizadis pe VPN e zonte la protezion pes tôs aplicazions suntun massim di 5 dispositîfs, nol impuarte se tu sês a cjase o suntune rêt Wi-Fi publiche.
+    .label = Oten ancjemò plui protezion fûr di { -brand-short-name } cun { -mozilla-vpn-brand-name }
 ip-protection-vpn-upgrade-link-1 =
-    .label = Aumente la tô protezion cun { -mozilla-vpn-brand-name }
     .description = Sielç tra plui di 300 lûcs e protêç dutis lis tôs aplicazions suntun massim di 5 dispositîfs.
+    .label = Aumente la tô protezion cun { -mozilla-vpn-brand-name }
 
 ## IP Protection dialogs
 

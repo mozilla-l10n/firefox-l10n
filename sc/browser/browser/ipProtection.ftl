@@ -70,11 +70,11 @@ unauthenticated-vpn-title = Proa sa VPN integrada de { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Cua sa positzione tua</a> durante sa navigatzione cun { -brand-product-name }.
 unauthenticated-get-started = Cumintza
 site-exclusion-toggle-enabled-1 =
-    .label = Imprea sa VPN pro custu situ
     .aria-label = Sa VPN est ativa pro custu situ
-site-exclusion-toggle-disabled-1 =
     .label = Imprea sa VPN pro custu situ
+site-exclusion-toggle-disabled-1 =
     .aria-label = Sa VPN est disativada pro custu situ
+    .label = Imprea sa VPN pro custu situ
 ipprotection-settings-link =
     .label = Cunfiguratzione
 
@@ -134,11 +134,11 @@ ipprotection-connection-status-generic-error-title-1 = Impossìbile connètere a
 ## IP Protection Settings
 
 ip-protection-description =
-    .label = VPN
     .description = VPN integrada pro megiorare sa riservadesa mentras nàvigas cun { -brand-short-name }.
+    .label = VPN
 ip-protection-description-1 =
-    .label = VPN integrada
     .description = Megiora sa riservadesa cuende sa positzione mentras nàvigas.
+    .label = VPN integrada
 ip-protection-learn-more = Àteras informatziones
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)

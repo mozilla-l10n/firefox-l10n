@@ -55,11 +55,11 @@ unauthenticated-vpn-title = Emprova il VPN integrà da { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Zuppenta tia posiziun</a> durant che ti navigheschas cun { -brand-product-name }.
 unauthenticated-get-started = Cumenzar
 site-exclusion-toggle-enabled-1 =
-    .label = Utilisar il VPN per questa website
     .aria-label = Il VPN è activà per questa website
-site-exclusion-toggle-disabled-1 =
     .label = Utilisar il VPN per questa website
+site-exclusion-toggle-disabled-1 =
     .aria-label = Il VPN è deactivà per questa website
+    .label = Utilisar il VPN per questa website
 ipprotection-settings-link =
     .label = Parameters
 
@@ -138,19 +138,19 @@ ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Ti n’has prest
 ## IP Protection Settings
 
 ip-protection-description =
-    .label = VPN
     .description = Il VPN integrà per meglierar la protecziun da tias datas durant che ti navigheschas cun { -brand-short-name }.
+    .label = VPN
 ip-protection-learn-more = Ulteriuras infurmaziuns
 ip-protection-not-opted-in-button = Cumenzar
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
 ip-protection-site-exceptions-all-sites-button =
-    .label = Administrar ils parameters da las websites
     .description =
         { $count ->
             [one] { $count } website
            *[other] { $count } websites
         }
+    .label = Administrar ils parameters da las websites
 ip-protection-autostart =
     .label = Activar automaticamain il VPN
 ip-protection-autostart-checkbox =

@@ -114,11 +114,11 @@ unauthenticated-choose-location-message-1 = Kies uit diverse locaties of laat { 
 unauthenticated-get-started = Beginnen
 unauthenticated-terms-of-service-privacy-notice = Door verder te gaan, gaat u akkoord met de <a data-l10n-name="vpn-terms-of-service">Servicevoorwaarden</a> en <a data-l10n-name="vpn-privacy-notice">Privacyverklaring</a>.
 site-exclusion-toggle-enabled-1 =
-    .label = VPN voor deze website gebruiken
     .aria-label = VPN is aan voor deze website
-site-exclusion-toggle-disabled-1 =
     .label = VPN voor deze website gebruiken
+site-exclusion-toggle-disabled-1 =
     .aria-label = VPN is uit voor deze website
+    .label = VPN voor deze website gebruiken
 site-exclusion-toggle-description = Werkt de website niet? Probeer VPN uit te schakelen.
 ipprotection-settings-link =
     .label = Instellingen
@@ -235,11 +235,11 @@ ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>U hebt bijna gee
 ## IP Protection Settings
 
 ip-protection-description =
-    .label = VPN
     .description = Ingebouwde VPN om uw privacy te verbeteren terwijl u met { -brand-short-name } surft.
+    .label = VPN
 ip-protection-description-1 =
-    .label = Ingebouwde VPN
     .description = Ontvang extra privacy door uw locatie te verbergen terwijl u navigeert.
+    .label = Ingebouwde VPN
 ip-protection-learn-more = Meer info
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -250,12 +250,12 @@ ip-protection-not-opted-in-button = Beginnen
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
 ip-protection-site-exceptions-all-sites-button =
-    .label = Website-instellingen beheren
     .description =
         { $count ->
             [one] { $count } website
            *[other] { $count } websites
         }
+    .label = Website-instellingen beheren
 ip-protection-autostart =
     .label = VPN automatisch inschakelen
 ip-protection-autostart-checkbox =
@@ -263,11 +263,11 @@ ip-protection-autostart-checkbox =
 ip-protection-autostart-private-checkbox =
     .label = In privévensters
 ip-protection-vpn-upgrade-link =
-    .label = Ontvang nog meer bescherming buiten { -brand-short-name } met { -mozilla-vpn-brand-name }
     .description = Kies aangepaste VPN-locaties en voeg bescherming toe aan al uw apps op maximaal vijf apparaten, of u nu thuis bent of openbare wifi gebruikt.
+    .label = Ontvang nog meer bescherming buiten { -brand-short-name } met { -mozilla-vpn-brand-name }
 ip-protection-vpn-upgrade-link-1 =
-    .label = Breng bescherming verder met { -mozilla-vpn-brand-name }
     .description = Kies uit meer dan 300 locaties en bescherm al uw apps op maximaal vijf apparaten.
+    .label = Breng bescherming verder met { -mozilla-vpn-brand-name }
 
 ## IP Protection dialogs
 

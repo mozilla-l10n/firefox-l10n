@@ -114,11 +114,11 @@ unauthenticated-choose-location-message-1 = Wubjerće z wjacorych stejnišćow a
 unauthenticated-get-started = Prěnje kroki
 unauthenticated-terms-of-service-privacy-notice = Hdyž pokročujeće, zwoliće do <a data-l10n-name="vpn-terms-of-service">wužiwanskich wuměnjenjow</a> a <a data-l10n-name="vpn-privacy-notice">zdźělenki priwatnosće</a>.
 site-exclusion-toggle-enabled-1 =
-    .label = VPN za tute sydło wužiwać
     .aria-label = VPN je za tute sydło zmóžnjeny
-site-exclusion-toggle-disabled-1 =
     .label = VPN za tute sydło wužiwać
+site-exclusion-toggle-disabled-1 =
     .aria-label = VPN je za tute sydło znjemóžnjeny
+    .label = VPN za tute sydło wužiwać
 site-exclusion-toggle-description = Sydło njefunguje? Spytajće VPN znjemóžnić.
 ipprotection-settings-link =
     .label = Nastajenja
@@ -235,11 +235,11 @@ ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Sće swoje daty 
 ## IP Protection Settings
 
 ip-protection-description =
-    .label = VPN
     .description = Zatwarjeny VPN, zo byšće swoju priwatnosć polěpšił, mjeztym zo z { -brand-short-name } přehladujeće.
+    .label = VPN
 ip-protection-description-1 =
-    .label = Zatwarjeny VPN
     .description = Schowajće swoje stejnišćo při přehladowanju, zo byšće přidatnu priwatnosć dóstał.
+    .label = Zatwarjeny VPN
 ip-protection-learn-more = Dalše informacije
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -250,7 +250,6 @@ ip-protection-not-opted-in-button = Prěnje kroki
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
 ip-protection-site-exceptions-all-sites-button =
-    .label = Nastajenja websydłow rjadować
     .description =
         { $count ->
             [one] { $count } websydło
@@ -258,6 +257,7 @@ ip-protection-site-exceptions-all-sites-button =
             [few] { $count } websydła
            *[other] { $count } websydłow
         }
+    .label = Nastajenja websydłow rjadować
 ip-protection-autostart =
     .label = VPN awtomatisce zmóžnić
 ip-protection-autostart-checkbox =
@@ -265,11 +265,11 @@ ip-protection-autostart-checkbox =
 ip-protection-autostart-private-checkbox =
     .label = W priwatnych woknach
 ip-protection-vpn-upgrade-link =
-    .label = Wobstarajće sej samo wjace škita zwonka { -brand-short-name } z { -mozilla-vpn-brand-name }
     .description = wubjerće swójske stejnišća VPN a přidajće wšěm swojim nałoženjam na hač do pjeć gratow škit, wšojedne, hač sće doma abo w zjawnym WLAN.
+    .label = Wobstarajće sej samo wjace škita zwonka { -brand-short-name } z { -mozilla-vpn-brand-name }
 ip-protection-vpn-upgrade-link-1 =
-    .label = Powyšće škit z { -mozilla-vpn-brand-name }
     .description = Wubjerće z 300 stejnišćow a škitajće wšě swoje nałoženja na do 5 gratach.
+    .label = Powyšće škit z { -mozilla-vpn-brand-name }
 
 ## IP Protection dialogs
 

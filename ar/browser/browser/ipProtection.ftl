@@ -75,11 +75,11 @@ unauthenticated-private-location-message = يساعد <a data-l10n-name="learn-m
 unauthenticated-get-started = ابدأ
 unauthenticated-terms-of-service-privacy-notice = مِن خلال الاستمرار، فإنك توافق على <a data-l10n-name="vpn-terms-of-service">شروط الخدمة</a> و <a data-l10n-name="vpn-privacy-notice">تنويه الخصوصية</a>.
 site-exclusion-toggle-enabled-1 =
-    .label = استخدم VPN لهذا الموقع
     .aria-label = ال VPN مفعّل لهذا الموقع
-site-exclusion-toggle-disabled-1 =
     .label = استخدم VPN لهذا الموقع
+site-exclusion-toggle-disabled-1 =
     .aria-label = ال VPN معطّل لهذا الموقع
+    .label = استخدم VPN لهذا الموقع
 site-exclusion-toggle-description = الموقع لا يعمل؟ حاول إيقاف تشغيل VPN.
 ipprotection-settings-link =
     .label = الإعدادات
@@ -190,11 +190,11 @@ ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>لقد أوشك�
 ## IP Protection Settings
 
 ip-protection-description =
-    .label = VPN
     .description = VPN مدمج لتعزيز خصوصيتك أثناء التصفح على { -brand-short-name }.
+    .label = VPN
 ip-protection-description-1 =
-    .label = VPN مدمج
     .description = احصل على خصوصية إضافية من خلال إخفاء موقعك أثناء التصفح.
+    .label = VPN مدمج
 ip-protection-learn-more = اطّلع على المزيد
 ip-protection-not-opted-in-button = ابدأ
 ip-protection-autostart =
@@ -204,8 +204,8 @@ ip-protection-autostart-checkbox =
 ip-protection-autostart-private-checkbox =
     .label = في النوافذ الخاصة
 ip-protection-vpn-upgrade-link-1 =
-    .label = عزّز حمايتك باستخدام { -mozilla-vpn-brand-name }
     .description = اختر من بين أكثر من 300 موقع واحمِ جميع تطبيقاتك على ما يصل إلى 5 أجهزة.
+    .label = عزّز حمايتك باستخدام { -mozilla-vpn-brand-name }
 
 ## IP Protection dialogs
 

@@ -105,11 +105,11 @@ unauthenticated-choose-location-message-1 = Eiporavo 5 tendaite apytépe térã 
 unauthenticated-get-started = Eñepyrũ
 unauthenticated-terms-of-service-privacy-notice = Eku’e jeývo, emoneĩ ko’ã <a data-l10n-name="vpn-terms-of-service">ñepytyvõrã mboguata</a> ha pe <a data-l10n-name="vpn-privacy-notice">ñemigua marandu’i</a>.
 site-exclusion-toggle-enabled-1 =
-    .label = Eiporu VPN ko tendápe g̃uarã
     .aria-label = VPN hendy ko tendápe g̃uarã
-site-exclusion-toggle-disabled-1 =
     .label = Eiporu VPN ko tendápe g̃uarã
+site-exclusion-toggle-disabled-1 =
     .aria-label = VPN ogue ko tendápe g̃uarã
+    .label = Eiporu VPN ko tendápe g̃uarã
 site-exclusion-toggle-description = ¿Ñanduti rogue ndoikói? Eñeha’ã embogue VPN.
 ipprotection-settings-link =
     .label = Ñemboheko
@@ -223,11 +223,11 @@ ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Haimetéma opa p
 ## IP Protection Settings
 
 ip-protection-description =
-    .label = VPN
     .description = VPN jehe’apyre oiko porãve hag̃ua nde rekoñemi eikundaha aja { -brand-short-name } ndive.
+    .label = VPN
 ip-protection-description-1 =
-    .label = VPN juajupyre
     .description = Ehupyty tekoñemive emokañývo ne rendaite eikundaha aja.
+    .label = VPN juajupyre
 ip-protection-learn-more = Eikuaave
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -238,12 +238,12 @@ ip-protection-not-opted-in-button = Eñepyrũ
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
 ip-protection-site-exceptions-all-sites-button =
-    .label = Eñangareko ñanduti rogue ñembohekóre
     .description =
         { $count ->
             [one] { $count } ñanduti rogue
            *[other] { $count } ñanduti rogueita
         }
+    .label = Eñangareko ñanduti rogue ñembohekóre
 ip-protection-autostart =
     .label = Emyandy VPN ijeheguietéva
 ip-protection-autostart-checkbox =
@@ -251,11 +251,11 @@ ip-protection-autostart-checkbox =
 ip-protection-autostart-private-checkbox =
     .label = Ovetã ñemiguávape
 ip-protection-vpn-upgrade-link =
-    .label = Eguerekovéta ñemo’ã okápee { -brand-short-name }-gui { -mozilla-vpn-brand-name } ndive.
     .description = Eiporavo VPN rendaite mboavapyre ha embojuaju ñemo’ãve tembiporu’ieta po mba’e’oka peve, eimérõ nde rógape térã Wi-Fi ojeporukuaávape.
+    .label = Eguerekovéta ñemo’ã okápee { -brand-short-name }-gui { -mozilla-vpn-brand-name } ndive.
 ip-protection-vpn-upgrade-link-1 =
-    .label = Eraha ñemo’ã yvateve { -mozilla-vpn-brand-name } ndive
     .description = Eiporavo 300 tendaite apytégui ha emo’ã opaite ne rembiporu’i 5 mba’e’oka peve.
+    .label = Eraha ñemo’ã yvateve { -mozilla-vpn-brand-name } ndive
 
 ## IP Protection dialogs
 

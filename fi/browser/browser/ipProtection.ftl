@@ -114,11 +114,11 @@ unauthenticated-choose-location-message-1 = Valitse useista sijainneista tai ann
 unauthenticated-get-started = Aloitetaan
 unauthenticated-terms-of-service-privacy-notice = Jatkamalla hyväksyt <a data-l10n-name="vpn-terms-of-service">käyttöehdot</a> ja <a data-l10n-name="vpn-privacy-notice">tietosuojakäytännön</a>.
 site-exclusion-toggle-enabled-1 =
-    .label = Käytä VPN:ää tällä sivustolla
     .aria-label = VPN on käytössä tällä sivustolla
-site-exclusion-toggle-disabled-1 =
     .label = Käytä VPN:ää tällä sivustolla
+site-exclusion-toggle-disabled-1 =
     .aria-label = VPN ei ole käytössä tällä sivustolla
+    .label = Käytä VPN:ää tällä sivustolla
 site-exclusion-toggle-description = Eikö sivusto toimi? Kokeile poistaa VPN käytöstä.
 ipprotection-settings-link =
     .label = Asetukset
@@ -235,11 +235,11 @@ ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>VPN-datasi on me
 ## IP Protection Settings
 
 ip-protection-description =
-    .label = VPN
     .description = Sisäänrakennettu VPN yksityisyyden lisäämiseksi { -brand-short-name }illa selatessa.
+    .label = VPN
 ip-protection-description-1 =
-    .label = Sisäänrakennettu VPN
     .description = Hanki lisäkerros yksityisyyttä piilottamalla todellinen sijaintisi, kun selaat.
+    .label = Sisäänrakennettu VPN
 ip-protection-learn-more = Lue lisää
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -250,12 +250,12 @@ ip-protection-not-opted-in-button = Aloitetaan
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
 ip-protection-site-exceptions-all-sites-button =
-    .label = Hallitse verkkosivuston asetuksia
     .description =
         { $count ->
             [one] { $count } verkkosivusto
            *[other] { $count } verkkosivustoa
         }
+    .label = Hallitse verkkosivuston asetuksia
 ip-protection-autostart =
     .label = Ota VPN käyttöön automaattisesti
 ip-protection-autostart-checkbox =
@@ -263,11 +263,11 @@ ip-protection-autostart-checkbox =
 ip-protection-autostart-private-checkbox =
     .label = Yksityisissä ikkunoissa
 ip-protection-vpn-upgrade-link =
-    .label = Saat entistä enemmän suojaa { -brand-short-name }in ulkopuolella käyttämällä { -mozilla-vpn-brand-name }:ää.
     .description = Valitse mukautettuja VPN-sijainteja ja lisää ripaus suojausta kaikkiin sovelluksiisi, jopa viidellä laitteella, olitpa sitten kotona tai julkisessa Wi-Fi-verkossa.
+    .label = Saat entistä enemmän suojaa { -brand-short-name }in ulkopuolella käyttämällä { -mozilla-vpn-brand-name }:ää.
 ip-protection-vpn-upgrade-link-1 =
-    .label = Vie suojaus pidemmälle { -mozilla-vpn-brand-name }:llä
     .description = Valitse yli 300 sijainnista ja suojaa sovelluksesi jopa viidellä laitteella.
+    .label = Vie suojaus pidemmälle { -mozilla-vpn-brand-name }:llä
 
 ## IP Protection dialogs
 
