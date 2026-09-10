@@ -983,6 +983,10 @@ feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
 newtab-wallpaper-firefox-orange = Liška na prawej kromje na oranžowym pozadku
 newtab-wallpaper-firefox-colorful-sky = Oranžowe žołmy přez wioletne nócne njebjo
+newtab-wallpaper-firefox-desert-dark = Liška, kotraž w ćmowej wioletnej pusćinje sedźi
+newtab-wallpaper-firefox-desert-light = Liška, kotraž po swětłej pusćinje běži
+newtab-wallpaper-firefox-hills-dark = Liška, kotraž přez ćmowe hórki běži
+newtab-wallpaper-firefox-hills-light = Liška, kotraž přez swětłe hórki běži
 
 ## Firefox
 
