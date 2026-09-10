@@ -39,6 +39,9 @@ neterror-disable-native-feedback-warning = Folytatás mindig
 ## derived from the address that failed to resolve.
 
 neterror-search-cta-title = Ez a webhely nem érhető el
+# $hostname (String) - The host of the address that failed to load, including
+# any subdomains, for example "docs.example.com". The host is emphasized.
+neterror-search-cta-intro2 = Nem sikerült kapcsolódni a(z) <strong>{ $hostname }</strong> kiszolgálóhoz.
 # $domain (String) - The host of the address that failed to load, including any
 # subdomains, for example "docs.example.com".
 neterror-search-cta-intro = Nem sikerült kapcsolódni a(z) { $domain } kiszolgálóhoz.
