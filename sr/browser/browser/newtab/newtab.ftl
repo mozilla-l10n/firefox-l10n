@@ -95,6 +95,9 @@ home-prefs-stocks-header =
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Слика дана
+# Recent searches is a widget on New Tab that shows the user's recent searches.
+home-prefs-recent-searches-header =
+    .label = Недавне претраге
 home-prefs-mission-message2 =
     .message = Наши спонзори подржавају нашу мисију изградње бољег веба.
 home-prefs-manage-topics-link2 =
@@ -159,6 +162,10 @@ home-prefs-mission-message-learn-more-link-srd = Сазнајте како
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Сазнајте више
+# Accessible name for the Privacy widget container. The widget shows no visible
+# title, so screen readers rely on this label to identify it.
+newtab-privacy-widget-label =
+    .aria-label = Приватност
 
 ## Privacy widget — count readout
 
@@ -192,6 +199,18 @@ newtab-privacy-across-sites =
 
 # Shown when no trackers have been blocked yet today.
 newtab-privacy-empty = { -brand-short-name } блокира пратиоце док прегледате веб-странице. Овде ћете их видети.
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty-state = { -brand-short-name } самостално блокира пратиоце, чиме већи део ваше активности остаје приватан.
+# "A running tally" is an informal way to say a total that keeps updating as it goes.
+# Here we are referring to the number of trackers blocked, which increases as the user browses.
+# An alternative can be "See a running total here"
+newtab-privacy-empty-state-tally = Овде можете видети тренутни број.
+
+## Privacy widget — Enhanced Tracking Protection off state
+
+# Shown when the user has turned off the Enhanced Tracking Protection setting.
+newtab-privacy-etp-off-faster-browsing = Брже прегледање. Мање пратиоца.
+newtab-privacy-etp-off-turn-on-tracking = Укључите заштите од праћења у подешавањима да бисте почели са блокирањем.
 
 ## Privacy widget — informational messages
 ##
@@ -324,6 +343,16 @@ newtab-stocks-widget-menu-button =
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Деонице
+# "Markets" is the default list of market ETFs. The value is shown in the menu,
+# and .label is shown on the button that opens it.
+newtab-stocks-list-markets = Тржишта
+    .label = Тржишта
+# "Watchlist" is the user's list of stocks to follow. The value is shown in the
+# menu, and .label is shown on the button that opens it.
+newtab-stocks-list-watchlist = Списак за праћење
+    .label = Списак за праћење
+# Context menu item that opens the stock search (by company name or ticker symbol).
+newtab-stocks-menu-search-stocks = Претражи по називу или симболу
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:
@@ -337,6 +366,70 @@ newtab-stocks-ticker-status-up = { $name }, горе { $change }, { $price }
 newtab-stocks-ticker-status-down = { $name }, доле { $change }, { $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, без промене, { $change }, { $price }
+
+## Stocks widget watchlist add and remove controls
+
+# Tooltip and screen-reader label for the button that adds a stock to the watchlist.
+# The button shows only an icon and never renders visible text.
+# Variables:
+#   $name (String) - the fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+newtab-stocks-add-to-watchlist =
+    .aria-label = Додај { $name } на списак за праћење
+    .title = Додај { $name } на списак за праћење
+# Tooltip and screen-reader label for the button that removes a stock from the watchlist.
+# The button shows only an icon and never renders visible text.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-remove-from-watchlist =
+    .aria-label = Уклони { $name } са списка за праћење
+    .title = Уклони { $name } са списка за праћење
+# Visually hidden text on a Markets row whose stock is already in the watchlist, so
+# screen readers announce that it is saved. Removal happens on the Watchlist tab.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-in-watchlist = { $name } је на вашем списку за праћење
+# Announced to screen readers after a stock is added to the watchlist.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-added-to-watchlist = Додато { $name } на списак за праћење
+# Announced to screen readers after a stock is removed from the watchlist.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-removed-from-watchlist = Уклоњено { $name } са списка за праћење
+
+## Stocks widget ticker search
+
+# Placeholder and screen-reader label for the ticker search input.
+newtab-stocks-search-input =
+    .aria-label = Претрага по називу или симболу
+    .placeholder = Претрага по називу или симболу
+# "Search results" is the accessible label for the list of tickers matching the
+# search. It means "results of the search", not "search within the results".
+newtab-stocks-search-results =
+    .aria-label = Резултати претраге
+# "Back" is an icon-only button in the search panel header that returns to the
+# widget — the attributes are consumed as tooltip/screen-reader label only. The
+# button never renders visible text.
+newtab-stocks-search-back-button =
+    .aria-label = Назад
+    .title = Назад
+# Shown when a ticker search returns no matching symbols.
+# Variables:
+#   $query (String) - the text the user searched for.
+newtab-stocks-search-no-results = Нема резултата за „{ $query }“
+# Shown while a ticker search is running; also announced to screen readers.
+newtab-stocks-search-loading = Учитавам…
+# Shown when a ticker search fails to reach the service.
+newtab-stocks-search-error = Не могу да претражим у овом тренутку. Покушајте поново касније.
+# Shown below successful search results when the watchlist is already full.
+# Variables:
+#   $limit (Number) - the maximum number of stocks the watchlist can hold.
+newtab-stocks-watchlist-full =
+    { $limit ->
+        [one] Можете да додате највише { $limit } деоницу. Уклоните једну да бисте додали другу.
+        [few] Можете да додате највише { $limit } деонице. Уклоните једну да бисте додали другу.
+       *[other] Можете да додате највише { $limit } деоница. Уклоните једну да бисте додали другу.
+    }
 
 ## Strings for the Picture of the Day widget
 
@@ -387,6 +480,23 @@ newtab-picture-check-back = Поново проверите сутра за но
 # Screen-reader text alternative for the picture; fallback used when the source
 # provides no localized description.
 newtab-picture-image-alt = Слика дана са Wikimedia Commons
+
+## Strings for the Recent Searches widget
+
+# Widget heading; also the widget's accessible name.
+newtab-recent-searches-widget-title = Недавне претраге
+# Screen reader label for the widget's icon-only menu button.
+newtab-recent-searches-widget-menu-button =
+    .aria-label = Могућности за недавне претраге
+# Context menu item linking to more information about the widget.
+newtab-recent-searches-menu-learn-more = Сазнај више
+
+## Strings for the navigable panels that new tab content area can be
+## split into.
+
+newtab-spaces-tab-stories = Приче
+newtab-spaces-tab-widgets = Елементи
+newtab-spaces-tab-activity = Активност
 
 ## Search box component.
 
@@ -598,12 +708,24 @@ newtab-discovery-empty-section-topstories-timed-out = Упс! Нисмо мог�
 
 ## Strings for the story cards carousel
 
+# Identifies the current carousel slide to screen reader users.
+# Variables:
+#   $index - the position of this slide
+#   $total - how many slides there are
+newtab-carousel-slide =
+    .aria-label = { $index } од { $total }
 # Button that goes to the previous carousel slide.
 newtab-carousel-previous =
     .aria-label = Претходна
 # Button that goes to the next carousel slide.
 newtab-carousel-next =
     .aria-label = Следећа
+# Button that pauses autoplay on the carousel.
+newtab-carousel-pause =
+    .aria-label = Паузирај самостално пуштање
+# Button that resumes autoplay on the carousel.
+newtab-carousel-play =
+    .aria-label = Настави самостално пуштање
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
@@ -664,6 +786,8 @@ newtab-custom-widget-stocks-toggle =
     .label = Деонице
 newtab-custom-widget-picture-toggle =
     .label = Слика дана
+newtab-custom-widget-recent-searches-toggle =
+    .label = Недавне претраге
 newtab-custom-widget-section-title = Елементи
 newtab-custom-widget-section-toggle =
     .label = Елементи
@@ -675,6 +799,13 @@ newtab-custom-close-menu-button =
     .aria-label = Затвори мени
     .title = Затвори
 newtab-custom-settings = Додатна подешавања
+
+## Customization Menu
+
+# An arrow button that goes back from a sub-panel in the customize panel, such as a wallpaper category, to the main Customize panel.
+newtab-customize-panel-back-button =
+    .aria-label = Назад на Прилагођавање
+    .title = Назад на Прилагођавање
 
 ## New Tab Appearance (browser theme picker)
 
@@ -729,6 +860,48 @@ newtab-wallpaper-dark-mountain = Планински пејзаж
 newtab-wallpaper-dark-city = Љубичасти градски призор
 newtab-wallpaper-dark-fox-anniversary = Лисица на тротоару покрај шуме
 newtab-wallpaper-light-fox-anniversary = Лисица на ливади са планинским пејзажом у измаглици
+
+## "Your images" is the folder of wallpapers someone has saved. A saved wallpaper
+## can be a file they uploaded, a Picture of the Day they chose to keep, or a
+## Firefox wallpaper kept for them when it was retired.
+
+newtab-wallpaper-your-images = Ваше слике
+# Accessible name for the tile that opens the "Your images" folder in the
+# wallpaper picker. The tile shows one of the saved images and has no text of
+# its own, so this is all a screen reader has to go on.
+newtab-wallpaper-your-images-folder =
+    .aria-label = Ваше слике, позадине које сте сачували
+# Read by screen readers for a saved image that has a name of its own: a kept
+# Picture of the Day, or a Firefox wallpaper kept when it was retired. An image
+# someone added themselves is numbered instead, see the string below.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-your-images-item = (Назив):
+# Read by screen readers for an image someone added themselves. Firefox counts
+# these as they are saved rather than keeping the name of their file.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-your-images-item-numbered = Тренутни број слике
+# Each saved image has its own remove button. The tooltip stays short because
+# a name can be long and some locales put it before the verb, which would push
+# "remove" out of view. The full name is on the label a screen reader reads.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-remove-image =
+    .aria-label = Уклони { $name }
+    .title = Уклони слику
+# The remove button for an image someone added themselves. .title is the
+# tooltip and .aria-label is what a screen reader reads.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-remove-image-numbered =
+    .aria-label = Уклони слику { $number }
+    .title = Уклони слику { $number }
+newtab-wallpaper-remove-image-title = Уклонити слику?
+# "This action" refers to removing a saved wallpaper image.
+newtab-wallpaper-remove-image-body = Ова радња се не може опозвати.
+newtab-wallpaper-remove-image-confirm = Уклони
+newtab-wallpaper-remove-image-cancel = Откажи
 
 ## Solid Colors
 
@@ -821,6 +994,9 @@ newtab-weather-menu-change-location = Промени место
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Потражи место
     .placeholder = Потражи место
+newtab-weather-cancel-input =
+    .aria-label = Откажи
+    .title = Откажи
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Употреби тренутну локацију
@@ -930,6 +1106,8 @@ newtab-section-follow-highlight-subtitle = Пратите своја интер�
 
 newtab-topic-navigation-label =
     .aria-label = Теме
+# Opens a menu listing the topics that did not fit in the row.
+newtab-topic-navigation-more-button = Више
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
@@ -1073,6 +1251,10 @@ newtab-widget-lists-menu-create = Направи нови списак
 newtab-widget-lists-menu-delete = Обриши овај списак
 newtab-widget-lists-menu-copy = Умножи списак у оставу
 newtab-widget-lists-menu-learn-more = Сазнајте више
+# "Change" is a verb here: the button switches which list is shown
+newtab-widget-lists-change-list =
+    .aria-label = Промени списак
+    .title = Промени списак
 newtab-widget-lists-button-add-item = Додај ставку
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Додај ставку
@@ -1132,6 +1314,11 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .aria-label = Скупи све елементе на компактну величину
     .title = Умањи елементе
+# Shown on the widgets section header button while the section is
+# auto-minimized to its title row, to open the section back up.
+newtab-widget-section-show-widgets =
+    .aria-label = Прикажи одељак са елементима
+    .title = Прикажи елементе
 newtab-widget-section-menu-button =
     .aria-label = Отвори мени елемената
     .title = Мени елемената
