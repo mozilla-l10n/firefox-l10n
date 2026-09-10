@@ -539,6 +539,28 @@ onboarding-refresh-gratitude-subtitle = Danke, dass Sie { -brand-short-name } ve
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } gibt dir Rückendeckung
 
+## First Run Onboarding refresh strings
+
+onboarding-refresh-hero-text = Entwickelt, um Sie zu schützen – nicht, um Sie zu verfolgen.
+onboarding-refresh-tou-default = Alle Links mit { -brand-short-name } öffnen
+onboarding-refresh-tou-pin =
+    { PLATFORM() ->
+        [macos] { -brand-short-name } im Dock belassen
+       *[other] Fügen Sie { -brand-short-name } zu Ihrer Taskleiste hinzu
+    }
+onboarding-refresh-tou-default-unchecked = Behalten Sie den integrierten Schutz bei jedem Surfen
+onboarding-refresh-tou-pin-unchecked = Den einzigen großen unabhängigen Browser immer griffbereit haben
+onboarding-refresh-terms-of-use-with-links = Indem Sie fortfahren, stimmen Sie den <a data-l10n-name="terms_of_use">{ -brand-product-name }-Nutzungsbedingungen</a> und unserem <a data-l10n-name="privacy_notice">Datenschutzhinweis zu </a>. { -brand-product-name } sendet Diagnose- und Interaktionsdaten an { -vendor-short-name }, um den Browser zu verbessern.
+onboarding-refresh-data-collection-link = Einstellungen zur Datenerhebung verwalten
+onboarding-refresh-primary-button = Weiter
+onboarding-refresh-fro-import-body = Ihre persönlichen Daten bleiben privat. { -brand-product-name } wird sie niemals verkaufen.
+onboarding-refresh-fro-skip-button = Überspringen
+onboarding-refresh-fro-theme-header = Gestalten Sie Ihren Look
+onboarding-refresh-tab-layout-header = Probieren Sie ein anderes Tab-Layout aus
+onboarding-refresh-tab-layout-top = Oben
+onboarding-refresh-tab-layout-side = An der Seite
+onboarding-refresh-tab-layout-minimal = Minimalistisch
+
 ## Smart window switcher callout
 
 smartwindow-switcher-callout = Wechseln Sie jederzeit zwischen intelligenten und klassischen Fenstern.

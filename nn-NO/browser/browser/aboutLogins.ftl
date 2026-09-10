@@ -173,7 +173,7 @@ confirmation-dialog-cancel-button = Avbryt
 confirmation-dialog-dismiss-button =
     .title = Avbryt
 # Title for modal to confirm the removal of one saved password
-about-logins-confirm-delete-dialog-title = Vil du fjerne passordet?
+about-logins-confirm-delete-dialog-title = Fjerne passordet?
 # Message for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-message = Du kan ikkje angre denne handlinga.
 about-logins-confirm-remove-dialog-confirm-button = Fjern
@@ -195,7 +195,7 @@ about-logins-confirm-remove-all-dialog-checkbox-label2 =
 # Title for modal to confirm the removal of all saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-title2 =
     { $count ->
-        [one] Fjerne { $count } passord?
+        [one] Fjerne { $count } passordet?
        *[other] Fjerne alle { $count } passorda?
     }
 # Message for modal to confirm the removal of saved passwords when user is NOT synced

@@ -975,6 +975,8 @@ newtab-wallpaper-firefox-sitting-hill-dark = Ein Fuchs sitzt auf dunkelvioletten
 newtab-wallpaper-firefox-sitting-hill-light = Ein Fuchs sitzt auf hellen Hügeln
 newtab-wallpaper-firefox-peak-dark = Ein Fuchsgesicht am linken Rand auf einem dunklen Hintergrund
 newtab-wallpaper-firefox-peak-light = Ein Fuchsgesicht am linken Rand auf einem hellen Hintergrund
+newtab-wallpaper-firefox-sky-dark = Dunkelviolette Hügel unter nächtlichem Himmel
+newtab-wallpaper-firefox-sky-light = Leichte Hügel unter einem sanften Himmel
 
 ## Firefox
 

@@ -100,7 +100,7 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-title =
     { $total ->
-        [1] Fjerne passord?
+        [1] Fjerne passordet?
        *[other] Fjerne alle { $total } passorda?
     }
 # Checkbox label to confirm the removal of saved passwords
@@ -173,7 +173,7 @@ contextual-manager-passwords-radiobutton-all = Alle ({ $total })
 #   $total (number) - Total number of alerts
 contextual-manager-passwords-radiobutton-alerts = Varsel ({ $total })
 # This message is displayed to make sure that a user wants to delete an existing login.
-contextual-manager-passwords-remove-login-card-title = Vil du fjerne passordet?
+contextual-manager-passwords-remove-login-card-title = Fjerne passordet?
 # This message warns the user that deleting a login is permanent.
 contextual-manager-passwords-remove-login-card-message = Du kan ikkje angre dette.
 # This message gives the user an option to go back to the edit login form.

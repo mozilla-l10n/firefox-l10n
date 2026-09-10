@@ -551,11 +551,23 @@ onboarding-refresh-tou-pin =
     }
 onboarding-refresh-tou-default-unchecked = 탐색할 때마다 내장된 보호 기능으로 안전하게
 onboarding-refresh-tou-pin-unchecked = 클릭 한 번으로 유일한 주요 독립 브라우저를 만나보세요
+onboarding-refresh-terms-of-use-with-links = 계속하시면 <a data-l10n-name="terms_of_use">{ -brand-product-name } 이용 약관</a>과 <a data-l10n-name="privacy_notice">개인정보처리방침</a>에 동의하게 됩니다. 브라우저 개선을 위해 { -brand-product-name }는 진단 및 상호 작용 데이터를 { -vendor-short-name }에 보냅니다.
 onboarding-refresh-data-collection-link = 데이터 수집 설정 관리
 onboarding-refresh-primary-button = 계속
 onboarding-refresh-fro-import-header = 데이터 가져오기
 onboarding-refresh-fro-import-body = 개인 정보는 철저히 보호됩니다. { -brand-product-name }는 이를 판매하지 않습니다.
 onboarding-refresh-fro-skip-button = 건너뛰기
+onboarding-refresh-fro-theme-header = 나만의 스타일로 꾸며 보세요
+onboarding-refresh-tab-layout-header = 다른 탭 레이아웃 사용해보기
+onboarding-refresh-tab-layout-top = 위에
+onboarding-refresh-tab-layout-side = 옆에
+onboarding-refresh-tab-layout-minimal = 미니멀
+# Tooltip displayed on hover for minimal tabs image
+onboarding-minimal-tabs-tooltip =
+    .title = 화면 가장자리를 따라 탭이 미니멀 사이드바 안에 작은 아이콘으로 표시된 브라우저 창
+# Description for minimal tabs image
+onboarding-minimal-tabs-description =
+    .aria-description = 화면 가장자리를 따라 탭이 미니멀 사이드바 안에 작은 아이콘으로 표시된 브라우저 창
 
 ## Smart window switcher callout
 

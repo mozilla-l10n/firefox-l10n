@@ -293,7 +293,7 @@ website-add-language-button =
 choose-button =
     .label = Izvēlēties...
     .accesskey = v
-choose-browser-language-description = Izvēlieties, kurā valodā { -brand-short-name } rādīt izvēlnes un paziņojumus.
+choose-browser-language-description = Izvēlies valodu, kurā { -brand-short-name } rādīt izvēlnes, ziņojumus un paziņojumus.
 manage-browser-languages-button =
     .label = Iestatīt alternatīvas...
     .accesskey = l
@@ -1048,6 +1048,7 @@ addressbar-locbar-quickactions-option =
 ## Privacy Section - Content Blocking
 
 content-blocking-enhanced-tracking-protection = Uzlabotā pretizsekošanas aizsardzība
+content-blocking-section-top-level-description = Izsekotāji seko Tev tiešsaistē, lai apkopotu informāciju par Taviem pārlūkošanas paradumiem un interesēm. { -brand-short-name } aiztur daudzus no šiem izsekotājiem un citiem ļaunprātīgiem skriptiem.
 content-blocking-learn-more = Uzzināt vairāk
 content-blocking-fpi-incompatibility-warning = Tu izmantojat First Party Isolation (FPI), kas pārraksta dažus no { -brand-short-name } sīkdatņu iestatījumiem.
 # There is no need to translate "Resist Fingerprinting (RFP)". This is a

@@ -42,9 +42,9 @@ graph-today = Šodien
 # This string is used to describe the graph for screenreader users.
 graph-legend-description = Diagramma, kurā ir norādīts katra šonedēļ bloķētā izsekotāja veida kopējais skaits.
 social-tab-title = Sociālo tīklu izsekotāji
-social-tab-contant = Sociālie tīkli izvieto izsekotājus citās vietnēs, lai sekotu līdzi tam, ko darāt, redzat un skatāties tiešsaistē. Tas ļauj sociālo mediju uzņēmumiem uzzināt vairāk par jums — ne tikai to, ar ko dalāties savos sociālo mediju profilos. <a data-l10n-name="learn-more-link">Uzziniet vairāk</a>
+social-tab-contant = Sabiedriskie tīkli izvieto izsekotājus citās tīmekļvietnēs, lai sekotu līdzi tam, ko dari, redzi un skaties tiešsaistē. Tas ļauj sabiedrisko mediju uzņēmumiem uzzināt vairāk par Tevi — ne tikai to, ar ko dalies savos sabiedrisko mediju profilos. <a data-l10n-name="learn-more-link">Uzzināt vairāk</a>
 cookie-tab-title = Starpvietņu izsekošanas sīkdatnes
-cookie-tab-content = Šīs sīkdatnes seko jums no vietnes uz vietni, lai ievāktu datus par to, ko jūs darāt tiešsaistē. Tos uzliek trešās puses, piemēram, reklāmdevēji un analītikas uzņēmumi. Bloķējot starpvietņu izsekošanas sīkdatnes, tiek samazināts jums sekojošo reklāmu skaits. <a data-l10n-name="learn-more-link">Uzziniet vairāk</a>
+cookie-tab-content = Šīs sīkdatnes seko Tev no vietnes uz vietni, lai ievāktu datus par to, ko dari tiešsaistē. Tās uzstāda trešās puses, piemēram, reklāmdevēji un izpētes uzņēmumi. Starpvietņu izsekošanas sīkdatņu aizturēšana samazina Tev sekojošo reklāmu skaitu. <a data-l10n-name="learn-more-link">Uzzināt vairāk</a>
 tracker-tab-title = Izsekošanas saturs
 tracker-tab-description = Vietnes var ielādēt ārējas reklāmas, videoklipus un citu saturu ar izsekošanas kodu. Izsekošanas satura liegšana var palīdzēt vietnēm ielādēties ātrāk, taču dažas pogas, veidlapas un pieteikšanās lauki var nedarboties. <a data-l10n-name="learn-more-link">Uzzināt vairāk</a>
 fingerprinter-tab-title = Ciparnospiedumi
@@ -179,42 +179,42 @@ monitor-resolve-breaches-link = Atrisināt noplūdes
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
 bar-tooltip-social =
-    .title = Sociālo mediju izsekotāji
     .aria-label =
         { $count ->
             [zero] { $count } sociālo mediju izsekotājs ({ $percentage }%)
             [one] { $count }sociālo mediju izsekotāji ({ $percentage }%)
            *[other] { $count } sociālo mediju izsekotāju ({ $percentage }%)
         }
+    .title = Sociālo mediju izsekotāji
 bar-tooltip-cookie =
-    .title = Starpvietņu izsekošanas sīkdatnes
     .aria-label =
         { $count ->
             [zero] { $count } starpvietņu izsekošanas sīkdatne ({ $percentage }%)
             [one] { $count } starpvietņu izsekošanas sīkdatnes ({ $percentage }%)
            *[other] { $count } starpvietņu izsekošanas sīkdatņu ({ $percentage }%)
         }
+    .title = Starpvietņu izsekošanas sīkdatnes
 bar-tooltip-tracker =
-    .title = Izsekošanas saturs
     .aria-label =
         { $count ->
             [zero] { $count } izsekošanas satura vienība ({ $percentage }%)
             [one] { $count } izsekošanas satura vienības ({ $percentage }%)
            *[other] { $count } izsekošanas satura vienību ({ $percentage }%)
         }
+    .title = Izsekošanas saturs
 bar-tooltip-fingerprinter =
-    .title = Ciparnospiedumi
     .aria-label =
         { $count ->
             [zero] { $count } ciparnospiedums ({ $percentage }%)
             [one] { $count } ciparnospiedumi ({ $percentage }%)
            *[other] { $count } ciparnospiedumu  ({ $percentage }%)
         }
+    .title = Ciparnospiedumi
 bar-tooltip-cryptominer =
-    .title = Kriptominētāji
     .aria-label =
         { $count ->
             [zero] { $count } kriptominētājs ({ $percentage }%)
             [one] { $count } kriptominētāji ({ $percentage }%)
            *[other] { $count } kriptominētāju ({ $percentage }%)
         }
+    .title = Kriptominētāji
