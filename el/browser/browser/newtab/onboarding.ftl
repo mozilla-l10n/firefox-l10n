@@ -549,12 +549,19 @@ onboarding-refresh-tou-pin =
 onboarding-refresh-data-collection-link = Διαχείριση ρυθμίσεων συλλογής δεδομένων
 onboarding-refresh-primary-button = Συνέχεια
 onboarding-refresh-fro-import-header = Εισαγάγετε τα δεδομένα σας
+onboarding-refresh-fro-import-body = Τα προσωπικά σας δεδομένα παραμένουν ιδιωτικά. Το { -brand-product-name } δεν πρόκειται ποτέ να τα πωλήσει.
 onboarding-refresh-fro-skip-button = Παράλειψη
 onboarding-refresh-fro-theme-header = Πειραματιστείτε με την εμφάνισή σας
 onboarding-refresh-tab-layout-header = Δοκιμάστε μια διαφορετική διάταξη καρτελών
 onboarding-refresh-tab-layout-top = Στο πάνω μέρος
 onboarding-refresh-tab-layout-side = Στο πλάι
 onboarding-refresh-tab-layout-minimal = Μινιμαλιστική
+# Tooltip displayed on hover for minimal tabs image
+onboarding-minimal-tabs-tooltip =
+    .title = Ένα παράθυρο προγράμματος περιήγησης που εμφανίζει τις καρτέλες ως μικρά εικονίδια κατά μήκος της πλευράς της οθόνης, σε μια ελαχιστοποιημένη πλαϊνή γραμμή.
+# Description for minimal tabs image
+onboarding-minimal-tabs-description =
+    .aria-description = Ένα παράθυρο προγράμματος περιήγησης που εμφανίζει τις καρτέλες ως μικρά εικονίδια κατά μήκος της πλευράς της οθόνης, σε μια ελαχιστοποιημένη πλαϊνή γραμμή.
 
 ## Smart window switcher callout
 

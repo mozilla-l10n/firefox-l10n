@@ -496,5 +496,6 @@ launch-options-spotlight-primary-button-launch = Αποθήκευση και σ�
 ## The button labels are fitted into narrow fixed-width buttons by
 ## Windows and therefore must be as narrow as possible.
 
+lapsed-user-toast-subtitle = Δείτε νέους τρόπους περιήγησης με περισσότερες επιλογές, απόρρητο και έλεγχο.
 lapsed-user-toast-whats-new-button = Δείτε τι νέο υπάρχει
 lapsed-user-toast-dismiss-button = Απόρριψη

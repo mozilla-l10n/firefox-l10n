@@ -996,6 +996,7 @@ newtab-wallpaper-firefox-sitting-hill-light = Liška, kotraž na swětłych hór
 newtab-wallpaper-firefox-peak-dark = Wobličo liški na lěwej kromje, na ćmowym pozadku
 newtab-wallpaper-firefox-peak-light = Wobličo liški na lěwej kromje, na swětłym pozadku
 newtab-wallpaper-firefox-sky-dark = Ćmowe wioletne hórki pod nócnym njebjom
+newtab-wallpaper-firefox-sky-light = Swětłe hórki pod miłym njebjom
 
 ## Firefox
 

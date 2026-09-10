@@ -4,6 +4,8 @@
 
 perm-persistent-storage-remember = Απομνημόνευση αυτής της απόφασης
 speech-recognition-model-download-header = Ρύθμιση αναγνώρισης ομιλίας;
+# $sizeMB (Number) - the model download size in MB.
+speech-recognition-model-download-message = Το { -brand-short-name } εκτελεί την αναγνώριση ομιλίας τοπικά, ώστε ο ήχος να μην φεύγει ποτέ από τη συσκευή σας. Για τη ρύθμιση αυτής της λειτουργίας, θα ξεκινήσει μια λήψη ~{ $sizeMB } MB μόλις συνεχίσετε.
 speech-recognition-model-download-allow =
     .label = Συνέχεια
     .accesskey = Σ

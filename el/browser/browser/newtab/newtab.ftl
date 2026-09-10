@@ -870,6 +870,14 @@ newtab-wallpaper-your-images-item = { $name }
 # Variables:
 #   $number (number) - Which saved image this is, counting from one
 newtab-wallpaper-your-images-item-numbered = Εικόνα { $number }
+# Each saved image has its own remove button. The tooltip stays short because
+# a name can be long and some locales put it before the verb, which would push
+# "remove" out of view. The full name is on the label a screen reader reads.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-remove-image =
+    .aria-label = Αφαίρεση του «{ $name }»
+    .title = Αφαίρεση εικόνας
 # The remove button for an image someone added themselves. .title is the
 # tooltip and .aria-label is what a screen reader reads.
 # Variables:
