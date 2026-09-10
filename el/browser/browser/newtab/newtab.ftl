@@ -966,6 +966,11 @@ newtab-wallpaper-light-fox-anniversary = Μια αλεπού μέσα σε γρ�
 ## Firefox wallpaper kept for them when it was retired.
 
 newtab-wallpaper-your-images = Οι εικόνες σας
+# Accessible name for the tile that opens the "Your images" folder in the
+# wallpaper picker. The tile shows one of the saved images and has no text of
+# its own, so this is all a screen reader has to go on.
+newtab-wallpaper-your-images-folder =
+    .aria-label = Οι εικόνες σας, ταπετσαρίες που έχετε αποθηκεύσει
 # Read by screen readers for a saved image that has a name of its own: a kept
 # Picture of the Day, or a Firefox wallpaper kept when it was retired. An image
 # someone added themselves is numbered instead, see the string below.
@@ -1054,6 +1059,15 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox wallpaper descriptions used for screen readers
+
+newtab-wallpaper-firefox-orange = Μια αλεπού στη δεξιά άκρη με πορτοκαλί φόντο
+newtab-wallpaper-firefox-colorful-sky = Πορτοκαλί κύματα σε έναν μοβ νυχτερινό ουρανό
+newtab-wallpaper-firefox-desert-dark = Μια αλεπού καθισμένη σε μια σκούρα μοβ έρημο
+newtab-wallpaper-firefox-desert-light = Μια αλεπού που τρέχει σε μια ανοιχτόχρωμη έρημο
+newtab-wallpaper-firefox-hills-dark = Μια αλεπού που τρέχει πάνω από σκουρόχρωμους λόφους
+newtab-wallpaper-firefox-hills-light = Μια αλεπού που τρέχει πάνω από ανοιχτόχρωμους λόφους
 
 ## Firefox
 

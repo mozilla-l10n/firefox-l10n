@@ -20,6 +20,17 @@ colorpicker-tooltip-hue-slider-title = Απόχρωση
 colorpicker-tooltip-alpha-slider-title = Αδιαφάνεια
 # A text for the toggle for the element-specific pseudo-classes panel.
 inspector-element-specific-pseudo-classes-heading = Ψευδοκλάσεις συγκεκριμένου στοιχείου
+# A title text for the button in the Inspector toolbar that opens the menu
+# controlling how the Inspector panels are split.
+inspector-split-orientation-button-title = Διάταξη πινάκων
+# A label for the split orientation menu item that switches the layout
+# automatically based on the panel width.
+inspector-split-orientation-auto = Αυτόματα
+# A label for the split orientation menu item that locks the panels side by side.
+inspector-split-orientation-side-by-side = Δίπλα δίπλα
+# A label for the split orientation menu item that locks the panels on top of
+# each other.
+inspector-split-orientation-stacked = Σε στοίβα
 # A title text for the light color scheme emulation options
 inspector-color-scheme-emulation-light =
     .title = Εναλλαγή εξομοίωσης ανοιχτόχρωμου συνόλου χρωμάτων σελίδας

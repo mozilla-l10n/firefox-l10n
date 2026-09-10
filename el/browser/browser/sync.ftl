@@ -75,6 +75,11 @@ fxa-menu-signed-out-sign-in-button =
 fxa-menu-signed-out-message-login-failed = Έχετε αποσυνδεθεί
 # Reason shown when the remembered account still needs to verify their email.
 fxa-menu-signed-out-message-unverified = Ολοκλήρωση ρύθμισης
+# Shown by the same card, and by the app menu's sign-in row, once the user has
+# signed out - the account they signed out of can no longer be identified, so
+# this copy stands in for the email.
+fxa-menu-signed-out-title = Σύνδεση για συγχρονισμό
+fxa-menu-signed-out-description = Έχετε αποσυνδεθεί
 fxa-avatar-sign-in = Σύνδεση
 fxa-avatar-sign-up = Εγγραφή
 fxa-avatar-tooltip =
