@@ -6,8 +6,8 @@
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
 
-protections-popup-footer-protection-label-strict = Strikts
-    .label = Strikts
+protections-popup-footer-protection-label-strict = Stingrs
+    .label = Stingrs
 protections-popup-footer-protection-label-custom = Pielāgots
     .label = Pielāgots
 protections-popup-footer-protection-label-standard = Standarta

@@ -1048,9 +1048,8 @@ addressbar-locbar-quickactions-option =
 ## Privacy Section - Content Blocking
 
 content-blocking-enhanced-tracking-protection = Uzlabotā pretizsekošanas aizsardzība
-content-blocking-section-top-level-description = Izsekotāji seko jums tiešsaistē, lai apkopotu informāciju par jūsu pārlūkošanas paradumiem un interesēm. { -brand-short-name } bloķē daudzus no šiem izsekotājiem un citiem ļaunprātīgiem skriptiem.
 content-blocking-learn-more = Uzzināt vairāk
-content-blocking-fpi-incompatibility-warning = Jūs izmantojat First Party Isolation (FPI), kas ignorē dažus { -brand-short-name } sīkdatņu iestatījumus.
+content-blocking-fpi-incompatibility-warning = Tu izmantojat First Party Isolation (FPI), kas pārraksta dažus no { -brand-short-name } sīkdatņu iestatījumiem.
 # There is no need to translate "Resist Fingerprinting (RFP)". This is a
 # feature that can only be enabled via about:config, and it's not exposed to
 # standard users (e.g. via Settings).
@@ -1064,7 +1063,7 @@ enhanced-tracking-protection-setting-standard =
     .label = Standarta
     .accesskey = d
 enhanced-tracking-protection-setting-strict =
-    .label = Strikts
+    .label = Stingrs
     .accesskey = r
 enhanced-tracking-protection-setting-custom =
     .label = Pielāgots
@@ -1074,7 +1073,7 @@ enhanced-tracking-protection-setting-custom =
 
 content-blocking-etp-standard-desc = Līdzsvarots aizsardzībai un veiktspējai. Lapas tiks ielādētas kā parasti.
 content-blocking-etp-strict-desc = Spēcīgāka aizsardzība, bet var salauzt dažas vietnes vai saturu.
-content-blocking-etp-custom-desc = Izvēlieties, kurus izsekotājus un skriptus bloķēt.
+content-blocking-etp-custom-desc = Izvēlies, kurus izsekotājus un skriptus aizturēt.
 content-blocking-etp-blocking-desc = { -brand-short-name } bloķē sekojošo:
 content-blocking-private-windows = Izsekojošs saturs privātajos logos
 content-blocking-cross-site-cookies-in-all-windows2 = Starpvietņu sīkdatnes visos logos
@@ -1104,7 +1103,7 @@ content-blocking-convenience-exceptions-3 =
     .description = Atjauno tādas lietas kā rakstā vai piebilžu sadaļā esošus video, atceļot elementu, kuri var saturēt izsekotājus, aizturēšanu. Tas var samazināt nepilnības ar vietnēm, bet sniedz mazāku aizsardzību. Jāizmanto kopā ar būtisku nepilnību labojumiem.
     .label = Novērst niecīgas vietņu nepilnības
 content-blocking-baseline-uncheck-warning-dialog-title = Vai tiešām izslēgt labojumus?
-content-blocking-reload-description = Lai šīs izmaiņas stātos spēkā, jums būs jāpārlādē cilnes.
+content-blocking-reload-description = Būs nepieciešams pārlādēt cilnes, lai pielietotu šīs izmaiņas.
 content-blocking-reload-tabs-button =
     .label = Pārlādēt visas cilnes
     .accesskey = r

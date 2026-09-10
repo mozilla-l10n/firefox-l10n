@@ -117,9 +117,17 @@ site-exclusion-toggle-enabled-1 =
     .aria-label = VPN er på for denne nettstaden
     .label = Bruk VPN for denne nettstaden
 site-exclusion-toggle-disabled-1 =
-    .aria-label = VPN er av for denne nettstaden
-    .label = Bruk VPN for denne nettstaden
+    .aria-label = VPN er av på denne nettstaden
+    .label = Bruk VPN på denne nettstaden
 site-exclusion-toggle-description = Fungerer ikkje nettstaden? Prøv å slå av VPN.
+# Manages rules for VPN to turn on or off automatically for certain websites
+site-rules-manage-rules-link-text = Handsam VPN-reglar
+# Heading for user defined rules on VPN usage for particular websites
+site-rules-status-heading = Din regel
+# Used in the panel when a user navigates to a site where the VPN is off due to a site exclusion
+site-rules-description-exclusion = VPN er av på denne nettstaden
+# Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
+site-rules-description-inclusion = VPN er på på denne nettstaden
 ipprotection-settings-link =
     .label = Innstillingar
 
@@ -138,8 +146,8 @@ ipprotection-connection-status-connected-1 = VPN er på
     .aria-label = VPN er på
 ipprotection-connection-status-disconnected-1 = VPN er av
     .aria-label = VPN er av
-ipprotection-connection-status-excluded-1 = VPN er av for denne nettstaden
-    .aria-label = VPN er av for denne nettstaden
+ipprotection-connection-status-excluded-1 = VPN er av på denne nettstaden
+    .aria-label = VPN er av på denne nettstaden
 ipprotection-connection-status-connecting-1 = VPN koplar til …
     .aria-label = VPN koplar til …
 
@@ -208,7 +216,7 @@ ipprotection-message-bandwidth-warning-mb =
 ipprotection-message-continuous-onboarding-intro = Slå på VPN for å skjule plasseringa di og leggje til ekstra kryptering i nettlesinga di.
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Still inn VPN til å slå seg på</a> kvar gong du opnar { -brand-short-name } for eit ekstra lag med vern.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } hugsar kva nettstadar du har stilt inn til å bruke VPN. Oppdater desse i <a data-l10n-name="setting-link">innstillingar</a> når som helst.
-confirmation-hint-ipprotection-navigated-to-excluded-site = VPN er av for denne nettstaden
+confirmation-hint-ipprotection-navigated-to-excluded-site = VPN er av på denne nettstaden
 ipprotection-open-button = Opne { -brand-product-name }
 ipprotection-come-back-title = Kom tilbake for å prøve innebygd VPN
 ipprotection-message-body-hide-location = Skjul plasseringa di når du surfar med { -brand-product-name } for meir personvern og kontroll.

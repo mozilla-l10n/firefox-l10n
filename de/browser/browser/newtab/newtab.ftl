@@ -961,6 +961,20 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+newtab-wallpaper-firefox-orange = Ein Fuchs am rechten Bildrand vor orangefarbenem Hintergrund
+newtab-wallpaper-firefox-colorful-sky = Orangefarbene Wogen über einem violetten Nachthimmel
+newtab-wallpaper-firefox-desert-dark = Ein Fuchs sitzt in einer dunkelvioletten Wüste
+newtab-wallpaper-firefox-desert-light = Ein Fuchs läuft durch eine helle Wüste
+newtab-wallpaper-firefox-hills-dark = Ein Fuchs läuft über dunkle Hügel
+newtab-wallpaper-firefox-hills-light = Ein Fuchs läuft über helle Hügel
+newtab-wallpaper-firefox-tail-dark = Fuchsschweif vor dunklem Hintergrund
+newtab-wallpaper-firefox-tail-light = Ein Fuchsschwanz vor hellem Hintergrund
+newtab-wallpaper-firefox-side-kit-dark = Ein Fuchs auf der linken Seite auf einem dunklen Hintergrund
+newtab-wallpaper-firefox-side-kit-light = Ein Fuchs auf der linken Seite auf einem hellen Hintergrund
+newtab-wallpaper-firefox-sitting-hill-dark = Ein Fuchs sitzt auf dunkelvioletten Hügeln
+newtab-wallpaper-firefox-sitting-hill-light = Ein Fuchs sitzt auf hellen Hügeln
+newtab-wallpaper-firefox-peak-dark = Ein Fuchsgesicht am linken Rand auf einem dunklen Hintergrund
+newtab-wallpaper-firefox-peak-light = Ein Fuchsgesicht am linken Rand auf einem hellen Hintergrund
 
 ## Firefox
 

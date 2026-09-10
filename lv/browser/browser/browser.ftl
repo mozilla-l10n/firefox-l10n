@@ -354,6 +354,8 @@ quickactions-translate = Tulkot
 quickactions-cmd-translate = tulkot
 # Opens about:preferences
 quickactions-settings2 = Pārvaldīt iestatījumus
+# "manage" should match the corresponding command, which is “Manage settings” in English.
+quickactions-cmd-settings2 = iestatījumi, preferences, iespējas, pārvaldīt
 # Opens about:addons page in the themes section
 quickactions-themes = Pārvaldīt motīvus
 # In English we provide multiple spellings for "add-ons". If that's not

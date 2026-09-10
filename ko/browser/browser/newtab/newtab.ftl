@@ -924,6 +924,22 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+newtab-wallpaper-firefox-orange = 주황색 배경의 오른쪽 가장자리에 있는 여우
+newtab-wallpaper-firefox-colorful-sky = 보라색 밤하늘을 가로지르는 주황색 물결
+newtab-wallpaper-firefox-desert-dark = 어두운 보라색 사막에 앉아 있는 여우
+newtab-wallpaper-firefox-desert-light = 밝은 사막을 가로질러 달리는 여우
+newtab-wallpaper-firefox-hills-dark = 어두운 언덕 위를 달리는 여우
+newtab-wallpaper-firefox-hills-light = 밝은 언덕 위를 달리는 여우
+newtab-wallpaper-firefox-tail-dark = 어두운 배경 위의 여우 꼬리
+newtab-wallpaper-firefox-tail-light = 밝은 배경 위의 여우 꼬리
+newtab-wallpaper-firefox-side-kit-dark = 어두운 배경의 왼쪽에 있는 여우
+newtab-wallpaper-firefox-side-kit-light = 밝은 배경의 왼쪽에 있는 여우
+newtab-wallpaper-firefox-sitting-hill-dark = 어두운 보라색 언덕에 앉아 있는 여우
+newtab-wallpaper-firefox-sitting-hill-light = 밝은 언덕에 앉아 있는 여우
+newtab-wallpaper-firefox-peak-dark = 어두운 배경의 왼쪽 가장자리에 있는 여우 얼굴
+newtab-wallpaper-firefox-peak-light = 밝은 배경의 왼쪽 가장자리에 있는 여우 얼굴
+newtab-wallpaper-firefox-sky-dark = 밤하늘 아래 어두운 보라색 언덕
+newtab-wallpaper-firefox-sky-light = 부드러운 하늘 아래 밝은 언덕
 
 ## Firefox
 

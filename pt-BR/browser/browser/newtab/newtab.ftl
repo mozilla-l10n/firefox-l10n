@@ -971,8 +971,11 @@ newtab-wallpaper-firefox-tail-dark = Um rabo de raposa com fundo escuro
 newtab-wallpaper-firefox-tail-light = Um rabo de raposa com fundo claro
 newtab-wallpaper-firefox-side-kit-dark = Uma raposa à esquerda com fundo escuro
 newtab-wallpaper-firefox-side-kit-light = Uma raposa do lado esquerdo com fundo claro
-newtab-wallpaper-firefox-sitting-hill-dark = Uma raposa sentada sobre montes roxo escuros
+newtab-wallpaper-firefox-sitting-hill-dark = Uma raposa sentada sobre montes roxo escuro
 newtab-wallpaper-firefox-sitting-hill-light = Uma raposa sentada sobre montes claros
+newtab-wallpaper-firefox-peak-dark = Rosto de raposa no canto esquerdo com fundo escuro
+newtab-wallpaper-firefox-peak-light = Rosto de raposa no canto esquerdo com fundo claro
+newtab-wallpaper-firefox-sky-dark = Montes roxo escuro sob um céu noturno
 
 ## Firefox
 

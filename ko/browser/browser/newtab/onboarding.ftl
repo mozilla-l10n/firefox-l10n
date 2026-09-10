@@ -538,6 +538,25 @@ onboarding-refresh-gratitude-subtitle = 비영리 단체가 지원하는 유일�
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name }가 사용자를 지켜드립니다
 
+## First Run Onboarding refresh strings
+
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-splash-screen-title = { -brand-product-name }는 언제나 여러분과 함께합니다, 지금 시작하세요
+onboarding-refresh-hero-text = 추적이 아닌 사용자를 보호하기 위해 제작되었습니다.
+onboarding-refresh-tou-default = { -brand-short-name }로 모든 링크 열기
+onboarding-refresh-tou-pin =
+    { PLATFORM() ->
+        [macos] Dock에 { -brand-short-name } 보관
+       *[other] 작업 표시줄에 { -brand-short-name } 추가
+    }
+onboarding-refresh-tou-default-unchecked = 탐색할 때마다 내장된 보호 기능으로 안전하게
+onboarding-refresh-tou-pin-unchecked = 클릭 한 번으로 유일한 주요 독립 브라우저를 만나보세요
+onboarding-refresh-data-collection-link = 데이터 수집 설정 관리
+onboarding-refresh-primary-button = 계속
+onboarding-refresh-fro-import-header = 데이터 가져오기
+onboarding-refresh-fro-import-body = 개인 정보는 철저히 보호됩니다. { -brand-product-name }는 이를 판매하지 않습니다.
+onboarding-refresh-fro-skip-button = 건너뛰기
+
 ## Smart window switcher callout
 
 smartwindow-switcher-callout = 언제든지 스마트 창과 일반 창 간에 전환할 수 있습니다.

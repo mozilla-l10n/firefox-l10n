@@ -26,7 +26,7 @@ printui-scale-pcent = Mērogs
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = Abpusējā drukāšana
 # Section title for miscellaneous print options
-printui-options = Opcijas
+printui-options = Iespējas
 
 ##
 

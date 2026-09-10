@@ -58,7 +58,7 @@ fxviewtabrow-unmute-tab = Atjaunot skaņu cilnei
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
-    .title = Opcijas cilnei { $tabTitle }
+    .title = { $tabTitle } iespējas
 
 ## The following strings are for displaying elements in Firefox View to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
 

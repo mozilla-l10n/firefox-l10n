@@ -132,8 +132,8 @@ newtab-stocks-menu-learn-more = Uzzināt vairāk
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-stocks-widget-menu-button =
-    .aria-label = Akciju logrīka opcijas
-    .title = Akciju logrīka opcijas
+    .aria-label = Akciju logrīka iespējas
+    .title = Akciju logrīka iespējas
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Akcijas
