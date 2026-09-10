@@ -319,11 +319,6 @@ appmenu-about =
 appmenu-referrals2 =
     .label = Emoherakuã { -brand-product-name }
     .accesskey = r
-# This menu item opens the referral page, where the user can invite others to
-# use the browser. "Share" here means recommending or referring the browser
-appmenu-referrals =
-    .label = Emoherakuã { -brand-shorter-name }
-    .accesskey = r
 appmenu-get-help =
     .label = Eguereko ñepytyvõ
     .accesskey = h
@@ -435,8 +430,6 @@ fxa-menu-create-profile-learn-more =
     .label = ¿Mba’e umi mba’eteita?
 # Button in the account menu that links to the Referrals page
 appmenuitem-share-firefox-title2 = Emoherakuã { -brand-product-name }
-# Button in the account menu that links to the Referrals page
-appmenuitem-share-firefox-title = Emoherakuã { -brand-short-name }
 appmenuitem-share-firefox-description = Eipepirũ peteĩape toiporavo kundahára omotenondéva tekoñemi
 appmenu-profiles-2 =
     .label = Mba’etekuéra

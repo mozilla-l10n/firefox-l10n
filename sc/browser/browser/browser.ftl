@@ -1124,7 +1124,7 @@ urlbar-result-action-switch-to-tabgroup = Passa a { $group }
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Aberi { $group }
 
-## Used in the context menu in urlbar view.
+## Used in the menu of a urlbar result.
 
 urlbar-view-context-menu-open-in-tab =
     .label = Aberi in un’ischeda noa

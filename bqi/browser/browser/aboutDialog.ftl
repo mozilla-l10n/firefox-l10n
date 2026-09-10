@@ -69,7 +69,6 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-shor
 community-2 = { -brand-short-name } و دست <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label> تراهی وابیڌه ک <label data-l10n-name="community-creditsLink">یکاگری جهۊوی</label> ز آڌومیلی هڌ ک سی وب واز، پوی وولاتی وو من دسرس سی پوی کار اکونن.
 helpus = اخۊین هیاری کۊنین؟ <label data-l10n-name="helpus-donateLink">هیاری نقدی</label> یا <label data-l10n-name="helpus-getInvolvedLink">بنین پا مشارکت!</label>
 helpus-referrals2 = اخۊین هیاری بڌین؟ <label data-l10n-name="helpus-donateLink">هیاری مالی بڌین</label>, <label data-l10n-name="helpus-shareFirefoxLink">{ -brand-product-name } ن یک رسۊوی کۊنین</label>یا، <label data-l10n-name="helpus-getInvolvedLink">موشارکت کۊنین!</label>
-helpus-referrals = اخۊین هیاری بڌین؟ <label data-l10n-name="helpus-donateLink">هیاری مالی بڌین</label>, <label data-l10n-name="helpus-shareFirefoxLink">{ -brand-short-name } ن یک رسۊوی کۊنین</label>یا، <label data-l10n-name="helpus-getInvolvedLink">موشارکت کۊنین!</label>
 bottomLinks-license = دووسمندیا موجوز
 bottom-links-terms = شرتا و کار گرؽڌن
 bottom-links-privacy = نوکات زفت مهرمووه ای

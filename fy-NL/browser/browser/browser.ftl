@@ -1147,7 +1147,7 @@ urlbar-result-action-switch-to-tabgroup = Wikselje nei { $group }
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = { $group } iepenje
 
-## Used in the context menu in urlbar view.
+## Used in the menu of a urlbar result.
 
 urlbar-view-context-menu-open-in-tab =
     .label = Iepenje yn nij ljepblêd

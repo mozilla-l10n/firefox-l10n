@@ -16,10 +16,6 @@ menu-application-set-as-default =
 # use the browser. "Share" here means recommending or referring the browser
 menu-application-referrals2 =
     .label = Мубодила кардани «{ -brand-product-name }»
-# This menu item opens the referral page, where the user can invite others to
-# use the browser. "Share" here means recommending or referring the browser
-menu-application-referrals =
-    .label = Мубодила кардани «{ -brand-shorter-name }»
 menu-application-services =
     .label = Хизматҳо
 menu-application-hide-this =

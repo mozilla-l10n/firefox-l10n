@@ -584,7 +584,7 @@ newtab-wallpaper-abstract-purple-green = Sfumadure di lûs viole e verde
 newtab-wallpaper-abstract-blue-purple-waves = Formis ondadis blu e viole
 newtab-wallpaper-abstract-black-waves = Formis ondadis neris
 
-## Firefox
+## Firefox wallpaper descriptions used for screen readers
 
 newtab-wallpaper-category-title-photographs = Fotografiis
 newtab-wallpaper-beach-at-sunrise = Splaze al cricâ dal dì
@@ -613,6 +613,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox
+
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial

@@ -79,11 +79,6 @@ neterror-search-cta-learn-more = Læs mere
 neterror-pref-reset = Det ser ud til, at dine indstillinger for netværkssikkerhed forårsager dette. Vil du gendanne til standard-indstillinger?
 neterror-error-reporting-automatic = Indberet automatisk fejl som denne for at hjælpe { -vendor-short-name } med at identificere og blokere ondsindede websteder.
 
-## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
-## environment variable is set, which causes { -brand-short-name } to log TLS
-## session keys that can be used to decrypt encrypted network traffic.
-
-
 ## Specific error messages
 
 neterror-generic-error = { -brand-short-name } kan ikke indlæse denne side af en eller anden grund.

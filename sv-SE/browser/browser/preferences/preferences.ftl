@@ -2841,15 +2841,6 @@ security-privacy-issue-warning-proxy-autodetection =
 
 # The header in settings with link to the referral page, where the user can invite others to
 # use the browser. "Share" here means recommending or referring the browser
-referrals-section-header =
-    .description = Bjud in någon att välja webbläsaren som sätter integriteten först.
-    .label = Dela { -brand-short-name }
-# Link that opens the referral page, where the user can invite others to
-# use the browser. "Share" here means recommending or referring the browser
-referrals-link =
-    .label = Dela { -brand-short-name }
-# The header in settings with link to the referral page, where the user can invite others to
-# use the browser. "Share" here means recommending or referring the browser
 referrals-section-header2 =
     .description = Bjud in någon att välja webbläsaren som sätter integriteten först.
     .label = Dela { -brand-product-name }

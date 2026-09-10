@@ -2861,15 +2861,6 @@ security-privacy-issue-warning-proxy-autodetection =
 
 # The header in settings with link to the referral page, where the user can invite others to
 # use the browser. "Share" here means recommending or referring the browser
-referrals-section-header =
-    .description = Gwahoddwch rywun i ddewis y porwr sy'n blaenoriaethu preifatrwydd.
-    .label = Rhannu { -brand-short-name }
-# Link that opens the referral page, where the user can invite others to
-# use the browser. "Share" here means recommending or referring the browser
-referrals-link =
-    .label = Rhannu { -brand-short-name }
-# The header in settings with link to the referral page, where the user can invite others to
-# use the browser. "Share" here means recommending or referring the browser
 referrals-section-header2 =
     .description = Gwahoddwch rywun i ddewis y porwr sy'n blaenoriaethu preifatrwydd.
     .label = Rhannu { -brand-product-name }

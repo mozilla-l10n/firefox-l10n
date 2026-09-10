@@ -212,10 +212,6 @@ action-log-checking-memories = Anılar kontrol ediliyor
 action-log-checked-memories = Anılar kontrol edildi
 action-log-searching-settings = Ayarlar aranıyor
 action-log-searched-settings = Ayarlar arandı
-action-log-searching-world-cup-matches = Dünya Kupası maçları aranıyor
-action-log-searched-world-cup-matches = Dünya Kupası maçları arandı
-action-log-checking-world-cup-live = Canlı Dünya Kupası maçları kontrol ediliyor
-action-log-checked-world-cup-live = Canlı Dünya Kupası maçları kontrol edildi
 # Variables
 #   $count (Number) - how many tool steps completed in the turn
 action-log-completed-steps =

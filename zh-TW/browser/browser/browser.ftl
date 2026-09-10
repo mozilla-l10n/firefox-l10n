@@ -1131,7 +1131,7 @@ urlbar-result-action-switch-to-tabgroup = 切換到 { $group }
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = 開啟 { $group }
 
-## Used in the context menu in urlbar view.
+## Used in the menu of a urlbar result.
 
 urlbar-view-context-menu-open-in-tab =
     .label = 用新分頁開啟

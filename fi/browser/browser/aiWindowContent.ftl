@@ -212,10 +212,6 @@ action-log-checking-memories = Tarkistetaan muistoja
 action-log-checked-memories = Tarkistettiin muistot
 action-log-searching-settings = Etsitään asetuksia
 action-log-searched-settings = Etsittiin asetukset
-action-log-searching-world-cup-matches = Etsitään MM-otteluita
-action-log-searched-world-cup-matches = Etsittiin MM-ottelut
-action-log-checking-world-cup-live = Tarkistetaan suoria MM-otteluita
-action-log-checked-world-cup-live = Tarkistettiin suorat MM-ottelut
 # Variables
 #   $count (Number) - how many tool steps completed in the turn
 action-log-completed-steps =

@@ -364,8 +364,6 @@ newtab-privacy-message-first-protection-cta = Dyma'r diogelwch
 
 ## Strings for the Stocks widget
 
-# Context menu item for searching stock ticker symbols.
-newtab-stocks-menu-search = Chwilio symbolau'r ticiwr
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Dysgu rhagor
 # Shown in the Stocks widget when its data could not be loaded.
@@ -1091,7 +1089,7 @@ newtab-wallpaper-abstract-purple-green = Graddiant golau porffor a gwyrdd
 newtab-wallpaper-abstract-blue-purple-waves = Siapiau tonnog glas a phorffor
 newtab-wallpaper-abstract-black-waves = Siapiau tonnog du
 
-## Firefox
+## Firefox wallpaper descriptions used for screen readers
 
 newtab-wallpaper-category-title-photographs = Ffotograffau
 newtab-wallpaper-beach-at-sunrise = Traeth ar godiad haul
@@ -1120,6 +1118,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox
+
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial

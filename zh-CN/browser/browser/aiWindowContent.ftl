@@ -156,10 +156,6 @@ action-log-checking-memories = 正在检查记忆
 action-log-checked-memories = 已检查记忆
 action-log-searching-settings = 正在搜索设置
 action-log-searched-settings = 已搜索设置
-action-log-searching-world-cup-matches = 正在搜索世界杯比赛
-action-log-searched-world-cup-matches = 已搜索世界杯比赛
-action-log-checking-world-cup-live = 正在搜索进行中的世界杯比赛
-action-log-checked-world-cup-live = 已搜索进行中的世界杯比赛
 # Variables
 #   $count (Number) - how many tool steps completed in the turn
 action-log-completed-steps = 已完成 { $count } 个步骤

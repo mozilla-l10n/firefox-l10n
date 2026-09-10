@@ -212,10 +212,6 @@ action-log-checking-memories = Memoraĵoj kontrolataj
 action-log-checked-memories = Memoraĵoj kontrolitaj
 action-log-searching-settings = Agordoj serĉataj
 action-log-searched-settings = Agordoj serĉitaj
-action-log-searching-world-cup-matches = Mondpokalaj ludoj serĉataj
-action-log-searched-world-cup-matches = Mondpokalaj ludoj serĉitaj
-action-log-checking-world-cup-live = Nuntempaj mondpokalaj ludoj kontrolataj
-action-log-checked-world-cup-live = Nuntempaj mondpokalaj ludoj kontrolitaj
 # Variables
 #   $count (Number) - how many tool steps completed in the turn
 action-log-completed-steps =

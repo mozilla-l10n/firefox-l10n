@@ -74,11 +74,6 @@ neterror-search-cta-learn-more = Uzzināt vairāk
 neterror-pref-reset = Izskatās, ka jūsu tīkla drošības iestatījumi varētu bū pie vainas. Vai vēlaties atjaunot noklusētos iestatījumus?
 neterror-error-reporting-automatic = Ziņojiet par šādām kļūdām { -vendor-short-name }, lai varētu identificēt un bloķēt kaitnieciskas lapas
 
-## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
-## environment variable is set, which causes { -brand-short-name } to log TLS
-## session keys that can be used to decrypt encrypted network traffic.
-
-
 ## Specific error messages
 
 neterror-generic-error = Kāda nezināma iemesla dēļ { -brand-short-name } nevar atvērt šo lapu.
@@ -88,17 +83,6 @@ neterror-load-error-firewall = Ja dators vai tīkls tiek aizsargāts ar ugunsmū
 neterror-captive-portal = Vispirms šajā tīklā jāpiesakās, lai varētu piekļūt internetam.
 neterror-dns-not-found-hint-try-again = Vēlāk jāmēģina vēlreiz
 neterror-dns-not-found-offline-hint-header = <strong>Ko ar šo var iesākt?</strong>
-
-## TRR-only specific messages
-## Variables:
-##   $hostname (String) - Hostname of the website to which the user was trying to connect.
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
-
-## Native fallback specific messages
-## Variables:
-##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
-
 
 ##
 

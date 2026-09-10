@@ -208,10 +208,6 @@ action-log-checking-memories = Memoriak egiaztatzen
 action-log-checked-memories = Memoriak egiaztatuta
 action-log-searching-settings = Ezarpenak bilatzen
 action-log-searched-settings = Ezarpenak bilatuta
-action-log-searching-world-cup-matches = Munduko Kopako partidak bilatzen
-action-log-searched-world-cup-matches = Munduko Kopako partidak bilatuta
-action-log-checking-world-cup-live = Munduko Kopako zuzeneko partidak egiaztatzen
-action-log-checked-world-cup-live = Munduko Kopako zuzeneko partidak egiaztatuta
 # Variables
 #   $count (Number) - how many tool steps completed in the turn
 action-log-completed-steps =

@@ -212,10 +212,6 @@ action-log-checking-memories = Oantinkens kontrolearje
 action-log-checked-memories = Oantinkens kontrolearre
 action-log-searching-settings = Ynstellingen trochsykje
 action-log-searched-settings = Ynstellingen trochsocht
-action-log-searching-world-cup-matches = WK-wedstriden sykje
-action-log-searched-world-cup-matches = WK-wedstriden socht
-action-log-checking-world-cup-live = Live WK-wedstriden kontrolearje
-action-log-checked-world-cup-live = Live WK-wedstriden kontrolearre
 # Variables
 #   $count (Number) - how many tool steps completed in the turn
 action-log-completed-steps =

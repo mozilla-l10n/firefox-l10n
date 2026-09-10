@@ -538,7 +538,7 @@ newtab-wallpaper-gradient-orange = Преливащо се оранжево и �
 newtab-wallpaper-abstract-blue-purple = Сини и лилави фигури
 newtab-wallpaper-abstract-white-curves = Бяло със засенчени извивки
 
-## Firefox
+## Firefox wallpaper descriptions used for screen readers
 
 newtab-wallpaper-category-title-photographs = Снимки
 newtab-wallpaper-beach-at-sunrise = Плаж при изгрев

@@ -340,8 +340,6 @@ newtab-privacy-message-first-protection-cta = Wyświetl ochronę
 
 ## Strings for the Stocks widget
 
-# Context menu item for searching stock ticker symbols.
-newtab-stocks-menu-search = Wyszukaj symbole giełdowe
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Więcej informacji
 # Shown in the Stocks widget when its data could not be loaded.
@@ -1056,7 +1054,7 @@ newtab-wallpaper-abstract-purple-green = Gradient fioletowego i zielonego świa
 newtab-wallpaper-abstract-blue-purple-waves = Niebieskie i fioletowe faliste kształty
 newtab-wallpaper-abstract-black-waves = Czarne faliste kształty
 
-## Firefox
+## Firefox wallpaper descriptions used for screen readers
 
 newtab-wallpaper-category-title-photographs = Zdjęcia
 newtab-wallpaper-beach-at-sunrise = Plaża o wschodzie słońca
@@ -1085,6 +1083,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox
+
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial

@@ -320,11 +320,6 @@ appmenu-about =
 appmenu-referrals2 =
     .label = { -brand-product-name } 공유하기
     .accesskey = r
-# This menu item opens the referral page, where the user can invite others to
-# use the browser. "Share" here means recommending or referring the browser
-appmenu-referrals =
-    .label = { -brand-shorter-name } 공유하기
-    .accesskey = r
 appmenu-get-help =
     .label = 도움 받기
     .accesskey = H
@@ -436,8 +431,6 @@ fxa-menu-create-profile-learn-more =
     .label = 프로필이란?
 # Button in the account menu that links to the Referrals page
 appmenuitem-share-firefox-title2 = { -brand-product-name } 공유하기
-# Button in the account menu that links to the Referrals page
-appmenuitem-share-firefox-title = { -brand-short-name } 공유하기
 appmenuitem-share-firefox-description = 개인 정보 보호를 최우선으로 생각하는 브라우저를 추천해 보세요
 appmenu-profiles-2 =
     .label = 프로필

@@ -2851,15 +2851,6 @@ security-privacy-issue-warning-proxy-autodetection =
 
 # The header in settings with link to the referral page, where the user can invite others to
 # use the browser. "Share" here means recommending or referring the browser
-referrals-section-header =
-    .description = Přeprošće někoho, zo by wobhladowak wubrał, kotryž priwatnosć na prěnje městno staja.
-    .label = { -brand-short-name } dźělić
-# Link that opens the referral page, where the user can invite others to
-# use the browser. "Share" here means recommending or referring the browser
-referrals-link =
-    .label = { -brand-short-name } dźělić
-# The header in settings with link to the referral page, where the user can invite others to
-# use the browser. "Share" here means recommending or referring the browser
 referrals-section-header2 =
     .description = Přeprošće někoho, zo by wobhladowak wubrał, kotryž priwatnosć na prěnje městno staja.
     .label = { -brand-product-name } dźělić

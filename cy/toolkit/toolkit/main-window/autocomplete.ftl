@@ -26,13 +26,9 @@ autocomplete-import-learn-more = Darllen rhagor
 ## Secondary actions shown on form autocomplete dropdown rows.
 ## Gated by the browser.autocomplete.removeRecords.enabled pref.
 
-# aria-label and tooltip for the button that opens the edit/delete menu.
-autocomplete-more-actions = Rhagor o weithredoedd
 autocomplete-edit-password = Golygu'r cyfrinair hwn
 autocomplete-delete-password = Dileu'r cyfrinair hwn
 autocomplete-edit-address = Golygu'r cyfeiriad hwn
 autocomplete-delete-address = Dileu'r cyfeiriad hwn
 autocomplete-edit-payment-method = Golygu'r dull talu hwn
 autocomplete-delete-payment-method = Dileu'r dull talu hwn
-# aria-label and tooltip for the trash button on a form history entry.
-autocomplete-delete-form-history-entry = Dileu cofnod hanes y ffurflen hon

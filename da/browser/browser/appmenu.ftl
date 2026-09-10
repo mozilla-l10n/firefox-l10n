@@ -313,11 +313,6 @@ appmenu-about =
 appmenu-referrals2 =
     .label = Del { -brand-product-name }
     .accesskey = e
-# This menu item opens the referral page, where the user can invite others to
-# use the browser. "Share" here means recommending or referring the browser
-appmenu-referrals =
-    .label = Del { -brand-shorter-name }
-    .accesskey = e
 appmenu-get-help =
     .label = Få hjælp
     .accesskey = h

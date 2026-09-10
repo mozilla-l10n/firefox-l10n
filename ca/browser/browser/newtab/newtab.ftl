@@ -270,8 +270,6 @@ newtab-privacy-message-first-protection-cta = Mostra les proteccions
 
 ## Strings for the Stocks widget
 
-# Context menu item for searching stock ticker symbols.
-newtab-stocks-menu-search = Cerca símbols de tíquer
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Més informació
 # Accessible name for the Stocks widget; hidden because the list dropdown is
@@ -780,7 +778,7 @@ newtab-wallpaper-abstract-purple-green = Gradient de llum morada i verda
 newtab-wallpaper-abstract-blue-purple-waves = Formes ondulades blaves i morades
 newtab-wallpaper-abstract-black-waves = Formes ondulades negres
 
-## Firefox
+## Firefox wallpaper descriptions used for screen readers
 
 newtab-wallpaper-category-title-photographs = Fotografies
 newtab-wallpaper-beach-at-sunrise = Platja a l'alba
@@ -809,6 +807,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox
+
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial

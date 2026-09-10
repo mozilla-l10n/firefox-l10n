@@ -399,7 +399,7 @@ newtab-wallpaper-abstract-blue = Fòrmas blavas
 newtab-wallpaper-abstract-purple = Fòrmas violetas
 newtab-wallpaper-abstract-orange = Fòrmas iranjas
 
-## Firefox
+## Firefox wallpaper descriptions used for screen readers
 
 newtab-wallpaper-category-title-photographs = Fotografias
 newtab-wallpaper-beach-at-sunrise = Plaja a l’alba

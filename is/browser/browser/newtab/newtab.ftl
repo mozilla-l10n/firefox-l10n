@@ -491,7 +491,7 @@ newtab-wallpaper-abstract-purple-green = Fjólublár og grænn ljósleitur litst
 newtab-wallpaper-abstract-blue-purple-waves = Blá og fjólublá bylgjuform
 newtab-wallpaper-abstract-black-waves = Svört bylgjuform
 
-## Firefox
+## Firefox wallpaper descriptions used for screen readers
 
 newtab-wallpaper-category-title-photographs = Ljósmyndir
 newtab-wallpaper-beach-at-sunrise = Strönd við sólarupprás
@@ -520,6 +520,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox
+
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial

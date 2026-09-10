@@ -29,8 +29,8 @@ inspector-color-scheme-emulation-dark =
 # A title text for the emulation panel toggle button in the Rule View toolbar
 # that toggles the emulation features panel.
 inspector-emulation-panel-toggle =
-    .title = Embojopyru CSS ñeha’ãha rembiapoite ñemyandy
     .aria-label = Embojopyru CSS ñeha’ãha rembiapoite ñemyandy
+    .title = Embojopyru CSS ñeha’ãha rembiapoite ñemyandy
 inspector-emulation-panel-color-scheme = Sa’y aty ñeha’ãha
 # A label text for the print emulation options
 inspector-emulation-panel-print = Myandy

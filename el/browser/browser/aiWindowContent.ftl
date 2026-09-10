@@ -51,8 +51,8 @@ aiwindow-copy-table =
     .tooltiptext = Αντιγραφή πίνακα
 aiwindow-table-scroll-indicator = Κάντε κύλιση για να δείτε περισσότερα
 aiwindow-thumbs-up =
-    .tooltiptext = Αποστολή θετικών σχολίων
     .aria-label = Αποστολή θετικών σχολίων
+    .tooltiptext = Αποστολή θετικών σχολίων
 aiwindow-thumbs-down =
     .aria-label = Αποστολή αρνητικών σχολίων
     .tooltiptext = Αποστολή αρνητικών σχολίων
@@ -212,10 +212,6 @@ action-log-checking-memories = Έλεγχος αναμνήσεων
 action-log-checked-memories = Έγινε έλεγχος αναμνήσεων
 action-log-searching-settings = Αναζήτηση ρυθμίσεων
 action-log-searched-settings = Έγινε αναζήτηση ρυθμίσεων
-action-log-searching-world-cup-matches = Αναζήτηση αγώνων Παγκοσμίου Κυπέλλου
-action-log-searched-world-cup-matches = Έγινε αναζήτηση αγώνων Παγκοσμίου Κυπέλλου
-action-log-checking-world-cup-live = Έλεγχος ζωντανών αγώνων Παγκοσμίου Κυπέλλου
-action-log-checked-world-cup-live = Έγινε έλεγχος ζωντανών αγώνων Παγκοσμίου Κυπέλλου
 # Variables
 #   $count (Number) - how many tool steps completed in the turn
 action-log-completed-steps =

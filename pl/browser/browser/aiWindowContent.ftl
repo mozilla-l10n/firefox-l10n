@@ -224,10 +224,6 @@ action-log-checking-memories = Przeszukiwanie zapamiętanych treści
 action-log-checked-memories = Przeszukano zapamiętane treści
 action-log-searching-settings = Przeszukiwanie ustawień
 action-log-searched-settings = Przeszukano ustawienia
-action-log-searching-world-cup-matches = Przeszukiwanie meczów mistrzostw świata
-action-log-searched-world-cup-matches = Przeszukano mecze mistrzostw świata
-action-log-checking-world-cup-live = Przeszukiwanie trwających meczów mistrzostw świata
-action-log-checked-world-cup-live = Przeszukano trwające mecze mistrzostw świata
 # Variables
 #   $count (Number) - how many tool steps completed in the turn
 action-log-completed-steps =

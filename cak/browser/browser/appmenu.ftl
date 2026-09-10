@@ -275,11 +275,6 @@ appmenu-about =
 appmenu-referrals2 =
     .label = Tikomonïx { -brand-product-name }
     .accesskey = m
-# This menu item opens the referral page, where the user can invite others to
-# use the browser. "Share" here means recommending or referring the browser
-appmenu-referrals =
-    .label = Tikomonïx { -brand-shorter-name }
-    .accesskey = m
 appmenu-get-help =
     .label = Tik'ul To'ïk
     .accesskey = o
@@ -354,8 +349,6 @@ fxa-menu-create-profile-confirm =
     .label = Tinuk' jun k'ak'a' ruwäch b'i'aj
 # Button in the account menu that links to the Referrals page
 appmenuitem-share-firefox-title2 = Tikomonïx { -brand-product-name }
-# Button in the account menu that links to the Referrals page
-appmenuitem-share-firefox-title = Tikomonïx { -brand-short-name }
 appmenu-profiles-2 =
     .label = Ruwäch taq b'i'aj
 appmenu-profiles-header = Ruwäch taq b'i'aj

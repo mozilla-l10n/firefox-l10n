@@ -319,11 +319,6 @@ appmenu-about =
 appmenu-referrals2 =
     .label = Cumpartzi { -brand-product-name }
     .accesskey = C
-# This menu item opens the referral page, where the user can invite others to
-# use the browser. "Share" here means recommending or referring the browser
-appmenu-referrals =
-    .label = Cumpartzi { -brand-shorter-name }
-    .accesskey = C
 appmenu-get-help =
     .label = Otene agiudu
     .accesskey = O
@@ -435,8 +430,6 @@ fxa-menu-create-profile-learn-more =
     .label = Ite sunt is profilos?
 # Button in the account menu that links to the Referrals page
 appmenuitem-share-firefox-title2 = Cumpartzi { -brand-product-name }
-# Button in the account menu that links to the Referrals page
-appmenuitem-share-firefox-title = Cumpartzi { -brand-short-name }
 appmenuitem-share-firefox-description = Invita a calicunu a seberare su navigadore chi ponet sa riservadesa a primu
 appmenu-profiles-2 =
     .label = Profilos

@@ -212,10 +212,6 @@ action-log-checking-memories = Überprüfung von Erinnerungen
 action-log-checked-memories = Ausgewählte Erinnerungen
 action-log-searching-settings = Einstellungen durchsuchen
 action-log-searched-settings = Durchsuchte Einstellungen
-action-log-searching-world-cup-matches = Suche nach Weltmeisterschafts-Spielen
-action-log-searched-world-cup-matches = Durchsuchte Weltmeisterschafts-Spiele
-action-log-checking-world-cup-live = Live-Übertragungen der WM-Spiele verfolgen
-action-log-checked-world-cup-live = Ausgewählte Live-Übertragungen von WM-Spielen
 # Variables
 #   $count (Number) - how many tool steps completed in the turn
 action-log-completed-steps =

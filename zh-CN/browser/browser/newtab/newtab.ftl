@@ -290,8 +290,6 @@ newtab-privacy-message-first-protection-cta = 查看保护信息
 
 ## Strings for the Stocks widget
 
-# Context menu item for searching stock ticker symbols.
-newtab-stocks-menu-search = 搜索股票代码
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = 详细了解
 # Shown in the Stocks widget when its data could not be loaded.
@@ -994,7 +992,7 @@ newtab-wallpaper-abstract-purple-green = 紫绿光渐变
 newtab-wallpaper-abstract-blue-purple-waves = 蓝色和紫色的波浪形状
 newtab-wallpaper-abstract-black-waves = 黑色波浪形状
 
-## Firefox
+## Firefox wallpaper descriptions used for screen readers
 
 newtab-wallpaper-category-title-photographs = 摄影
 newtab-wallpaper-beach-at-sunrise = 海滩日出
@@ -1023,6 +1021,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox
+
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial

@@ -226,10 +226,6 @@ action-log-checking-memories = Праверка ўспамінаў
 action-log-checked-memories = Правераны ўспаміны
 action-log-searching-settings = Пошук налад
 action-log-searched-settings = Зроблены пошук у наладах
-action-log-searching-world-cup-matches = Пошук матчаў чэмпіянату свету
-action-log-searched-world-cup-matches = Зроблены пошук па матчах чэмпіянату свету
-action-log-checking-world-cup-live = Праверка прамых трансляцый матчаў чэмпіянату свету
-action-log-checked-world-cup-live = Зроблена праверка прамых трансляцый матчаў чэмпіянату свету
 # Variables
 #   $count (Number) - how many tool steps completed in the turn
 action-log-completed-steps =

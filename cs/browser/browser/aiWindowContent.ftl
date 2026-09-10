@@ -240,10 +240,6 @@ action-log-checking-memories = Kontrolují se vzpomínky
 action-log-checked-memories = Vzpomínky zkontrolovány
 action-log-searching-settings = Vyhledávání nastavení
 action-log-searched-settings = Nastavení prohledáno
-action-log-searching-world-cup-matches = Vyhledávání zápasů Mistrovství světa
-action-log-searched-world-cup-matches = Prohledány zápasy Mistrovství světa
-action-log-checking-world-cup-live = Kontrolují se právě hrané zápasy Mistrovství světa
-action-log-checked-world-cup-live = Právě hrané zápasy Mistrovství světa zkontrolovány
 # Variables
 #   $count (Number) - how many tool steps completed in the turn
 action-log-completed-steps =

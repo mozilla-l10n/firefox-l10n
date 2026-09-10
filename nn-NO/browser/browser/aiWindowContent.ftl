@@ -51,11 +51,11 @@ aiwindow-copy-table =
     .tooltiptext = Kopier tabell
 aiwindow-table-scroll-indicator = Rull for å sjå meir
 aiwindow-thumbs-up =
-    .tooltiptext = Gi positiv tilbakemelding
     .aria-label = Gi positiv tilbakemelding
+    .tooltiptext = Gi positiv tilbakemelding
 aiwindow-thumbs-down =
-    .tooltiptext = Gi negativ tilbakemelding
     .aria-label = Gi negativ tilbakemelding
+    .tooltiptext = Gi negativ tilbakemelding
 aiwindow-applied-memories-popover =
     .aria-label = Minnepanel
 aiwindow-applied-memories-list =
@@ -68,8 +68,8 @@ aiwindow-delete-memory-button =
 ## Jump to Bottom Button
 
 aiwindow-jump-to-bottom =
-    .tooltiptext = Gå til botnen
     .aria-label = Gå til botnen av chatten
+    .tooltiptext = Gå til botnen
 
 ## Natural Language Action
 
@@ -212,10 +212,6 @@ action-log-checking-memories = Sjekkar minne
 action-log-checked-memories = Sjekka minne
 action-log-searching-settings = Søkjer i innstillingar
 action-log-searched-settings = Søkte i innstillingar
-action-log-searching-world-cup-matches = Søkjer etter VM-kampar
-action-log-searched-world-cup-matches = Søkte etter VM-kampar
-action-log-checking-world-cup-live = Sjekkar direktesende VM-kampar
-action-log-checked-world-cup-live = Sjekka direktesende VM-kampar
 # Variables
 #   $count (Number) - how many tool steps completed in the turn
 action-log-completed-steps =

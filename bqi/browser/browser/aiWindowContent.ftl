@@ -157,10 +157,6 @@ action-log-checking-memories = واجۊری خاترات
 action-log-checked-memories = خاترات واجۊری بیڌه
 action-log-searching-settings = پیتینیڌن من سامووا
 action-log-searched-settings = سامووا پیتینیڌه وابیڌه
-action-log-searching-world-cup-matches = پیتینیڌن موسابقه یل جام جهۊوی
-action-log-searched-world-cup-matches = موسابفه یل جام جهۊوی پیتینیڌه وابیڌه
-action-log-checking-world-cup-live = واجۊری موسابقه یل جام جهۊوی من هالت زنده
-action-log-checked-world-cup-live = موسابقه یل جام جهۊوی ن من هالت زنده واجۊری کرد
 # Variables
 #   $count (Number) - how many tool steps completed in the turn
 action-log-completed-steps =

@@ -1115,7 +1115,7 @@ urlbar-result-action-switch-to-tabgroup = { $group } 그룹으로 전환
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = { $group } 열기
 
-## Used in the context menu in urlbar view.
+## Used in the menu of a urlbar result.
 
 urlbar-view-context-menu-open-in-tab =
     .label = 새 탭에서 열기

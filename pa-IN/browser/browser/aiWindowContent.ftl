@@ -211,10 +211,6 @@ action-log-checking-memories = ਯਾਦਾਂ ਦੀ ਜਾਂਚ ਕੀਤੀ 
 action-log-checked-memories = ਯਾਦਾਂ ਦੀ ਜਾਂਚ ਕੀਤੀ
 action-log-searching-settings = ਖੋਜ ਕਰਨ ਲਈ ਸੈਟਿੰਗਾਂ
 action-log-searched-settings = ਖੋਜ ਕੀਤੀਆਂ ਸੈਟਿੰਗਾਂ
-action-log-searching-world-cup-matches = ਸੰਸਾਰ ਕੱਪ ਮੈਚਾਂ ਲਈ ਖੋਜ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ
-action-log-searched-world-cup-matches = ਸੰਸਾਰ ਕੱਪ ਮੈਚਾਂ ਲਈ ਖੋਜ ਕੀਤੀ
-action-log-checking-world-cup-live = ਲਾਈਵ ਸੰਸਾਰ ਕੱਪ ਮੈਚਾਂ ਦੀ ਜਾਂਚ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ
-action-log-checked-world-cup-live = ਲਾਈਵ ਸੰਸਾਰ ਕੱਪ ਮੈਚਾਂ ਦੀ ਜਾਂਚ ਕੀਤੀ
 # Variables
 #   $count (Number) - how many tool steps completed in the turn
 action-log-completed-steps =

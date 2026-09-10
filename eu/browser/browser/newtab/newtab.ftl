@@ -332,8 +332,6 @@ newtab-privacy-message-first-protection-cta = Ikusi babesak
 
 ## Strings for the Stocks widget
 
-# Context menu item for searching stock ticker symbols.
-newtab-stocks-menu-search = Bilatu kotizazio-kodeak
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Argibide gehiago
 # Shown in the Stocks widget when its data could not be loaded.
@@ -1045,7 +1043,7 @@ newtab-wallpaper-abstract-purple-green = Gradiente more eta berde argia
 newtab-wallpaper-abstract-blue-purple-waves = Forma kizkur urdin eta moreak
 newtab-wallpaper-abstract-black-waves = Forma izurtsu beltzak
 
-## Firefox
+## Firefox wallpaper descriptions used for screen readers
 
 newtab-wallpaper-category-title-photographs = Argazkiak
 newtab-wallpaper-beach-at-sunrise = Hondartza egunsentian
@@ -1074,6 +1072,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox
+
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial

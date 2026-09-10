@@ -26,13 +26,9 @@ autocomplete-import-learn-more = Saber mais
 ## Secondary actions shown on form autocomplete dropdown rows.
 ## Gated by the browser.autocomplete.removeRecords.enabled pref.
 
-# aria-label and tooltip for the button that opens the edit/delete menu.
-autocomplete-more-actions = Mais ações
 autocomplete-edit-password = Editar esta palavra-passe
 autocomplete-delete-password = Apagar esta palavra-passe
 autocomplete-edit-address = Editar este endereço
 autocomplete-delete-address = Apagar este endereço
 autocomplete-edit-payment-method = Editar este método de pagamento
 autocomplete-delete-payment-method = Apagar este método de pagamento
-# aria-label and tooltip for the trash button on a form history entry.
-autocomplete-delete-form-history-entry = Apagar esta entrada do histórico de formulários

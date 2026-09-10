@@ -320,11 +320,6 @@ appmenu-about =
 appmenu-referrals2 =
     .label = Partilhar o { -brand-product-name }
     .accesskey = r
-# This menu item opens the referral page, where the user can invite others to
-# use the browser. "Share" here means recommending or referring the browser
-appmenu-referrals =
-    .label = Partilhar o { -brand-shorter-name }
-    .accesskey = r
 appmenu-get-help =
     .label = Obter ajuda
     .accesskey = j
@@ -436,8 +431,6 @@ fxa-menu-create-profile-learn-more =
     .label = O Que São Perfis?
 # Button in the account menu that links to the Referrals page
 appmenuitem-share-firefox-title2 = Partilhar o { -brand-product-name }
-# Button in the account menu that links to the Referrals page
-appmenuitem-share-firefox-title = Partilhar { -brand-short-name }
 appmenuitem-share-firefox-description = Convide alguém para escolher o navegador que coloca a privacidade em primeiro lugar
 appmenu-profiles-2 =
     .label = Perfis

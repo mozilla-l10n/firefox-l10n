@@ -26,13 +26,9 @@ autocomplete-import-learn-more = Lue lisää
 ## Secondary actions shown on form autocomplete dropdown rows.
 ## Gated by the browser.autocomplete.removeRecords.enabled pref.
 
-# aria-label and tooltip for the button that opens the edit/delete menu.
-autocomplete-more-actions = Lisää toimintoja
 autocomplete-edit-password = Muokkaa tätä salasanaa
 autocomplete-delete-password = Poista tämä salasana
 autocomplete-edit-address = Muokkaa tätä osoitetta
 autocomplete-delete-address = Poista tämä osoite
 autocomplete-edit-payment-method = Muokkaa tätä maksutapaa
 autocomplete-delete-payment-method = Poista tämä maksutapa
-# aria-label and tooltip for the trash button on a form history entry.
-autocomplete-delete-form-history-entry = Poista tämä historiamerkintä

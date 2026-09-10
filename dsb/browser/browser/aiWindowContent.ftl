@@ -240,10 +240,6 @@ action-log-checking-memories = Dopomnjeśa se pśeglěduju
 action-log-checked-memories = Pśeglědane dopomnjeśa
 action-log-searching-settings = Nastajenja pśepytaś
 action-log-searched-settings = Pśepytane nastajenja
-action-log-searching-world-cup-matches = Graśa swětowego mejstaŕstwa pytaś
-action-log-searched-world-cup-matches = Pśepytane graśa swětowego mejstaŕstwa
-action-log-checking-world-cup-live = Graśa live swětowego mejstaŕstwa wubraś
-action-log-checked-world-cup-live = Wubrane graśa live swětowego mejstaŕstwa
 # Variables
 #   $count (Number) - how many tool steps completed in the turn
 action-log-completed-steps =

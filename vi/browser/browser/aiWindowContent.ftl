@@ -47,8 +47,8 @@ aiwindow-copy-table =
     .tooltiptext = Sao chép bảng
 aiwindow-table-scroll-indicator = Cuộn xuống để xem thêm
 aiwindow-thumbs-up =
-    .tooltiptext = Chia sẻ phản hồi tích cực
     .aria-label = Chia sẻ phản hồi tích cực
+    .tooltiptext = Chia sẻ phản hồi tích cực
 aiwindow-thumbs-down =
     .aria-label = Chia sẻ phản hồi tiêu cực
     .tooltiptext = Chia sẻ phản hồi tiêu cực
@@ -64,8 +64,8 @@ aiwindow-delete-memory-button =
 ## Jump to Bottom Button
 
 aiwindow-jump-to-bottom =
-    .tooltiptext = Nhảy xuống dưới
     .aria-label = Nhảy xuống cuối đoạn hội thoại
+    .tooltiptext = Nhảy xuống dưới
 
 ## Natural Language Action
 
@@ -159,10 +159,6 @@ action-log-checking-memories = Đang kiểm tra ký ức
 action-log-checked-memories = Đã kiểm tra ký ức
 action-log-searching-settings = Đang tìm kiếm cài đặt
 action-log-searched-settings = Đã tìm kiếm cài đặt
-action-log-searching-world-cup-matches = Đang tìm kiếm các trận đấu World Cup
-action-log-searched-world-cup-matches = Đã tìm kiếm các trận đấu World Cup
-action-log-checking-world-cup-live = Đang kiểm tra các trận đấu World Cup trực tiếp
-action-log-checked-world-cup-live = Đã kiểm tra các trận đấu World Cup trực tiếp
 # Variables
 #   $count (Number) - how many tool steps completed in the turn
 action-log-completed-steps = Đã hoàn thành { $count } bước

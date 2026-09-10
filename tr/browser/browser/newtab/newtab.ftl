@@ -332,8 +332,6 @@ newtab-privacy-message-first-protection-cta = Korumaları göster
 
 ## Strings for the Stocks widget
 
-# Context menu item for searching stock ticker symbols.
-newtab-stocks-menu-search = Sembollerde ara
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Daha fazla bilgi al
 # Shown in the Stocks widget when its data could not be loaded.
@@ -1042,7 +1040,7 @@ newtab-wallpaper-abstract-purple-green = Mor ve yeşil ışık geçişi
 newtab-wallpaper-abstract-blue-purple-waves = Mavi ve mor dalgalı şekiller
 newtab-wallpaper-abstract-black-waves = Siyah dalgalı şekiller
 
-## Firefox
+## Firefox wallpaper descriptions used for screen readers
 
 newtab-wallpaper-category-title-photographs = Fotoğraflar
 newtab-wallpaper-beach-at-sunrise = Gün doğumunda sahil
@@ -1071,6 +1069,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox
+
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial

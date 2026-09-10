@@ -244,7 +244,7 @@ newtab-wallpaper-light-pink = हल्का गुलाबी
 newtab-wallpaper-red = लाल
 newtab-wallpaper-brown = भूरा
 
-## Firefox
+## Firefox wallpaper descriptions used for screen readers
 
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }

@@ -226,10 +226,6 @@ action-log-checking-memories = ᱩᱭᱦᱟᱹᱨ ᱠᱚ ᱧᱮᱞ ᱦᱩᱭᱩ�
 action-log-checked-memories = ᱩᱭᱦᱟᱹᱨ ᱠᱚ ᱧᱮᱞ ᱦᱩᱭᱩᱜ ᱮᱱᱟ
 action-log-searching-settings = ᱥᱟᱡᱟᱣ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟᱜ ᱠᱟᱱᱟ
 action-log-searched-settings = ᱥᱮᱸᱫᱽᱨᱟ ᱟᱠᱟᱱ ᱥᱟᱡᱟᱣ ᱠᱚ
-action-log-searching-world-cup-matches = ᱣᱟᱨᱞᱰ ᱠᱟᱯ ᱢᱮᱪ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟ ᱠᱟᱱᱟ
-action-log-searched-world-cup-matches = ᱣᱟᱨᱞᱰ ᱠᱟᱯ ᱢᱮᱪ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟ ᱟᱠᱟᱱᱟ
-action-log-checking-world-cup-live = ᱞᱟᱭᱤᱵᱽ ᱣᱟᱨᱞᱰ ᱠᱟᱯ ᱢᱮᱪ ᱠᱚ ᱧᱮᱞ ᱮᱫᱟᱹᱧ
-action-log-checked-world-cup-live = ᱞᱟᱭᱤᱵᱽ ᱣᱟᱨᱞᱰ ᱠᱟᱯ ᱢᱮᱪ ᱠᱚ ᱧᱮᱞ ᱠᱮᱫᱟ
 # Variables
 #   $count (Number) - how many tool steps completed in the turn
 action-log-completed-steps =

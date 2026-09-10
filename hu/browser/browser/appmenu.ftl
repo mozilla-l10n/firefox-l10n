@@ -320,11 +320,6 @@ appmenu-about =
 appmenu-referrals2 =
     .label = A { -brand-product-name } megosztása
     .accesskey = m
-# This menu item opens the referral page, where the user can invite others to
-# use the browser. "Share" here means recommending or referring the browser
-appmenu-referrals =
-    .label = A { -brand-shorter-name } megosztása
-    .accesskey = m
 appmenu-get-help =
     .label = Segítség kérése
     .accesskey = S
@@ -436,8 +431,6 @@ fxa-menu-create-profile-learn-more =
     .label = Mik azok a profilok?
 # Button in the account menu that links to the Referrals page
 appmenuitem-share-firefox-title2 = A { -brand-product-name } megosztása
-# Button in the account menu that links to the Referrals page
-appmenuitem-share-firefox-title = A { -brand-short-name } megosztása
 appmenuitem-share-firefox-description = Hívjon meg valakit, hogy azt a böngészőt válassza, amely az adatvédelmet helyezi előtérbe
 appmenu-profiles-2 =
     .label = Profilok

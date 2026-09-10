@@ -323,7 +323,7 @@ newtab-wallpaper-red = ఎరుపు
 newtab-wallpaper-dark-blue = ముదురు నీలం
 newtab-wallpaper-dark-green = ముదురాకుపచ్చ
 
-## Firefox
+## Firefox wallpaper descriptions used for screen readers
 
 newtab-wallpaper-category-title-photographs = ఛాయాచిత్రాలు
 newtab-wallpaper-beach-at-sunrise = ఉషాతీరం

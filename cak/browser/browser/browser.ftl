@@ -832,7 +832,7 @@ urlbar-result-action-search-actions = Kekanöx taq b'anoj
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Tijaq { $group }
 
-## Used in the context menu in urlbar view.
+## Used in the menu of a urlbar result.
 
 urlbar-view-context-menu-open-in-tab =
     .label = Tijaq pa jun k'ak'a' ruwi'

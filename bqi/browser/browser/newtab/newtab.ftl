@@ -236,8 +236,6 @@ newtab-privacy-message-first-protection-cta = نیشتن زفت وابیڌنا
 
 ## Strings for the Stocks widget
 
-# Context menu item for searching stock ticker symbols.
-newtab-stocks-menu-search = پیتینیڌن نمادا قیمت
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = قلوه دووسته بۊین
 # Shown in the Stocks widget when its data could not be loaded.
@@ -735,7 +733,7 @@ newtab-wallpaper-abstract-purple-green = شؽو رنگی نۊر بناوش وو 
 newtab-wallpaper-abstract-blue-purple-waves = شلگا ماوج دار کوۊ وو بناوش
 newtab-wallpaper-abstract-black-waves = شلگا ماوج دار شه
 
-## Firefox
+## Firefox wallpaper descriptions used for screen readers
 
 newtab-wallpaper-category-title-photographs = شؽوات گرافی
 newtab-wallpaper-beach-at-sunrise = ساهل من ٱفتاو زنووݩ
@@ -759,6 +757,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox
+
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial

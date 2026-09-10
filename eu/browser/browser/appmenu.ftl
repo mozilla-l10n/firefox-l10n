@@ -320,11 +320,6 @@ appmenu-about =
 appmenu-referrals2 =
     .label = Partekatu { -brand-product-name }
     .accesskey = r
-# This menu item opens the referral page, where the user can invite others to
-# use the browser. "Share" here means recommending or referring the browser
-appmenu-referrals =
-    .label = Partekatu { -brand-shorter-name }
-    .accesskey = r
 appmenu-get-help =
     .label = Lortu laguntza
     .accesskey = L
@@ -436,8 +431,6 @@ fxa-menu-create-profile-learn-more =
     .label = Zer dira profilak?
 # Button in the account menu that links to the Referrals page
 appmenuitem-share-firefox-title2 = Partekatu { -brand-product-name }
-# Button in the account menu that links to the Referrals page
-appmenuitem-share-firefox-title = Partekatu { -brand-short-name }
 appmenuitem-share-firefox-description = Gonbidatu norbait pribatutasuna lehenesten duen nabigatzailea aukeratzera
 appmenu-profiles-2 =
     .label = Profilak

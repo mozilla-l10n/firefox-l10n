@@ -316,11 +316,6 @@ appmenu-about =
 appmenu-referrals2 =
     .label = یک رسۊوی { -brand-product-name }
     .accesskey = r
-# This menu item opens the referral page, where the user can invite others to
-# use the browser. "Share" here means recommending or referring the browser
-appmenu-referrals =
-    .label = یک رسۊوی { -brand-shorter-name }
-    .accesskey = r
 appmenu-get-help =
     .label = گرؽڌن هیاری
     .accesskey = h
@@ -429,8 +424,6 @@ fxa-menu-create-profile-learn-more =
     .label = پوروفایل چنه؟
 # Button in the account menu that links to the Referrals page
 appmenuitem-share-firefox-title2 = یک رسۊوی { -brand-product-name }
-# Button in the account menu that links to the Referrals page
-appmenuitem-share-firefox-title = یک رسۊوی { -brand-short-name }
 appmenuitem-share-firefox-description = کسؽ ن موکش کۊنین تا گشت گری ن پسند کونه ک هریم سیخومی سیس موهم بۊ
 appmenu-profiles-2 =
     .label = پوروفایلا

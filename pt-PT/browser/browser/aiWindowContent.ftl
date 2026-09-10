@@ -212,10 +212,6 @@ action-log-checking-memories = A verificar memórias
 action-log-checked-memories = Memórias verificadas
 action-log-searching-settings = A pesquisar definições
 action-log-searched-settings = Definições pesquisadas
-action-log-searching-world-cup-matches = A pesquisar jogos do Campeonato do Mundo
-action-log-searched-world-cup-matches = Jogos do Campeonato do Mundo pesquisados
-action-log-checking-world-cup-live = A verificar jogos em direto do Campeonato do Mundo
-action-log-checked-world-cup-live = Jogos em direto do Campeonato do Mundo verificados
 # Variables
 #   $count (Number) - how many tool steps completed in the turn
 action-log-completed-steps =

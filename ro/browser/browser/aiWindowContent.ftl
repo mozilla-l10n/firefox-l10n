@@ -226,10 +226,6 @@ action-log-checking-memories = Verificare memorii
 action-log-checked-memories = Verificare memorii efectuată
 action-log-searching-settings = Căutare în setări
 action-log-searched-settings = Căutare în setări efectuată
-action-log-searching-world-cup-matches = Căutare meciuri Cupa Mondială
-action-log-searched-world-cup-matches = Căutare meciuri Cupa Mondială efectuată
-action-log-checking-world-cup-live = Căutare meciuri Cupa Mondială în direct
-action-log-checked-world-cup-live = Căutare meciuri Cupa Mondială în direct efectuată
 # Variables
 #   $count (Number) - how many tool steps completed in the turn
 action-log-completed-steps =

@@ -68,8 +68,8 @@ aiwindow-delete-memory-button =
 ## Jump to Bottom Button
 
 aiwindow-jump-to-bottom =
-    .tooltiptext = Gå til bunnen
     .aria-label = Gå til bunnen av chatten
+    .tooltiptext = Gå til bunnen
 
 ## Natural Language Action
 
@@ -212,10 +212,6 @@ action-log-checking-memories = Sjekker minner
 action-log-checked-memories = Sjekket minner
 action-log-searching-settings = Søker i innstillinger
 action-log-searched-settings = Søkte i innstillinger
-action-log-searching-world-cup-matches = Søker etter VM-kamper
-action-log-searched-world-cup-matches = Søkte etter VM-kamper
-action-log-checking-world-cup-live = Sjekker direktesendte VM-kamper
-action-log-checked-world-cup-live = Sjekket direktesendte VM-kamper
 # Variables
 #   $count (Number) - how many tool steps completed in the turn
 action-log-completed-steps =

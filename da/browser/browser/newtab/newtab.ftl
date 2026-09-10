@@ -194,8 +194,6 @@ newtab-privacy-message-promo-private-window-1-cta = Åbn privat vindue
 
 ## Strings for the Stocks widget
 
-# Context menu item for searching stock ticker symbols.
-newtab-stocks-menu-search = Søg efter aktiesymbol
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Lær mere
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
@@ -887,7 +885,7 @@ newtab-wallpaper-abstract-purple-green = Gradient med lilla og grønt lys
 newtab-wallpaper-abstract-blue-purple-waves = Blå og lilla bølgeformer
 newtab-wallpaper-abstract-black-waves = Sorte bølgeformer
 
-## Firefox
+## Firefox wallpaper descriptions used for screen readers
 
 newtab-wallpaper-category-title-photographs = Fotografier
 newtab-wallpaper-beach-at-sunrise = Strand ved solopgang
@@ -916,6 +914,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox
+
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial

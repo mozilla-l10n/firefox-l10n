@@ -320,11 +320,6 @@ appmenu-about =
 appmenu-referrals2 =
     .label = Rekomendi { -brand-product-name }
     .accesskey = R
-# This menu item opens the referral page, where the user can invite others to
-# use the browser. "Share" here means recommending or referring the browser
-appmenu-referrals =
-    .label = Rekomendi { -brand-shorter-name }
-    .accesskey = R
 appmenu-get-help =
     .label = Helpo
     .accesskey = H
@@ -436,8 +431,6 @@ fxa-menu-create-profile-learn-more =
     .label = Kio estas profiloj?
 # Button in the account menu that links to the Referrals page
 appmenuitem-share-firefox-title2 = Rekomendi { -brand-product-name }
-# Button in the account menu that links to the Referrals page
-appmenuitem-share-firefox-title = Rekomendi { -brand-short-name }
 appmenuitem-share-firefox-description = Invitu iun elekti la retumilon kiu zorgas unue pri via privateco
 appmenu-profiles-2 =
     .label = Profiloj

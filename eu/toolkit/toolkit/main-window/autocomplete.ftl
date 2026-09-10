@@ -26,13 +26,9 @@ autocomplete-import-learn-more = Argibide gehiago
 ## Secondary actions shown on form autocomplete dropdown rows.
 ## Gated by the browser.autocomplete.removeRecords.enabled pref.
 
-# aria-label and tooltip for the button that opens the edit/delete menu.
-autocomplete-more-actions = Ekintza gehiago
 autocomplete-edit-password = Editatu pasahitz hau
 autocomplete-delete-password = Ezabatu pasahitz hau
 autocomplete-edit-address = Editatu helbide hau
 autocomplete-delete-address = Ezabatu helbide hau
 autocomplete-edit-payment-method = Editatu ordainketa-metodo hau
 autocomplete-delete-payment-method = Ezabatu ordainketa-metodo hau
-# aria-label and tooltip for the trash button on a form history entry.
-autocomplete-delete-form-history-entry = Ezabatu inprimakiaren historiako sarrera hau

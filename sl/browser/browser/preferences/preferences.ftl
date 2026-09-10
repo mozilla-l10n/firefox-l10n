@@ -2793,15 +2793,6 @@ security-privacy-issue-warning-proxy-autodetection =
 
 # The header in settings with link to the referral page, where the user can invite others to
 # use the browser. "Share" here means recommending or referring the browser
-referrals-section-header =
-    .description = Povabite nekoga, naj izbere brskalnik, ki postavlja zasebnost na prvo mesto.
-    .label = Priporoči { -brand-short-name(sklon: "tozilnik") }
-# Link that opens the referral page, where the user can invite others to
-# use the browser. "Share" here means recommending or referring the browser
-referrals-link =
-    .label = Priporoči { -brand-short-name(sklon: "tozilnik") }
-# The header in settings with link to the referral page, where the user can invite others to
-# use the browser. "Share" here means recommending or referring the browser
 referrals-section-header2 =
     .description = Povabite nekoga, naj izbere brskalnik, ki postavlja zasebnost na prvo mesto.
     .label = Priporoči { -brand-product-name(sklon: "tozilnik") }

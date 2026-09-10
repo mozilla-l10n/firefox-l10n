@@ -2841,15 +2841,6 @@ security-privacy-issue-warning-proxy-autodetection =
 
 # The header in settings with link to the referral page, where the user can invite others to
 # use the browser. "Share" here means recommending or referring the browser
-referrals-section-header =
-    .description = Жекелікті бірінші орынға қоятын браузерді таңдауға біреуді шақырыңыз.
-    .label = { -brand-short-name } бөлісу
-# Link that opens the referral page, where the user can invite others to
-# use the browser. "Share" here means recommending or referring the browser
-referrals-link =
-    .label = { -brand-short-name } бөлісу
-# The header in settings with link to the referral page, where the user can invite others to
-# use the browser. "Share" here means recommending or referring the browser
 referrals-section-header2 =
     .description = Жекелікті бірінші орынға қоятын браузерді таңдауға біреуді шақырыңыз.
     .label = { -brand-product-name } бөлісу

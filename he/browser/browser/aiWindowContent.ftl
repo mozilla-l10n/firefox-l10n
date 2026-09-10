@@ -212,10 +212,6 @@ action-log-checking-memories = בתהליך בדיקת זכרונות
 action-log-checked-memories = בוצעה בדיקת זכרונות
 action-log-searching-settings = בתהליך חיפוש בהגדרות
 action-log-searched-settings = בוצע חיפוש בהגדרות
-action-log-searching-world-cup-matches = בתהליך חיפוש של משחקי המונדיאל
-action-log-searched-world-cup-matches = בוצע חיפוש של משחקי המונדיאל
-action-log-checking-world-cup-live = בתהליך חיפוש של משחקים חיים של המונדיאל
-action-log-checked-world-cup-live = בוצע חיפוש של משחקים חיים של המונדיאל
 # Variables
 #   $count (Number) - how many tool steps completed in the turn
 action-log-completed-steps =

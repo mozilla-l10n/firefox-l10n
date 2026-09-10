@@ -1158,7 +1158,7 @@ urlbar-result-action-switch-to-tabgroup = Treci pe { $group }
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Deschide { $group }
 
-## Used in the context menu in urlbar view.
+## Used in the menu of a urlbar result.
 
 urlbar-view-context-menu-open-in-tab =
     .label = Deschide într-o filă nouă

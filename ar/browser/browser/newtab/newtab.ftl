@@ -653,7 +653,7 @@ newtab-wallpaper-abstract-purple-green = تدرج الضوء الأرجواني 
 newtab-wallpaper-abstract-blue-purple-waves = أشكال متموجة باللون الأزرق والأرجواني
 newtab-wallpaper-abstract-black-waves = أشكال متموجة سوداء
 
-## Firefox
+## Firefox wallpaper descriptions used for screen readers
 
 newtab-wallpaper-storm-sky = سماء العاصفة
 newtab-wallpaper-sky-with-pink-clouds = سماء مع غيوم وردية
@@ -677,6 +677,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox
+
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial

@@ -41,18 +41,18 @@ aiwindow-manage-memories =
 aiwindow-retry-without-memories =
     .label = Tentar novamente sem memórias
 aiwindow-retry =
-    .tooltiptext = Tentar novamente
     .aria-label = Tentar novamente
+    .tooltiptext = Tentar novamente
 aiwindow-copy-message =
-    .tooltiptext = Copiar
     .aria-label = Copiar mensagem
+    .tooltiptext = Copiar
 aiwindow-copy-table =
-    .tooltiptext = Copiar tabela
     .aria-label = Copiar tabela
+    .tooltiptext = Copiar tabela
 aiwindow-table-scroll-indicator = Deslize para ver mais
 aiwindow-thumbs-up =
-    .tooltiptext = Compartilhar opinião positiva
     .aria-label = Compartilhar opinião positiva
+    .tooltiptext = Compartilhar opinião positiva
 aiwindow-thumbs-down =
     .aria-label = Compartilhar opinião negativa
     .tooltiptext = Compartilhar opinião negativa
@@ -68,8 +68,8 @@ aiwindow-delete-memory-button =
 ## Jump to Bottom Button
 
 aiwindow-jump-to-bottom =
-    .tooltiptext = Ir para o final
     .aria-label = Ir para o final da conversa
+    .tooltiptext = Ir para o final
 
 ## Natural Language Action
 
@@ -211,10 +211,6 @@ action-log-checking-memories = Consultando memórias
 action-log-checked-memories = Consultou memórias
 action-log-searching-settings = Pesquisando nas configurações
 action-log-searched-settings = Pesquisou nas configurações
-action-log-searching-world-cup-matches = Pesquisando nos jogos da Copa do Mundo
-action-log-searched-world-cup-matches = Pesquisou nos jogos da Copa do Mundo
-action-log-checking-world-cup-live = Consultando jogos da Copa do Mundo ao vivo
-action-log-checked-world-cup-live = Consultou jogos da Copa do Mundo ao vivo
 # Variables
 #   $count (Number) - how many tool steps completed in the turn
 action-log-completed-steps =

@@ -3201,15 +3201,6 @@ security-privacy-issue-warning-proxy-autodetection =
 
 # The header in settings with link to the referral page, where the user can invite others to
 # use the browser. "Share" here means recommending or referring the browser
-referrals-section-header =
-    .description = Pozvěte někoho, aby zvolil prohlížeč, u kterého je soukromí na prvním místě.
-    .label = Sdílet { -brand-short-name }
-# Link that opens the referral page, where the user can invite others to
-# use the browser. "Share" here means recommending or referring the browser
-referrals-link =
-    .label = Sdílet { -brand-short-name(case: "acc") }
-# The header in settings with link to the referral page, where the user can invite others to
-# use the browser. "Share" here means recommending or referring the browser
 referrals-section-header2 =
     .description = Pozvěte někoho, aby zvolil prohlížeč, u kterého je soukromí na prvním místě.
     .label = Sdílet { -brand-product-name }

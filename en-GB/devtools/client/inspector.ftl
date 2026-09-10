@@ -29,8 +29,8 @@ inspector-color-scheme-emulation-dark =
 # A title text for the emulation panel toggle button in the Rule View toolbar
 # that toggles the emulation features panel.
 inspector-emulation-panel-toggle =
-    .title = Toggle CSS emulation features
     .aria-label = Toggle CSS emulation features
+    .title = Toggle CSS emulation features
 inspector-emulation-panel-color-scheme = Colour scheme emulation
 # A label text for the print emulation options
 inspector-emulation-panel-print = Enable

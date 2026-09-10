@@ -320,11 +320,6 @@ appmenu-about =
 appmenu-referrals2 =
     .label = Sembunyikan { -brand-product-name }
     .accesskey = b
-# This menu item opens the referral page, where the user can invite others to
-# use the browser. "Share" here means recommending or referring the browser
-appmenu-referrals =
-    .label = Sembunyikan { -brand-shorter-name }
-    .accesskey = b
 appmenu-get-help =
     .label = Dapatkan Bantuan
     .accesskey = D
@@ -436,8 +431,6 @@ fxa-menu-create-profile-learn-more =
     .label = Apa Itu Profil?
 # Button in the account menu that links to the Referrals page
 appmenuitem-share-firefox-title2 = Bagikan { -brand-product-name }
-# Button in the account menu that links to the Referrals page
-appmenuitem-share-firefox-title = Bagikan { -brand-short-name }
 appmenuitem-share-firefox-description = Undang seseorang untuk memilih peramban yang mengutamakan privasi
 appmenu-profiles-2 =
     .label = Profil

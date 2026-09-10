@@ -300,8 +300,6 @@ newtab-privacy-message-first-protection-cta = 보호 기능 보기
 
 ## Strings for the Stocks widget
 
-# Context menu item for searching stock ticker symbols.
-newtab-stocks-menu-search = 주식 종목 코드 검색
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = 더 알아보기
 # Shown in the Stocks widget when its data could not be loaded.
@@ -1008,7 +1006,7 @@ newtab-wallpaper-abstract-purple-green = 보라색과 녹색 빛 그라데이션
 newtab-wallpaper-abstract-blue-purple-waves = 파란색과 보라색 물결 모양
 newtab-wallpaper-abstract-black-waves = 검은 물결 모양
 
-## Firefox
+## Firefox wallpaper descriptions used for screen readers
 
 newtab-wallpaper-category-title-photographs = 사진
 newtab-wallpaper-beach-at-sunrise = 일출의 해변
@@ -1037,6 +1035,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox
+
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial

@@ -212,10 +212,6 @@ action-log-checking-memories = Memóriák ellenőrzése
 action-log-checked-memories = Memóriák ellenőrizve
 action-log-searching-settings = Beállítások keresése
 action-log-searched-settings = Beállítások keresve
-action-log-searching-world-cup-matches = Vébémeccsek keresése
-action-log-searched-world-cup-matches = Vébémeccsek keresve
-action-log-checking-world-cup-live = Élő vébémeccsek ellenőrzése
-action-log-checked-world-cup-live = Élő vébémeccsek ellenőrizve
 # Variables
 #   $count (Number) - how many tool steps completed in the turn
 action-log-completed-steps =

@@ -774,7 +774,7 @@ newtab-wallpaper-abstract-purple-green = Մանուշակագույն և կան�
 newtab-wallpaper-abstract-blue-purple-waves = Կապույտ և մանուշակագույն ալիքավոր ձևեր
 newtab-wallpaper-abstract-black-waves = Սև ալիքավոր ձևեր
 
-## Firefox
+## Firefox wallpaper descriptions used for screen readers
 
 newtab-wallpaper-category-title-photographs = Լուսանկարներ
 newtab-wallpaper-beach-at-sunrise = Լողափ արևածագին
@@ -798,6 +798,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox
+
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial

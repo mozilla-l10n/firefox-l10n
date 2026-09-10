@@ -203,8 +203,6 @@ newtab-privacy-message-info-3-cta = ดูการป้องกัน
 
 ## Strings for the Stocks widget
 
-# Context menu item for searching stock ticker symbols.
-newtab-stocks-menu-search = ค้นหาสัญลักษณ์ย่อหลักทรัพย์
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = เรียนรู้เพิ่มเติม
 
@@ -658,7 +656,7 @@ newtab-wallpaper-abstract-purple-green = เกรเดียนท์สีอ
 newtab-wallpaper-abstract-blue-purple-waves = รูปทรงคลื่นสีน้ำเงินและสีม่วง
 newtab-wallpaper-abstract-black-waves = รูปทรงคลื่นสีดำ
 
-## Firefox
+## Firefox wallpaper descriptions used for screen readers
 
 newtab-wallpaper-category-title-photographs = ภาพถ่าย
 newtab-wallpaper-beach-at-sunrise = ชายหาดตอนพระอาทิตย์ขึ้น
@@ -687,6 +685,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox
+
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial

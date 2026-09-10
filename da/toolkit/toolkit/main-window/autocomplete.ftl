@@ -26,13 +26,9 @@ autocomplete-import-learn-more = Læs mere
 ## Secondary actions shown on form autocomplete dropdown rows.
 ## Gated by the browser.autocomplete.removeRecords.enabled pref.
 
-# aria-label and tooltip for the button that opens the edit/delete menu.
-autocomplete-more-actions = Flere handlinger
 autocomplete-edit-password = Rediger denne adgangskode
 autocomplete-delete-password = Slet denne adgangskode
 autocomplete-edit-address = Rediger denne adresse
 autocomplete-delete-address = Slet denne adresse
 autocomplete-edit-payment-method = Rediger denne betalingsmetode
 autocomplete-delete-payment-method = Slet denne betalingsmetode
-# aria-label and tooltip for the trash button on a form history entry.
-autocomplete-delete-form-history-entry = Slet dette formularhistorikpunkt

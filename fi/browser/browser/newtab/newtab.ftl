@@ -332,8 +332,6 @@ newtab-privacy-message-first-protection-cta = Näytä suojaukset
 
 ## Strings for the Stocks widget
 
-# Context menu item for searching stock ticker symbols.
-newtab-stocks-menu-search = Hae osakesymboleja
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Lue lisää
 # Shown in the Stocks widget when its data could not be loaded.
@@ -1050,7 +1048,7 @@ newtab-wallpaper-abstract-purple-green = Violetin ja vihreän valon liukuväriä
 newtab-wallpaper-abstract-blue-purple-waves = Sinisiä ja violetteja aaltoilevia muotoja
 newtab-wallpaper-abstract-black-waves = Mustia aaltoilevia muotoja
 
-## Firefox
+## Firefox wallpaper descriptions used for screen readers
 
 newtab-wallpaper-category-title-photographs = Valokuvat
 newtab-wallpaper-beach-at-sunrise = Ranta auringonnousun aikaan
@@ -1079,6 +1077,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox
+
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial

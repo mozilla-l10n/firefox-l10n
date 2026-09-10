@@ -212,10 +212,6 @@ action-log-checking-memories = Ahechahína mandu’arã
 action-log-checked-memories = Mandu’arã hechajeypyre
 action-log-searching-settings = Jehekakue ñemboheko
 action-log-searched-settings = Jehekakue ñembohekopyre
-action-log-searching-world-cup-matches = Ehekahína Mundial partído rehegua
-action-log-searched-world-cup-matches = Mundial partído jehekapyre
-action-log-checking-world-cup-live = Eporandu Mundial partído oiko jave
-action-log-checked-world-cup-live = Ahechajey Mundial partído oiko jave
 # Variables
 #   $count (Number) - how many tool steps completed in the turn
 action-log-completed-steps =

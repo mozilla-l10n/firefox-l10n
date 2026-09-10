@@ -372,7 +372,7 @@ newtab-wallpaper-dark-purple = بنفش تیره
 newtab-wallpaper-dark-green = سبز تیره
 newtab-wallpaper-brown = قهوه‌ای
 
-## Firefox
+## Firefox wallpaper descriptions used for screen readers
 
 newtab-wallpaper-white-mountains = کوه‌های سفید
 

@@ -579,7 +579,7 @@ newtab-wallpaper-abstract-purple-green = Gradiente de luz púrpura y verde
 newtab-wallpaper-abstract-blue-purple-waves = Formas onduladas azules y púrpuras
 newtab-wallpaper-abstract-black-waves = Formas onduladas negras
 
-## Firefox
+## Firefox wallpaper descriptions used for screen readers
 
 newtab-wallpaper-category-title-photographs = Fotografías
 newtab-wallpaper-beach-at-sunrise = Playa al amanecer
@@ -608,6 +608,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox
+
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial

@@ -99,7 +99,6 @@ community-2 =
     }
 helpus = Chcete pomoci? <label data-l10n-name="helpus-donateLink">Darujte příspěvek</label> nebo <label data-l10n-name="helpus-getInvolvedLink">se zapojte!</label>
 helpus-referrals2 = Chcete pomoci? <label data-l10n-name="helpus-donateLink">Přispějte darem</label>, <label data-l10n-name="helpus-shareFirefoxLink">sdílejte informaci o { -brand-product-name(case: "gen") }</label> nebo <label data-l10n-name="helpus-getInvolvedLink">se zapojte</label>!
-helpus-referrals = Chcete pomoci? <label data-l10n-name="helpus-donateLink">Přispějte darem</label>, <label data-l10n-name="helpus-shareFirefoxLink">sdílejte informaci o { -brand-short-name(case: "gen") }</label> nebo <label data-l10n-name="helpus-getInvolvedLink">se zapojte</label>!
 bottomLinks-license = Licence
 bottom-links-terms = Podmínky použití
 bottom-links-privacy = Zásady ochrany osobních údajů

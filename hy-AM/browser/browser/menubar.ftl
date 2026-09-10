@@ -330,15 +330,6 @@ menu-window-bring-all-to-front =
 
 ## Help Menu
 
-
-# NOTE: For Engineers, any additions or changes to Help menu strings should
-# also be reflected in the related strings in appmenu.ftl. Those strings, by
-# convention, will have the same ID as these, but prefixed with "app".
-# Example: appmenu-get-help
-#
-# These strings are duplicated to allow for different casing depending on
-# where the strings appear.
-
 menu-help =
     .label = Օգնություն
     .accesskey = Օ
@@ -376,7 +367,3 @@ menu-report-broken-site =
 # use the browser. "Share" here means recommending or referring the browser
 menu-referrals2 =
     .label = Կիսվել { -brand-product-name }-ով
-# This menu item opens the referral page, where the user can invite others to
-# use the browser. "Share" here means recommending or referring the browser
-menu-referrals =
-    .label = Կիսվել { -brand-shorter-name }-ով

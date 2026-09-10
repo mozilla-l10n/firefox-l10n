@@ -76,11 +76,6 @@ neterror-search-cta-learn-more = Àteras informatziones
 neterror-pref-reset = Podet dare chi sa cunfiguratzione de seguresa de rete tua siat sa càusa. Boles recuperare sa cunfiguratzione predefinida?
 neterror-error-reporting-automatic = Sinnala faddinas comente custa pro agiudare { -vendor-short-name } a identificare e blocare sitos malos
 
-## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
-## environment variable is set, which causes { -brand-short-name } to log TLS
-## session keys that can be used to decrypt encrypted network traffic.
-
-
 ## Specific error messages
 
 neterror-generic-error = { -brand-short-name } non podet carrigare custa pàgina pro calicuna resone.
@@ -178,9 +173,6 @@ certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Si ses in una 
 # $now (Date) - The current datetime, to be formatted as a date
 certerror-expired-cert-what-can-you-do-about-it-clock = De acordu cun su rellògiu de s’elaboradore tuo, sa data e s'ora atuales sunt: { DATETIME($now, dateStyle: "medium") }. Assegura·ti chi s’elaboradore tuo tèngiat sa data, s’ora e sa zona orària curretas in is cunfiguratziones de su sistema. Pustis atualiza <b>{ $hostname }</b>.
 certerror-mitm-what-can-you-do-about-it-corporate = Si ses in una rete aziendale, podes cuntatare su servìtziu informàticu.
-
-## Felt Privacy V1 Strings
-
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.

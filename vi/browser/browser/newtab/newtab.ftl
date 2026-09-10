@@ -294,8 +294,6 @@ newtab-privacy-message-first-protection-cta = Xem báo cáo bảo vệ
 
 ## Strings for the Stocks widget
 
-# Context menu item for searching stock ticker symbols.
-newtab-stocks-menu-search = Tìm kiếm mã chứng khoán
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Tìm hiểu thêm
 # Shown in the Stocks widget when its data could not be loaded.
@@ -953,7 +951,7 @@ newtab-wallpaper-abstract-purple-green = Chuyển sắc ánh sáng tím và xanh
 newtab-wallpaper-abstract-blue-purple-waves = Hình dạng gợn sóng màu xanh dương và tím
 newtab-wallpaper-abstract-black-waves = Hình dạng gợn sóng màu đen
 
-## Firefox
+## Firefox wallpaper descriptions used for screen readers
 
 newtab-wallpaper-category-title-photographs = Hình ảnh
 newtab-wallpaper-beach-at-sunrise = Bãi biển lúc bình minh
@@ -982,6 +980,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox
+
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial

@@ -120,10 +120,6 @@ action-log-checking-memories = Memeriksa memori
 action-log-checked-memories = Memori telah diperiksa
 action-log-searching-settings = Mencari pengaturan
 action-log-searched-settings = Pengaturan telah dicari
-action-log-searching-world-cup-matches = Mencari pertandingan Piala Dunia
-action-log-searched-world-cup-matches = Pertandingan Piala Dunia telah dicari
-action-log-checking-world-cup-live = Memeriksa pertandingan Piala Dunia yang sedang berlangsung
-action-log-checked-world-cup-live = Pertandingan Piala Dunia yang sedang berlangsung telah dicari
 # Variables
 #   $count (Number) - how many tool steps completed in the turn
 action-log-completed-steps = Menyelesaikan { $count } langkah

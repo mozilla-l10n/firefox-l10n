@@ -420,7 +420,7 @@ newtab-wallpaper-pink = Bándearg
 newtab-wallpaper-light-pink = Bándearg éadrom
 newtab-wallpaper-red = Dearg
 
-## Firefox
+## Firefox wallpaper descriptions used for screen readers
 
 # Variables
 #   $author_string (String) - The name of the creator of the photo.
@@ -428,6 +428,9 @@ newtab-wallpaper-red = Dearg
 newtab-wallpaper-attribution = Grianghraf a ghlac <a data-l10n-name="name-link">{ $author_string }</a> ar an <a data-l10n-name="webpage-link">{ $webpage_string }</a>
 newtab-wallpaper-feature-highlight-header = Cuir beagán datha leis
 newtab-wallpaper-feature-highlight-button = Tuigim
+
+## Firefox
+
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## New Tab Weather

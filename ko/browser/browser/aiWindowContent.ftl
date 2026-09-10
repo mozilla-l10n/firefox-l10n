@@ -156,10 +156,6 @@ action-log-checking-memories = 기억 기능 확인 중
 action-log-checked-memories = 기억 기능 확인됨
 action-log-searching-settings = 설정 검색 중
 action-log-searched-settings = 설정 검색됨
-action-log-searching-world-cup-matches = 월드컵 경기 검색 중
-action-log-searched-world-cup-matches = 월드컵 경기 검색됨
-action-log-checking-world-cup-live = 실시간 월드컵 경기 확인 중
-action-log-checked-world-cup-live = 실시간 월드컵 경기 확인됨
 # Variables
 #   $count (Number) - how many tool steps completed in the turn
 action-log-completed-steps = { $count } 단계 완료됨

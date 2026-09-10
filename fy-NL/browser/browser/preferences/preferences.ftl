@@ -2830,15 +2830,6 @@ security-privacy-issue-warning-proxy-autodetection =
 
 # The header in settings with link to the referral page, where the user can invite others to
 # use the browser. "Share" here means recommending or referring the browser
-referrals-section-header =
-    .description = Nûgje immen út om de browser te kiezen dy’t privacy foarop stelt.
-    .label = { -brand-short-name } diele
-# Link that opens the referral page, where the user can invite others to
-# use the browser. "Share" here means recommending or referring the browser
-referrals-link =
-    .label = { -brand-short-name } diele
-# The header in settings with link to the referral page, where the user can invite others to
-# use the browser. "Share" here means recommending or referring the browser
 referrals-section-header2 =
     .description = Nûgje immen út om de browser te kiezen dy’t privacy foarop stelt.
     .label = { -brand-product-name } diele

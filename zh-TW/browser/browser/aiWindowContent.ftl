@@ -156,10 +156,6 @@ action-log-checking-memories = 正在確認記憶
 action-log-checked-memories = 已確認記憶
 action-log-searching-settings = 正在搜尋選項
 action-log-searched-settings = 已搜尋選項
-action-log-searching-world-cup-matches = 正在搜尋世界盃足球賽事
-action-log-searched-world-cup-matches = 已搜尋世界盃足球賽事
-action-log-checking-world-cup-live = 正在確認世界盃足球賽即時賽事
-action-log-checked-world-cup-live = 已確認世界盃足球賽即時賽事
 # Variables
 #   $count (Number) - how many tool steps completed in the turn
 action-log-completed-steps = 已完成 { $count } 個步驟

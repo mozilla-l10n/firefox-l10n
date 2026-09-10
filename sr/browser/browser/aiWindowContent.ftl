@@ -42,21 +42,21 @@ aiwindow-manage-memories =
 aiwindow-retry-without-memories =
     .label = Покушајте поново без сећања
 aiwindow-retry =
-    .tooltiptext = Покушајте поново
     .aria-label = Покушај поново
+    .tooltiptext = Покушајте поново
 aiwindow-copy-message =
-    .tooltiptext = Копирај
     .aria-label = Копирај поруку
+    .tooltiptext = Копирај
 aiwindow-copy-table =
-    .tooltiptext = Копирај табелу
     .aria-label = Копирај табелу
+    .tooltiptext = Копирај табелу
 aiwindow-table-scroll-indicator = Помакните да бисте видели више
 aiwindow-thumbs-up =
-    .tooltiptext = Подели позитивне примедбе
     .aria-label = Подели позитивне примедбе
+    .tooltiptext = Подели позитивне примедбе
 aiwindow-thumbs-down =
-    .tooltiptext = Подели негативне примедбе
     .aria-label = Подели негативне примедбе
+    .tooltiptext = Подели негативне примедбе
 aiwindow-applied-memories-popover =
     .aria-label = Површ са сећањима
 aiwindow-applied-memories-list =
@@ -69,8 +69,8 @@ aiwindow-delete-memory-button =
 ## Jump to Bottom Button
 
 aiwindow-jump-to-bottom =
-    .tooltiptext = Скочи на дно
     .aria-label = Скочи на дно ћаскања
+    .tooltiptext = Скочи на дно
 
 ## Natural Language Action
 
@@ -226,10 +226,6 @@ action-log-checking-memories = Проверавам сећања
 action-log-checked-memories = Проверена сећања
 action-log-searching-settings = Претражујем подешавања
 action-log-searched-settings = Претражена подешавања
-action-log-searching-world-cup-matches = Претражујем утакмице Светског првенства
-action-log-searched-world-cup-matches = Претражене утакмице Светског првенства
-action-log-checking-world-cup-live = Проверавам текуће утакмице Светског првенства
-action-log-checked-world-cup-live = Проверене текуће утакмице Светског првенства
 # Variables
 #   $count (Number) - how many tool steps completed in the turn
 action-log-completed-steps =

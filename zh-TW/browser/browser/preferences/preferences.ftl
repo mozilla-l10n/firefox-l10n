@@ -2825,15 +2825,6 @@ security-privacy-issue-warning-proxy-autodetection =
 
 # The header in settings with link to the referral page, where the user can invite others to
 # use the browser. "Share" here means recommending or referring the browser
-referrals-section-header =
-    .description = 邀請其他人選用將隱私看得最重要的瀏覽器。
-    .label = 分享 { -brand-short-name }
-# Link that opens the referral page, where the user can invite others to
-# use the browser. "Share" here means recommending or referring the browser
-referrals-link =
-    .label = 分享 { -brand-short-name }
-# The header in settings with link to the referral page, where the user can invite others to
-# use the browser. "Share" here means recommending or referring the browser
 referrals-section-header2 =
     .description = 邀請其他人選用將隱私看得最重要的瀏覽器。
     .label = 分享 { -brand-product-name }

@@ -2841,15 +2841,6 @@ security-privacy-issue-warning-proxy-autodetection =
 
 # The header in settings with link to the referral page, where the user can invite others to
 # use the browser. "Share" here means recommending or referring the browser
-referrals-section-header =
-    .description = Invita alcuno a eliger le navigator que antepone le confidentialitate
-    .label = Condivide { -brand-short-name }
-# Link that opens the referral page, where the user can invite others to
-# use the browser. "Share" here means recommending or referring the browser
-referrals-link =
-    .label = Condivide { -brand-short-name }
-# The header in settings with link to the referral page, where the user can invite others to
-# use the browser. "Share" here means recommending or referring the browser
 referrals-section-header2 =
     .description = Invita alcuno a eliger le navigator que antepone le confidentialitate
     .label = Condivide { -brand-product-name }

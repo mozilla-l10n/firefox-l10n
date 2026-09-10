@@ -153,7 +153,3 @@ action-log-checking-memories = O wiriañ an eñvorennoù
 action-log-checked-memories = Gwiriet an eñvorennoù
 action-log-searching-settings = O klask en arventennoù
 action-log-searched-settings = Klask er arventennoù
-action-log-searching-world-cup-matches = O klask er c'hrogadoù mell-droad
-action-log-searched-world-cup-matches = Klasket er c'hrogadoù mell-droiad
-action-log-checking-world-cup-live = O klask er c'hrogadoù mell-droad war-eeun
-action-log-checked-world-cup-live = Klasket er c'hrogadoù mell-droad war-eeun

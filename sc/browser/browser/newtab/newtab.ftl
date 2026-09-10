@@ -254,8 +254,6 @@ newtab-privacy-message-first-protection-cta = Ammustra is amparos
 
 ## Strings for the Stocks widget
 
-# Context menu item for searching stock ticker symbols.
-newtab-stocks-menu-search = Chirca sìmbulos de atziones
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Àteras informatziones
 # Accessible name for the Stocks widget; hidden because the list dropdown is
@@ -749,7 +747,7 @@ newtab-wallpaper-abstract-purple-green = Isfumadura de lughe tanada e birde
 newtab-wallpaper-abstract-blue-purple-waves = Formas a undas biaitas e tanadas
 newtab-wallpaper-abstract-black-waves = Formas a undas nieddas
 
-## Firefox
+## Firefox wallpaper descriptions used for screen readers
 
 newtab-wallpaper-category-title-photographs = Fotografias
 newtab-wallpaper-beach-at-sunrise = Ispiàgia in s'arbeschidòrgiu
@@ -778,6 +776,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox
+
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial

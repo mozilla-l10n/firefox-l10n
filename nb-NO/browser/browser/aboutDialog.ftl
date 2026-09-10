@@ -69,7 +69,6 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-shor
 community-2 = { -brand-short-name } er utviklet av <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, et <label data-l10n-name="community-creditsLink">globalt samfunn</label> som arbeider sammen for å holde nettet åpent, allment og tilgjengelig for alle.
 helpus = Vil du hjelpe til? <label data-l10n-name="helpus-donateLink">Gi en donasjon</label> eller <label data-l10n-name="helpus-getInvolvedLink">involver deg!</label>
 helpus-referrals2 = Vil du hjelpe? <label data-l10n-name="helpus-donateLink">Gi en donasjon</label>, <label data-l10n-name="helpus-shareFirefoxLink">del { -brand-product-name }</label>, eller <label data-l10n-name="helpus-getInvolvedLink">bli med!</label>
-helpus-referrals = Vil du hjelpe? <label data-l10n-name="helpus-donateLink">Gi en donasjon</label>, <label data-l10n-name="helpus-shareFirefoxLink">del { -brand-short-name }</label>, eller <label data-l10n-name="helpus-getInvolvedLink">bli med!</label>
 bottomLinks-license = Lisensinfo
 bottom-links-terms = Bruksvilkår
 bottom-links-privacy = Personvernerklæring

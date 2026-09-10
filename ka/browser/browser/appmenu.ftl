@@ -320,11 +320,6 @@ appmenu-about =
 appmenu-referrals2 =
     .label = გააზიარეთ { -brand-product-name }
     .accesskey = გ
-# This menu item opens the referral page, where the user can invite others to
-# use the browser. "Share" here means recommending or referring the browser
-appmenu-referrals =
-    .label = გააზიარეთ { -brand-shorter-name }
-    .accesskey = გ
 appmenu-get-help =
     .label = დახმარება
     .accesskey = დ
@@ -436,8 +431,6 @@ fxa-menu-create-profile-learn-more =
     .label = რისთვისაა პროფილები?
 # Button in the account menu that links to the Referrals page
 appmenuitem-share-firefox-title2 = გააზიარეთ { -brand-product-name }
-# Button in the account menu that links to the Referrals page
-appmenuitem-share-firefox-title = გააზიარეთ { -brand-short-name }
 appmenuitem-share-firefox-description = მოიწვიეთ ვინმე, აირჩიოს ბრაუზერი, რომლისთვისაც უწინარესია პირადულობა
 appmenu-profiles-2 =
     .label = პროფილები

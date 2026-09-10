@@ -563,7 +563,7 @@ newtab-wallpaper-abstract-purple-green = Фіолетовий і зелений 
 newtab-wallpaper-abstract-blue-purple-waves = Сині та фіолетові хвилясті форми
 newtab-wallpaper-abstract-black-waves = Чорні хвилясті форми
 
-## Firefox
+## Firefox wallpaper descriptions used for screen readers
 
 newtab-wallpaper-category-title-photographs = Фотографії
 newtab-wallpaper-beach-at-sunrise = Пляж на сході сонця
@@ -592,6 +592,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox
+
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial

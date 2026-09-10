@@ -69,7 +69,6 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-shor
 community-2 = { -brand-short-name }, რომელსაც ქმნის <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label> <label data-l10n-name="community-creditsLink">საერთაშორისო ერთობასთან</label> თანამშრომლობით, იმ ძალისხმევის ნაწილია, რომელიც მიმართულია ინტერნეტის გახსნილობის, საჯაროობისა და საყოველთაო ხელმისაწვდომის შესანარჩუნებლად.
 helpus = გსურთ დახმარება? <label data-l10n-name="helpus-donateLink">გაიღეთ შემოწირულება</label> ან <label data-l10n-name="helpus-getInvolvedLink">შემოგვიერთდით!</label>
 helpus-referrals2 = დახმარება გსურთ? <label data-l10n-name="helpus-donateLink">გაიღეთ შემოწირულობა</label>, <label data-l10n-name="helpus-shareFirefoxLink">გააზიარეთ { -brand-product-name }</label> ან <label data-l10n-name="helpus-getInvolvedLink">შემოგვიერთდით!</label>
-helpus-referrals = დახმარება გსურთ? <label data-l10n-name="helpus-donateLink">გაიღეთ შემოწირულობა</label>, <label data-l10n-name="helpus-shareFirefoxLink">გააზიარეთ { -brand-short-name }</label> ან <label data-l10n-name="helpus-getInvolvedLink">შემოგვიერთდით!</label>
 bottomLinks-license = ლიცენზირების შესახებ
 bottom-links-terms = გამოყენების პირობები
 bottom-links-privacy = პირადულობის განაცხადი

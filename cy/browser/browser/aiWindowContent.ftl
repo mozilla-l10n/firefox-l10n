@@ -268,10 +268,6 @@ action-log-checking-memories = Yn gwirio atgofion
 action-log-checked-memories = Atgofion wedi'i gwirio
 action-log-searching-settings = Yn chwilio gosodiadau
 action-log-searched-settings = Gosodiadau wedi'u chwilio
-action-log-searching-world-cup-matches = Yn chwilio gemau Cwpan y Byd
-action-log-searched-world-cup-matches = Gemau Cwpan y Byd wedi'u chwilio
-action-log-checking-world-cup-live = Yn gwirio gemau Cwpan y Byd byw
-action-log-checked-world-cup-live = Gemau Cwpan y Byd wedi'u gwirio
 # Variables
 #   $count (Number) - how many tool steps completed in the turn
 action-log-completed-steps =

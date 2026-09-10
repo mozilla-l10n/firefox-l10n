@@ -212,10 +212,6 @@ action-log-checking-memories = Жадыны тексеру
 action-log-checked-memories = Жады тексерілді
 action-log-searching-settings = Баптауларда іздеу
 action-log-searched-settings = Баптауларда ізделді
-action-log-searching-world-cup-matches = Әлем чемпионатының матчтарын іздеу
-action-log-searched-world-cup-matches = Әлем чемпионатының матчтары ізделді
-action-log-checking-world-cup-live = Әлем чемпионатының тікелей матчтарын тексеру
-action-log-checked-world-cup-live = Әлем чемпионатының тікелей матчтары тексерілді
 # Variables
 #   $count (Number) - how many tool steps completed in the turn
 action-log-completed-steps =

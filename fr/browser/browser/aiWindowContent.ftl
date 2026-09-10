@@ -41,21 +41,21 @@ aiwindow-manage-memories =
 aiwindow-retry-without-memories =
     .label = Réessayer sans souvenir
 aiwindow-retry =
-    .tooltiptext = Réessayer
     .aria-label = Réessayer
+    .tooltiptext = Réessayer
 aiwindow-copy-message =
-    .tooltiptext = Copier
     .aria-label = Copier le message
+    .tooltiptext = Copier
 aiwindow-copy-table =
-    .tooltiptext = Copier le tableau
     .aria-label = Copier le tableau
+    .tooltiptext = Copier le tableau
 aiwindow-table-scroll-indicator = Faites défiler pour en voir davantage
 aiwindow-thumbs-up =
-    .tooltiptext = Partager des commentaires positifs
     .aria-label = Partager des commentaires positifs
+    .tooltiptext = Partager des commentaires positifs
 aiwindow-thumbs-down =
-    .tooltiptext = Partager des commentaires négatifs
     .aria-label = Partager des commentaires négatifs
+    .tooltiptext = Partager des commentaires négatifs
 aiwindow-applied-memories-popover =
     .aria-label = Panneau des souvenirs
 aiwindow-applied-memories-list =
@@ -68,8 +68,8 @@ aiwindow-delete-memory-button =
 ## Jump to Bottom Button
 
 aiwindow-jump-to-bottom =
-    .tooltiptext = Aller en bas
     .aria-label = Aller au bas de la discussion
+    .tooltiptext = Aller en bas
 
 ## Natural Language Action
 
@@ -212,10 +212,6 @@ action-log-checking-memories = Consultation des souvenirs
 action-log-checked-memories = Souvenirs consultés
 action-log-searching-settings = Recherche dans les paramètres
 action-log-searched-settings = Recherche dans les paramètres effectuée
-action-log-searching-world-cup-matches = Recherche des matchs de la Coupe du monde
-action-log-searched-world-cup-matches = Recherche des matchs de la Coupe du monde effectuée
-action-log-checking-world-cup-live = Vérification des matchs de la Coupe du monde en direct
-action-log-checked-world-cup-live = Vérification des matchs de la Coupe du monde en direct effectuée
 # Variables
 #   $count (Number) - how many tool steps completed in the turn
 action-log-completed-steps =

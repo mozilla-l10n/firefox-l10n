@@ -332,8 +332,6 @@ newtab-privacy-message-first-protection-cta = Visa skydd
 
 ## Strings for the Stocks widget
 
-# Context menu item for searching stock ticker symbols.
-newtab-stocks-menu-search = Sök aktiesymbol
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Läs mer
 # Shown in the Stocks widget when its data could not be loaded.
@@ -1046,7 +1044,7 @@ newtab-wallpaper-abstract-purple-green = Lila och grön ljusgradient
 newtab-wallpaper-abstract-blue-purple-waves = Blå och lila vågiga former
 newtab-wallpaper-abstract-black-waves = Svarta vågiga former
 
-## Firefox
+## Firefox wallpaper descriptions used for screen readers
 
 newtab-wallpaper-category-title-photographs = Fotografier
 newtab-wallpaper-beach-at-sunrise = Strand vid soluppgång
@@ -1075,6 +1073,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox
+
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial

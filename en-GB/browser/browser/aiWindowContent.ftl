@@ -41,21 +41,21 @@ aiwindow-manage-memories =
 aiwindow-retry-without-memories =
     .label = Retry without memories
 aiwindow-retry =
-    .tooltiptext = Retry
     .aria-label = Retry
+    .tooltiptext = Retry
 aiwindow-copy-message =
-    .tooltiptext = Copy
     .aria-label = Copy message
+    .tooltiptext = Copy
 aiwindow-copy-table =
-    .tooltiptext = Copy table
     .aria-label = Copy table
+    .tooltiptext = Copy table
 aiwindow-table-scroll-indicator = Scroll to see more
 aiwindow-thumbs-up =
-    .tooltiptext = Share positive feedback
     .aria-label = Share positive feedback
+    .tooltiptext = Share positive feedback
 aiwindow-thumbs-down =
-    .tooltiptext = Share negative feedback
     .aria-label = Share negative feedback
+    .tooltiptext = Share negative feedback
 aiwindow-applied-memories-popover =
     .aria-label = Memories panel
 aiwindow-applied-memories-list =
@@ -68,8 +68,8 @@ aiwindow-delete-memory-button =
 ## Jump to Bottom Button
 
 aiwindow-jump-to-bottom =
-    .tooltiptext = Jump to bottom
     .aria-label = Jump to bottom of chat
+    .tooltiptext = Jump to bottom
 
 ## Natural Language Action
 
@@ -211,10 +211,6 @@ action-log-checking-memories = Checking memories
 action-log-checked-memories = Checked memories
 action-log-searching-settings = Searching settings
 action-log-searched-settings = Searched settings
-action-log-searching-world-cup-matches = Searching World Cup matches
-action-log-searched-world-cup-matches = Searched World Cup matches
-action-log-checking-world-cup-live = Checking live World Cup matches
-action-log-checked-world-cup-live = Checked live World Cup matches
 # Variables
 #   $count (Number) - how many tool steps completed in the turn
 action-log-completed-steps =

@@ -548,7 +548,7 @@ newtab-wallpaper-abstract-purple-green = Gradient ndriçimi të purpur dhe të g
 newtab-wallpaper-abstract-blue-purple-waves = Forma të valëzuara blu dhe të purpurta
 newtab-wallpaper-abstract-black-waves = Forma të valëzuara të zeza
 
-## Firefox
+## Firefox wallpaper descriptions used for screen readers
 
 newtab-wallpaper-category-title-photographs = Fotografi
 newtab-wallpaper-beach-at-sunrise = Plazh në agim
@@ -577,6 +577,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox
+
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial

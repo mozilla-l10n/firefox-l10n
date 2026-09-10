@@ -320,11 +320,6 @@ appmenu-about =
 appmenu-referrals2 =
     .label = Jaa { -brand-product-name }
     .accesskey = J
-# This menu item opens the referral page, where the user can invite others to
-# use the browser. "Share" here means recommending or referring the browser
-appmenu-referrals =
-    .label = Jaa { -brand-shorter-name }
-    .accesskey = J
 appmenu-get-help =
     .label = Etsi ohjeita
     .accesskey = h
@@ -436,8 +431,6 @@ fxa-menu-create-profile-learn-more =
     .label = Mitä profiilit ovat?
 # Button in the account menu that links to the Referrals page
 appmenuitem-share-firefox-title2 = Jaa { -brand-product-name }
-# Button in the account menu that links to the Referrals page
-appmenuitem-share-firefox-title = Jaa { -brand-short-name }
 appmenuitem-share-firefox-description = Kutsu joku yksityisyyden etusijalle asettavan selaimen pariin
 appmenu-profiles-2 =
     .label = Profiilit

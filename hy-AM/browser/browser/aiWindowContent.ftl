@@ -105,7 +105,3 @@ action-log-checking-memories = Հիշողությունների ստուգում
 action-log-checked-memories = Ստուգված հիշողություններ
 action-log-searching-settings = Որոնման կարգավորումներ
 action-log-searched-settings = Որոնված կարգավորումներ
-action-log-searching-world-cup-matches = Աշխարհի գավաթի խաղերի որոնում
-action-log-searched-world-cup-matches = Աշխարհի գավաթի խաղերի որոնում
-action-log-checking-world-cup-live = Աշխարհի առաջնության խաղերի ուղիղ դիտում
-action-log-checked-world-cup-live = Ստուգված աշխարհի առաջնության ուղիղ խաղեր

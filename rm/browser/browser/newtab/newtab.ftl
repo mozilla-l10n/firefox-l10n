@@ -531,7 +531,7 @@ newtab-wallpaper-abstract-purple-green = Dissoluziun da glisch violetta e verda
 newtab-wallpaper-abstract-blue-purple-waves = Furmas undegiadas blauas e violettas
 newtab-wallpaper-abstract-black-waves = Furmas nairas undegiadas
 
-## Firefox
+## Firefox wallpaper descriptions used for screen readers
 
 newtab-wallpaper-category-title-photographs = Fotografias
 newtab-wallpaper-beach-at-sunrise = Splagia sin il far di
@@ -560,6 +560,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox
+
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
 
 ## Celestial

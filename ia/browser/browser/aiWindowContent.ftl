@@ -212,10 +212,6 @@ action-log-checking-memories = Controlo de memorias
 action-log-checked-memories = Memorias controlate
 action-log-searching-settings = Recerca de configurationes
 action-log-searched-settings = Recerca de configurationes facite
-action-log-searching-world-cup-matches = Recerca de matches de Cuppa del mundo
-action-log-searched-world-cup-matches = Recerca de matches de Cuppa del mundo facite
-action-log-checking-world-cup-live = Controlo al vivo de matches de Cuppa del mundo
-action-log-checked-world-cup-live = Controlo al vivo de matches de Cuppa del mundo facite
 # Variables
 #   $count (Number) - how many tool steps completed in the turn
 action-log-completed-steps =
