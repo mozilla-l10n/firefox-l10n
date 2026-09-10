@@ -29,6 +29,12 @@ ipprotection-feature-introduction-button-primary = Nākamais
 ipprotection-feature-introduction-button-secondary-not-now = Ne tagad
 ipprotection-feature-introduction-button-secondary-no-thanks = Nē, paldies
 
+## Unlimited bandwidth summer promotion offramp callouts
+
+# Summer promo offramp callout buttons
+ipprotection-summer-promo-offramp-open-vpn-primary-button = Atvērt VPN
+ipprotection-summer-promo-offramp-dismiss-secondary-button = Noraidīt
+
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Izvēlies, kur izmantot VPN

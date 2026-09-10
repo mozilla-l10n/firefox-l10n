@@ -120,6 +120,10 @@ site-exclusion-toggle-disabled-1 =
     .aria-label = VPN es disactivate pro iste sito
     .label = Usar VPN pro iste sito
 site-exclusion-toggle-description = Sito non functionante? Tenta disactivar le VPN.
+# Used in the panel when a user navigates to a site where the VPN is off due to a site exclusion
+site-rules-description-exclusion = VPN es disactivate pro iste sito
+# Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
+site-rules-description-inclusion = VPN es active pro iste sito
 ipprotection-settings-link =
     .label = Parametros
 
