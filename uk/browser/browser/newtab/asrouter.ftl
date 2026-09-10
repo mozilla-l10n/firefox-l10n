@@ -412,6 +412,11 @@ windows-10-eos-feature-toast-subtitle = У відповідь на числен�
 windows-10-eos-feature-toast-whats-new-button = Перегляньте, що нового
 windows-10-eos-feature-toast-dismiss-button = Відхилити
 
+## Windows 10 EoS Global Infobar
+
+windows-10-eos-global-infobar-learn-more-link = Докладніше
+    .accessKey = о
+
 ## ETP (Enhanced Tracking Protection) Strict exceptions infobar
 ##
 ## These strings are displayed in an infobar notification that appears when
