@@ -267,6 +267,14 @@ windows-10-eos-global-infobar-learn-more-link = Uzzināt vairāk
 
 etp-strict-exceptions-infobar-learn-more = Uzzināt vairāk
 
+## 'Set to default' messaging displayed within the App menu
+
+set-default-menu-message-split-layout-subtitle =
+    { PLATFORM() ->
+        [macos] Padari to par noklusējumu un turi to Dock!
+       *[other] Iegūsti ātrāku pārlūkošanu un automātisku privātuma aizsardzību.
+    }
+
 ## Nova Early Access Infobar
 
 nova-early-access-infobar-primary-button = Sapratu
