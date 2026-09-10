@@ -473,8 +473,17 @@ details-notification-unsigned2 =
 details-notification-hard-blocked-extension =
     .message = این افزونه به‌دلیل نقض خط‌مشی‌های موزیلا مسدود و غیرفعال شده است.
 details-notification-hard-blocked-other =
-    .message = این افزونه (add-on) به دلیل نقض سیاست‌های موزیلا مسدود و غیرفعال شده است.
+    .message = این مکمل (add-on) به دلیل نقض سیاست‌های موزیلا مسدود و غیرفعال شده است.
 details-notification-blocked-link2 = مشاهده جزئیات
+details-notification-soft-blocked-extension-disabled2 =
+    .message = این افزونه محدود و غیر‌فعال شده است. می‌توانید آن را فعال کنید، اما ممکن است ریسکهایی داشته باشد.
+details-notification-soft-blocked-extension-enabled2 =
+    .message = این افزونه محدود شده است. استفاده از آن ممکن است ریسکهایی به همراه داشته باشد.
+details-notification-soft-blocked-other-disabled2 =
+    .message = این مکمل (add-on) محدود شده است. استفاده از آن ممکن است ریسکهایی به همراه داشته باشد.
+details-notification-soft-blocked-other-enabled2 =
+    .message = این مکمل (add-on) محدود شده است. استفاده از آن ممکن است ریسکهایی به همراه داشته باشد.
+details-notification-softblocked-link2 = مشاهده جزئیات
 details-notification-gmp-pending2 =
     .message = { $name } به زودی نصب میشود.
 
@@ -486,6 +495,48 @@ plugins-openh264-name = کدک ویدیویی OpenH264 ارائه شده توس�
 plugins-openh264-description = این افزایه به صورت خودکار توسط موزیلا نصب شده است. جهت تطابق با خصوصیات WebRTC و فعال سازی فراخوان های  WebRTC  با دستگاه ها کدک ویدیویی H.264 مورد نیاز است. https://www.openh264.org/ رابرای منبع کدک و اطلاعات بیشتر جهت پیاده سازی مشاهده کنید.
 plugins-widevine-name = ماژول رمزگشایی محتوا Widevine تهیه شده توسط گوگل
 plugins-widevine-description = این افزونه پخش رسانه‌های رمزگذاری شده را مطابق با قراردادِ Encrypted Media Extensions فعال می‌کند. رسانه‌های رمزگذاری شده معمولاً توسط سایت‌ها برای محافظت در برابر رونوشت از محتوای رسانه‌ای استفاده می‌شوند. برای اطلاعات بیشتر در مورد Encrypted Media Extensions، از https://www.w3.org/TR/encrypted-media/ دیدن کنید.
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+
+# Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
+permissions-data-addon-button = مجوزها و داده‌ها
+# This is a description for extension that use this AI model
+# Variables:
+#   $extensionName (String) - Name of the extension
+mlmodel-extension-label = توسط افزونه‌ی { $extensionName } استفاده می‌شود.
+addon-permissions-data-collection-heading = جمع آوری داده ها
+addon-permissions-data-collection-empty = توسعه‌دهنده می‌گوید این افزونه نیازی به جمع‌آوری داده‌ها ندارد.
+addon-data-collection-provided = اطلاعات ارائه شده توسط توسعه‌دهنده افزونه
+addon-data-collection-learnmore = درباره جمع‌آوری داده‌ها بیشتر بدانید
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
+
+mlmodel-about-inference = { -brand-short-name } در about:inference از این استفاده می‌کند
+mlmodel-link-preview = { -brand-short-name } هنگام پیش‌نمایش پیوندها، از این مدل برای استخراج نکات کلیدی استفاده می‌کند
+mlmodel-pdfjs = { -brand-short-name } از این مدل برای ساخت متن جایگزینِ تصاویری که به فایل‌های PDF می‌افزایید استفاده می‌کند
+mlmodel-smart-tab-topic-engine = { -brand-short-name } با استفاده از این، برای گروه‌های برگه‌های شما نام پیشنهاد می‌دهد
+mlmodel-smart-tab-embedding-engine = { -brand-short-name } از این قابلیت برای پیشنهاد برگه‌های مناسب برای گروه‌های برگهٔ شما استفاده می‌کند
+mlmodel-formfill-engine = { -brand-short-name } از این قابلیت برای تکمیل فرم‌های نشانی کمک می‌گیرد
+mlmodel-speech-recognition = { -brand-short-name } از این قابلیت برای تشخیص گفتار در خود دستگاه استفاده می‌کند
+# AI Model will be downloaded on the users device and used locally
+addon-category-mlmodel = هوشواره‌ی روی دستگاه
+addon-category-mlmodel-title =
+    .title = هوشواره‌ی روی دستگاه
+mlmodel-heading = مدیریت مدل‌های هوشواره‌ی روی دستگاه
+mlmodel-description = برخی قابلیت‌ها و افزونه‌های { -brand-short-name } از مدل‌های هوش مصنوعی استفاده می‌کنند که مستقیماً روی دستگاه شما اجرا می‌شوند. این روش از حریم خصوصی شما محافظت می‌کند و در بسیاری از موارد، عملکرد را بهبود می‌بخشد. <a data-l10n-name="learn-more">بیشتر بدانید</a>
+# Label for button that when clicked removed local model
+mlmodel-remove-addon-button =
+    .aria-label = حذف
+# Label for the aggregated value of all files for a model
+mlmodel-addon-detail-totalsize-label = حجم فایل
+mlmodel-addon-detail-last-used-label = آخرین استفاده
+# This is a section label to describe what extensions or features use a specific local AI model
+mlmodel-addon-detail-used-by-label = استفاده شده توسط
+# This is a section label to describe the link to the model card on the Hugging Face website
+mlmodel-addon-detail-model-card = کارت مدل
+# This is a label for the Model Card link to Hugging face
+mlmodel-addon-detail-model-card-link-label = مشاهده در Hugging Face
 
 ## Themes Mode segmented control shown at the top of the about:addons themes list view
 ## when Project Nova is enabled.
