@@ -111,6 +111,7 @@ unauthenticated-vpn-title = Prøv den innebygde VPN-en i { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Skjul plasseringen din</a> mens du surfer i { -brand-product-name }.
 unauthenticated-private-location-message = Bidrar til å <a data-l10n-name="learn-more-vpn">holde plasseringen din privat</a> i { -brand-product-name }.
 unauthenticated-choose-location-message-1 = Velg mellom flere plasseringer å surfe fra, eller la { -brand-product-name } velge det raskeste for deg.
+unauthenticated-site-rules-message = Kontroller hvilke nettsteder som bruker VPN og hvilke nettsteder som ikke gjør det.
 unauthenticated-get-started = Kom i gang
 unauthenticated-terms-of-service-privacy-notice = Ved å fortsette aksepterer du våre <a data-l10n-name="vpn-terms-of-service">tjenestevilkår</a> og <a data-l10n-name="vpn-privacy-notice">personvernbestemmelser</a>.
 site-exclusion-toggle-enabled-1 =
@@ -120,6 +121,14 @@ site-exclusion-toggle-disabled-1 =
     .aria-label = VPN er av for dette nettstedet
     .label = Bruk VPN for dette nettstedet
 site-exclusion-toggle-description = Fungerer ikke nettstedet? Prøv å slå av VPN.
+# Manages rules for VPN to turn on or off automatically for certain websites
+site-rules-manage-rules-link-text = Behandle VPN-regler
+# Heading for user defined rules on VPN usage for particular websites
+site-rules-status-heading = Din regel
+# Used in the panel when a user navigates to a site where the VPN is off due to a site exclusion
+site-rules-description-exclusion = VPN er av for dette nettstedet
+# Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
+site-rules-description-inclusion = VPN er på for dette nettstedet
 ipprotection-settings-link =
     .label = Innstillinger
 
@@ -256,6 +265,8 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } nettsteder
         }
     .label = Behandle nettstedsinnstillinger
+ip-protection-site-rules-header =
+    .heading = Behandle nettstedsregler
 ip-protection-autostart =
     .label = Slå på VPN automatisk
 ip-protection-autostart-checkbox =
