@@ -111,6 +111,7 @@ unauthenticated-vpn-title = Wopytajśo zatwarjony VPN { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Schowajśo swójo stojnišćo</a>, mjaztym až w { -brand-product-name } pśeglědujośo.
 unauthenticated-private-location-message = Pomaga w { -brand-product-name } <a data-l10n-name="learn-more-vpn">wašo stojnišćo priwatne źaržaś</a>.
 unauthenticated-choose-location-message-1 = Wubjeŕśo z někotarych stojnišćow abo dajśo { -brand-product-name } nejmalsnjejše wubraś.
+unauthenticated-site-rules-message = Póstajśo, kótare sedła VPN wužywaju a kótare sedła nic.
 unauthenticated-get-started = Prědne kšace
 unauthenticated-terms-of-service-privacy-notice = Gaž pókšacujośo, zwólijośo do <a data-l10n-name="vpn-terms-of-service">wužywańskich wuměnjenjow</a> a <a data-l10n-name="vpn-privacy-notice">powěźeńki priwatnosći</a>.
 site-exclusion-toggle-enabled-1 =
@@ -120,6 +121,8 @@ site-exclusion-toggle-disabled-1 =
     .aria-label = VPN jo za toś to sedło znjemóžnjony
     .label = VPN za toś to sedło wužywaś
 site-exclusion-toggle-description = Sedło njefunkcioněrujo? Wopytajśo VPN znjemóžniś.
+# Manages rules for VPN to turn on or off automatically for certain websites
+site-rules-manage-rules-link-text = Pšawidła VPN zastojaś
 ipprotection-settings-link =
     .label = Nastajenja
 
