@@ -1040,12 +1040,22 @@ feature-highlight-wallpaper =
 
 ## Firefox wallpaper descriptions used for screen readers
 
-newtab-wallpaper-firefox-orange = 在橘色背景的右邊界有隻狐狸
+newtab-wallpaper-firefox-orange = 在橘色背景的右邊邊緣有隻狐狸
 newtab-wallpaper-firefox-colorful-sky = 紫色夜空下翻湧著橘色波浪
 newtab-wallpaper-firefox-desert-dark = 狐狸坐在深紫色的沙漠中
 newtab-wallpaper-firefox-desert-light = 一隻狐狸跑過明亮的沙漠
 newtab-wallpaper-firefox-hills-dark = 一隻狐狸跑過昏暗的山丘
 newtab-wallpaper-firefox-hills-light = 一隻狐狸跑過明亮的山丘
+newtab-wallpaper-firefox-tail-dark = 在暗色背景中有一條狐狸尾巴
+newtab-wallpaper-firefox-tail-light = 在亮色背景中有一條狐狸尾巴
+newtab-wallpaper-firefox-side-kit-dark = 在暗色背景的左邊有一隻狐狸
+newtab-wallpaper-firefox-side-kit-light = 在亮色背景的左邊有一隻狐狸
+newtab-wallpaper-firefox-sitting-hill-dark = 狐狸坐在深紫色的山丘上
+newtab-wallpaper-firefox-sitting-hill-light = 狐狸坐在亮色的山丘上
+newtab-wallpaper-firefox-peak-dark = 在暗色背景的左邊邊緣有一張狐狸的臉
+newtab-wallpaper-firefox-peak-light = 在亮色背景的左邊邊緣有一張狐狸的臉
+newtab-wallpaper-firefox-sky-dark = 夜空下的暗紫色山丘
+newtab-wallpaper-firefox-sky-light = 柔和天空下的明亮山丘
 
 ## Firefox
 

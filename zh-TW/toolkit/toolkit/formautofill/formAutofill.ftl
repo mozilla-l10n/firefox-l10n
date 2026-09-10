@@ -15,6 +15,11 @@ autofill-use-payment-method-os-prompt-other = { -brand-short-name } 正嘗試使
 autofill-edit-payment-method-os-prompt-macos = 顯示儲存的付款方式資訊
 autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } 正嘗試顯示儲存的付款方式資訊。請在下方登入此 Windows 帳號確認。
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name } 正嘗試顯示儲存的付款方式資訊。
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-delete-payment-method-os-prompt-macos = 刪除儲存的付款方式資訊
+autofill-delete-payment-method-os-prompt-windows = { -brand-short-name } 正嘗試刪除儲存的付款方式資訊。請在下方登入此 Windows 帳號確認。
+autofill-delete-payment-method-os-prompt-other = { -brand-short-name } 正嘗試刪除儲存的付款方式資訊。
 # The link leads users to Form Autofill browser preferences.
 autofill-options-link = 表單自動填寫選項
 autofill-options-link-osx = 表單自動填寫偏好設定
