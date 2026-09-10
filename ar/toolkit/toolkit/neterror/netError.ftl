@@ -39,6 +39,9 @@ neterror-disable-native-feedback-warning = واصِل دائمًا
 ## derived from the address that failed to resolve.
 
 neterror-search-cta-title = تعذّر الوصول إلى هذا الموقع
+# $hostname (String) - The host of the address that failed to load, including
+# any subdomains, for example "docs.example.com". The host is emphasized.
+neterror-search-cta-intro2 = تعذّر الاتصال بالخادم على <strong>{ $hostname }</strong>.
 # $domain (String) - The host of the address that failed to load, including any
 # subdomains, for example "docs.example.com".
 neterror-search-cta-intro = تعذّر الاتصال بالخادم على { $domain }.
