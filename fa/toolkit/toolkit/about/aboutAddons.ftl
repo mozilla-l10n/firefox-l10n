@@ -287,6 +287,11 @@ find-more-themes = تم‌های بیشتری پیدا کنید
 # used for screen readers.
 addon-options-button =
     .aria-label = گزینه‌های بیشتر
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+# We hard code "Firefox" because we do not want to imply that a Firefox fork is
+# making this recommendation.
+discopane-intro3 = افزونه‌ها و پوسته‌ها به شما امکان می‌دهند { -brand-product-name } را مطابق سلیقه‌تان شخصی‌سازی کنید. آن‌ها می‌توانند حریم خصوصی و بهره‌وری را افزایش دهند، تجربهٔ استفاده از رسانه‌ها را بهبود بخشند، ظاهر { -brand-product-name } را تغییر دهند و کارهای بسیار دیگری انجام دهند. این برنامه‌های کوچک اغلب توسط اشخاص ثالث توسعه داده می‌شوند. در اینجا مجموعه‌ای را می‌بینید که فایرفاکس به‌دلیل امنیت، عملکرد و قابلیت‌های فوق‌العاده <a data-l10n-name="learn-more-trigger">توصیه می‌کند</a>.
 
 ## Add-on actions
 
@@ -311,12 +316,15 @@ permissions-addon-button = مجوزها
 extension-enabled-heading = فعال شد
 extension-disabled-heading = غیرفعال شد
 theme-enabled-heading = فعال شد
+theme-disabled-heading2 = پوسته‌های ذخیره‌شده
 plugin-enabled-heading = فعال شد
 plugin-disabled-heading = غیرفعال شد
 dictionary-enabled-heading = فعال شد
 dictionary-disabled-heading = غیرفعال شد
 locale-enabled-heading = فعال شد
 locale-disabled-heading = غیرفعال شد
+sitepermission-enabled-heading = فعال
+sitepermission-disabled-heading = غیر فعال
 always-activate-button = همیشه فعال باشد
 never-activate-button = هرگز فعال نشود
 addon-detail-author-label = نویسنده
@@ -324,6 +332,9 @@ addon-detail-version-label = نسخه
 addon-detail-last-updated-label = آخرین بروزرسانی
 addon-detail-homepage-label = صفحه خانگی
 addon-detail-rating-label = امتیاز
+# Message for add-ons with a staged pending update.
+install-postponed-message2 =
+    .message = این افزونه پس از راه‌اندازی مجدد { -brand-short-name } به‌روزرسانی می‌شود.
 install-postponed-button = اکنون بروزرسانی کنید
 # This string is used to show that an add-on is disabled.
 # Variables:
@@ -370,6 +381,10 @@ addon-detail-group-label-private-browsing =
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
 
+# Used as a description for the option to allow or block an add-on on quarantined domains.
+addon-detail-quarantined-domains-label = اجرا در سایت‌های محدودشده
+# Used as help text part of the quarantined domains UI controls row.
+addon-detail-quarantined-domains-help = در صورت صدور مجوز، افزونه به سایت‌های محدودشده توسط { -vendor-short-name } دسترسی خواهد داشت. فقط اگر به این افزونه اعتماد دارید، آن را مجاز کنید.
 # Used as label and tooltip text on the radio inputs associated to the quarantined domains UI controls.
 addon-detail-quarantined-domains-allow = اجازه دادن
 addon-detail-quarantined-domains-disallow = اجازه ندادن
@@ -377,15 +392,48 @@ addon-detail-quarantined-domains-disallow = اجازه ندادن
 addon-detail-group-label-quarantined-domains =
     .aria-label = { addon-detail-quarantined-domains-label }
 
+## This is the tooltip text for the recommended badges for an extension in about:addons. The
+## badge is a small icon displayed next to an extension when it is recommended on AMO.
+
+# We hard code "Mozilla" in the string below because the extensions are built
+# by Mozilla and we don't want forks to display "by Fork".
+addon-badge-line4 =
+    .title = افزونه رسمی ساخته شده توسط موزیلا. مطابق با استانداردهای امنیتی و عملکردی
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are performing the
+# security or performance reviews. As such, we avoid personalising language
+# like the words "our" or "we".
+addon-badge-verified4 =
+    .title = این افزونه از نظر انطباق با استانداردهای امنیت و کارایی بررسی شده است
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are making the
+# recommendation. As such, we hard code "Firefox" and avoid personalising
+# language like the words "our" or "we".
+addon-badge-recommended4 =
+    .title = فایرفاکس تنها افزونه‌هایی را توصیه می‌کند که استانداردهای امنیتی و کیفی را برآورده سازند.
+
 ##
 
 available-updates-heading = بروزرسانی‌های موجود
 recent-updates-heading = بروزرسانی‌های اخیر
 release-notes-loading = در حال بارگذاری…
 release-notes-error = متاسفیم، اما اشکالی در نمایش یادداشت‌های انتشار به وجود آمد.
+addon-permissions-heading = مجوزها
+addon-permissions-empty2 = این افزونه به هیچ مجوزی نیاز ندارد.
+addon-permissions-required-label = الزامی:
+addon-permissions-optional-label = اختیاری:
 addon-permissions-learnmore = درباره مجوزها بیشتر بدانید
+# Shown above the permissions list when one or more permissions for this
+# extension are controlled by an enterprise policy and cannot be changed by
+# the user.
+addon-permissions-managed-by-policy = سازمان شما برخی از مجوزها را مدیریت می‌کند.
 recommended-extensions-heading = افزونه‌های توصیه شده
 recommended-themes-heading = پوسته‌های توصیه شده
+# Variables:
+#   $hostname (string) - Host where the permissions are granted
+addon-sitepermissions-required = امکانات زیر را در اختیار <span data-l10n-name="hostname">{ $hostname }</span> قرار می‌دهد:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = احساس خلاقیت می کنید؟ <a data-l10n-name="link">با FireFox Color پوسته خودتان را بسازید.</a>
@@ -398,11 +446,15 @@ plugin-heading = افزونه‌های خود را مدیریت کنید
 dictionary-heading = لغتنامه‌های خود را مدیریت کنید
 locale-heading = زبانهای خود را مدیریت کنید
 updates-heading = مدیریت بروزرسانی‌ها
+sitepermission-heading = مدیریت مجوزهای وبسایت‌ها
 discover-heading = { -brand-short-name } خود را سفارشی کنید
 shortcuts-heading = میانبرهای افزونه را مدیریت کنید
 default-heading-search-label = یافتن افزونه‌های بیشتر
 addons-heading-search-input =
     .placeholder = جست‌ و جو addons.mozilla.org
+addons-heading-search-button =
+    .aria-label = جست‌ و جو در addons.mozilla.org
+    .title = جست‌ و جو در addons.mozilla.org
 addon-page-options-button =
     .title = ابزارهای مخصوص همهٔ افزودنی‌ها
 
@@ -418,6 +470,11 @@ details-notification-unsigned-and-disabled2 =
     .message = { $name } برای استفاده در { -brand-short-name } تایید نشده و به همین دلیل غیرفعال شد.
 details-notification-unsigned2 =
     .message = { $name } برای استفاده در { -brand-short-name } تایید نشد. با احتیاط ادامه دهید.
+details-notification-hard-blocked-extension =
+    .message = این افزونه به‌دلیل نقض خط‌مشی‌های موزیلا مسدود و غیرفعال شده است.
+details-notification-hard-blocked-other =
+    .message = این افزونه (add-on) به دلیل نقض سیاست‌های موزیلا مسدود و غیرفعال شده است.
+details-notification-blocked-link2 = مشاهده جزئیات
 details-notification-gmp-pending2 =
     .message = { $name } به زودی نصب میشود.
 
