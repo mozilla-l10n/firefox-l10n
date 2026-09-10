@@ -25,7 +25,7 @@ inspector-element-specific-pseudo-classes-heading = Elementspecifika pseudoklass
 inspector-split-orientation-button-title = Panellayout
 # A label for the split orientation menu item that switches the layout
 # automatically based on the panel width.
-inspector-split-orientation-auto = Auto
+inspector-split-orientation-auto = Automatisk
 # A label for the split orientation menu item that locks the panels side by side.
 inspector-split-orientation-side-by-side = Sida vid sida
 # A label for the split orientation menu item that locks the panels on top of

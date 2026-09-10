@@ -17,6 +17,7 @@ problem-with-this-site-title = Izskatās, ka ar šo vietni ir sarežģījumi
 
 ## Error page actions
 
+neterror-advanced-button = Paplašināti…
 neterror-copy-to-clipboard-button = Kopēt tekstu atmiņā
 neterror-learn-more-link = Uzzināt vairāk…
 neterror-open-portal-login-page-button = Atvērt tīkla pieteikšanās lapu

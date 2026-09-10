@@ -556,9 +556,9 @@ onboarding-refresh-fro-import-header = Ta med din data
 onboarding-refresh-fro-import-body = Dina personuppgifter förblir privata. { -brand-product-name } kommer aldrig att sälja dem.
 onboarding-refresh-fro-skip-button = Hoppa över
 onboarding-refresh-fro-theme-header = Lek med din stil
-onboarding-refresh-tab-layout-header = Prova en annan fliklayout
-onboarding-refresh-tab-layout-top = På toppen
-onboarding-refresh-tab-layout-side = På sidan
+onboarding-refresh-tab-layout-header = Testa en annan fliklayout
+onboarding-refresh-tab-layout-top = Överst
+onboarding-refresh-tab-layout-side = Vid sidan
 onboarding-refresh-tab-layout-minimal = Minimal
 # Tooltip displayed on hover for minimal tabs image
 onboarding-minimal-tabs-tooltip =

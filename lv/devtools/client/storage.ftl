@@ -11,7 +11,7 @@ storage-filter-key = CmdOrCtrl+F
 storage-table-empty-text = Atlasītajā vietnē nav datu
 # Hint shown when the cookies storage type is selected. Clicking the link will open
 # https://firefox-source-docs.mozilla.org/devtools-user/storage_inspector/cookies/
-storage-table-type-cookies-hint = Skatiet un rediģējiet sīkdatnes, atlasot resursdatoru. <a data-l10n-name="learn-more-link">Uzziniet vairāk</a>
+storage-table-type-cookies-hint = Apskatīt un labot sīkdatnes, atlasot resursdatoru. <a data-l10n-name="learn-more-link">Uzzināt vairāk</a>
 # Hint shown when the local storage type is selected. Clicking the link will open
 # https://firefox-source-docs.mozilla.org/devtools-user/storage_inspector/local_storage_session_storage/
 storage-table-type-localstorage-hint = Skatiet un rediģējiet vietējo krātuvi, atlasot resursdatoru. <a data-l10n-name="learn-more-link">Uzziniet vairāk</a>

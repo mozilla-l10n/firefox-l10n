@@ -62,7 +62,7 @@ new-profile-page-learn-more = Uzzināt vairāk
 new-profile-page-input-placeholder =
     .placeholder = Izvēlies nosaukumu, piemēram, “Darbs” vai “Personīgs”
 new-profile-page-done-button =
-    .label = Pabeigt rediģēšanu
+    .label = Labošana pabeigta
 # Variables
 #   $profilename (String) - The name of the copied profile.
 copied-profile-page-header-2 = “{ $profilename }” kopija ir gatava pielāgošanai
