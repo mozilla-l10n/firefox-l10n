@@ -98,3 +98,14 @@ fp-neterror-access-connector-error-contact-admin = Versuchen Sie es später erne
 # Labels the message an administrator wrote for the data protection rule that
 # was matched, shown in the warn and block dialogs above that message.
 contentanalysis-admin-message-label = Nachricht von Ihrem Administrator
+# Shown in the about:preferences data collection section.
+# Variant of data-collection (preferences.ftl) without the description.
+data-collection-enterprise =
+    .label = Datenerhebung durch { -brand-short-name } und deren Verwendung
+    .searchkeywords = Telemetrie
+# Shown in the about:preferences data collection section.
+# Variant of data-collection-backlogged-crash-reports (preferences.ftl).
+data-collection-backlogged-crash-reports-enterprise =
+    .description = Absturzberichte helfen Ihrer Organisation beim Diagnostizieren und Beheben von Problemen mit dem Browser. Die Meldungen können persönliche oder sensible Daten enthalten.
+    .label = Absturzberichte automatisch senden
+    .accesskey = A
