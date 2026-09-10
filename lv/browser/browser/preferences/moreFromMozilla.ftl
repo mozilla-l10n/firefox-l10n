@@ -24,7 +24,7 @@ more-from-moz-title2 = Vairāk no { -vendor-short-name }
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
 
 more-from-moz-firefox-relay-title = { -relay-brand-name }
-more-from-moz-firefox-relay-description = Aizsargājiet savu iesūtni un savu identitāti, izmantojot bezmaksas e-pasta maskēšanu.
+more-from-moz-firefox-relay-description = Aizsargā savu iesūtni un identitāti ar bezmaksas e-pasta aizsegšanu.
 more-from-moz-firefox-relay-button = Iegūt { -relay-brand-short-name }
 
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page

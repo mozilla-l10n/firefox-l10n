@@ -32,7 +32,7 @@ firefox-relay-see-all-masks =
     .label = Apskatīt visus aizsegus
     .accesskey = A
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
-firefox-relay-opt-in-title-1 = Aizsargājiet savu e-pasta adresi:
+firefox-relay-opt-in-title-1 = Aizsargā savu e-pasta adresi:
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = Izmantot { -relay-brand-name } e-pasta aizsegu

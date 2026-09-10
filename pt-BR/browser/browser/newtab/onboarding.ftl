@@ -543,6 +543,17 @@ onboarding-refresh-gratitude-title = { -brand-short-name } protege você
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-splash-screen-title = O { -brand-product-name } atende e protege você, a partir de agora
 onboarding-refresh-hero-text = Projetado para te proteger, não te rastrear.
+onboarding-refresh-tou-default = Abra todos os links com o { -brand-short-name }
+onboarding-refresh-tou-pin =
+    { PLATFORM() ->
+        [macos] Manter o { -brand-short-name } no Dock
+       *[other] Adicionar o { -brand-short-name } à barra de tarefas
+    }
+onboarding-refresh-tou-default-unchecked = Conte com a proteção integrada sempre que navegar
+onboarding-refresh-tou-pin-unchecked = Acesse o único grande navegador independente com apenas um clique
+onboarding-refresh-data-collection-link = Gerenciar configurações de coleta de dados
+onboarding-refresh-primary-button = Avançar
+onboarding-refresh-fro-import-header = Importe seus dados
 
 ## Smart window switcher callout
 
