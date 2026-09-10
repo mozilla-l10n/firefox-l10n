@@ -204,6 +204,11 @@ newtab-privacy-message-info-7 = Ver rastreadores bloqueados por { -brand-short-n
 newtab-privacy-message-info-7-cta = Ver protecciones
 newtab-privacy-message-info-8 = Cuando navegas con  { -brand-short-name } apoyas la misión de { -vendor-short-name } de construir una web mejor.
 newtab-privacy-message-info-8-cta = Más información
+newtab-privacy-message-info-9 = Utiliza { -brand-short-name } como navegador predeterminado para una protección de privacidad integrada.
+newtab-privacy-message-info-9-cta = Hacer predeterminado
+newtab-privacy-message-info-10 = Guarda tus contraseñas en { -brand-short-name } para que tus inicios de sesión sean seguros y únicos en todas partes.
+newtab-privacy-message-info-10-cta = Ir a contraseñas
+newtab-privacy-message-info-11 = Descubre cómo { -brand-short-name } ayuda a mantener tu navegación más privada.
 newtab-privacy-message-info-11-cta = Más información
 newtab-privacy-message-info-12 = Bloquear rastreadores puede ayudar a reducir el uso de datos cuando tienes un plan limitado.
 newtab-privacy-message-info-12-cta = Ver protecciones
@@ -376,6 +381,7 @@ newtab-topsites-add-shortcut-label = Agregar acceso directo
 newtab-topsites-add-shortcut-title =
     .aria-label = Agregar acceso directo
     .title = Agregar acceso directo
+newtab-shortcuts-pinned-area = Área fijada
 newtab-topsites-title-label = Título
 newtab-topsites-title-input =
     .placeholder = Introducir un título
@@ -416,6 +422,14 @@ topsite-label-pinned =
     .aria-label = { $title } (fijado)
     .title = { $title }
 
+## Top Sites - Web notifications hover card
+
+# Relative time shown for a notification posted less than a minute ago.
+newtab-topsites-hover-card-just-now = Hace un instante
+newtab-topsites-hover-card-mark-all-read =
+    .aria-label = Marcar todo como leído
+    .title = Marcar todo como leído
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
@@ -432,6 +446,7 @@ newtab-menu-content-tooltip =
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
 newtab-menu-edit-topsites = Editar
+newtab-menu-add-topsite = Nuevo acceso directo
 newtab-menu-open-new-window = Abrir en una nueva ventana
 newtab-menu-open-new-private-window = Abrir en una nueva ventana privada
 newtab-menu-dismiss = Descartar
@@ -593,6 +608,12 @@ newtab-custom-widget-clock-toggle =
     .label = Reloj
 newtab-custom-widget-sports-toggle2 =
     .label = Deportes
+newtab-custom-widget-privacy-toggle =
+    .label = Privacidad
+newtab-custom-widget-stocks-toggle =
+    .label = Stocks
+newtab-custom-widget-picture-toggle =
+    .label = Imagen del día
 newtab-custom-widget-section-title = Widgets
 newtab-custom-widget-section-toggle =
     .label = Widgets
@@ -604,6 +625,29 @@ newtab-custom-close-menu-button =
     .aria-label = Cerrar menú
     .title = Cerrar
 newtab-custom-settings = Administrar más ajustes
+
+## New Tab Appearance (browser theme picker)
+
+# Title of the browser theme ("Appearance") section in the customize panel.
+newtab-custom-appearance-section-title = Apariencia
+# Button that opens the full browser theme selection view.
+newtab-appearance-more-themes-button =
+    .label = Ver más temas
+# Title of the full theme selection sub-panel, also used as its back button label.
+newtab-appearance-manage-title = Temas de { -brand-product-name }
+# Header for the list of the user's already-installed themes in the full theme panel.
+newtab-appearance-your-themes-header = Tus temas
+# Button that enables an already-installed theme.
+newtab-appearance-enable-theme-button =
+    .label = Habilitar
+# Button that disables the active theme and reverts to the default.
+newtab-appearance-disable-theme-button =
+    .label = Deshabilitar
+# Button that installs a theme.
+newtab-appearance-install-theme-button =
+    .label = Instalar tema
+# Button/link on the full theme panel that opens the complete list of available themes.
+newtab-appearance-explore-more-themes-button = Explorar más temas
 
 ## New Tab Wallpapers
 
@@ -989,6 +1033,9 @@ newtab-widget-lists-input-menu-edit2 =
 newtab-widget-lists-edit-clear =
     .aria-label = Cancelar
     .title = Cancelar
+# Lists is a noun, as in "options for the lists"
+newtab-widget-lists-menu-button =
+    .aria-label = Opciones de lista
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Crear una nueva lista
