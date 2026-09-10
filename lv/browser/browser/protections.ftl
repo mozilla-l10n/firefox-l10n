@@ -16,12 +16,12 @@ graph-week-summary =
 # earliest date recorded in the database.
 graph-total-tracker-summary =
     { $count ->
-        [zero] <b>{ $count }</b> bloķēts izsekotājs kopš { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
-        [one] <b>{ $count }</b> bloķēti izsekotāji kopš { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
-       *[other] <b>{ $count }</b> bloķētu izsekotāju kopš { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+        [zero] <b>{ $count }</b> aizturētu izsekotāju kopš { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+        [one] <b>{ $count }</b> aizturēts izsekotājs kopš { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
+       *[other] <b>{ $count }</b> aizturēti izsekotāji kopš { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
 # Text displayed instead of the graph when in Private Mode
-graph-private-window = { -brand-short-name } turpina bloķēt izsekotājus privātajos logos, taču nesaglabā informāciju par to, kas tika bloķēts.
+graph-private-window = { -brand-short-name } turpina aizturēt izsekotājus privātajos logos, taču nesaglabā ierakstus par to, kas tika aizturēts.
 # Weekly summary of the graph when the graph is empty in Private Mode
 graph-week-summary-private-window = Izsekotāji, ko šonedēļ bloķēja { -brand-short-name }
 protection-report-webpage-title = Aizsardzības informācijas panelis

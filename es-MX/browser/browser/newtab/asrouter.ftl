@@ -462,5 +462,9 @@ nova-early-access-infobar-primary-button = Entendido
 ## Shown as a spotlight prompt on browser close or launch, offering
 ## launch-on-login, taskbar pinning, and session restore.
 
+launch-options-spotlight-title-launch-on-login = ¿Quieres iniciar { -brand-short-name } cada vez que inicies sesión en Windows?
+launch-options-spotlight-title-session-restore = ¿Reabrir tu sesión cuando { -brand-short-name } se reinicie?
+launch-options-spotlight-checkbox-launch-on-login = Abrir { -brand-short-name } al iniciar el sistema
+launch-options-spotlight-checkbox-pin-to-taskbar = Fijar en la barra de tareas
 # Primary button on the browser-launch prompt
 launch-options-spotlight-primary-button-launch = Guardar y continuar

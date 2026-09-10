@@ -186,7 +186,8 @@ migration-wizard-progress-icon-completed =
     .aria-label = Completado
 migration-safari-password-import-header = Importar contraseñas de Safari
 migration-safari-password-import-post-sequoia-step1 = Abre la aplicación <a data-l10n-name="macos-passwords-app">Contraseñas</a> en tu Mac
-migration-safari-password-import-post-sequoia-step3 = Guardar el archivo
+migration-safari-password-import-post-sequoia-step2 = En la barra de menú superior, selecciona Archivo > Exportar todas las contraseñas…
+migration-safari-password-import-post-sequoia-step3 = Guarda el archivo
 migration-safari-password-import-post-sequoia-step4 = Selecciona el archivo que guardaste
 migration-safari-password-import-steps-header = Para importar contraseñas de Safari:
 migration-safari-password-import-step1 = En Safari, abre el menú "Safari" y ve a Preferencias > Contraseñas
