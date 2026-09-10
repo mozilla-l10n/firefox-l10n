@@ -1070,6 +1070,25 @@ feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
 
+## Firefox wallpaper descriptions used for screen readers
+
+newtab-wallpaper-firefox-orange = Un vulpe al bordo dextre sur un fundo orange
+newtab-wallpaper-firefox-colorful-sky = Undas de orange a transverso un celo nocturne purpuree
+newtab-wallpaper-firefox-desert-dark = Un vulpe sedente in un deserto purpuree obscur
+newtab-wallpaper-firefox-desert-light = Un vulpe que curre a transverso un deserto clar
+newtab-wallpaper-firefox-hills-dark = Un vulpe que curre super collinas obscur
+newtab-wallpaper-firefox-hills-light = Un vulpe que curre super collinas suave
+newtab-wallpaper-firefox-tail-dark = Un cauda de vulpe sur un fundo obscur
+newtab-wallpaper-firefox-tail-light = Un cauda de vulpe sur un fundo clar
+newtab-wallpaper-firefox-side-kit-dark = Un vulpe al latere sinistre, sur un fundo obscur
+newtab-wallpaper-firefox-side-kit-light = Un vulpe al latere sinistre, sur un fundo clar
+newtab-wallpaper-firefox-sitting-hill-dark = Un vulpe sedente sur collinas purpuree obscur
+newtab-wallpaper-firefox-sitting-hill-light = Un vulpe sedente sur collinas suave
+newtab-wallpaper-firefox-peak-dark = Un facie de vulpe al bordo sinistre, sur un fundo obscur
+newtab-wallpaper-firefox-peak-light = Un facie de vulpe al bordo sinistre, sur un fundo clar
+newtab-wallpaper-firefox-sky-dark = Collinas purpuree obscur sub un celo nocturne
+newtab-wallpaper-firefox-sky-light = Collinas suave sub un celo seren
+
 ## Firefox
 
 newtab-wallpaper-category-title-firefox = { -brand-product-name }

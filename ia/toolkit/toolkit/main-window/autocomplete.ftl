@@ -32,3 +32,15 @@ autocomplete-edit-address = Modificar iste adresse
 autocomplete-delete-address = Deler iste adresses
 autocomplete-edit-payment-method = Modificar iste methodo de pagamento
 autocomplete-delete-payment-method = Deler iste methodo de pagamento
+
+## Confirmation shown before a record is removed from the autocomplete dropdown.
+## Gated by the browser.autocomplete.removeRecords.enabled pref.
+
+autocomplete-remove-record-message = Tu non potera disfacer iste action.
+autocomplete-remove-record-button = Remover
+
+## Device sign-in prompt shown before a password is removed from the autocomplete
+## dropdown. The -win and -macosx variants are selected at runtime; other platforms
+## do not support device sign-in and fall back to the Primary Password dialog.
+
+autocomplete-remove-password-os-auth-dialog-caption = { -brand-full-name }

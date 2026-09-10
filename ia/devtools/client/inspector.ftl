@@ -20,6 +20,12 @@ colorpicker-tooltip-hue-slider-title = Tonalitate
 colorpicker-tooltip-alpha-slider-title = Opacitate
 # A text for the toggle for the element-specific pseudo-classes panel.
 inspector-element-specific-pseudo-classes-heading = Pseudo-classes specific de elemento
+# A title text for the button in the Inspector toolbar that opens the menu
+# controlling how the Inspector panels are split.
+inspector-split-orientation-button-title = Disposition de quadro
+# A label for the split orientation menu item that switches the layout
+# automatically based on the panel width.
+inspector-split-orientation-auto = Auto
 # A title text for the light color scheme emulation options
 inspector-color-scheme-emulation-light =
     .title = Activar/disactivar emulation de schema de color clar pro le pagina
