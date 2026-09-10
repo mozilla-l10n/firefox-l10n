@@ -332,8 +332,6 @@ newtab-privacy-message-first-protection-cta = Visualizza protezioni
 
 ## Strings for the Stocks widget
 
-# Context menu item for searching stock ticker symbols.
-newtab-stocks-menu-search = Cerca simboli di azioni
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = Ulteriori informazioni
 # Shown in the Stocks widget when its data could not be loaded.
