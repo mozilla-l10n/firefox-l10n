@@ -13,6 +13,8 @@ about-pdf-dropzone-invalid-file = Ова датотека није подржа�
 about-pdf-dropzone-error-generic = Отпремање није успело. Покушајте поново касније.
 about-pdf-browse-files =
     .label = Прегледај датотеке
+# Title of the system file picker opened by the “Browse files” button.
+about-pdf-file-picker-title = Отвори PDF
 about-pdf-promo =
     .heading = Учините { -brand-short-name } вашим подразумеваним ПДФ уређивачем
     .message = Отворите ПДФ-ове у { -brand-short-name } и решите основне задатке на једном месту, од истицања и потписа до спајених датотека и коментара.

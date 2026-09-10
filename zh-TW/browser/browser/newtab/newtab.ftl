@@ -1038,6 +1038,15 @@ feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
 
+## Firefox wallpaper descriptions used for screen readers
+
+newtab-wallpaper-firefox-orange = 在橘色背景的右邊界有隻狐狸
+newtab-wallpaper-firefox-colorful-sky = 紫色夜空下翻湧著橘色波浪
+newtab-wallpaper-firefox-desert-dark = 狐狸坐在深紫色的沙漠中
+newtab-wallpaper-firefox-desert-light = 一隻狐狸跑過明亮的沙漠
+newtab-wallpaper-firefox-hills-dark = 一隻狐狸跑過昏暗的山丘
+newtab-wallpaper-firefox-hills-light = 一隻狐狸跑過明亮的山丘
+
 ## Firefox
 
 newtab-wallpaper-category-title-firefox = { -brand-product-name }

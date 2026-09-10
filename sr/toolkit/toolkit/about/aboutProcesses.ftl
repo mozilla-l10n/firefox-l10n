@@ -149,6 +149,7 @@ about-processes-utility-actor-js-oracle = JavaScript Oracle
 about-processes-utility-actor-windows-utils = Windows алатке
 about-processes-utility-actor-windows-file-dialog = Windows прозор за датотеке
 about-processes-utility-actor-pkcs11-module = Помоћник безбедносног модула
+about-processes-utility-actor-hw-inference = Хардверско убрзано закључивање
 
 ## Displaying CPU (percentage and total)
 ## Variables:

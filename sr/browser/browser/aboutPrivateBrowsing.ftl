@@ -54,6 +54,12 @@ about-private-browsing-pin-promo-link-text =
     }
 about-private-browsing-pin-promo-title = Нема сачуваних колачића или историје, директно са радне површине. Прегледајте као да нико не гледа.
 
+## Strings used in a promotion message for Firefox Relay
+
+about-private-browsing-relay-promo-header = Помозитге у спречавању непожељне поште у пријемном сандучету помоћу маски е-поште
+about-private-browsing-relay-promo-title = Сакријте своју стварну адресу помоћу маске е-поште када се региструјете, купујете или је делите на мрежи.
+about-private-browsing-relay-promo-link-text = Испробај маске е-поште
+
 ## Strings used in a promotion message for cookie banner reduction
 
 # Simplified version of the headline if the original text doesn't work
