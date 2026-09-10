@@ -390,7 +390,7 @@ main-context-menu-open-link-in-container-tab =
     .accesskey = T
 main-context-menu-reveal-password =
     .label = Zobrazit heslo
-    .accesskey = v
+    .accesskey = h
 # The label of a badge shown in menu items to call out new features.
 main-context-menu-new-feature-badge = Nové
 main-context-menu-pdfjs-copy-page =
