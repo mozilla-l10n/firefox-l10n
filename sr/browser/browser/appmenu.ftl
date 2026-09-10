@@ -120,6 +120,9 @@ appmenuitem-fxa-sign-in = Пријавите се у { -brand-product-name }
 appmenuitem-fxa-manage-account = Управљај налогом
 fxa-menu-sync-status-on = Усклађивање је укључено
 fxa-menu-sync-status-off = Усклађивање је искључено
+# Shown in place of "Sync is Off" on the sync status button when the user has
+# never signed in. Sync is a verb, short for synchronize.
+fxa-menu-sync-your-data = Усклади податке
 # Shown as a secondary label under "Sync is Off" when the user is signed in but
 # sync is turned off.
 fxa-menu-sync-off-data-description = Ваши подаци се не усклађују
@@ -127,6 +130,7 @@ fxa-menu-sync-off-data-description = Ваши подаци се не ускла�
 # turned off. Turns syncing on by opening sync preferences.
 fxa-menu-sync-status-turn-on-button =
     .label = Укључи
+fxa-menu-sync-status-turn-on-button-aria-label = Укључи
 # Shown as a secondary label under "Sync is Off" when the user needs to sign in
 # (again) for sync to work.
 fxa-menu-sync-off-signin-description = Пријави се за усклађивање
@@ -398,6 +402,9 @@ appmenuitem-relay-title-signed-in = Прикажи маске е-поште
 appmenuitem-relay-description = Маскирајте вашу праву адресу е-поште и број телефона
 appmenuitem-services-relay-description = Покрените контролну таблу маски е-поште
 appmenuitem-vpn-title2 = Сакријте своју локацију уз { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description5 = Остварите додатну заштиту на свим уређајима
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in1 = Преузми { -mozilla-vpn-brand-name }
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = Набавите заштиту за цео уређај
 appmenuitem-vpn-description = Заштитите ваше радње на мрежи

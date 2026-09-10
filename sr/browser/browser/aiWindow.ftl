@@ -366,3 +366,19 @@ aiwindow-starter-planning-plan = Помогни ми да направим пл�
 aiwindow-starter-browsing-history = Пронађи језичке у историји
 aiwindow-starter-browsing-summarize = Сажми језичке
 aiwindow-starter-browsing-compare = Упореди језичке
+
+## Conversation Starter Scroll Buttons
+## Scrolls the conversation-starter pill row toward its start/end.
+
+aiwindow-starter-scroll-start =
+    .aria-label = Помакни назад
+    .tooltiptext = Помакни назад
+aiwindow-starter-scroll-end =
+    .aria-label = Помакни напред
+    .tooltiptext = Помакни напред
+# Dismisses a "pick up where you left off" resume-activity suggestion pill.
+# Variables:
+#   $text (String) - The suggestion headline being dismissed
+aiwindow-starter-dismiss =
+    .aria-label = Одбаци { $text }
+    .title = Одбаци { $text }

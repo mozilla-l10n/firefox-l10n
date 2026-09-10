@@ -32,3 +32,11 @@ autocomplete-edit-address = Editatu helbide hau
 autocomplete-delete-address = Ezabatu helbide hau
 autocomplete-edit-payment-method = Editatu ordainketa-metodo hau
 autocomplete-delete-payment-method = Ezabatu ordainketa-metodo hau
+
+## Confirmation shown before a record is removed from the autocomplete dropdown.
+## Gated by the browser.autocomplete.removeRecords.enabled pref.
+
+autocomplete-remove-password-title = Kendu pasahitza?
+autocomplete-remove-address-title = Kendu helbidea?
+autocomplete-remove-payment-method-title = Kendu ordainketa-metodoa?
+autocomplete-remove-record-button = Kendu
