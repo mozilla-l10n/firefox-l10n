@@ -114,6 +114,14 @@ legacy-warning-show-legacy = نمایش ضمیمه‌های قدیمی
 legacy-extensions =
     .value = ضمیمه‌های قدیمی
 legacy-extensions-description = این ضمیمه‌ها استاندارهای لازم { -brand-short-name } را ندارند و به همین دلیل غیرفعال شده‌اند. <label data-l10n-name="legacy-learn-more">در مورد تغییرات در افزودنی‌ها بیشتر بدانید</label>
+private-browsing-description2 =
+    { -brand-short-name } شیوهٔ کار افزونه‌ها در مرور خصوصی را تغییر می‌دهد. افزونه‌های جدیدی که به
+    { -brand-short-name } اضافه می‌کنید، به‌طور پیش‌فرض در پنجره‌های خصوصی اجرا نمی‌شوند. تا زمانی که در تنظیمات اجازه ندهید،
+    افزونه هنگام مرور خصوصی کار نمی‌کند و به فعالیت‌های آنلاین شما در آنجا دسترسی نخواهد داشت.
+    این تغییر را اعمال کرده‌ایم تا مرور خصوصی شما همچنان خصوصی بماند.
+    <label data-l10n-name="private-browsing-learn-more">با نحوهٔ مدیریت تنظیمات افزونه‌ها آشنا شوید</label>
+aboutaddons-sidebar =
+    .heading = افزونه‌ها
 addon-category-discover = توصیه‌ها
 addon-category-discover-title =
     .title = توصیه‌ها
@@ -156,6 +164,11 @@ extensions-warning-update-security2 =
     .message = بررسی امنیتی بروزرسانی افزودنی‌ها غیر فعال است. ممکن است افزودنی‌های‌تان به صورت ناامن بروزرسانی شوند.
 extensions-warning-update-security-button = فعال کردن
     .title = فعال کردن بررسی امنیتی بروزرسانی افزودنی‌ها
+extensions-warning-imported-addons2 =
+    .message = لطفاً نصب افزونه‌های وارد شده به { -brand-short-name } را تکمیل کنید.
+extensions-warning-imported-addons-button = نصب افزونه‌ها
+extensions-warning-safe-mode3 =
+    .message = حالت عیب‌یابی همه افزونه ها را غیرفعال کرده است.
 
 ## Strings connected to add-on updates
 
@@ -188,6 +201,10 @@ addon-updates-manual-updates-found = مشاهدهٔ بروزرسانی‌های 
 
 addon-install-from-file = نصب افزودنی از یک پرونده…
     .accesskey = ن
+# Like `addon-install-from-file` but used when the `extensions.webextensions.prefer-update-over-install-for-existing-addon`
+# pref is set.
+addon-install-or-update-from-file = نصب یا به‌روزرسانی افزونه از فایل…
+    .accesskey = ف
 addon-install-from-file-dialog-title = افزودنی مورد نظر برای نصب را انتخاب کنید
 addon-install-from-file-filter-name = افزودنی‌ها
 addon-open-about-debugging = اشکال‌زدایی افزودنی‌ها
@@ -202,6 +219,9 @@ shortcuts-no-addons = شما هیچ افزونه فعالی ندارید.
 shortcuts-no-commands = افرونه‌های زیر میانبر ندارند:
 shortcuts-input =
     .placeholder = یک میانبر وارد کنید
+# Accessible name for a trashcan icon button that removes an existent shortcut
+shortcuts-remove-button =
+    .aria-label = حذف میانبر
 shortcuts-browserAction2 = فعال‌سازی دکمهٔ نوار ابزار
 shortcuts-pageAction = فعال‌سازی کنش صفحه
 shortcuts-sidebarAction = تغییر حالت نوار کناری
@@ -237,6 +257,16 @@ header-back-button =
 discopane-notice-recommendations2 =
     .message = برخی از این توصیه‌ها شخصی‌سازی شده‌اند. آن‌ها بر اساس دیگر افزونه‌هایی که نصب کردید،‌ ترجیحات نمایه و آمار استفاده می‌باشند.
 discopane-notice-learn-more = بیشتر بدانید
+# Notice for the colorway theme removal
+colorway-removal-notice-message =
+    .heading = پوسته(های) رنگی شما حذف شدند.
+    .message = { -brand-product-name } مجموعه رنگ‌های خود را به‌روزرسانی کرد. ما نسخه(های) قدیمی را از فهرست «پوسته‌های ذخیره‌شده» شما حذف کردیم. نسخه‌های جدید را از سایت افزونه‌ها دریافت کنید.
+colorway-removal-notice-learn-more = بیشتر بدانید
+colorway-removal-notice-button = پوسته‌های رنگی به‌روز شده را دریافت کنید
+# Notice to make user aware that themes are not applied in forced colors mode.
+# This notice is only visible on Windows.
+forced-colors-theme-notice =
+    .message = تنظیمات کنتراست ویندوز، پوسته‌های { -brand-short-name } را نادیده می‌گیرد. برای استفاده از پوسته‌ها در { -brand-short-name }، این تنظیمات را خاموش کنید.
 privacy-policy = سیاست حریم خصوصی
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:

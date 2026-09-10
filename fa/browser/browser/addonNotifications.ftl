@@ -33,6 +33,8 @@ xpinstall-prompt-install =
     .accesskey = ا
 site-permission-install-first-prompt-midi-header = این تارنما درخواست دسترسی به دستگاه‌های MIDI (رابط دیجیتالی سازهای موسیقی) شما را دارد. دسترسی به دستگاه را می‌توان با نصب یک افزونه فعال کرد.
 site-permission-install-first-prompt-midi-message = تضمینی برای امن بودن این دسترسی وجود ندارد. تنها در صورتی ادامه دهید که به این تارنما اعتماد داشته باشید.
+site-permission-install-first-prompt-serial-header = این سایت می‌خواهد به دستگاه‌های سریال شما دسترسی داشته باشد. دسترسی به دستگاه‌ها میتواند با نصب افزونه فعال شود.
+site-permission-install-first-prompt-serial-message = تضمینی برای امن بودن این دسترسی وجود ندارد. تنها در صورتی ادامه دهید که به این تارنما اعتماد داشته باشید.
 xpinstall-disabled-by-policy = نصب نرم‌افزار توسط سازمان شما غیرفعال شده است.
 xpinstall-disabled = نصب نرم‌افزار در حال حاضر غیرفعال است. روی «فعال‌سازی» کلیک کرده و دوباره سعی کنید.
 xpinstall-disabled-button =
@@ -108,14 +110,17 @@ addon-install-error-corrupt-file = افزودنی دریافت شده از ای�
 addon-install-error-file-access = { -brand-short-name } نتوانست پرونده‌های مورد نیاز را تغییر دهد، و به همین دلیل نصب { $addonName } با مشکل مواجه شد.
 addon-install-error-not-signed = { -brand-short-name } از نصب یک افزودنی تایید نشده توسط این سایت جلوگیری کرد.
 addon-install-error-invalid-domain = افزونه { $addonName } را نمی توان از این مکان نصب کرد.
+addon-install-error-no-addon-name-file-access = افزونه قابل نصب نیست زیرا { -brand-short-name } نمی‌تواند فایل مورد نیاز را تغییر دهد.
 addon-local-install-error-network-failure = امکان نصب این افزودنی به دلیل یک خطای سیستم ذخیرهٔ پرونده‌ها وجود ندارد.
 addon-local-install-error-incorrect-hash = این افزودنی با افزودنی مورد انتظار { -brand-short-name } تفاوت دارد، و به همین دلیل امکان نصب آن وجود ندارد.
 addon-local-install-error-corrupt-file = این افزودنی به نظر خراب شده است، و امکان نصب آن وجود ندارد.
 addon-local-install-error-file-access = نصب { $addonName } با مشکل مواجه شد زیرا { -brand-short-name } نمیتواند پرونده‌های مورد نیاز را تغییر دهد.
 addon-local-install-error-not-signed = این افزودنی نمیتواند نصب شود زیرا تأیید نشده است.
+addon-local-install-no-addon-name-error-file-access = افزونه قابل نصب نیست زیرا { -brand-short-name } نمی‌تواند فایل مورد نیاز را تغییر دهد.
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = افزودنی { $addonName } با نسخهٔ { $appVersion } از { -brand-short-name } سازگار نیست، و به همین دلیل امکان نصب آن وجود ندارد.
 addon-install-error-hard-blocked = { $addonName } قوانین Mozilla را نقض می‌کند و نمی‌تواند روی { -brand-short-name } نصب شود.
+addon-install-error-soft-blocked2 = { $addonName } محدود شده است و نمی‌توان آن را روی { -brand-short-name } نصب کرد.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
 addon-install-error-admin-install-only = شما نمی‌توانید { $addonName } را به عنوان یک کاربر نهایی نصب کنید، تنها می‌تواند توسط سازمانی با استفاده از سیاست‌های سازمانی نصب شود.
