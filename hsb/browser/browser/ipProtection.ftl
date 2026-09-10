@@ -111,6 +111,7 @@ unauthenticated-vpn-title = Wupruwujće zatwarjeny VPN { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Schowajće swoje stejnišćo</a>, mjeztym zo w { -brand-product-name } přehladujeće.
 unauthenticated-private-location-message = Pomha w { -brand-product-name } <a data-l10n-name="learn-more-vpn">waše stejnišćo priwatne dźeržeć</a>.
 unauthenticated-choose-location-message-1 = Wubjerće z wjacorych stejnišćow abo dajće { -brand-product-name } najspěšniše wubrać.
+unauthenticated-site-rules-message = Postajće, kotre sydła VPN wužiwaja a kotre sydła nic.
 unauthenticated-get-started = Prěnje kroki
 unauthenticated-terms-of-service-privacy-notice = Hdyž pokročujeće, zwoliće do <a data-l10n-name="vpn-terms-of-service">wužiwanskich wuměnjenjow</a> a <a data-l10n-name="vpn-privacy-notice">zdźělenki priwatnosće</a>.
 site-exclusion-toggle-enabled-1 =

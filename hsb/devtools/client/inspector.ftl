@@ -20,6 +20,14 @@ colorpicker-tooltip-hue-slider-title = Barbowy wotsćin
 colorpicker-tooltip-alpha-slider-title = Opacita
 # A text for the toggle for the element-specific pseudo-classes panel.
 inspector-element-specific-pseudo-classes-heading = Za element specifiske pseudoklasy
+# A label for the split orientation menu item that switches the layout
+# automatically based on the panel width.
+inspector-split-orientation-auto = Awtomatiski
+# A label for the split orientation menu item that locks the panels side by side.
+inspector-split-orientation-side-by-side = Jedyn pódla druheho
+# A label for the split orientation menu item that locks the panels on top of
+# each other.
+inspector-split-orientation-stacked = Jedyn nad druhim
 # A title text for the light color scheme emulation options
 inspector-color-scheme-emulation-light =
     .title = Emulaciju swětłeje barboweje šemy za stronu přepinać

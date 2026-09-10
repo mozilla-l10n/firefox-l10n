@@ -544,6 +544,12 @@ onboarding-refresh-gratitude-title = { -brand-short-name } za wami steji
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-splash-screen-title = { -brand-product-name } za wami steji, wotnětka
 onboarding-refresh-tou-default = Wšě wotkazy z { -brand-short-name } wočinić
+onboarding-refresh-terms-of-use-with-links = Hdyž pokročujeće, zwoliće do <a data-l10n-name="terms_of_use">wužiwanskich wuměnjenjow { -brand-product-name }</a> a našeje <a data-l10n-name="privacy_notice">zdźělenki priwatnosće</a>. Zo by pomhał, wobhladowak polěpšić, { -brand-product-name } diagnostiske daty a daty interakcije na { -vendor-short-name } sćele.
+onboarding-refresh-primary-button = Dale
+onboarding-refresh-fro-skip-button = Přeskočić
+onboarding-refresh-tab-layout-top = Horjeka
+onboarding-refresh-tab-layout-side = Naboku
+onboarding-refresh-tab-layout-minimal = Minimalny
 
 ## Smart window switcher callout
 

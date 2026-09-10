@@ -32,3 +32,9 @@ autocomplete-edit-address = Tutu adresu wobdźěłać
 autocomplete-delete-address = Tutu adresu zhašeć
 autocomplete-edit-payment-method = Tutu płaćensku metodu wobdźěłać
 autocomplete-delete-payment-method = Tutu płaćensku metodu zhašeć
+
+## Device sign-in prompt shown before a password is removed from the autocomplete
+## dropdown. The -win and -macosx variants are selected at runtime; other platforms
+## do not support device sign-in and fall back to the Primary Password dialog.
+
+autocomplete-remove-password-os-auth-dialog-caption = { -brand-full-name }
