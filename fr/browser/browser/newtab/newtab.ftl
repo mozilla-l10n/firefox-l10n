@@ -1070,6 +1070,25 @@ feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
 
+## Firefox wallpaper descriptions used for screen readers
+
+newtab-wallpaper-firefox-orange = Un renard au bord droit sur un fond orange
+newtab-wallpaper-firefox-colorful-sky = Des vagues orange sur un ciel nocturne violet
+newtab-wallpaper-firefox-desert-dark = Un renard se reposant dans un sable pourpre foncé
+newtab-wallpaper-firefox-desert-light = Un renard court à travers un léger vide
+newtab-wallpaper-firefox-hills-dark = Un renard courant sur de sombres collines
+newtab-wallpaper-firefox-hills-light = Un renard qui court sur des collines claires
+newtab-wallpaper-firefox-tail-dark = Une queue de renard sur un fond sombre
+newtab-wallpaper-firefox-tail-light = Une queue de renard sur un fond clair
+newtab-wallpaper-firefox-side-kit-dark = Un renard sur le côté gauche, sur un fond sombre
+newtab-wallpaper-firefox-side-kit-light = Un renard sur le côté gauche, sur un fond clair
+newtab-wallpaper-firefox-sitting-hill-dark = Un renard assis sur des collines violet foncé
+newtab-wallpaper-firefox-sitting-hill-light = Un renard assis sur des collines claires
+newtab-wallpaper-firefox-peak-dark = Une museau de renard sur le bord gauche, sur un fond sombre
+newtab-wallpaper-firefox-peak-light = Une museau de renard sur le bord gauche, sur un fond clair
+newtab-wallpaper-firefox-sky-dark = Collines pourpre foncé sous un ciel nocturne
+newtab-wallpaper-firefox-sky-light = De légères collines sous un ciel doux
+
 ## Firefox
 
 newtab-wallpaper-category-title-firefox = { -brand-product-name }

@@ -15,6 +15,11 @@ autofill-use-payment-method-os-prompt-other = { -brand-short-name } försöker a
 autofill-edit-payment-method-os-prompt-macos = visa lagrad information om betalningssätt
 autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } försöker visa lagrad information om betalningssätt. Bekräfta åtkomst till detta Windows-konto nedan.
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name } försöker visa lagrad information om betalningssätt.
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-delete-payment-method-os-prompt-macos = radera lagrad information om betalningssätt
+autofill-delete-payment-method-os-prompt-windows = { -brand-short-name } försöker ta bort lagrad information om betalningssätt. Bekräfta åtkomst till detta Windows-konto nedan.
+autofill-delete-payment-method-os-prompt-other = { -brand-short-name } försöker ta bort lagrad information om betalningssätt.
 # The link leads users to Form Autofill browser preferences.
 autofill-options-link = Inställningar för autofyll av formulär
 autofill-options-link-osx = Inställningar för autofyll av formulär

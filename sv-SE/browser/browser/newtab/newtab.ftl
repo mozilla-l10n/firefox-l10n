@@ -1074,6 +1074,25 @@ feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
 
+## Firefox wallpaper descriptions used for screen readers
+
+newtab-wallpaper-firefox-orange = En räv i högerkant på en orange botten
+newtab-wallpaper-firefox-colorful-sky = Vågor av apelsin över en lila natthimmel
+newtab-wallpaper-firefox-desert-dark = En räv som sitter i en mörklila öken
+newtab-wallpaper-firefox-desert-light = En räv springer över en ljus öken
+newtab-wallpaper-firefox-hills-dark = En räv som kör över mörka kullar
+newtab-wallpaper-firefox-hills-light = En räv som kör över lätta kullar
+newtab-wallpaper-firefox-tail-dark = En rävsvans på en mörk bakgrund
+newtab-wallpaper-firefox-tail-light = En rävsvans på en ljus bakgrund
+newtab-wallpaper-firefox-side-kit-dark = En räv på vänster sida, på en mörk bakgrund
+newtab-wallpaper-firefox-side-kit-light = En räv på vänster sida, på en ljus bakgrund
+newtab-wallpaper-firefox-sitting-hill-dark = En räv som sitter på mörkt lila kullar
+newtab-wallpaper-firefox-sitting-hill-light = En räv som sitter på ljusa kullar
+newtab-wallpaper-firefox-peak-dark = Ett rävansikte i vänster kant, på mörk bakgrund
+newtab-wallpaper-firefox-peak-light = Ett rävansikte i vänster kant, mot ljus bakgrund
+newtab-wallpaper-firefox-sky-dark = Mörkt lila kullar under en natthimmel
+newtab-wallpaper-firefox-sky-light = Ljusa kullar under en mjuk himmel
+
 ## Firefox
 
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
