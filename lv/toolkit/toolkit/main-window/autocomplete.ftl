@@ -10,14 +10,14 @@
 ##   $host (String) - Host name of the current site.
 
 autocomplete-import-logins-chrome =
-    <div data-l10n-name="line1">Importēt jūsu lietotājvārdu no Google Chrome</div>
-    <div data-l10n-name="line2">vietnei { $host } un citām</div>
+    <div data-l10n-name="line1">Ievietot pieteikšanās datus no Google Chrome</div>
+    <div data-l10n-name="line2">{ $host } un citām vietnēm</div>
 autocomplete-import-logins-chromium =
-    <div data-l10n-name="line1">Importēt jūsu lietotājvārdu no Chromium</div>
-    <div data-l10n-name="line2">vietnei { $host } un citām</div>
+    <div data-l10n-name="line1">Ievietot pieteikšanās no Chromium</div>
+    <div data-l10n-name="line2">{ $host } un citām vietnēm</div>
 autocomplete-import-logins-chromium-edge =
-    <div data-l10n-name="line1">Importēt jūsu lietotājvārdu no Microsoft Edge</div>
-    <div data-l10n-name="line2">vietnei { $host } un citām</div>
+    <div data-l10n-name="line1">Ievietot pieteikšanās datus no Microsoft Edge</div>
+    <div data-l10n-name="line2">{ $host } un citām vietnēm</div>
 
 ##
 

@@ -123,8 +123,8 @@ inadequateSecurityError-title = Savienojums nav drošs
 blockedByPolicy-title = Aizturēta lapa
 clockSkewError-title = Jūsu datora pulkstenis ir nepareizs
 networkProtocolError-title = Tīkla protokola kļūda
-nssBadCert-title = Brīdinājums: Potenciāls drošības risks
-nssBadCert-sts-title = Netika izveidots savienojums: potenciāla drošības problēma
+nssBadCert-title = Brīdinājums: iespējams drošības apdraudējums
+nssBadCert-sts-title = Netika izveidots savienojums: iespējams drošības sarežģījums
 certerror-mitm-title = Programmatūra neļauj { -brand-short-name } droši izveidot savienojumu ar šo vietni
 
 ## Felt Privacy V1 Strings

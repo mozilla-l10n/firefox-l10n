@@ -981,6 +981,21 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+newtab-wallpaper-firefox-orange = Liška na pšawej kšomje na oranžowej slězynje
+newtab-wallpaper-firefox-colorful-sky = Oranžowe žwały pśez wioletne nocne njebjo
+newtab-wallpaper-firefox-desert-dark = Liška, kótaraž w śamnej wioletnej pusćinje sejźi
+newtab-wallpaper-firefox-desert-light = Liška, kótaraž pó swětłej pusćinje běžy
+newtab-wallpaper-firefox-hills-dark = Liška, kótaraž pśez śamne górki běžy
+newtab-wallpaper-firefox-hills-light = Liška, kótaraž pśez swětłe górki běžy
+newtab-wallpaper-firefox-tail-dark = Wogon liški na śamnej slězynje
+newtab-wallpaper-firefox-tail-light = Wogon liški na swětłej slězynje
+newtab-wallpaper-firefox-side-kit-dark = Liška nalěwo, na śamnej slězynje
+newtab-wallpaper-firefox-side-kit-light = Liška nalěwo, na swětłej slězynje
+newtab-wallpaper-firefox-sitting-hill-dark = Liška, kótaraž w śamnych wioletnych górkach sejźi
+newtab-wallpaper-firefox-sitting-hill-light = Liška, kótaraž na swětłych górkach sejźi
+newtab-wallpaper-firefox-peak-dark = Woblico liški na lěwej kšomje, na śamnej slězynje
+newtab-wallpaper-firefox-peak-light = Woblico liški na lěwej kšomje, na swětłej slězynje
+newtab-wallpaper-firefox-sky-dark = Śamne wioletne górki pód nocnym njebjom
 
 ## Firefox
 

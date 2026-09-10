@@ -123,6 +123,12 @@ site-exclusion-toggle-disabled-1 =
 site-exclusion-toggle-description = Sedło njefunkcioněrujo? Wopytajśo VPN znjemóžniś.
 # Manages rules for VPN to turn on or off automatically for certain websites
 site-rules-manage-rules-link-text = Pšawidła VPN zastojaś
+# Heading for user defined rules on VPN usage for particular websites
+site-rules-status-heading = Wašo pšawidło
+# Used in the panel when a user navigates to a site where the VPN is off due to a site exclusion
+site-rules-description-exclusion = VPN jo za toś to sedło znjemóžnjony
+# Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
+site-rules-description-inclusion = VPN jo za toś to sedło zmóžnjony
 ipprotection-settings-link =
     .label = Nastajenja
 
@@ -261,6 +267,11 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } websedłow
         }
     .label = Nastajenja websedłow zastojaś
+ip-protection-site-rules-header =
+    .heading = Pšawidła websedła zastojaś
+ip-protection-site-rules-button =
+    .description = Nastajśo pšawidła za websedła, kótarež pśidatnu priwatnosć abo znjemóžnjony VPN trjebaju.
+    .label = Pšawidła websedła zastojaś
 ip-protection-autostart =
     .label = VPN awtomatiski zmóžniś
 ip-protection-autostart-checkbox =

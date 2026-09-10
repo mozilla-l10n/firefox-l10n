@@ -6,8 +6,8 @@
 ## Error page titles
 
 neterror-page-title = Sarežģījumi ar lapas ielādi
-certerror-page-title = Brīdinājums: Potenciāls drošības risks
-certerror-sts-page-title = Netika izveidots savienojums: potenciāla drošības problēma
+certerror-page-title = Brīdinājums: iespējams drošības apdraudējums
+certerror-sts-page-title = Netika izveidots savienojums: iespējams drošības sarežģījums
 neterror-blocked-by-policy-page-title = Aizturēta lapa
 neterror-captive-portal-page-title = Pieteikšanās tīklā
 neterror-dns-not-found-title = Serveris nav atrasts
@@ -108,7 +108,7 @@ neterror-nss-failure-not-verified = Lapu, kuru šobrīd mēģini apskatīt, neva
 neterror-nss-failure-contact-website = Lūdzu, sazinieties ar lapas īpašniekiem un informējiet viņus par šo problēmu.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
-certerror-intro = { -brand-short-name } atklāja potenciālus draudus drošībai un nepārgāja uz <b>{ $hostname }</b>. Ja apmeklējat šo vietni, uzbrucēji varētu mēģināt nozagt informāciju, piemēram, jūsu paroles, e-pastus vai kredītkartes datus.
+certerror-intro = { -brand-short-name } atklāja iespējamus draudus drošībai un nepārgāja uz <b>{ $hostname }</b>. Ja apmeklēsi šo vietni, uzbrucēji varētu mēģināt nozagt informāciju, piemēram, paroles, e-pasta adreses vai maksājumu karšu datus.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-sts-intro = { -brand-short-name } noteica iespējamus drošības draudus un neturpināja uz <b>{ $hostname }</b>, jo šai tīmekļvietnei nepieciešams drošs savienojums.
