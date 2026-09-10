@@ -39,6 +39,9 @@ neterror-disable-native-feedback-warning = 總是繼續
 ## derived from the address that failed to resolve.
 
 neterror-search-cta-title = 無法連線至此網站
+# $hostname (String) - The host of the address that failed to load, including
+# any subdomains, for example "docs.example.com". The host is emphasized.
+neterror-search-cta-intro2 = 無法連線至位於 <strong>{ $hostname }</strong> 的伺服器。
 # $domain (String) - The host of the address that failed to load, including any
 # subdomains, for example "docs.example.com".
 neterror-search-cta-intro = 無法連線至位於 { $domain } 的伺服器。

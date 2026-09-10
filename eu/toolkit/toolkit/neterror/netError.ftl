@@ -39,6 +39,9 @@ neterror-disable-native-feedback-warning = Jarraitu beti
 ## derived from the address that failed to resolve.
 
 neterror-search-cta-title = Ezin da gunearekin konektatu
+# $hostname (String) - The host of the address that failed to load, including
+# any subdomains, for example "docs.example.com". The host is emphasized.
+neterror-search-cta-intro2 = Ezin izan da <strong>{ $hostname }</strong> ostalariko zerbitzariarekin konektatu.
 # $domain (String) - The host of the address that failed to load, including any
 # subdomains, for example "docs.example.com".
 neterror-search-cta-intro = Ezin izan da { $domain } ostalariko zerbitzariarekin konektatu.

@@ -39,6 +39,9 @@ neterror-disable-native-feedback-warning = Fortsæt altid
 ## derived from the address that failed to resolve.
 
 neterror-search-cta-title = Dette websted kan ikke nås
+# $hostname (String) - The host of the address that failed to load, including
+# any subdomains, for example "docs.example.com". The host is emphasized.
+neterror-search-cta-intro2 = Kunne ikke oprette forbindelse til serveren <strong>{ $hostname }</strong>.
 # $domain (String) - The host of the address that failed to load, including any
 # subdomains, for example "docs.example.com".
 neterror-search-cta-intro = Kunne ikke oprette forbindelse til serveren { $domain }.
@@ -75,6 +78,11 @@ neterror-search-cta-learn-more = Læs mere
 
 neterror-pref-reset = Det ser ud til, at dine indstillinger for netværkssikkerhed forårsager dette. Vil du gendanne til standard-indstillinger?
 neterror-error-reporting-automatic = Indberet automatisk fejl som denne for at hjælpe { -vendor-short-name } med at identificere og blokere ondsindede websteder.
+
+## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
+## environment variable is set, which causes { -brand-short-name } to log TLS
+## session keys that can be used to decrypt encrypted network traffic.
+
 
 ## Specific error messages
 

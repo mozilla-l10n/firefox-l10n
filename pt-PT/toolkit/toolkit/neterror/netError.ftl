@@ -39,6 +39,9 @@ neterror-disable-native-feedback-warning = Continuar sempre
 ## derived from the address that failed to resolve.
 
 neterror-search-cta-title = Este site não pode ser alcançado
+# $hostname (String) - The host of the address that failed to load, including
+# any subdomains, for example "docs.example.com". The host is emphasized.
+neterror-search-cta-intro2 = Não foi possível ligar ao servidor em <strong>{ $hostname }</strong>.
 # $domain (String) - The host of the address that failed to load, including any
 # subdomains, for example "docs.example.com".
 neterror-search-cta-intro = Não foi possível ligar ao servidor em { $domain }.

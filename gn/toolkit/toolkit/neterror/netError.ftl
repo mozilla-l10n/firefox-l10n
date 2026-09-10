@@ -39,6 +39,9 @@ neterror-disable-native-feedback-warning = Eku’éke tapiaite
 ## derived from the address that failed to resolve.
 
 neterror-search-cta-title = Ndereikekuaái ko tendápe
+# $hostname (String) - The host of the address that failed to load, including
+# any subdomains, for example "docs.example.com". The host is emphasized.
+neterror-search-cta-intro2 = Ndaikatúi eike mba’e’okápe <strong>{ $hostname }</strong> rupive.
 # $domain (String) - The host of the address that failed to load, including any
 # subdomains, for example "docs.example.com".
 neterror-search-cta-intro = Ndaikatúi eike mba’e’okápe { $domain } rupive.

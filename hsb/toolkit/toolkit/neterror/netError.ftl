@@ -39,6 +39,9 @@ neterror-disable-native-feedback-warning = Přeco pokročować
 ## derived from the address that failed to resolve.
 
 neterror-search-cta-title = Tute sydło docpějomny njeje
+# $hostname (String) - The host of the address that failed to load, including
+# any subdomains, for example "docs.example.com". The host is emphasized.
+neterror-search-cta-intro2 = Zwisk z serwerom na <strong>{ $hostname }</strong> móžny njeje.
 # $domain (String) - The host of the address that failed to load, including any
 # subdomains, for example "docs.example.com".
 neterror-search-cta-intro = Zwisk z serwerom na { $domain } móžny njeje.

@@ -39,6 +39,9 @@ neterror-disable-native-feedback-warning = Vedno nadaljuj
 ## derived from the address that failed to resolve.
 
 neterror-search-cta-title = Spletno mesto ni dosegljivo
+# $hostname (String) - The host of the address that failed to load, including
+# any subdomains, for example "docs.example.com". The host is emphasized.
+neterror-search-cta-intro2 = S strežnikom na naslovu <strong>{ $hostname }</strong> se ni bilo mogoče povezati.
 # $domain (String) - The host of the address that failed to load, including any
 # subdomains, for example "docs.example.com".
 neterror-search-cta-intro = S strežnikom na naslovu { $domain } se ni bilo mogoče povezati.
