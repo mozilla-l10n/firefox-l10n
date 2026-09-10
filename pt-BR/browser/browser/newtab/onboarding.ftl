@@ -554,6 +554,13 @@ onboarding-refresh-tou-pin-unchecked = Acesse o único grande navegador independ
 onboarding-refresh-data-collection-link = Gerenciar configurações de coleta de dados
 onboarding-refresh-primary-button = Avançar
 onboarding-refresh-fro-import-header = Importe seus dados
+onboarding-refresh-fro-import-body = Seus dados pessoais permanecem privativos. O { -brand-product-name } nunca os venderá.
+onboarding-refresh-fro-skip-button = Pular
+onboarding-refresh-fro-theme-header = Experimente mudar o visual
+onboarding-refresh-tab-layout-header = Experimente uma disposição diferente de abas
+onboarding-refresh-tab-layout-top = No alto
+onboarding-refresh-tab-layout-side = Ao lado
+onboarding-refresh-tab-layout-minimal = Mínimo
 
 ## Smart window switcher callout
 
