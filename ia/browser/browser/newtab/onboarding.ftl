@@ -538,6 +538,13 @@ onboarding-refresh-gratitude-subtitle = Gratias pro usar { -brand-short-name }, 
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } es tu supporto
 
+## First Run Onboarding refresh strings
+
+onboarding-refresh-tou-default = Aperir tote le ligamines con { -brand-short-name }
+onboarding-refresh-primary-button = Continuar
+onboarding-refresh-fro-skip-button = Saltar
+onboarding-refresh-tab-layout-minimal = Minime
+
 ## Smart window switcher callout
 
 smartwindow-switcher-callout = Cambiar inter fenestras intelligente e classic quandocunque.

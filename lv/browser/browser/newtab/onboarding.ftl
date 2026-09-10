@@ -102,7 +102,7 @@ mr2-onboarding-start-browsing-button-label = Sākt pārlūkošanu
 ##   $systemLanguage (String) - The name of the system language, e.g "Español (ES)"
 ##   $appLanguage (String) - The name of the language shipping in the browser build, e.g. "English (EN)"
 
-onboarding-live-language-header = Izvēlieties savu valodu
+onboarding-live-language-header = Izvēlies savu valodu
 mr2022-onboarding-live-language-text = { -brand-short-name } runā jūsu valodā
 mr2022-language-mismatch-subtitle = Pateicoties mūsu kopienai, { -brand-short-name } ir tulkots vairāk nekā 90 valodās. Izskatās, ka jūsu sistēma izmanto { $systemLanguage }, bet { -brand-short-name } izmanto { $appLanguage }.
 onboarding-live-language-button-label-downloading = Lejupielādē valodas pakotni valodai { $negotiatedLanguage }…

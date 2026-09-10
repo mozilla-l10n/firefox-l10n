@@ -33,6 +33,8 @@ ipprotection-feature-introduction-button-secondary-no-thanks = Nē, paldies
 
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Atvērt VPN
+ipprotection-summer-promo-offramp-set-to-default-primary-button = Iestatīt uz noklusējumu
+ipprotection-summer-promo-offramp-get-subscription-button = Iegūt { -mozilla-vpn-brand-name }
 ipprotection-summer-promo-offramp-dismiss-secondary-button = Noraidīt
 
 ## Site settings callout

@@ -95,7 +95,7 @@ translations-panel-to-label = Tulkot uz
 #   $toLanguage (string) - The target language of the translation.
 translations-panel-revisit-header = Šī lapa ir tulkota no { $fromLanguage } uz { $toLanguage }
 translations-panel-choose-language =
-    .label = Izvēlieties valodu
+    .label = Izvēlies valodu
 translations-panel-restore-button =
     .label = Rādīt oriģinālu
 

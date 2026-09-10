@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = Lapas valodu iestatījumi
     .style = min-width: 40em
+    .title = Lapas valodu iestatījumi
 languages-close-key =
     .key = w
 languages-description = Tīmekļa lapas dažreiz tiek piedāvātas vairākās valodās. Izvēlēties šo tīmekļa lapu rādīšanas valodu izvēles secību
@@ -39,17 +39,17 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = { -brand-short-name } valodu iestatījumi
     .style = min-width: 40em
-browser-languages-description = { -brand-short-name } attēlos pirmo valodu kā noklusējuma un pārējās valodas, ja nepieciešams tādā secībā, kādā tās būs sarakstā.
+    .title = { -brand-short-name } valodu iestatījumi
+browser-languages-description = { -brand-short-name } attēlos pirmo valodu kā noklusējuma un pārējās valodas, ja nepieciešams, tādā secībā, kādā tās parādās sarakstā.
 browser-languages-search = Meklē citas valodas...
 browser-languages-searching =
     .label = Meklē valodas...
 browser-languages-downloading =
     .label = Lejupielādē…
 browser-languages-select-language =
-    .label = Izvēlieties valodu, kuru pievienot ...
-    .placeholder = Izvēlieties valodu, kuru pievienot ...
+    .label = Atlasi valodu, kuru pievienot ...
+    .placeholder = Atlasi valodu, kuru pievienot ...
 browser-languages-installed-label = Instalētās valodas
 browser-languages-available-label = Pieejamās valodas
 browser-languages-error = { -brand-short-name } pašlaik nevar atjaunināt valodas. Pārbaudiet, vai ir izveidots savienojums ar internetu un mēģiniet vēlreiz.
