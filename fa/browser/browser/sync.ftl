@@ -80,3 +80,49 @@ fxa-avatar-tooltip =
 sync-setup-verify-continue = ادامه
 sync-setup-verify-title = هشدار ادغام
 sync-setup-verify-heading = آیا مطمئنید که می‌خواهید برای همگام‌سازی وارد شوید؟
+# The user was previously signed into sync. This dialog confirms to the user
+# that they will be merging the data from the previously signed in into the newly signed in one
+# Variables:
+#   $email - Email address of a user previously signed into sync.
+sync-setup-verify-description = قبلا کاربر دیگری در این رایانه وارد حساب همگام‌سازی شده بود. با ورود به حساب، نشانک‌ها، گذرواژه‌ها و سایر تنظیمات این مرورگر با { $email } ادغام می‌شوند
+
+## The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, pair a device, troubleshoot device issues, or verify account.
+
+fxa-menu-send-to-mobile-sign-in = برای ارسال برگه‌ها وارد شوید
+
+## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
+
+# Dialog 1 - different account signing in without option to merge
+sync-profile-different-account-title = این نمایه به حداکثر تعداد حساب رسیده است
+sync-profile-different-account-header = این نمایه قبلاً با یک حساب کاربری دیگر همگام‌سازی شده است
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+sync-profile-different-account-description = برای حفظ نظم و امنیت داده‌هایتان، هر نمایهٔ { -brand-product-name } فقط با یک حساب همگام‌سازی می‌شود. برای ورود با { $acctEmail }، نمایهٔ جدیدی بسازید.
+# Dialog 1 - different account signing in with merge option
+sync-profile-different-account-title-merge = نمایه با حساب دیگری همگام‌سازی شد
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $profileName (String) - Name of the current profile
+sync-profile-different-account-description-merge = برای مرتب و ایمن نگه‌داشتن داده‌هایتان، پیشنهاد می‌کنیم پروفایل جدیدی بسازید و با { $acctEmail } وارد شوید. اگر همگام‌سازی را در همین پروفایل ادامه دهید، داده‌های هر دو حساب برای همیشه در «{ $profileName }» ادغام خواهند شد.
+# Dialog 2 - account signed in on another profile without option to merge
+sync-account-in-use-header = حساب از قبل وجود دارد
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $otherProfile (String) - Name of the other profile that is associated with the account
+sync-account-in-use-header-merge = حساب { $acctEmail } از قبل در نمایهٔ «{ $otherProfile }» وارد شده است
+sync-account-in-use-description = این حساب را فقط می‌توانید به یک نمایه در این رایانه پیوند دهید
+# Dialog 2 - account signed in on another profile with merge option
+sync-account-already-signed-in-header = این حساب در نمایه‌ای دیگر وارد شده است. هر دو نمایه همگام‌سازی شوند؟
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $currentProfile (String): Name of the current profile signing in
+#   $otherProfile (String): Name of the profile that is already signed in
+sync-account-in-use-description-merge = حساب { $acctEmail } در این رایانه به نمایهٔ «{ $otherProfile }» وارد شده است. با همگام‌سازی نمایهٔ «{ $currentProfile }»، داده‌های هر دو نمایه، مانند گذرواژه‌ها و نشانک‌ها، برای همیشه با هم ادغام می‌شوند.
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-switch-profile = تغییر به «{ $profileName }»
+sync-button-create-profile = ایجاد پروفایل جدید
+sync-button-sync-and-merge = همگام‌سازی و ادغام داده‌ها
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-sync-profile = همگام‌سازی «{ $profileName }»

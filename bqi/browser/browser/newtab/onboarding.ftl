@@ -265,6 +265,9 @@ onboarding-personalization-motivation-other-option = دیر
 onboarding-refresh-primary-button = رئڌن وا پؽش
 onboarding-refresh-fro-import-header = داده یل خوتووݩ ن و من بیارین
 onboarding-refresh-fro-skip-button = گوم زیڌن
+onboarding-refresh-tab-layout-top = من روء
+onboarding-refresh-tab-layout-side = من کل
+onboarding-refresh-tab-layout-minimal = مینیمال
 
 ## Smart Window ToU modal
 
