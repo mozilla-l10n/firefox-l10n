@@ -40,3 +40,16 @@ webext-perms-description-webNavigation = دسترسی به فعالیت ها د�
 webext-perms-extra-warning-userScripts-long = اسکریپت‌های تایید نشده می‌توانند خطرات امنیتی و حفظ حریم خصوصی ایجاد کنند، مانند اجرای کد مضر یا ردیابی فعالیت‌های وبگاه. فقط اسکریپت‌هایی را از افزونه‌ها یا منابعی که به آن‌ها اعتماد دارید، اجرا کنید.
 # A shorter warning is displayed in UI surfaces with little room, such as a permission prompt.
 webext-perms-extra-warning-userScripts-short = اسکریپت‌های تایید نشده می‌توانند خطرات امنیتی و حفظ حریم خصوصی ایجاد کنند. فقط اسکریپت‌هایی را از افزونه‌ها یا منابعی که به آن‌ها اعتماد دارید، اجرا کنید.
+
+## Short form to be used in lists or in a string (`webext-perms-description-data-some`)
+## that formats some of the data collection permissions below using `Intl.ListFormat`.
+##
+## This is used when the data collection permissions are required.
+
+webext-perms-description-data-short-authenticationInfo = اطلاعات احراز هویت
+webext-perms-description-data-short-bookmarksInfo = نشانک‌ها
+webext-perms-description-data-short-browsingActivity = فعالیت‌های وب‌گردی
+webext-perms-description-data-short-financialAndPaymentInfo = اطلاعات مالی و پرداخت
+webext-perms-description-data-short-healthInfo = اطلاعات سلامت
+webext-perms-description-data-short-locationInfo = موقعیت مکانی
+webext-perms-description-data-short-personalCommunications = ارتباطات شخصی

@@ -961,6 +961,22 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+newtab-wallpaper-firefox-orange = A fox at the right edge on an orange background
+newtab-wallpaper-firefox-colorful-sky = Waves of orange across a purple night sky
+newtab-wallpaper-firefox-desert-dark = A fox sitting in a dark purple desert
+newtab-wallpaper-firefox-desert-light = A fox running across a light desert
+newtab-wallpaper-firefox-hills-dark = A fox running over dark hills
+newtab-wallpaper-firefox-hills-light = A fox running over light hills
+newtab-wallpaper-firefox-tail-dark = A fox’s tail on a dark background
+newtab-wallpaper-firefox-tail-light = A fox’s tail on a light background
+newtab-wallpaper-firefox-side-kit-dark = A fox on the left side, on a dark background
+newtab-wallpaper-firefox-side-kit-light = A fox on the left side, on a light background
+newtab-wallpaper-firefox-sitting-hill-dark = A fox sitting on dark purple hills
+newtab-wallpaper-firefox-sitting-hill-light = A fox sitting on light hills
+newtab-wallpaper-firefox-peak-dark = A fox’s face at the left edge, on a dark background
+newtab-wallpaper-firefox-peak-light = A fox’s face at the left edge, on a light background
+newtab-wallpaper-firefox-sky-dark = Dark purple hills under a night sky
+newtab-wallpaper-firefox-sky-light = Light hills under a soft sky
 
 ## Firefox
 

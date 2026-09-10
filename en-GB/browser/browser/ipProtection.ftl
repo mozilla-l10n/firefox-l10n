@@ -111,6 +111,7 @@ unauthenticated-vpn-title = Try { -brand-product-name }’s built-in VPN
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Hide your location</a> while browsing in { -brand-product-name }.
 unauthenticated-private-location-message = Helps <a data-l10n-name="learn-more-vpn">keep your location private</a> in { -brand-product-name }.
 unauthenticated-choose-location-message-1 = Choose from several locations or let { -brand-product-name } pick the fastest one.
+unauthenticated-site-rules-message = Control which sites use VPN and which sites don’t.
 unauthenticated-get-started = Get started
 unauthenticated-terms-of-service-privacy-notice = By proceeding, you agree to the <a data-l10n-name="vpn-terms-of-service">Terms of Service</a> and <a data-l10n-name="vpn-privacy-notice">Privacy Notice</a>.
 site-exclusion-toggle-enabled-1 =
@@ -120,6 +121,14 @@ site-exclusion-toggle-disabled-1 =
     .aria-label = VPN is off for this site
     .label = Use VPN for this site
 site-exclusion-toggle-description = Site not working? Try turning VPN off.
+# Manages rules for VPN to turn on or off automatically for certain websites
+site-rules-manage-rules-link-text = Manage VPN rules
+# Heading for user defined rules on VPN usage for particular websites
+site-rules-status-heading = Your rule
+# Used in the panel when a user navigates to a site where the VPN is off due to a site exclusion
+site-rules-description-exclusion = VPN is off for this site
+# Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
+site-rules-description-inclusion = VPN is on for this site
 ipprotection-settings-link =
     .label = Settings
 
@@ -256,6 +265,11 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } web sites
         }
     .label = Manage web site settings
+ip-protection-site-rules-header =
+    .heading = Manage web site rules
+ip-protection-site-rules-button =
+    .description = Set rules for sites that need extra privacy or VPN turned off.
+    .label = Manage web site rules
 ip-protection-autostart =
     .label = Turn on VPN automatically
 ip-protection-autostart-checkbox =

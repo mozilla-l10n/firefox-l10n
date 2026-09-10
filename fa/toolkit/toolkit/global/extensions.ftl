@@ -99,6 +99,12 @@ webext-perms-description-data-some-optional = توسعه‌دهنده می‌گ�
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text-with-data-collection = { $extension } برای به‌روزرسانی به تنظیمات جدید نیاز دارد
 webext-perms-update-list-intro-with-data-collection = برای حفظ نگارش و تنظیمات فعلی، لغو را انتخاب کنید؛ یا برای دریافت نگارش جدید و تأیید تغییرات، به‌روزرسانی کنید.
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection = { $extension } تنظیمات بیشتری درخواست می‌کند
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-optional-text-with-data-collection-only = { $extension } درخواست جمع‌آوری داده‌های اضافی را دارد
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent
@@ -109,6 +115,7 @@ webext-perms-update-list-intro-with-data-collection = برای حفظ نگارش
 
 webext-site-perms-header-with-gated-perms-midi = این برافزا به { $hostname } دسترسی به دستگاه‌های MIDI شما می‌دهد.
 webext-site-perms-header-with-gated-perms-midi-sysex = این برافزا به { $hostname } دسترسی به دستگاه‌های MIDI شما (با پشتیبانی از SysEx) را می‌دهد.
+webext-site-perms-header-with-gated-perms-serial = این مکمل به { $hostname } اجازه می‌دهد به دستگاه‌های سریال شما دسترسی داشته باشد.
 
 ##
 
@@ -119,6 +126,12 @@ webext-site-perms-description-gated-perms-midi =
     این‌ها معمولا دستگاه‌های متصل‌شونده مانند سینث‌سایزرهای صوتی هستند، اما ممکن است در رایانه شما نیز تعبیه شده باشند.
     
     وبگاه‌ها معمولا اجازه دسترسی به دستگاه‌های MIDI را ندارند. استفاده نادرست می‌تواند باعث خرابی یا کاهش امنیت شود.
+webext-site-perms-description-gated-perms-webserial =
+    اینها دستگاه‌هایی مانند میکروکنترلرها، چاپگرهای سه‌بعدی و سایر دستگاه‌هایی هستند که از طریق USB، پورت‌های سریال یا بلوتوث متصل می‌شوند.
+    
+    شما می‌توانید انتخاب کنید که وب‌سایت به کدام دستگاه‌ها دسترسی داشته باشد.
+    
+    وب‌سایت‌ها معمولاً مجاز به دسترسی به دستگاه‌های سریال نیستند. استفاده نادرست می‌تواند باعث آسیب یا به خطر افتادن امنیت شود.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
@@ -133,3 +146,9 @@ webext-site-perms-header-unsigned-with-perms = آیا { $extension } را اضا
 
 webext-site-perms-midi = دسترسی به دستگاه‌های MIDI
 webext-site-perms-midi-sysex = دسترسی به دستگاه‌های MIDI با پشتیبانی از SysEx
+webext-site-perms-serial = دسترسی به دستگاه‌های سریال
+
+## Colorway theme migration
+
+webext-colorway-theme-migration-notification-message = <b>پوسته‌ی رنگی شما حذف شد.</b> { -brand-shorter-name } مجموعهٔ رنگ‌بندی‌های خود را به‌روزرسانی کرده است. تازه‌ترین نگارش‌ها را می‌توانید در وبگاه افزونه ها پیدا کنید.
+webext-colorway-theme-migration-notification-button = پوسته‌های رنگی به‌روز شده را دریافت کنید

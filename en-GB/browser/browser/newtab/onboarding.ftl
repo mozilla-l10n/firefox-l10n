@@ -539,6 +539,20 @@ onboarding-refresh-gratitude-subtitle = Thank you for using { -brand-short-name 
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } has your back
 
+## First Run Onboarding refresh strings
+
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-splash-screen-title = { -brand-product-name } has your back, starting now
+onboarding-refresh-hero-text = Built to protect you, not track you.
+onboarding-refresh-tou-default = Open all links with { -brand-short-name }
+onboarding-refresh-tou-pin =
+    { PLATFORM() ->
+        [macos] Keep { -brand-short-name } in Dock
+       *[other] Add { -brand-short-name } to your taskbar
+    }
+onboarding-refresh-tou-default-unchecked = Keep built-in protection every time you browse
+onboarding-refresh-tou-pin-unchecked = Keep the only major independent browser a click away
+
 ## Smart window switcher callout
 
 smartwindow-switcher-callout = Switch between Smart and Classic Windows at any time.
