@@ -53,3 +53,23 @@ webext-perms-description-data-short-financialAndPaymentInfo = اطلاعات م�
 webext-perms-description-data-short-healthInfo = اطلاعات سلامت
 webext-perms-description-data-short-locationInfo = موقعیت مکانی
 webext-perms-description-data-short-personalCommunications = ارتباطات شخصی
+webext-perms-description-data-short-personallyIdentifyingInfo = اطلاعات هویتی شخصی
+webext-perms-description-data-short-searchTerms = عبارات جستجو
+webext-perms-description-data-short-technicalAndInteraction = داده‌های فنی و تعاملی
+webext-perms-description-data-short-websiteActivity = فعالیت در وب‌سایت‌ها
+webext-perms-description-data-short-websiteContent = محتوای وب‌سایت
+
+## Long form to be used in `about:addons` when these data collection permissions are optional.
+
+webext-perms-description-data-long-authenticationInfo = هم‌رسانی اطلاعات احراز هویت با توسعه‌دهنده افزونه
+webext-perms-description-data-long-bookmarksInfo = هم‌رسانی اطلاعات نشانک‌ها با توسعه‌دهنده افزونه
+webext-perms-description-data-long-browsingActivity = هم‌رسانی فعالیت مرور با توسعه‌دهنده افزونه
+webext-perms-description-data-long-financialAndPaymentInfo = هم‌رسانی اطلاعات مالی و پرداخت با توسعه‌دهنده افزونه
+webext-perms-description-data-long-healthInfo = هم‌رسانی اطلاعات سلامت با توسعه‌دهنده افزونه
+webext-perms-description-data-long-locationInfo = هم‌رسانی اطلاعات موقعیت مکانی با توسعه‌دهنده افزونه
+webext-perms-description-data-long-personalCommunications = هم‌رسانی ارتباطات شخصی با توسعه‌دهنده افزونه
+webext-perms-description-data-long-personallyIdentifyingInfo = هم‌رسانی اطلاعات شناسایی شخصی با توسعه‌دهنده افزونه
+webext-perms-description-data-long-searchTerms = هم‌رسانی عبارات جستجو با توسعه‌دهنده افزونه
+webext-perms-description-data-long-technicalAndInteraction = هم‌رسانی داده‌های فنی و تعاملی با توسعه‌دهنده افزونه
+webext-perms-description-data-long-websiteActivity = هم‌رسانی فعالیت وبسایت با توسعه‌دهنده افزونه
+webext-perms-description-data-long-websiteContent = هم‌رسانی محتوای وبسایت با توسعه‌دهنده افزونه

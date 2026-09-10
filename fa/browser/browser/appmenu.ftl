@@ -15,6 +15,12 @@ appmenuitem-banner-update-unsupported =
     .label = تانوان در به‌روز رسانی — سامانه ناسازگار است
 appmenuitem-banner-update-restart =
     .label = به‌روز رسانی موجود است — شروع دوباره
+appmenu-nova-update-title = برای به‌روزرسانی، { -brand-short-name } را مجدداً راه‌اندازی کنید
+appmenu-nova-update-description = برگه‌های شما دوباره باز خواهند شد.
+appmenu-nova-fxa-sign-in = ورود
+appmenu-nova-switch-device-promo =
+    .message = به زودی دستگاه جدیدی می‌خرید؟ { -brand-short-name } را با خود ببرید!
+appmenu-nova-switch-device-link = راهنمای انتقال داده‌ها
 appmenuitem-new-tab =
     .label = زبانهٔ جدید
 appmenuitem-new-window =
@@ -41,6 +47,10 @@ appmenuitem-translate =
     .label = ترجمه صفحه…
 appmenuitem-zoom =
     .value = بزرگ‌نمایی
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenuitem-referrals =
+    .label = توصیه { -brand-product-name }
 appmenuitem-more-tools =
     .label = ابزارهای بیشتر
 appmenuitem-help =

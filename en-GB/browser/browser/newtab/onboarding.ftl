@@ -552,6 +552,23 @@ onboarding-refresh-tou-pin =
     }
 onboarding-refresh-tou-default-unchecked = Keep built-in protection every time you browse
 onboarding-refresh-tou-pin-unchecked = Keep the only major independent browser a click away
+onboarding-refresh-terms-of-use-with-links = By continuing, you agree to the <a data-l10n-name="terms_of_use">{ -brand-product-name } Terms of Use</a> and our <a data-l10n-name="privacy_notice">Privacy Notice</a>. To help improve the browser, { -brand-product-name } sends diagnostic and interaction data to { -vendor-short-name }.
+onboarding-refresh-data-collection-link = Manage data collection settings
+onboarding-refresh-primary-button = Continue
+onboarding-refresh-fro-import-header = Bring in your data
+onboarding-refresh-fro-import-body = Your personal data stays personal. { -brand-product-name } will never sell it.
+onboarding-refresh-fro-skip-button = Skip
+onboarding-refresh-fro-theme-header = Play with your look
+onboarding-refresh-tab-layout-header = Try a different tab layout
+onboarding-refresh-tab-layout-top = On top
+onboarding-refresh-tab-layout-side = On the side
+onboarding-refresh-tab-layout-minimal = Minimal
+# Tooltip displayed on hover for minimal tabs image
+onboarding-minimal-tabs-tooltip =
+    .title = A browser window displaying tabs as small icons along the side of the screen, in a minimised sidebar.
+# Description for minimal tabs image
+onboarding-minimal-tabs-description =
+    .aria-description = A browser window displaying tabs as small icons along the side of the screen, in a minimised sidebar.
 
 ## Smart window switcher callout
 
