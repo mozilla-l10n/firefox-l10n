@@ -551,6 +551,7 @@ onboarding-refresh-tou-pin =
        *[other] { -brand-short-name } wašej nadawkowej lajsće přidać
     }
 onboarding-refresh-tou-default-unchecked = Wobchowajće zatwarjeny škit kóždy raz, hdyž přehladujeće
+onboarding-refresh-tou-pin-unchecked = Dźeržće jenički wulki njewotwisny wobhladowak klik k ruce
 onboarding-refresh-terms-of-use-with-links = Hdyž pokročujeće, zwoliće do <a data-l10n-name="terms_of_use">wužiwanskich wuměnjenjow { -brand-product-name }</a> a našeje <a data-l10n-name="privacy_notice">zdźělenki priwatnosće</a>. Zo by pomhał, wobhladowak polěpšić, { -brand-product-name } diagnostiske daty a daty interakcije na { -vendor-short-name } sćele.
 onboarding-refresh-data-collection-link = Nastajenja zběrki datow rjadować
 onboarding-refresh-primary-button = Dale
