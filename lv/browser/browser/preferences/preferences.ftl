@@ -281,7 +281,7 @@ preferences-default-zoom-label =
 preferences-default-zoom-value =
     .label = { $percentage }%
 preferences-zoom-text-only =
-    .label = Mērogot tikai tekstu
+    .label = Tālummainīt tikai tekstu
     .accesskey = t
 language-header = Valoda
 choose-language-description = Izvēlieties vēlamo valodu, kurā attēlot lapas
@@ -572,7 +572,7 @@ home-custom-homepage-subpage =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } saturs
-home-prefs-content-description2 = Izvēlieties, kādu saturu vēlaties rādīt savā { -firefox-home-brand-name } ekrānā.
+home-prefs-content-description2 = Izvēlies, kādu saturu vēlies savā { -firefox-home-brand-name } ekrānā.
 home-prefs-search-header =
     .label = Tīmekļa meklēšana
 home-prefs-shortcuts-header =

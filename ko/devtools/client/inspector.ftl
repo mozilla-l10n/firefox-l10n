@@ -26,6 +26,11 @@ inspector-split-orientation-button-title = 패널 레이아웃
 # A label for the split orientation menu item that switches the layout
 # automatically based on the panel width.
 inspector-split-orientation-auto = 자동
+# A label for the split orientation menu item that locks the panels side by side.
+inspector-split-orientation-side-by-side = 좌우 배치
+# A label for the split orientation menu item that locks the panels on top of
+# each other.
+inspector-split-orientation-stacked = 상하 배치
 # A title text for the light color scheme emulation options
 inspector-color-scheme-emulation-light =
     .title = 페이지에 밝은 색 구성표 에뮬레이션 전환

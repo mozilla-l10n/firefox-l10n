@@ -45,6 +45,15 @@ about-sync-log-clear-button =
 # Variables:
 #   $count (Number) - Number of logs currently shown.
 about-sync-log-count = 로그 { $count }개
+# Heading of a log in the list, stating its outcome and when it was written.
+# Variables:
+#   $date (number) - Timestamp of when the log was written.
+about-sync-log-row-success =
+    .heading = 성공 — { DATETIME($date, dateStyle: "medium", timeStyle: "medium") }
+# Variables:
+#   $date (number) - Timestamp of when the log was written.
+about-sync-log-row-error =
+    .heading = 오류 — { DATETIME($date, dateStyle: "medium", timeStyle: "medium") }
 about-sync-log-badge-success = 성공
 about-sync-log-badge-error = 오류
 # Variables:

@@ -963,6 +963,16 @@ feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
 newtab-wallpaper-firefox-orange = Uma raposa no canto direito com fundo laranja
 newtab-wallpaper-firefox-colorful-sky = Ondas alaranjadas em um céu noturno roxo
+newtab-wallpaper-firefox-desert-dark = Uma raposa sentada em um deserto roxo escuro
+newtab-wallpaper-firefox-desert-light = Uma raposa correndo em um deserto claro
+newtab-wallpaper-firefox-hills-dark = Uma raposa correndo sobre montes escuros
+newtab-wallpaper-firefox-hills-light = Uma raposa correndo sobre montes claros
+newtab-wallpaper-firefox-tail-dark = Um rabo de raposa com fundo escuro
+newtab-wallpaper-firefox-tail-light = Um rabo de raposa com fundo claro
+newtab-wallpaper-firefox-side-kit-dark = Uma raposa à esquerda com fundo escuro
+newtab-wallpaper-firefox-side-kit-light = Uma raposa do lado esquerdo com fundo claro
+newtab-wallpaper-firefox-sitting-hill-dark = Uma raposa sentada sobre montes roxo escuros
+newtab-wallpaper-firefox-sitting-hill-light = Uma raposa sentada sobre montes claros
 
 ## Firefox
 

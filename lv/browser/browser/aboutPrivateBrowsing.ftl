@@ -31,11 +31,11 @@ about-private-browsing-focus-promo-text-c = { -focus-brand-name } katru reizi no
 # in a private window.
 # Variables:
 #   $engineName (String) - The engine name that will currently be used for the private window.
-about-private-browsing-search-banner-title = { $engineName } ir jūsu noklusējuma meklētājprogramma privātajos logos
+about-private-browsing-search-banner-title = { $engineName } ir noklusējuma meklētājs privātajos logos
 about-private-browsing-search-banner-description =
     { PLATFORM() ->
-        [windows] Lai atlasītu citu meklētājprogrammu, atveriet sadaļu <a data-l10n-name="link-options">Opcijas</a>.
-       *[other] Lai atlasītu citu meklētājprogrammu, atveriet sadaļu <a data-l10n-name="link-options">Iestatījumi</a>.
+        [windows] Lai atlasītu citu meklētāju, jāatver sadaļa <a data-l10n-name="link-options">Iespējas</a>.
+       *[other] Lai atlasītu citu meklētāju, jāatver sadaļa <a data-l10n-name="link-options">Iestatījumi</a>.
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Aizvērt

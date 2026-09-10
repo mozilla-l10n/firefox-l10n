@@ -53,6 +53,15 @@ about-sync-log-count =
         [many] { $count } chofnod
        *[other] { $count } cofnod
     }
+# Heading of a log in the list, stating its outcome and when it was written.
+# Variables:
+#   $date (number) - Timestamp of when the log was written.
+about-sync-log-row-success =
+    .heading = Llwyddiant — { DATETIME($date, dateStyle: "medium", timeStyle: "medium") }
+# Variables:
+#   $date (number) - Timestamp of when the log was written.
+about-sync-log-row-error =
+    .heading = Gwall — { DATETIME($date, dateStyle: "medium", timeStyle: "medium") }
 about-sync-log-badge-success = Llwyddiant
 about-sync-log-badge-error = Gwall
 # Variables:

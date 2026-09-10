@@ -354,8 +354,6 @@ quickactions-translate = Tulkot
 quickactions-cmd-translate = tulkot
 # Opens about:preferences
 quickactions-settings2 = Pārvaldīt iestatījumus
-# "manage" should match the corresponding command, which is “Manage settings” in English.
-quickactions-cmd-settings2 = iestatījumi, preferences, opcijas, iespējas, pārvaldīt
 # Opens about:addons page in the themes section
 quickactions-themes = Pārvaldīt motīvus
 # In English we provide multiple spellings for "add-ons". If that's not
@@ -788,7 +786,7 @@ urlbar-result-search-with-engine-keywords = { $keywords } — meklēt ar { $engi
 # Variables:
 #   $engine (String): the current default search engine.
 urlbar-searchmode-button3 =
-    .title = { $engine }, izvēlēties meklētājprogrammu
+    .title = { $engine }, izvēlēties meklētāju
 urlbar-searchmode-button-no-engine2 =
     .title = Nav atlasīta neviena saīsne, jāizvēlas saīsne
 # Refers to the ability to search using keywords in the address bar
@@ -804,7 +802,7 @@ urlbar-searchmode-default2 =
 # Variables:
 #  $engineName (String): The name of the search engine.
 urlbar-searchmode-popup-add-engine = Pievienot “{ $engineName }”
-    .title = Pievienot meklētājprogrammu “{ $engineName }”
+    .title = Pievienot meklētāju “{ $engineName }”
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-one-off-header = Šajā reizē meklēt ar:

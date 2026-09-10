@@ -111,6 +111,7 @@ unauthenticated-vpn-title = Probieren Sie das integrierte VPN von { -brand-produ
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Verstecken Sie Ihren Standort</a> beim Surfen in { -brand-product-name }.
 unauthenticated-private-location-message = <a data-l10n-name="learn-more-vpn">Hilft Ihren Standort in { -brand-product-name } privat zu halten</a>.
 unauthenticated-choose-location-message-1 = Wählen Sie einen von mehreren Standorten oder lassen Sie { -brand-product-name } den schnellsten auswählen.
+unauthenticated-site-rules-message = Legen Sie fest, welche Websites das VPN nutzen und welche nicht.
 unauthenticated-get-started = Erste Schritte
 unauthenticated-terms-of-service-privacy-notice = Indem Sie fortfahren, stimmen Sie den <a data-l10n-name="vpn-terms-of-service">Nutzungsbedingungen</a> und der <a data-l10n-name="vpn-privacy-notice">Datenschutzerklärung</a> zu.
 site-exclusion-toggle-enabled-1 =
@@ -120,6 +121,14 @@ site-exclusion-toggle-disabled-1 =
     .aria-label = VPN ist für diese Website deaktiviert
     .label = VPN für diese Website verwenden
 site-exclusion-toggle-description = Funktioniert die Website nicht richtig? Versuchen Sie, VPN zu deaktivieren.
+# Manages rules for VPN to turn on or off automatically for certain websites
+site-rules-manage-rules-link-text = VPN-Regeln verwalten
+# Heading for user defined rules on VPN usage for particular websites
+site-rules-status-heading = Eigene Regel
+# Used in the panel when a user navigates to a site where the VPN is off due to a site exclusion
+site-rules-description-exclusion = VPN ist für diese Website deaktiviert
+# Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
+site-rules-description-inclusion = VPN ist für diese Website aktiviert
 ipprotection-settings-link =
     .label = Einstellungen
 
@@ -256,6 +265,11 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } Websites
         }
     .label = Website-Einstellungen verwalten
+ip-protection-site-rules-header =
+    .heading = Regeln für Websites verwalten
+ip-protection-site-rules-button =
+    .description = Legen Sie Regeln für Websites fest, die mehr Datenschutz benötigen, oder die ein deaktiviertes VPN benötigen.
+    .label = Regeln für Websites verwalten
 ip-protection-autostart =
     .label = VPN automatisch aktivieren
 ip-protection-autostart-checkbox =

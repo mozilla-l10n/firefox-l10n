@@ -111,7 +111,7 @@ unauthenticated-vpn-title = Rhowch gynnig ar VPN cynhenid { -brand-product-name 
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Cuddiwch eich lleoliad</a> wrth bori yn { -brand-product-name }.
 unauthenticated-private-location-message = Yn helpu <a data-l10n-name="learn-more-vpn"> i gadw'ch lleoliad yn breifat</a> yn { -brand-product-name }.
 unauthenticated-choose-location-message-1 = Dewiswch o sawl lleoliad neu gadael i { -brand-product-name } ddewis yr un cyflymaf.
-unauthenticated-site-rules-message = Yn rheoli pa wefannau sy'n defnyddio VPN a pha wefannau sydd ddim.
+unauthenticated-site-rules-message = Rheoli pa wefannau sy'n defnyddio VPN a pha wefannau sydd ddim.
 unauthenticated-get-started = Cychwyn arni
 unauthenticated-terms-of-service-privacy-notice = Drwy barhau, rydych yn cytuno i'r <a data-l10n-name="vpn-terms-of-service">Telerau Gwasanaeth</a> a'r <a data-l10n-name="vpn-privacy-notice">Hysbysiad Preifatrwydd</a>.
 site-exclusion-toggle-enabled-1 =

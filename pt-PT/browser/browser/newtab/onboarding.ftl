@@ -555,6 +555,17 @@ onboarding-refresh-primary-button = Continuar
 onboarding-refresh-fro-import-header = Traga os seus dados
 onboarding-refresh-fro-import-body = Os seus dados pessoais permanecem pessoais. O { -brand-product-name } nunca os venderá.
 onboarding-refresh-fro-skip-button = Saltar
+onboarding-refresh-fro-theme-header = Experimente mudar o seu visual
+onboarding-refresh-tab-layout-header = Experimente uma disposição de separadores diferente
+onboarding-refresh-tab-layout-top = No topo
+onboarding-refresh-tab-layout-side = Ao lado
+onboarding-refresh-tab-layout-minimal = Minimalista
+# Tooltip displayed on hover for minimal tabs image
+onboarding-minimal-tabs-tooltip =
+    .title = Uma janela de navegador a mostrar separadores como pequenos ícones ao longo do lado do ecrã, numa barra lateral minimizada.
+# Description for minimal tabs image
+onboarding-minimal-tabs-description =
+    .aria-description = Uma janela de navegador a mostrar separadores como pequenos ícones ao longo do lado do ecrã, numa barra lateral minimizada.
 
 ## Smart window switcher callout
 

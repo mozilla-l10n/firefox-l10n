@@ -25,7 +25,7 @@ about-logins-menu-menuitem-export-logins2 = Izgūt paroles…
 about-logins-menu-menuitem-remove-all-logins2 = Izņemt visas paroles…
 menu-menuitem-preferences =
     { PLATFORM() ->
-        [windows] Opcijas
+        [windows] Iespējas
        *[other] Iestatījumi
     }
 about-logins-menu-menuitem-help = Palīdzība

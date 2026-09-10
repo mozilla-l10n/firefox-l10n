@@ -543,7 +543,7 @@ onboarding-refresh-gratitude-title = Mae { -brand-short-name } yn eich cefnogi
 
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-splash-screen-title = Mae { -brand-product-name } yn eich cefnogi, gan ddechrau nawr
-onboarding-refresh-hero-text = Wedi'i adeiladu i'ch amddiffyn, nid eich tracio.
+onboarding-refresh-hero-text = Wedi'i greu i'ch diogelu, nid eich tracio.
 onboarding-refresh-tou-default = Agor pob dolen gyda { -brand-short-name }
 onboarding-refresh-tou-pin =
     { PLATFORM() ->
