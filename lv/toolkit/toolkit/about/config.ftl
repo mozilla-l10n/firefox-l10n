@@ -8,7 +8,7 @@
 about-config-intro-warning-title = Rīkojieties piesardzīgi
 about-config-intro-warning-text = Izmaiņas papildu konfigurācijas iestatījumos var ietekmēt { -brand-short-name } veiktspēju vai drošību.
 about-config-intro-warning-checkbox = Brīdināt mani, kad mēģinu piekļūt šiem iestatījumiem
-about-config-intro-warning-button = Pieņemt risku un turpināt
+about-config-intro-warning-button = Pieņemt apdraudējumu un turpināt
 
 ##
 

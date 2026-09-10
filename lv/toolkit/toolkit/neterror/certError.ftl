@@ -8,10 +8,10 @@ cert-error-intro = { $hostname } izmanto nederīgu drošības sertifikātu.
 cert-error-mitm-intro = Vietnes apliecina savu identitāti ar sertifikātiem, kurus izsniedz sertifikātu izdevējas iestādes.
 cert-error-mitm-mozilla = { -brand-short-name } atbalsta bezpeļņas organoizācija Mozilla, kas administrē pilnīgi atvērtu sertifikātu izsniegšanas iestādes (CA) veikalu. CA veikals palīdz nodrošināt, ka sertifikātu izdevējas iestādes ievēro paraugpraksi lietotāju drošībai.
 cert-error-mitm-connection = Lai pārbaudītu, vai savienojums ir drošs, { -brand-short-name } izmanto nevis operētājsistēmas piedāvātos sertifikātus, bet gan Mozilla CA krātuvi. Tāpēc, ja antivīrusu programma vai tīkls pārtver savienojumu Mozilla CA krātuvē neglabātam drošības sertifikātam, savienojums tiek uzskatīts par nedrošu.
-cert-error-trust-unknown-issuer-intro = Iespējams kāds mēģina atdarināt šo vietni, jums nevajadzētu turpināt.
+cert-error-trust-unknown-issuer-intro = Kāds varētu mēģināt atdarināt vietni, Tev nevajadzētu turpināt.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
-cert-error-trust-unknown-issuer = Mājaslapām jāpierāda savu identitāti ar sertifikātiem. { -brand-short-name } neuzticas { $hostname }, jo tā sertifikāta izsniedzējs nav zināms, sertifikāts ir paš-parakstīts vai arī serveris nesūta pareizus starpnieksertifikātus.
+cert-error-trust-unknown-issuer = Tīmekļvietnes pierāda savu identitāti ar sertifikātiem. { -brand-short-name } neuzticas { $hostname }, jo tā sertifikāta izsniedzējs nav zināms, sertifikāts ir pašparakstīts vai arī serveris nesūta pareizus starpnieksertifikātus.
 cert-error-trust-cert-invalid = Šis sertifikāts nav uzticams, jo to ir izdevis nederīgs CA sertifikāts.
 cert-error-trust-untrusted-issuer = Šis sertifikāts nav uzticams, jo tā izdevēja sertifikāts nav uzticams.
 cert-error-trust-signature-algorithm-disabled = Sertifikāts nav uzticams, jo ir parakstīts ar algoritmu, kas nav uzskatāms par drošu.

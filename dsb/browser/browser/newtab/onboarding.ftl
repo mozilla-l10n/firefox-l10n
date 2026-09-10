@@ -539,6 +539,37 @@ onboarding-refresh-gratitude-subtitle = Wjeliki źěk, až { -brand-short-name }
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } za wami stoj
 
+## First Run Onboarding refresh strings
+
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-splash-screen-title = { -brand-product-name } za wami stoj, wótněnta
+onboarding-refresh-hero-text = Wuwity, aby was šćitał, nic pśeslědował.
+onboarding-refresh-tou-default = Wšykne wótkaze z { -brand-short-name } wócyniś
+onboarding-refresh-tou-pin =
+    { PLATFORM() ->
+        [macos] { -brand-short-name } w doku wobchowaś
+       *[other] { -brand-short-name } wašej nadawkowej rědce pśidaś
+    }
+onboarding-refresh-tou-default-unchecked = Wobchowajśo zatwarjony šćit kuždy raz, gaž pśeglědujośo
+onboarding-refresh-tou-pin-unchecked = Źaržćo jadnučki wjeliki njewótwisny wobglědowak kliknjenje k ruce
+onboarding-refresh-terms-of-use-with-links = Gaž pókšacujośo, zwólijośo do <a data-l10n-name="terms_of_use">wužywańskich wuměnjenjow { -brand-product-name }</a> a našeje <a data-l10n-name="privacy_notice">powěźeńki priwatnosći</a>. Aby pomagał, wobglědowak pólěpšyś, { -brand-product-name } diagnostiske daty a daty interakcije na { -vendor-short-name } sćelo.
+onboarding-refresh-data-collection-link = Nastajenja zběrki datow zastojaś
+onboarding-refresh-primary-button = Dalej
+onboarding-refresh-fro-import-header = Zapódajśo swóje daty
+onboarding-refresh-fro-import-body = Waše wósobinske daty wósobinske wóstawaju. { -brand-product-name } je nigda njepśedajo.
+onboarding-refresh-fro-skip-button = Pśeskócyś
+onboarding-refresh-fro-theme-header = Grajśo ze swójim naglědom
+onboarding-refresh-tab-layout-header = Wopytajśo druge wugótowanje rejtarikow
+onboarding-refresh-tab-layout-top = Górjejce
+onboarding-refresh-tab-layout-side = Na boku
+onboarding-refresh-tab-layout-minimal = Minimalny
+# Tooltip displayed on hover for minimal tabs image
+onboarding-minimal-tabs-tooltip =
+    .title = Wokno wobglědowaka, kótarež rejtariki ako małe symbole spóromje wobrazowki pokazujo, w miniměrowanej bocnicy.
+# Description for minimal tabs image
+onboarding-minimal-tabs-description =
+    .aria-description = Wokno wobglědowaka, kótarež rejtariki ako małe symbole spóromje wobrazowki pokazujo, w miniměrowanej bocnicy.
+
 ## Smart window switcher callout
 
 smartwindow-switcher-callout = Pśešaltujśo kuždy cas mjazy inteligentnym a klasiskim woknom.
