@@ -593,7 +593,7 @@ smartwindow-onboarding-image-alt =
 
 ## Smart Window Sidebar Auto-Open Pref
 
-smartwindow-sidebar-auto-open-callout-title = Vous préférez que l’assistant reste fermé ?
+smartwindow-sidebar-auto-open-callout-title = Préférez-vous que l’assistant reste fermé ?
 smartwindow-sidebar-auto-open-callout-body = Vous pourrez toujours l’ouvrir quand vous en avez besoin.
 smartwindow-sidebar-auto-open-callout-accept = Oui, le garder fermé
 smartwindow-sidebar-auto-open-callout-dismiss = Non merci

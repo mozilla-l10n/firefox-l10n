@@ -30,7 +30,6 @@ autocomplete-edit-password = Modifier ce mot de passe
 autocomplete-delete-password = Supprimer ce mot de passe
 autocomplete-edit-address = Modifier cette adresse
 autocomplete-delete-address = Supprimer cette adresse
-autocomplete-edit-payment-method = Modifier ce mode de paiement
 autocomplete-delete-payment-method = Supprimer ce mode de paiement
 # aria-label and tooltip for the trash button on a form history entry.
 # Variables:
