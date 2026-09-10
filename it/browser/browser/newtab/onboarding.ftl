@@ -541,6 +541,37 @@ onboarding-refresh-gratitude-subtitle = Grazie per aver scelto { -brand-short-na
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } è sempre dalla tua parte
 
+## First Run Onboarding refresh strings
+
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-splash-screen-title = Da ora in poi, { -brand-product-name } è al tuo fianco
+onboarding-refresh-hero-text = Progettato per proteggerti, non per tracciarti.
+onboarding-refresh-tou-default = Apri tutti i link con { -brand-short-name }
+onboarding-refresh-tou-pin =
+    { PLATFORM() ->
+        [macos] Mantieni { -brand-short-name } nel Dock
+       *[other] Aggiungi { -brand-short-name } alla barra delle applicazioni
+    }
+onboarding-refresh-tou-default-unchecked = Naviga sempre con la protezione integrata.
+onboarding-refresh-tou-pin-unchecked = L’unico grande browser indipendente, sempre a portata di clic.
+onboarding-refresh-terms-of-use-with-links = Proseguendo accetti le <a data-l10n-name="terms_of_use">condizioni di utilizzo di { -brand-product-name }</a> e la nostra <a data-l10n-name="privacy_notice">Informativa sulla privacy</a>. Per migliorare il browser, { -brand-product-name } invia dati diagnostici e di interazione a { -vendor-short-name }.
+onboarding-refresh-data-collection-link = Gestisci le impostazioni di raccolta dati
+onboarding-refresh-primary-button = Continua
+onboarding-refresh-fro-import-header = Porta con te i tuoi dati
+onboarding-refresh-fro-import-body = I tuoi dati personali restano privati. { -brand-product-name } non li venderà mai.
+onboarding-refresh-fro-skip-button = Salta
+onboarding-refresh-fro-theme-header = Personalizza il tuo stile
+onboarding-refresh-tab-layout-header = Prova una diversa disposizione delle schede
+onboarding-refresh-tab-layout-top = In alto
+onboarding-refresh-tab-layout-side = Sul lato
+onboarding-refresh-tab-layout-minimal = Minimale
+# Tooltip displayed on hover for minimal tabs image
+onboarding-minimal-tabs-tooltip =
+    .title = Una finestra del browser con le schede visualizzate come piccole icone sul lato dello schermo, all’interno di una barra laterale ridotta.
+# Description for minimal tabs image
+onboarding-minimal-tabs-description =
+    .aria-description = Una finestra del browser con le schede visualizzate come piccole icone sul lato dello schermo, all’interno di una barra laterale ridotta.
+
 ## Smart window switcher callout
 
 smartwindow-switcher-callout = Puoi cambiare tra le finestre smart e classiche in qualsiasi momento.
