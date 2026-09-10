@@ -68,6 +68,11 @@ fxa-menu-signed-out-sign-in-button =
 fxa-menu-signed-out-message-login-failed = Çıkış yaptınız
 # Reason shown when the remembered account still needs to verify their email.
 fxa-menu-signed-out-message-unverified = Kurulumu tamamlayın
+# Shown by the same card, and by the app menu's sign-in row, once the user has
+# signed out - the account they signed out of can no longer be identified, so
+# this copy stands in for the email.
+fxa-menu-signed-out-title = Eşitlemek için giriş yapın
+fxa-menu-signed-out-description = Çıkış yaptınız
 fxa-avatar-sign-in = Giriş yap
 fxa-avatar-sign-up = Kaydol
 fxa-avatar-tooltip =

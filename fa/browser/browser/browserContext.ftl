@@ -5,8 +5,8 @@
 navbar-tooltip-instruction =
     .value =
         { PLATFORM() ->
-            [macos] برای نمایش تاریخچه، به طرف پایین بکشید
-           *[other] برای نمایش تاریخچه، کلیک راست کنید یا به طرف پایین بکشید
+            [macos] برای مشاهدهٔ تاریخچه به پایین بکشید
+           *[other] برای مشاهدهٔ تاریخچه راست‌کلیک کنید یا به پایین بکشید
         }
 
 ## Back
@@ -15,7 +15,7 @@ navbar-tooltip-instruction =
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-2 =
     .aria-label = بازگشت
-    .tooltiptext = بازگشت به صفحهٔ قبلی ({ $shortcut })
+    .tooltiptext = بازگشت به یک صفحه قبل ({ $shortcut })
     .accesskey = ب
 # This menuitem is only visible on macOS
 main-context-menu-back-mac =
@@ -32,7 +32,7 @@ toolbar-button-back-2 =
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-2 =
     .aria-label = جلو رفتن
-    .tooltiptext = جلو رفتن به صفحهٔ بعد ({ $shortcut })
+    .tooltiptext = رفتن به یک صفحه بعد ({ $shortcut })
     .accesskey = ج
 # This menuitem is only visible on macOS
 main-context-menu-forward-mac =
@@ -46,12 +46,12 @@ toolbar-button-forward-2 =
 ## Reload
 
 main-context-menu-reload =
-    .aria-label = بازخوانی
-    .accesskey = خ
+    .aria-label = بارگیری مجدد
+    .accesskey = ب
 # This menuitem is only visible on macOS
 main-context-menu-reload-mac =
-    .label = بازخوانی
-    .accesskey = خ
+    .label = بارگیری مجدد
+    .accesskey = ب
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
@@ -59,11 +59,11 @@ toolbar-button-reload =
 
 main-context-menu-stop =
     .aria-label = توقف
-    .accesskey = ق
+    .accesskey = ت
 # This menuitem is only visible on macOS
 main-context-menu-stop-mac =
     .label = توقف
-    .accesskey = ق
+    .accesskey = ت
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -81,8 +81,8 @@ toolbar-button-account =
 ## Save Page
 
 main-context-menu-page-save =
-    .label = ذخیرهٔ صفحه به عنوان…
-    .accesskey = ص
+    .label = ذخیرهٔ صفحه با نام…
+    .accesskey = ذ
 
 ## Simple menu items
 
@@ -119,47 +119,50 @@ main-context-menu-edit-bookmark-with-shortcut =
     .tooltiptext = ویرایش نشانک ({ $shortcut })
     .accesskey = ن
 main-context-menu-open-link =
-    .label = گشودن پیوند
-    .accesskey = گ
+    .label = باز کردن پیوند
+    .accesskey = ب
 main-context-menu-open-link-new-tab =
-    .label = گشودن پیوند در زبانهٔ جدید
+    .label = باز کردن پیوند در زبانهٔ جدید
     .accesskey = ز
+main-context-menu-open-link-split-view =
+    .label = باز کردن پیوند در نمای دوگانه
+    .accesskey = د
 main-context-menu-open-link-container-tab =
-    .label = گشودن پیوند در زبانهٔ حامل جدید
-    .accesskey = ح
+    .label = باز کردن پیوند در زبانهٔ ظرف جدید
+    .accesskey = ظ
 main-context-menu-open-link-new-window =
-    .label = گشودن پیوند در پنجرهٔ جدید
+    .label = باز کردن پیوند در پنجرهٔ جدید
     .accesskey = پ
 main-context-menu-open-link-new-private-window =
-    .label = گشودن پیوند در پنجرهٔ ناشناس جدید
+    .label = باز کردن پیوند در پنجرهٔ ناشناس جدید
     .accesskey = ن
 main-context-menu-bookmark-link-2 =
     .label = نشانک‌گذاری پیوند…
-    .accesskey = ن
+    .accesskey = ش
 main-context-menu-save-link =
-    .label = ذخیرهٔ پیوند به عنوان…
-    .accesskey = ع
+    .label = ذخیرهٔ پیوند با نام…
+    .accesskey = ذخ
 
 ##
 
 main-context-menu-copy-email =
-    .label = رونوشت از نشانی رایانامه
-    .accesskey = ر
+    .label = کپی نشانی ایمیل
+    .accesskey = ا
 main-context-menu-copy-phone =
-    .label = رونوشت از شمارهٔ تلفن
-    .accesskey = ف
+    .label = کپی شماره تلفن
+    .accesskey = ت
 main-context-menu-copy-link-simple =
-    .label = رونوشت از پیوند
-    .accesskey = پ
+    .label = کپی پیوند
+    .accesskey = ک
 main-context-menu-preview-link =
     .label = پیش‌نمایش پیوند
-    .accesskey = ن
+    .accesskey = پ
 # "Copy Clean Link" means that Firefox will remove things from the link you
 # copied, like items that identify you for advertising purposes, and other items
 # sites add into URLs to help them deliver a certain browsing experience.
 main-context-menu-copy-clean-link =
-    .label = رونوشت تمیز پیوند
-    .accesskey = ر
+    .label = کپی پیوند پاک‌شده
+    .accesskey = پ
 
 ## Media (video/audio) controls
 ##
@@ -171,14 +174,14 @@ main-context-menu-media-play =
     .label = پخش
     .accesskey = پ
 main-context-menu-media-pause =
-    .label = مکث
-    .accesskey = ک
+    .label = توقف موقت
+    .accesskey = پ
 
 ##
 
 main-context-menu-media-mute =
     .label = بی‌صدا
-    .accesskey = ص
+    .accesskey = ب
 main-context-menu-media-unmute =
     .label = باصدا
     .accesskey = ص
@@ -186,27 +189,27 @@ main-context-menu-media-play-speed-2 =
     .label = سرعت
     .accesskey = س
 main-context-menu-media-play-speed-slow-2 =
-    .label = 0.5×
+    .label = ۰٫۵×
 main-context-menu-media-play-speed-normal-2 =
-    .label = 1.0×
+    .label = ۱٫۰×
 main-context-menu-media-play-speed-fast-2 =
-    .label = 1.25×
+    .label = ۱٫۲۵×
 main-context-menu-media-play-speed-faster-2 =
-    .label = 1.5×
+    .label = ۱٫۵×
 main-context-menu-media-play-speed-fastest-2 =
-    .label = 2×
+    .label = ۲×
 main-context-menu-media-loop =
-    .label = حلقه‌
-    .accesskey = ل
+    .label = تکرار مداوم
+    .accesskey = ت
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
 
 main-context-menu-media-show-controls =
-    .label = نمایش کنترل‌ها
+    .label = نمایش دکمه‌های کنترلی
     .accesskey = ک
 main-context-menu-media-hide-controls =
-    .label = پنهان کردن کنترل‌ها
+    .label = مخفی کردن دکمه‌های کنترلی
     .accesskey = ک
 
 ## Displayed within the send tab submenu to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
@@ -215,150 +218,186 @@ main-context-menu-media-video-fullscreen =
     .label = تمام‌صفحه
     .accesskey = ت
 main-context-menu-media-video-leave-fullscreen =
-    .label = خروج از تمام‌صفحه
-    .accesskey = ت
+    .label = خروج از حالت تمام‌صفحه
+    .accesskey = خ
 # This is used when right-clicking on a video in the
 # content area when the Picture-in-Picture feature is enabled.
 main-context-menu-media-watch-pip =
     .label = تماشا در حالت تصویر در تصویر
-    .accesskey = ص
+    .accesskey = ت
 main-context-menu-image-reload =
-    .label = بازخوانی تصویر
-    .accesskey = خ
+    .label = بارگیری مجدد تصویر
+    .accesskey = ب
 main-context-menu-image-view-new-tab =
-    .label = گشودن تصویر در زبانهٔ جدید
+    .label = باز کردن تصویر در زبانهٔ جدید
     .accesskey = ز
 main-context-menu-video-view-new-tab =
-    .label = گشودن ویدیو در زبانهٔ جدید
+    .label = باز کردن ویدیو در زبانهٔ جدید
     .accesskey = و
 main-context-menu-image-copy =
-    .label = رونوشت از تصویر
-    .accesskey = ت
+    .label = کپی تصویر
+    .accesskey = ک
 main-context-menu-image-copy-link =
-    .label = رونوشت از پیوند تصویر
-    .accesskey = پ
+    .label = کپی نشانی تصویر
+    .accesskey = ن
 main-context-menu-video-copy-link =
-    .label = رونوشت از پیوند ویدیو
-    .accesskey = پ
+    .label = کپی نشانی ویدیو
+    .accesskey = ن
 main-context-menu-audio-copy-link =
-    .label = رونوشت از پیوند صدا
-    .accesskey = پ
+    .label = کپی نشانی صوت
+    .accesskey = ن
 main-context-menu-image-save-as =
-    .label = ذخیرهٔ تصویر به عنوان…
+    .label = ذخیرهٔ تصویر با نام…
     .accesskey = ذ
 main-context-menu-image-email =
-    .label = رایانامه کردن تصویر...
-    .accesskey = ر
+    .label = ایمیل کردن تصویر…
+    .accesskey = ا
 main-context-menu-image-set-image-as-background =
-    .label = تنظیم تصویر به عنوان پس‌زمینهٔ میزکار…
+    .label = تنظیم تصویر به عنوان پس‌زمینه دسکتاپ…
     .accesskey = پ
 main-context-menu-image-copy-text =
-    .label = رونوشت متن از تصویر
+    .label = کپی متن از تصویر
     .accesskey = م
 main-context-menu-image-info =
-    .label = نمایش اطلاعات تصویر
+    .label = مشاهدهٔ اطلاعات تصویر
     .accesskey = ط
 main-context-menu-image-desc =
-    .label = نمایش توضیحات
+    .label = مشاهدهٔ توضیحات
     .accesskey = ت
+# Variables
+#   $engine (String) - Name of the search engine that will perform the search.
+main-context-menu-visual-search-2 =
+    .label = جست‌وجوی تصویر با { $engine }
+    .accesskey = ج
 main-context-menu-video-save-as =
-    .label = ذخیرهٔ ویدیو به عنوان…
-    .accesskey = ذ
+    .label = ذخیرهٔ ویدیو با نام…
+    .accesskey = و
 main-context-menu-audio-save-as =
-    .label = ذخیرهٔ صدا به عنوان…
-    .accesskey = ذ
+    .label = ذخیرهٔ صوت با نام…
+    .accesskey = ص
 main-context-menu-video-take-snapshot =
-    .label = گرفتن عکس لحظه‌ای…
+    .label = گرفتن عکس از ویدیو…
     .accesskey = ع
 main-context-menu-video-email =
-    .label = رایانامه کردن ویدیو...
-    .accesskey = ر
+    .label = ایمیل کردن ویدیو…
+    .accesskey = ا
 main-context-menu-audio-email =
-    .label = رایانامه کردن صدا...
-    .accesskey = ر
+    .label = ایمیل کردن صوت…
+    .accesskey = ا
+main-context-menu-send-to-device-2 =
+    .label = ارسال به دستگاه
+    .accesskey = د
+main-context-menu-send-to-mobile-2 =
+    .label = ارسال به گوشی همراه
+    .accesskey = گ
+main-context-menu-send-to-mobile-sign-in = برای ارسال زبانه‌ها وارد شوید
+main-context-menu-send-to-mobile-enable-sync2 = برای ارسال زبانه، همگام‌سازی را فعال کنید
+main-context-menu-send-to-mobile-connect-phone2 = گوشی خود را متصل کنید
+main-context-menu-send-to-mobile-device-missing2 = دستگاه خود را نمی‌بینید؟
+main-context-menu-send-to-mobile-sign-in-from-link = برای ارسال پیوند وارد شوید
+main-context-menu-send-to-mobile-sign-in-from-page = برای ارسال صفحه وارد شوید
+main-context-menu-send-to-mobile-enable-sync3 = برای ارسال زبانه‌ها، همگام‌سازی را روشن کنید
+main-context-menu-send-to-mobile-enable-sync-from-link = برای ارسال پیوند، همگام‌سازی را روشن کنید
+main-context-menu-send-to-mobile-enable-sync-from-page = برای ارسال صفحه، همگام‌سازی را روشن کنید
+main-context-menu-send-to-mobile-connect-phone3 = برای ارسال زبانه‌ها، یک دستگاه را متصل کنید
+main-context-menu-send-to-mobile-connect-phone-from-link = برای ارسال پیوند، یک دستگاه را متصل کنید
+main-context-menu-send-to-mobile-connect-phone-from-page = برای ارسال صفحه، یک دستگاه را متصل کنید
 
 ##
 
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
-    .label = استفاده از گذرواژهٔ ذخیره شده
-    .accesskey = ر
+    .label = استفاده از گذرواژهٔ ذخیره‌شده
+    .accesskey = گ
 main-context-menu-use-relay-mask =
-    .label = استفاده از نقاب رایانامهٔ { -relay-brand-short-name }
-    .accesskey = ا
+    .label = استفاده از ماسک ایمیل { -relay-brand-short-name }
+    .accesskey = م
 main-context-menu-suggest-strong-password =
-    .label = پیشنهاد یک گذرواژهٔ قوی…
+    .label = پیشنهاد گذرواژهٔ قوی…
     .accesskey = پ
 main-context-menu-manage-passwords =
     .label = مدیریت گذرواژه‌ها
-    .accesskey = م
+    .accesskey = گ
 main-context-menu-add-engine =
     .label = افزودن موتور جست‌وجو
-    .accesskey = ا
+    .accesskey = م
 main-context-menu-link-send-to-device =
     .label = ارسال پیوند به دستگاه
     .accesskey = د
+main-context-menu-link-send-to-mobile =
+    .label = ارسال پیوند به گوشی همراه
+    .accesskey = گ
 main-context-menu-frame =
-    .label = این چارچوب
-    .accesskey = ی
-main-context-menu-frame-show-this =
-    .label = فقط نمایش همین چارچوب
+    .label = این فریم
     .accesskey = ف
+main-context-menu-frame-show-this =
+    .label = نمایش فقط همین فریم
+    .accesskey = ن
 main-context-menu-frame-open-tab =
-    .label = گشودن چارچوب در زبانهٔ جدید
+    .label = باز کردن فریم در زبانهٔ جدید
     .accesskey = ز
 main-context-menu-frame-open-window =
-    .label = گشودن چارچوب در پنجرهٔ جدید
+    .label = باز کردن فریم در پنجرهٔ جدید
     .accesskey = پ
 main-context-menu-frame-reload =
-    .label = بازخوانی چارچوب
+    .label = بارگیری مجدد فریم
     .accesskey = ب
 main-context-menu-frame-add-bookmark =
-    .label = نشانک‌گذاری چارچوب…
+    .label = نشانک‌گذاری فریم…
     .accesskey = ش
 main-context-menu-frame-save-as =
-    .label = ذخیرهٔ چارچوب به عنوان…
-    .accesskey = ذ
+    .label = ذخیرهٔ فریم با نام…
+    .accesskey = ف
 main-context-menu-frame-print =
-    .label = چاپ چارچوب…
+    .label = چاپ فریم…
     .accesskey = چ
 main-context-menu-frame-view-source =
-    .label = نمایش کدمنبع چارچوب
-    .accesskey = ک
+    .label = مشاهدهٔ کد منبع فریم
+    .accesskey = م
 main-context-menu-frame-view-info =
-    .label = نمایش اطلاعات چارچوب
+    .label = مشاهدهٔ اطلاعات فریم
     .accesskey = ط
 main-context-menu-print-selection-2 =
-    .label = چاپ قسمت برگزیده…
-    .accesskey = پ
+    .label = چاپ بخش انتخاب‌شده…
+    .accesskey = چ
 main-context-menu-view-selection-source =
-    .label = نمایش کدمنبع قسمت برگزیده
-    .accesskey = e
+    .label = مشاهدهٔ سورس بخش انتخاب‌شده
+    .accesskey = س
 main-context-menu-take-screenshot =
-    .label = گرفتن نماگرفت
-    .accesskey = گ
+    .label = گرفتن عکس از صفحه
+    .accesskey = ع
 main-context-menu-view-page-source =
-    .label = نمایش کدمنبع صفحه
-    .accesskey = ن
+    .label = مشاهدهٔ سورس صفحه
+    .accesskey = م
 main-context-menu-bidi-switch-text =
-    .label = تعویض جهت متن
+    .label = تغییر جهت متن
     .accesskey = ج
 main-context-menu-bidi-switch-page =
-    .label = تعویض جهت صفحه
-    .accesskey = ج
+    .label = تغییر جهت صفحه
+    .accesskey = ص
 main-context-menu-inspect =
-    .label = بازرسی
-    .accesskey = ز
+    .label = بررسی عنصر (Inspect)
+    .accesskey = ب
 main-context-menu-inspect-a11y-properties =
-    .label = بازرسی ویژگی‌های دسترسی‌پذیری
+    .label = بررسی ویژگی‌های دسترسی‌پذیری
 main-context-menu-eme-learn-more =
-    .label = دربارهٔ DRM بیشتر بدانید…
-    .accesskey = D
+    .label = اطلاعات بیشتر دربارهٔ DRM…
+    .accesskey = د
 # Variables
 #   $containerName (String): The name of the current container
 main-context-menu-open-link-in-container-tab =
-    .label = گشودن پیوند در زبانهٔ { $containerName } جدید
-    .accesskey = ز
+    .label = باز کردن پیوند در زبانهٔ ظرف جدید «{ $containerName }»
+    .accesskey = ظ
 main-context-menu-reveal-password =
-    .label = آشکار کردن گذرواژه
-    .accesskey = آ
+    .label = نمایش گذرواژه
+    .accesskey = ن
+# The label of a badge shown in menu items to call out new features.
+main-context-menu-new-feature-badge = جدید
+main-context-menu-pdfjs-copy-page =
+    .label = کپی صفحه
+main-context-menu-pdfjs-cut-page =
+    .label = برش صفحه
+main-context-menu-pdfjs-delete-page =
+    .label = حذف صفحه
+main-context-menu-pdfjs-save-page =
+    .label = ذخیرهٔ قسمت انتخاب‌شده با نام…
